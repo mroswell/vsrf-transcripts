@@ -1,55 +1,67 @@
 #!/usr/bin/env bash
 # Transcribe audio files in parallel using whisper.
-# Usage: bash scripts/transcribe_parallel.sh [-p NUM_PROCS]
-# Default: 2 parallel processes (good for 8-core M-series Mac running other work).
+# Usage: bash scripts/transcribe_parallel.sh [-p NUM_PROCS] [-l]
+#   -p  Number of parallel processes (default: 2)
+#   -l  Loop mode: after each batch, sleep 5 min and check for new files.
+#       Exits when all URLs have transcripts.
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
 
 PROCS=2
-while getopts "p:" opt; do
+LOOP=false
+while getopts "p:l" opt; do
   case $opt in
     p) PROCS="$OPTARG" ;;
-    *) echo "Usage: $0 [-p NUM_PROCS]" >&2; exit 1 ;;
+    l) LOOP=true ;;
+    *) echo "Usage: $0 [-p NUM_PROCS] [-l]" >&2; exit 1 ;;
   esac
 done
 
-MODEL="${WHISPER_MODEL:-small}"
-LANG="${WHISPER_LANG:-en}"
+export WHISPER_MODEL="${WHISPER_MODEL:-small}"
+export WHISPER_LANG="${WHISPER_LANG:-en}"
 
 mkdir -p transcripts
 
-# Build list of audio files needing transcription
-queue=()
-for f in audio/*.mp3; do
-  [[ -f "$f" ]] || continue
-  base=$(basename "$f" .mp3)
-  if [[ ! -s "transcripts/${base}.txt" ]]; then
-    queue+=("$f")
+transcribe_batch() {
+  # Build list of audio files needing transcription
+  queue=()
+  for f in audio/*.mp3; do
+    [[ -f "$f" ]] || continue
+    base=$(basename "$f" .mp3)
+    if [[ ! -s "transcripts/${base}.txt" ]]; then
+      queue+=("$f")
+    fi
+  done
+
+  total=${#queue[@]}
+  if [[ $total -eq 0 ]]; then
+    return 1  # nothing to do
   fi
-done
 
-total=${#queue[@]}
-if [[ $total -eq 0 ]]; then
-  echo "nothing to transcribe"
-  exit 0
+  echo "to transcribe: $total files, $PROCS parallel processes, model: $WHISPER_MODEL"
+
+  printf '%s\n' "${queue[@]}" | xargs -P "$PROCS" -I {} bash -c '
+    f="$1"
+    base=$(basename "$f" .mp3)
+    echo ">>> transcribing $base"
+    python3 scripts/transcribe_one.py "$f"
+  ' _ {}
+}
+
+if [[ "$LOOP" == true ]]; then
+  echo "loop mode: will check for new files every 5 minutes (ctrl-c to stop)"
+  while true; do
+    if transcribe_batch; then
+      echo "[$(date +%H:%M)] batch complete"
+    else
+      echo "[$(date +%H:%M)] nothing to transcribe"
+    fi
+    echo "sleeping 5 minutes..."
+    sleep 300
+  done
+else
+  if ! transcribe_batch; then
+    echo "nothing to transcribe"
+  fi
 fi
-
-echo "to transcribe: $total files, $PROCS parallel processes, model: $MODEL"
-
-# Export for use in subshell
-export MODEL LANG
-
-printf '%s\n' "${queue[@]}" | xargs -P "$PROCS" -I {} bash -c '
-  f="$1"
-  base=$(basename "$f" .mp3)
-  echo ">>> transcribing $base"
-  python3 -m whisper "$f" \
-    --model "$MODEL" \
-    --language "$LANG" \
-    --output_format all \
-    --output_dir transcripts/ \
-    --verbose False \
-    --fp16 False
-  echo "<<< done $base"
-' _ {}

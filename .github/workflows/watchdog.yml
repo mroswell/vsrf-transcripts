@@ -1,0 +1,23 @@
+name: refresh-watchdog
+on:
+  schedule: [{ cron: "0 9 * * *" }]
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Open issue if no commit in 8 days
+        run: |
+          last=$(git log -1 --format=%ct)
+          age_days=$(( ( $(date +%s) - last ) / 86400 ))
+          if [ "$age_days" -gt 8 ]; then
+            gh issue create -t "Refresh appears stalled (${age_days}d)" \
+              -b "Latest commit is ${age_days} days old; weekly refresh may have missed a Wednesday."
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

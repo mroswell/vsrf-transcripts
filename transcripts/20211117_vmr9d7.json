@@ -1,0 +1,93 @@
+{
+  "text": " number one do not inject the children with this shot number two do not inject the COVID recovered and number three do not let governments or pharmacies or agencies block doctors and providers from giving life-saving treatments.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 13.200000000000001,
+      "text": " number one do not inject the children with this shot number two do not inject",
+      "tokens": [
+        50364,
+        1230,
+        472,
+        360,
+        406,
+        10711,
+        264,
+        2227,
+        365,
+        341,
+        3347,
+        1230,
+        732,
+        360,
+        406,
+        10711,
+        51024
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29121660505022323,
+      "compression_ratio": 1.4528301886792452,
+      "no_speech_prob": 0.12041808664798737
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.200000000000001,
+      "end": 21.6,
+      "text": " the COVID recovered and number three do not let governments or pharmacies or",
+      "tokens": [
+        51024,
+        264,
+        4566,
+        19542,
+        293,
+        1230,
+        1045,
+        360,
+        406,
+        718,
+        11280,
+        420,
+        13105,
+        20330,
+        420,
+        51444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29121660505022323,
+      "compression_ratio": 1.4528301886792452,
+      "no_speech_prob": 0.12041808664798737
+    },
+    {
+      "id": 2,
+      "seek": 2160,
+      "start": 21.6,
+      "end": 30.32,
+      "text": " agencies block doctors and providers from giving life-saving treatments.",
+      "tokens": [
+        50364,
+        9504,
+        3461,
+        8778,
+        293,
+        11330,
+        490,
+        2902,
+        993,
+        12,
+        82,
+        6152,
+        15795,
+        13,
+        50800
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.336239218711853,
+      "compression_ratio": 1.0588235294117647,
+      "no_speech_prob": 0.10737914592027664
+    }
+  ],
+  "language": "en"
+}

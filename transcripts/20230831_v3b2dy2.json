@@ -1,0 +1,263 @@
+{
+  "text": " The fear is back. The fear is back. The fear is back. Well, that could be the new... We should have a t-shirt. That's right. The fear is back. I think that would be a good... that people would buy that. We're gonna... let's... Just when you thought it was safe to go back into the water. Exactly.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The fear is back.",
+      "tokens": [
+        50364,
+        440,
+        4240,
+        307,
+        646,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.0,
+      "text": " The fear is back.",
+      "tokens": [
+        50464,
+        440,
+        4240,
+        307,
+        646,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " The fear is back.",
+      "tokens": [
+        50564,
+        440,
+        4240,
+        307,
+        646,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Well, that could be the new...",
+      "tokens": [
+        50664,
+        1042,
+        11,
+        300,
+        727,
+        312,
+        264,
+        777,
+        485,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " We should have a t-shirt.",
+      "tokens": [
+        50764,
+        492,
+        820,
+        362,
+        257,
+        256,
+        12,
+        15313,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.0,
+      "text": " That's right.",
+      "tokens": [
+        50864,
+        663,
+        311,
+        558,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.0,
+      "end": 14.0,
+      "text": " The fear is back.",
+      "tokens": [
+        50964,
+        440,
+        4240,
+        307,
+        646,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 14.0,
+      "end": 16.0,
+      "text": " I think that would be a good...",
+      "tokens": [
+        51064,
+        286,
+        519,
+        300,
+        576,
+        312,
+        257,
+        665,
+        485,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 16.0,
+      "end": 18.0,
+      "text": " that people would buy that.",
+      "tokens": [
+        51164,
+        300,
+        561,
+        576,
+        2256,
+        300,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 18.0,
+      "end": 20.0,
+      "text": " We're gonna... let's...",
+      "tokens": [
+        51264,
+        492,
+        434,
+        799,
+        485,
+        718,
+        311,
+        485,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 20.0,
+      "end": 22.0,
+      "text": " Just when you thought it was safe to go back into the water.",
+      "tokens": [
+        51364,
+        1449,
+        562,
+        291,
+        1194,
+        309,
+        390,
+        3273,
+        281,
+        352,
+        646,
+        666,
+        264,
+        1281,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 22.0,
+      "end": 24.0,
+      "text": " Exactly.",
+      "tokens": [
+        51464,
+        7587,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24460923437978707,
+      "compression_ratio": 1.7411764705882353,
+      "no_speech_prob": 0.051390573382377625
+    }
+  ],
+  "language": "en"
+}

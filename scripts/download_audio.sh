@@ -14,6 +14,7 @@ yt-dlp \
   --batch-file "$URLS" \
   --download-archive audio/.archive \
   --no-overwrites \
+  -f "ba/b" \
   --extract-audio \
   --audio-format mp3 \
   --audio-quality 5 \

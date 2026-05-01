@@ -33,11 +33,5 @@ ls -Sr audio/*.mp3 2>/dev/null | while read -r f; do
     continue
   fi
   echo ">>> transcribing $base"
-  python3 -m whisper "$f" \
-    --model "$MODEL" \
-    --language "$LANG" \
-    --output_format all \
-    --output_dir transcripts/ \
-    --verbose False \
-    --fp16 False
+  python3 scripts/transcribe_one.py "$f"
 done

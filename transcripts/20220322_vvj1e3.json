@@ -1,0 +1,38 @@
+{
+  "text": "). .",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 25.02,
+      "text": ").",
+      "tokens": [
+        50364,
+        3050,
+        51615
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.1883561270577565,
+      "compression_ratio": 0.3333333333333333,
+      "no_speech_prob": 0.3855394423007965
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 25.02,
+      "end": 26.02,
+      "text": " .",
+      "tokens": [
+        51615,
+        2411,
+        51665
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.1883561270577565,
+      "compression_ratio": 0.3333333333333333,
+      "no_speech_prob": 0.3855394423007965
+    }
+  ],
+  "language": "en"
+}

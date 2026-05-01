@@ -1,0 +1,53 @@
+{
+  "text": " Healthy children are not harmed by COVID. The tiny number of children who have died.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.08,
+      "text": " Healthy children are not harmed by COVID.",
+      "tokens": [
+        50364,
+        37733,
+        2227,
+        366,
+        406,
+        41478,
+        538,
+        4566,
+        13,
+        50568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3979398987509988,
+      "compression_ratio": 1.037037037037037,
+      "no_speech_prob": 0.03607777878642082
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.08,
+      "end": 6.8,
+      "text": " The tiny number of children who have died.",
+      "tokens": [
+        50568,
+        440,
+        5870,
+        1230,
+        295,
+        2227,
+        567,
+        362,
+        4539,
+        13,
+        50704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3979398987509988,
+      "compression_ratio": 1.037037037037037,
+      "no_speech_prob": 0.03607777878642082
+    }
+  ],
+  "language": "en"
+}
