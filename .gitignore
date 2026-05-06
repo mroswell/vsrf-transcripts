@@ -1,7 +1,10 @@
 audio/
+livestreams_audio/
 media/
 tmp/
+transcripts_backup/
 *.archive
 *.plist
 .DS_Store
 __pycache__/
+nohup.out
