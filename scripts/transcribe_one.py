@@ -10,8 +10,8 @@ audio_path = sys.argv[1]
 out_dir = sys.argv[2] if len(sys.argv) > 2 else "transcripts"
 model_name = os.environ.get("WHISPER_MODEL", "small")
 lang = os.environ.get("WHISPER_LANG", "en")
-device = "cpu"
-compute_type = "int8"
+device = os.environ.get("WHISPER_DEVICE", "cpu")
+compute_type = os.environ.get("WHISPER_COMPUTE_TYPE", "float16" if device == "cuda" else "int8")
 
 # Read HF token for diarization
 hf_token_path = os.path.join(os.path.dirname(__file__), "..", "tmp", "hf_token.txt")
