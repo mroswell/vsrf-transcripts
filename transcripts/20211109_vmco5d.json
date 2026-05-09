@@ -1,272 +1,1534 @@
 {
-  "text": " I had a patient named Lance. I was also able to treat Lance in my ICU, and he's going to be talking next weekend at the COVID summit, so obviously a happy ending there. His turnaround wasn't quite as fast. We had a couple of weeks that we dragged him through with high-fluonazole cannula. But just recently, he sent me a text of himself on the golf course. He's not on oxygen anymore. He's back at work, and he's very happy with the care that he got. And he had requested Ivermectin, so we did that in conjunction with the Mathless protocol.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.6,
+      "start": 1.266,
+      "end": 2.507,
       "text": " I had a patient named Lance.",
-      "tokens": [
-        50364,
-        286,
-        632,
-        257,
-        4537,
-        4926,
-        40493,
-        13,
-        50544
+      "words": [
+        {
+          "word": "I",
+          "start": 1.266,
+          "end": 1.346,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 1.366,
+          "end": 1.486,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 1.526,
+          "end": 1.546,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patient",
+          "start": 1.606,
+          "end": 1.906,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "named",
+          "start": 1.926,
+          "end": 2.087,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Lance.",
+          "start": 2.127,
+          "end": 2.507,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
+      "avg_logprob": -0.06069336081854999,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.6,
-      "end": 7.88,
-      "text": " I was also able to treat Lance in my ICU, and he's going to be talking next weekend",
-      "tokens": [
-        50544,
-        286,
-        390,
-        611,
-        1075,
-        281,
-        2387,
-        40493,
-        294,
-        452,
-        38123,
-        11,
-        293,
-        415,
-        311,
-        516,
-        281,
-        312,
-        1417,
-        958,
-        6711,
-        50758
+      "start": 3.667,
+      "end": 8.831,
+      "text": "I was also able to treat Lance in my ICU and he's going to be talking next weekend at the COVID summit.",
+      "words": [
+        {
+          "word": "I",
+          "start": 3.667,
+          "end": 3.708,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 3.748,
+          "end": 3.848,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 3.908,
+          "end": 4.128,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "able",
+          "start": 4.188,
+          "end": 4.348,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 4.388,
+          "end": 4.448,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treat",
+          "start": 4.488,
+          "end": 4.708,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Lance",
+          "start": 4.768,
+          "end": 5.028,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 5.068,
+          "end": 5.148,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 5.168,
+          "end": 5.308,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ICU",
+          "start": 5.389,
+          "end": 5.929,
+          "score": 0.574,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 6.369,
+          "end": 6.449,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he's",
+          "start": 6.469,
+          "end": 6.609,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 6.629,
+          "end": 6.749,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 6.769,
+          "end": 6.809,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 6.829,
+          "end": 6.929,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talking",
+          "start": 6.949,
+          "end": 7.31,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "next",
+          "start": 7.37,
+          "end": 7.53,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "weekend",
+          "start": 7.59,
+          "end": 7.89,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 7.93,
+          "end": 8.01,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 8.03,
+          "end": 8.13,
+          "score": 0.661,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 8.17,
+          "end": 8.49,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "summit.",
+          "start": 8.51,
+          "end": 8.831,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
+      "avg_logprob": -0.06069336081854999,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 7.88,
-      "end": 11.52,
-      "text": " at the COVID summit, so obviously a happy ending there.",
-      "tokens": [
-        50758,
-        412,
-        264,
-        4566,
-        21564,
-        11,
-        370,
-        2745,
-        257,
-        2055,
-        8121,
-        456,
-        13,
-        50940
+      "start": 9.051,
+      "end": 10.532,
+      "text": "So obviously a happy ending there.",
+      "words": [
+        {
+          "word": "So",
+          "start": 9.051,
+          "end": 9.191,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "obviously",
+          "start": 9.231,
+          "end": 9.571,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 9.591,
+          "end": 9.611,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happy",
+          "start": 9.651,
+          "end": 9.931,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ending",
+          "start": 10.031,
+          "end": 10.251,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there.",
+          "start": 10.312,
+          "end": 10.532,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
+      "avg_logprob": -0.06069336081854999,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 11.52,
-      "end": 13.200000000000001,
-      "text": " His turnaround wasn't quite as fast.",
-      "tokens": [
-        50940,
-        2812,
-        46114,
-        2067,
-        380,
-        1596,
-        382,
-        2370,
-        13,
-        51024
+      "start": 11.432,
+      "end": 13.133,
+      "text": "His turnaround wasn't quite as fast.",
+      "words": [
+        {
+          "word": "His",
+          "start": 11.432,
+          "end": 11.592,
+          "score": 0.716,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "turnaround",
+          "start": 11.632,
+          "end": 12.053,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wasn't",
+          "start": 12.113,
+          "end": 12.353,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "quite",
+          "start": 12.413,
+          "end": 12.633,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 12.673,
+          "end": 12.753,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fast.",
+          "start": 12.793,
+          "end": 13.133,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
+      "avg_logprob": -0.06069336081854999,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 13.200000000000001,
-      "end": 18.44,
-      "text": " We had a couple of weeks that we dragged him through with high-fluonazole cannula.",
-      "tokens": [
-        51024,
-        492,
-        632,
-        257,
-        1916,
-        295,
-        3259,
-        300,
-        321,
-        25717,
-        796,
-        807,
-        365,
-        1090,
-        12,
-        49253,
-        266,
-        921,
-        4812,
-        12361,
-        3780,
-        13,
-        51286
+      "start": 13.193,
+      "end": 17.216,
+      "text": "We had a couple of weeks that we dragged him through with high flow nasal cannula.",
+      "words": [
+        {
+          "word": "We",
+          "start": 13.193,
+          "end": 13.313,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 13.333,
+          "end": 13.473,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 13.513,
+          "end": 13.533,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "couple",
+          "start": 13.594,
+          "end": 13.874,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 13.894,
+          "end": 13.954,
+          "score": 0.63,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "weeks",
+          "start": 14.014,
+          "end": 14.294,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 14.754,
+          "end": 14.894,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 14.934,
+          "end": 15.074,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dragged",
+          "start": 15.114,
+          "end": 15.435,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "him",
+          "start": 15.455,
+          "end": 15.535,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 15.575,
+          "end": 15.835,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 15.895,
+          "end": 16.015,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "high",
+          "start": 16.055,
+          "end": 16.215,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "flow",
+          "start": 16.235,
+          "end": 16.395,
+          "score": 0.676,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nasal",
+          "start": 16.415,
+          "end": 16.695,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cannula.",
+          "start": 16.735,
+          "end": 17.216,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
+      "avg_logprob": -0.06069336081854999,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 18.44,
-      "end": 23.48,
-      "text": " But just recently, he sent me a text of himself on the golf course.",
-      "tokens": [
-        51286,
-        583,
-        445,
-        3938,
-        11,
-        415,
-        2279,
-        385,
-        257,
-        2487,
-        295,
-        3647,
-        322,
-        264,
-        12880,
-        1164,
-        13,
-        51538
+      "start": 18.316,
+      "end": 22.219,
+      "text": "But just recently he sent me a text of himself on the golf course.",
+      "words": [
+        {
+          "word": "But",
+          "start": 18.316,
+          "end": 18.477,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 18.697,
+          "end": 18.897,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recently",
+          "start": 18.957,
+          "end": 19.417,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 19.437,
+          "end": 19.477,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sent",
+          "start": 19.877,
+          "end": 20.037,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 20.057,
+          "end": 20.178,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 20.218,
+          "end": 20.238,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "text",
+          "start": 20.318,
+          "end": 20.638,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 20.658,
+          "end": 20.718,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "himself",
+          "start": 20.778,
+          "end": 21.118,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 21.198,
+          "end": 21.258,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 21.298,
+          "end": 21.398,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "golf",
+          "start": 21.618,
+          "end": 21.879,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "course.",
+          "start": 21.919,
+          "end": 22.219,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
+      "avg_logprob": -0.06069336081854999,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 23.48,
-      "end": 24.92,
-      "text": " He's not on oxygen anymore.",
-      "tokens": [
-        51538,
-        634,
-        311,
-        406,
-        322,
-        9169,
-        3602,
-        13,
-        51610
+      "start": 23.409,
+      "end": 27.731,
+      "text": " He's not on oxygen anymore, he's back at work, and he's very happy with the care that he got.",
+      "words": [
+        {
+          "word": "He's",
+          "start": 23.409,
+          "end": 23.569,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 23.609,
+          "end": 23.749,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 23.809,
+          "end": 23.889,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "oxygen",
+          "start": 23.969,
+          "end": 24.37,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anymore,",
+          "start": 24.43,
+          "end": 24.79,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he's",
+          "start": 24.85,
+          "end": 25.01,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "back",
+          "start": 25.07,
+          "end": 25.27,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 25.31,
+          "end": 25.37,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work,",
+          "start": 25.41,
+          "end": 25.61,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 25.67,
+          "end": 25.75,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he's",
+          "start": 25.81,
+          "end": 26.01,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 26.07,
+          "end": 26.311,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happy",
+          "start": 26.351,
+          "end": 26.651,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 26.711,
+          "end": 26.831,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.851,
+          "end": 26.911,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 26.971,
+          "end": 27.171,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 27.211,
+          "end": 27.331,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 27.351,
+          "end": 27.471,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got.",
+          "start": 27.491,
+          "end": 27.731,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
+      "avg_logprob": -0.11238606662179033,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 24.92,
-      "end": 28.12,
-      "text": " He's back at work, and he's very happy with the care that he got.",
-      "tokens": [
-        51610,
-        634,
-        311,
-        646,
-        412,
-        589,
-        11,
-        293,
-        415,
-        311,
-        588,
-        2055,
-        365,
-        264,
-        1127,
-        300,
-        415,
-        658,
-        13,
-        51770
+      "start": 28.051,
+      "end": 32.614,
+      "text": "And he had requested ivermectin, so we did that in conjunction with the MathPlus protocol.",
+      "words": [
+        {
+          "word": "And",
+          "start": 28.051,
+          "end": 28.151,
+          "score": 0.693,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 28.192,
+          "end": 28.292,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 28.312,
+          "end": 28.432,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "requested",
+          "start": 28.472,
+          "end": 28.992,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ivermectin,",
+          "start": 29.112,
+          "end": 29.752,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 30.213,
+          "end": 30.353,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 30.393,
+          "end": 30.493,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "did",
+          "start": 30.513,
+          "end": 30.653,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 30.673,
+          "end": 30.833,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 30.853,
+          "end": 30.913,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conjunction",
+          "start": 30.953,
+          "end": 31.453,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 31.473,
+          "end": 31.613,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 31.633,
+          "end": 31.733,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "MathPlus",
+          "start": 31.773,
+          "end": 32.194,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protocol.",
+          "start": 32.214,
+          "end": 32.614,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16330633388729546,
-      "compression_ratio": 1.5570934256055364,
-      "no_speech_prob": 0.20247381925582886
-    },
-    {
-      "id": 8,
-      "seek": 2812,
-      "start": 28.12,
-      "end": 32.64,
-      "text": " And he had requested Ivermectin, so we did that in conjunction with the Mathless protocol.",
-      "tokens": [
-        50364,
-        400,
-        415,
-        632,
-        16436,
-        286,
-        331,
-        76,
-        557,
-        259,
-        11,
-        370,
-        321,
-        630,
-        300,
-        294,
-        27482,
-        365,
-        264,
-        15776,
-        1832,
-        10336,
-        13,
-        50590
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3462957763671875,
-      "compression_ratio": 1.0843373493975903,
-      "no_speech_prob": 0.016088245436549187
+      "avg_logprob": -0.11238606662179033,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "I",
+      "start": 1.266,
+      "end": 1.346,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 1.366,
+      "end": 1.486,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 1.526,
+      "end": 1.546,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patient",
+      "start": 1.606,
+      "end": 1.906,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "named",
+      "start": 1.926,
+      "end": 2.087,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Lance.",
+      "start": 2.127,
+      "end": 2.507,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 3.667,
+      "end": 3.708,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 3.748,
+      "end": 3.848,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 3.908,
+      "end": 4.128,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "able",
+      "start": 4.188,
+      "end": 4.348,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 4.388,
+      "end": 4.448,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treat",
+      "start": 4.488,
+      "end": 4.708,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Lance",
+      "start": 4.768,
+      "end": 5.028,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 5.068,
+      "end": 5.148,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 5.168,
+      "end": 5.308,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ICU",
+      "start": 5.389,
+      "end": 5.929,
+      "score": 0.574,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 6.369,
+      "end": 6.449,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he's",
+      "start": 6.469,
+      "end": 6.609,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 6.629,
+      "end": 6.749,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 6.769,
+      "end": 6.809,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 6.829,
+      "end": 6.929,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talking",
+      "start": 6.949,
+      "end": 7.31,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "next",
+      "start": 7.37,
+      "end": 7.53,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "weekend",
+      "start": 7.59,
+      "end": 7.89,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 7.93,
+      "end": 8.01,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 8.03,
+      "end": 8.13,
+      "score": 0.661,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 8.17,
+      "end": 8.49,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "summit.",
+      "start": 8.51,
+      "end": 8.831,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 9.051,
+      "end": 9.191,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "obviously",
+      "start": 9.231,
+      "end": 9.571,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 9.591,
+      "end": 9.611,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happy",
+      "start": 9.651,
+      "end": 9.931,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ending",
+      "start": 10.031,
+      "end": 10.251,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there.",
+      "start": 10.312,
+      "end": 10.532,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "His",
+      "start": 11.432,
+      "end": 11.592,
+      "score": 0.716,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "turnaround",
+      "start": 11.632,
+      "end": 12.053,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wasn't",
+      "start": 12.113,
+      "end": 12.353,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "quite",
+      "start": 12.413,
+      "end": 12.633,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 12.673,
+      "end": 12.753,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fast.",
+      "start": 12.793,
+      "end": 13.133,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 13.193,
+      "end": 13.313,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 13.333,
+      "end": 13.473,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 13.513,
+      "end": 13.533,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "couple",
+      "start": 13.594,
+      "end": 13.874,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 13.894,
+      "end": 13.954,
+      "score": 0.63,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "weeks",
+      "start": 14.014,
+      "end": 14.294,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 14.754,
+      "end": 14.894,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 14.934,
+      "end": 15.074,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dragged",
+      "start": 15.114,
+      "end": 15.435,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "him",
+      "start": 15.455,
+      "end": 15.535,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 15.575,
+      "end": 15.835,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 15.895,
+      "end": 16.015,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "high",
+      "start": 16.055,
+      "end": 16.215,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "flow",
+      "start": 16.235,
+      "end": 16.395,
+      "score": 0.676,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nasal",
+      "start": 16.415,
+      "end": 16.695,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cannula.",
+      "start": 16.735,
+      "end": 17.216,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 18.316,
+      "end": 18.477,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 18.697,
+      "end": 18.897,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recently",
+      "start": 18.957,
+      "end": 19.417,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 19.437,
+      "end": 19.477,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sent",
+      "start": 19.877,
+      "end": 20.037,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 20.057,
+      "end": 20.178,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 20.218,
+      "end": 20.238,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "text",
+      "start": 20.318,
+      "end": 20.638,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 20.658,
+      "end": 20.718,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "himself",
+      "start": 20.778,
+      "end": 21.118,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 21.198,
+      "end": 21.258,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 21.298,
+      "end": 21.398,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "golf",
+      "start": 21.618,
+      "end": 21.879,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "course.",
+      "start": 21.919,
+      "end": 22.219,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "He's",
+      "start": 23.409,
+      "end": 23.569,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 23.609,
+      "end": 23.749,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 23.809,
+      "end": 23.889,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "oxygen",
+      "start": 23.969,
+      "end": 24.37,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anymore,",
+      "start": 24.43,
+      "end": 24.79,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he's",
+      "start": 24.85,
+      "end": 25.01,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "back",
+      "start": 25.07,
+      "end": 25.27,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 25.31,
+      "end": 25.37,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work,",
+      "start": 25.41,
+      "end": 25.61,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 25.67,
+      "end": 25.75,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he's",
+      "start": 25.81,
+      "end": 26.01,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 26.07,
+      "end": 26.311,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happy",
+      "start": 26.351,
+      "end": 26.651,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 26.711,
+      "end": 26.831,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.851,
+      "end": 26.911,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 26.971,
+      "end": 27.171,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 27.211,
+      "end": 27.331,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 27.351,
+      "end": 27.471,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got.",
+      "start": 27.491,
+      "end": 27.731,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 28.051,
+      "end": 28.151,
+      "score": 0.693,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 28.192,
+      "end": 28.292,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 28.312,
+      "end": 28.432,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "requested",
+      "start": 28.472,
+      "end": 28.992,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ivermectin,",
+      "start": 29.112,
+      "end": 29.752,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 30.213,
+      "end": 30.353,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 30.393,
+      "end": 30.493,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "did",
+      "start": 30.513,
+      "end": 30.653,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 30.673,
+      "end": 30.833,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 30.853,
+      "end": 30.913,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conjunction",
+      "start": 30.953,
+      "end": 31.453,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 31.473,
+      "end": 31.613,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 31.633,
+      "end": 31.733,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "MathPlus",
+      "start": 31.773,
+      "end": 32.194,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protocol.",
+      "start": 32.214,
+      "end": 32.614,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

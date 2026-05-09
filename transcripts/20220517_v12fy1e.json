@@ -69,127 +69,27 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.20092582081755003,
+      "avg_logprob": -0.1746419295668602,
       "speaker": "SPEAKER_00"
     },
     {
-      "start": 21.977,
-      "end": 25.241,
-      "text": " Nobody because it takes over a half an hour to write it down.",
-      "words": [
-        {
-          "word": "Nobody",
-          "start": 21.977,
-          "end": 22.458,
-          "score": 0.944,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "because",
-          "start": 22.478,
-          "end": 22.698,
-          "score": 0.856,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "it",
-          "start": 22.738,
-          "end": 22.778,
-          "score": 0.764,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "takes",
-          "start": 22.798,
-          "end": 22.978,
-          "score": 0.749,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "over",
-          "start": 23.078,
-          "end": 23.319,
-          "score": 0.492,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "a",
-          "start": 23.339,
-          "end": 23.359,
-          "score": 0.531,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "half",
-          "start": 23.399,
-          "end": 23.579,
-          "score": 0.935,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "an",
-          "start": 23.599,
-          "end": 23.659,
-          "score": 0.742,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "hour",
-          "start": 23.699,
-          "end": 23.859,
-          "score": 0.988,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "to",
-          "start": 23.879,
-          "end": 23.999,
-          "score": 0.43,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "write",
-          "start": 24.04,
-          "end": 24.22,
-          "score": 0.511,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "it",
-          "start": 24.42,
-          "end": 24.54,
-          "score": 0.584,
-          "speaker": "SPEAKER_02"
-        },
-        {
-          "word": "down.",
-          "start": 24.56,
-          "end": 25.241,
-          "score": 0.586,
-          "speaker": "SPEAKER_02"
-        }
-      ],
-      "avg_logprob": -0.32928315960631077,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "start": 25.401,
+      "start": 22.638,
       "end": 28.785,
-      "text": "Steve Kersh talks with registered nurse and federal whistleblower Jody O'Malley.",
+      "text": " Steve Kurish talks with registered nurse and federal whistleblower Jody O'Malley.",
       "words": [
         {
           "word": "Steve",
-          "start": 25.401,
-          "end": 25.661,
-          "score": 0.725,
-          "speaker": "SPEAKER_00"
+          "start": 22.638,
+          "end": 23.359,
+          "score": 0.226,
+          "speaker": "SPEAKER_02"
         },
         {
-          "word": "Kersh",
-          "start": 25.681,
+          "word": "Kurish",
+          "start": 23.499,
           "end": 25.942,
-          "score": 0.686,
-          "speaker": "SPEAKER_00"
+          "score": 0.575,
+          "speaker": "SPEAKER_02"
         },
         {
           "word": "talks",
@@ -255,13 +155,13 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.32928315960631077,
+      "avg_logprob": -0.20703124780865276,
       "speaker": "SPEAKER_00"
     },
     {
       "start": 28.985,
       "end": 32.229,
-      "text": "Steve also talks with Army veteran and registered nurse Erin Elshesky.",
+      "text": "Steve also talks with Army veteran and registered nurse Erin Olszewski.",
       "words": [
         {
           "word": "Steve",
@@ -334,14 +234,14 @@
           "speaker": "SPEAKER_00"
         },
         {
-          "word": "Elshesky.",
+          "word": "Olszewski.",
           "start": 31.748,
           "end": 32.229,
-          "score": 0.783,
+          "score": 0.66,
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.32928315960631077,
+      "avg_logprob": -0.20703124780865276,
       "speaker": "SPEAKER_00"
     },
     {
@@ -409,11 +309,11 @@
           "word": "York.",
           "start": 36.483,
           "end": 36.643,
-          "score": 0.91,
+          "score": 0.909,
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -474,7 +374,7 @@
           "word": "a",
           "start": 39.524,
           "end": 39.564,
-          "score": 0.234,
+          "score": 0.235,
           "speaker": "SPEAKER_01"
         },
         {
@@ -530,7 +430,7 @@
           "word": "to",
           "start": 40.925,
           "end": 40.985,
-          "score": 0.725,
+          "score": 0.724,
           "speaker": "SPEAKER_01"
         },
         {
@@ -544,17 +444,17 @@
           "word": "York.",
           "start": 41.145,
           "end": 41.385,
-          "score": 0.824,
+          "score": 0.825,
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
       "start": 41.505,
-      "end": 42.846,
-      "text": "The epicenter of the epicenter.",
+      "end": 43.486,
+      "text": "The epicenter of the epicenter, clueless.",
       "words": [
         {
           "word": "The",
@@ -585,28 +485,28 @@
           "speaker": "SPEAKER_01"
         },
         {
-          "word": "epicenter.",
+          "word": "epicenter,",
           "start": 42.346,
           "end": 42.846,
           "score": 0.77,
           "speaker": "SPEAKER_01"
-        }
-      ],
-      "avg_logprob": -0.07948341378330315,
-      "speaker": "SPEAKER_01"
-    },
-    {
-      "start": 43.006,
-      "end": 45.447,
-      "text": "Clueless, I didn't know what to expect just like anyone else.",
-      "words": [
+        },
         {
-          "word": "Clueless,",
+          "word": "clueless.",
           "start": 43.006,
           "end": 43.486,
           "score": 0.729,
           "speaker": "SPEAKER_01"
-        },
+        }
+      ],
+      "avg_logprob": -0.06923686885747357,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 43.546,
+      "end": 45.447,
+      "text": "I didn't know what to expect, just like anyone else.",
+      "words": [
         {
           "word": "I",
           "start": 43.546,
@@ -643,10 +543,10 @@
           "speaker": "SPEAKER_01"
         },
         {
-          "word": "expect",
+          "word": "expect,",
           "start": 44.207,
           "end": 44.567,
-          "score": 0.87,
+          "score": 0.873,
           "speaker": "SPEAKER_01"
         },
         {
@@ -678,7 +578,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -715,7 +615,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -759,7 +659,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -803,7 +703,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -843,7 +743,7 @@
           "word": "talked",
           "start": 52.15,
           "end": 52.35,
-          "score": 0.647,
+          "score": 0.648,
           "speaker": "SPEAKER_01"
         },
         {
@@ -889,7 +789,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -989,7 +889,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -1054,13 +954,13 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
       "start": 58.854,
-      "end": 61.175,
-      "text": "You're seeing all over the news that there's not enough supplies.",
+      "end": 62.195,
+      "text": "You're seeing all over the news that there's not enough supplies, there's not enough nurses.",
       "words": [
         {
           "word": "You're",
@@ -1133,23 +1033,14 @@
           "speaker": "SPEAKER_01"
         },
         {
-          "word": "supplies.",
+          "word": "supplies,",
           "start": 60.795,
           "end": 61.175,
           "score": 0.896,
           "speaker": "SPEAKER_01"
-        }
-      ],
-      "avg_logprob": -0.07948341378330315,
-      "speaker": "SPEAKER_01"
-    },
-    {
-      "start": 61.215,
-      "end": 62.195,
-      "text": "There's not enough nurses.",
-      "words": [
+        },
         {
-          "word": "There's",
+          "word": "there's",
           "start": 61.215,
           "end": 61.375,
           "score": 0.914,
@@ -1177,7 +1068,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -1214,7 +1105,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07948341378330315,
+      "avg_logprob": -0.06923686885747357,
       "speaker": "SPEAKER_01"
     },
     {
@@ -1247,7 +1138,7 @@
           "word": "but",
           "start": 65.081,
           "end": 65.201,
-          "score": 0.826,
+          "score": 0.827,
           "speaker": "SPEAKER_02"
         },
         {
@@ -1279,7 +1170,7 @@
           "speaker": "SPEAKER_02"
         }
       ],
-      "avg_logprob": -0.09783552604771796,
+      "avg_logprob": -0.10393258092108737,
       "speaker": "SPEAKER_02"
     },
     {
@@ -1316,7 +1207,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.09783552604771796,
+      "avg_logprob": -0.10393258092108737,
       "speaker": "SPEAKER_01"
     },
     {
@@ -1479,13 +1370,13 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.09783552604771796,
+      "avg_logprob": -0.10393258092108737,
       "speaker": "SPEAKER_01"
     },
     {
       "start": 74.467,
-      "end": 76.669,
-      "text": "This is why we're in this situation.",
+      "end": 76.689,
+      "text": "This is why we're in this situation, you know?",
       "words": [
         {
           "word": "This",
@@ -1530,20 +1421,34 @@
           "speaker": "SPEAKER_01"
         },
         {
-          "word": "situation.",
+          "word": "situation,",
           "start": 75.528,
-          "end": 76.669,
-          "score": 0.776,
+          "end": 76.168,
+          "score": 0.828,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "you",
+          "start": 76.389,
+          "end": 76.469,
+          "score": 0.978,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "know?",
+          "start": 76.509,
+          "end": 76.689,
+          "score": 0.797,
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.09783552604771796,
+      "avg_logprob": -0.10393258092108737,
       "speaker": "SPEAKER_01"
     },
     {
       "start": 77.269,
       "end": 83.714,
-      "text": "Somebody's got to tell the truth here, because we cannot make this normal.",
+      "text": "Somebody's gotta tell the truth here, because we cannot, we cannot make this normal.",
       "words": [
         {
           "word": "Somebody's",
@@ -1553,17 +1458,10 @@
           "speaker": "SPEAKER_01"
         },
         {
-          "word": "got",
+          "word": "gotta",
           "start": 77.809,
-          "end": 77.99,
-          "score": 0.899,
-          "speaker": "SPEAKER_01"
-        },
-        {
-          "word": "to",
-          "start": 78.01,
           "end": 78.15,
-          "score": 0.08,
+          "score": 0.578,
           "speaker": "SPEAKER_01"
         },
         {
@@ -1597,8 +1495,22 @@
         {
           "word": "because",
           "start": 80.091,
-          "end": 81.412,
-          "score": 0.78,
+          "end": 80.431,
+          "score": 0.795,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "we",
+          "start": 80.832,
+          "end": 80.952,
+          "score": 0.991,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "cannot,",
+          "start": 80.992,
+          "end": 81.432,
+          "score": 0.866,
           "speaker": "SPEAKER_01"
         },
         {
@@ -1637,7 +1549,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.09783552604771796,
+      "avg_logprob": -0.10393258092108737,
       "speaker": "SPEAKER_01"
     },
     {
@@ -1702,7 +1614,7 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.09783552604771796,
+      "avg_logprob": -0.10393258092108737,
       "speaker": "SPEAKER_00"
     }
   ],
@@ -1771,109 +1683,18 @@
       "speaker": "SPEAKER_00"
     },
     {
-      "word": "Nobody",
-      "start": 21.977,
-      "end": 22.458,
-      "score": 0.944,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "because",
-      "start": 22.478,
-      "end": 22.698,
-      "score": 0.856,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "it",
-      "start": 22.738,
-      "end": 22.778,
-      "score": 0.764,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "takes",
-      "start": 22.798,
-      "end": 22.978,
-      "score": 0.749,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "over",
-      "start": 23.078,
-      "end": 23.319,
-      "score": 0.492,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "a",
-      "start": 23.339,
-      "end": 23.359,
-      "score": 0.531,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "half",
-      "start": 23.399,
-      "end": 23.579,
-      "score": 0.935,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "an",
-      "start": 23.599,
-      "end": 23.659,
-      "score": 0.742,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "hour",
-      "start": 23.699,
-      "end": 23.859,
-      "score": 0.988,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "to",
-      "start": 23.879,
-      "end": 23.999,
-      "score": 0.43,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "write",
-      "start": 24.04,
-      "end": 24.22,
-      "score": 0.511,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "it",
-      "start": 24.42,
-      "end": 24.54,
-      "score": 0.584,
-      "speaker": "SPEAKER_02"
-    },
-    {
-      "word": "down.",
-      "start": 24.56,
-      "end": 25.241,
-      "score": 0.586,
-      "speaker": "SPEAKER_02"
-    },
-    {
       "word": "Steve",
-      "start": 25.401,
-      "end": 25.661,
-      "score": 0.725,
-      "speaker": "SPEAKER_00"
+      "start": 22.638,
+      "end": 23.359,
+      "score": 0.226,
+      "speaker": "SPEAKER_02"
     },
     {
-      "word": "Kersh",
-      "start": 25.681,
+      "word": "Kurish",
+      "start": 23.499,
       "end": 25.942,
-      "score": 0.686,
-      "speaker": "SPEAKER_00"
+      "score": 0.575,
+      "speaker": "SPEAKER_02"
     },
     {
       "word": "talks",
@@ -2009,10 +1830,10 @@
       "speaker": "SPEAKER_00"
     },
     {
-      "word": "Elshesky.",
+      "word": "Olszewski.",
       "start": 31.748,
       "end": 32.229,
-      "score": 0.783,
+      "score": 0.66,
       "speaker": "SPEAKER_00"
     },
     {
@@ -2075,7 +1896,7 @@
       "word": "York.",
       "start": 36.483,
       "end": 36.643,
-      "score": 0.91,
+      "score": 0.909,
       "speaker": "SPEAKER_01"
     },
     {
@@ -2131,7 +1952,7 @@
       "word": "a",
       "start": 39.524,
       "end": 39.564,
-      "score": 0.234,
+      "score": 0.235,
       "speaker": "SPEAKER_01"
     },
     {
@@ -2187,7 +2008,7 @@
       "word": "to",
       "start": 40.925,
       "end": 40.985,
-      "score": 0.725,
+      "score": 0.724,
       "speaker": "SPEAKER_01"
     },
     {
@@ -2201,7 +2022,7 @@
       "word": "York.",
       "start": 41.145,
       "end": 41.385,
-      "score": 0.824,
+      "score": 0.825,
       "speaker": "SPEAKER_01"
     },
     {
@@ -2233,14 +2054,14 @@
       "speaker": "SPEAKER_01"
     },
     {
-      "word": "epicenter.",
+      "word": "epicenter,",
       "start": 42.346,
       "end": 42.846,
       "score": 0.77,
       "speaker": "SPEAKER_01"
     },
     {
-      "word": "Clueless,",
+      "word": "clueless.",
       "start": 43.006,
       "end": 43.486,
       "score": 0.729,
@@ -2282,10 +2103,10 @@
       "speaker": "SPEAKER_01"
     },
     {
-      "word": "expect",
+      "word": "expect,",
       "start": 44.207,
       "end": 44.567,
-      "score": 0.87,
+      "score": 0.873,
       "speaker": "SPEAKER_01"
     },
     {
@@ -2446,7 +2267,7 @@
       "word": "talked",
       "start": 52.15,
       "end": 52.35,
-      "score": 0.647,
+      "score": 0.648,
       "speaker": "SPEAKER_01"
     },
     {
@@ -2709,14 +2530,14 @@
       "speaker": "SPEAKER_01"
     },
     {
-      "word": "supplies.",
+      "word": "supplies,",
       "start": 60.795,
       "end": 61.175,
       "score": 0.896,
       "speaker": "SPEAKER_01"
     },
     {
-      "word": "There's",
+      "word": "there's",
       "start": 61.215,
       "end": 61.375,
       "score": 0.914,
@@ -2796,7 +2617,7 @@
       "word": "but",
       "start": 65.081,
       "end": 65.201,
-      "score": 0.826,
+      "score": 0.827,
       "speaker": "SPEAKER_02"
     },
     {
@@ -3052,10 +2873,24 @@
       "speaker": "SPEAKER_01"
     },
     {
-      "word": "situation.",
+      "word": "situation,",
       "start": 75.528,
-      "end": 76.669,
-      "score": 0.776,
+      "end": 76.168,
+      "score": 0.828,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "you",
+      "start": 76.389,
+      "end": 76.469,
+      "score": 0.978,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "know?",
+      "start": 76.509,
+      "end": 76.689,
+      "score": 0.797,
       "speaker": "SPEAKER_01"
     },
     {
@@ -3066,17 +2901,10 @@
       "speaker": "SPEAKER_01"
     },
     {
-      "word": "got",
+      "word": "gotta",
       "start": 77.809,
-      "end": 77.99,
-      "score": 0.899,
-      "speaker": "SPEAKER_01"
-    },
-    {
-      "word": "to",
-      "start": 78.01,
       "end": 78.15,
-      "score": 0.08,
+      "score": 0.578,
       "speaker": "SPEAKER_01"
     },
     {
@@ -3110,8 +2938,22 @@
     {
       "word": "because",
       "start": 80.091,
-      "end": 81.412,
-      "score": 0.78,
+      "end": 80.431,
+      "score": 0.795,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "we",
+      "start": 80.832,
+      "end": 80.952,
+      "score": 0.991,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "cannot,",
+      "start": 80.992,
+      "end": 81.432,
+      "score": 0.866,
       "speaker": "SPEAKER_01"
     },
     {

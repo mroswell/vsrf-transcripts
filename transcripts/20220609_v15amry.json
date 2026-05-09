@@ -1,1071 +1,5601 @@
 {
-  "text": " Are the kids okay? The data shows that children ages 5 to 11 have a miniscule risk of COVID-19 hospitalization or death or long-haul COVID. Safe prevention and treatment options are available for kids with COVID-19. If treated early, children do not end up in the hospital. But will our kids be okay if they take the COVID-19 vaccines? Some will. Some won't. And we don't know which. Serious cardiac side effects from the Pfizer vaccines, including myocarditis, are rapidly rising in 16 to 24-year-olds. Myocarditis has a mortality rate of 25 to 56% within 3 to 10 years, owing to progressive heart failure and cardiac arrest, and families are on their own once that happens. Pfizer has zero financial responsibility for any adverse effects from its COVID-19 vaccine. Children already injured by the COVID vaccines have also been unable to get government aid. We don't know how Pfizer's COVID-19 vaccine will impact fertility and development. No human reproductive toxicity data has been published to date. We don't know why the Pfizer vaccine interferes with a child's healthy immune response and increases the risk of developing autoimmune disease. We don't know because Pfizer's COVID-19 vaccine trials for 5 to 11-year-olds tested the vaccine on fewer than 2,500 kids and observed them for only 2 to 8 weeks after vaccination. Such underpowered trials would fail to detect many signals. Vaccinating kids to protect adults when children themselves don't need the protection violates basic principles of ethics and medicine. Besides, vaccinated individuals already transmit the virus readily. We can't possibly know what's going to happen with the medium to long-term effects of these vaccines on children. The plan is to test the shots on our kids. During the FDA's review, they admitted this, that we can't know the vaccine's safety until after our kids take it. What? Dr. Eric Rubin, who sits on the FDA advisory panel that rushed through the Pfizer COVID-19 vaccines on children as young as 5, was very clear about their ignorance on medium to long-term safety. We're never going to learn about how safe this vaccine is unless we start giving it. That's just the way it goes. It's not just the way it goes with our kids. Join us, oppose the experimental Pfizer COVID-19 shots on children at vacsafety.org.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 5.5200000000000005,
+      "start": 3.655,
+      "end": 4.955,
       "text": " Are the kids okay?",
-      "tokens": [
-        50364,
-        2014,
-        264,
-        2301,
-        1392,
-        30,
-        50640
+      "words": [
+        {
+          "word": "Are",
+          "start": 3.655,
+          "end": 3.775,
+          "score": 0.612,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 3.815,
+          "end": 3.935,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids",
+          "start": 4.015,
+          "end": 4.375,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "okay?",
+          "start": 4.515,
+          "end": 4.955,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
+      "avg_logprob": -0.0557637129511152,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 5.5200000000000005,
-      "end": 12.0,
-      "text": " The data shows that children ages 5 to 11 have a miniscule risk of COVID-19 hospitalization",
-      "tokens": [
-        50640,
-        440,
-        1412,
-        3110,
-        300,
-        2227,
-        12357,
-        1025,
-        281,
-        2975,
-        362,
-        257,
-        923,
-        5606,
-        2271,
-        3148,
-        295,
-        4566,
-        12,
-        3405,
-        4530,
-        2144,
-        50964
+      "start": 5.476,
+      "end": 14.158,
+      "text": "The data shows that children ages 5 to 11 have a minuscule risk of COVID-19 hospitalization or death or long-haul COVID.",
+      "words": [
+        {
+          "word": "The",
+          "start": 5.476,
+          "end": 5.576,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data",
+          "start": 5.616,
+          "end": 5.896,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shows",
+          "start": 5.936,
+          "end": 6.216,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 6.256,
+          "end": 6.396,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 6.476,
+          "end": 6.836,
+          "score": 0.676,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ages",
+          "start": 6.956,
+          "end": 7.196,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "5",
+          "start": 7.396,
+          "end": 7.516,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 7.576,
+          "end": 7.676,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "11",
+          "start": 7.816,
+          "end": 8.096,
+          "score": 0.625,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 8.417,
+          "end": 8.597,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 8.637,
+          "end": 8.677,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "minuscule",
+          "start": 8.757,
+          "end": 9.297,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 9.357,
+          "end": 9.597,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 9.717,
+          "end": 9.797,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 9.877,
+          "end": 10.717,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospitalization",
+          "start": 10.817,
+          "end": 11.758,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 12.078,
+          "end": 12.218,
+          "score": 0.484,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "death",
+          "start": 12.298,
+          "end": 12.578,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 12.938,
+          "end": 13.078,
+          "score": 0.498,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long-haul",
+          "start": 13.158,
+          "end": 13.698,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID.",
+          "start": 13.738,
+          "end": 14.158,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
+      "avg_logprob": -0.0557637129511152,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 12.0,
-      "end": 14.8,
-      "text": " or death or long-haul COVID.",
-      "tokens": [
-        50964,
-        420,
-        2966,
-        420,
-        938,
-        12,
-        39423,
-        4566,
-        13,
-        51104
+      "start": 14.639,
+      "end": 18.22,
+      "text": "Safe prevention and treatment options are available for kids with COVID-19.",
+      "words": [
+        {
+          "word": "Safe",
+          "start": 14.639,
+          "end": 14.839,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prevention",
+          "start": 14.899,
+          "end": 15.379,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 15.539,
+          "end": 15.639,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treatment",
+          "start": 15.699,
+          "end": 16.059,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "options",
+          "start": 16.159,
+          "end": 16.439,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 16.599,
+          "end": 16.699,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "available",
+          "start": 16.759,
+          "end": 17.199,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 17.239,
+          "end": 17.359,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids",
+          "start": 17.399,
+          "end": 17.62,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 17.64,
+          "end": 17.76,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19.",
+          "start": 17.82,
+          "end": 18.22,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
+      "avg_logprob": -0.0557637129511152,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 14.8,
-      "end": 19.3,
-      "text": " Safe prevention and treatment options are available for kids with COVID-19.",
-      "tokens": [
-        51104,
-        27030,
-        14630,
-        293,
-        5032,
-        3956,
-        366,
-        2435,
-        337,
-        2301,
-        365,
-        4566,
-        12,
-        3405,
-        13,
-        51329
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 19.3,
-      "end": 22.92,
+      "start": 19.24,
+      "end": 22.381,
       "text": " If treated early, children do not end up in the hospital.",
-      "tokens": [
-        51329,
-        759,
-        8668,
-        2440,
-        11,
-        2227,
-        360,
-        406,
-        917,
-        493,
-        294,
-        264,
-        4530,
-        13,
-        51510
+      "words": [
+        {
+          "word": "If",
+          "start": 19.24,
+          "end": 19.36,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treated",
+          "start": 19.46,
+          "end": 19.78,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "early,",
+          "start": 19.88,
+          "end": 20.16,
+          "score": 0.763,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 20.621,
+          "end": 20.981,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 21.041,
+          "end": 21.141,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 21.201,
+          "end": 21.341,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "end",
+          "start": 21.441,
+          "end": 21.581,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 21.661,
+          "end": 21.741,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 21.781,
+          "end": 21.821,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 21.841,
+          "end": 21.901,
+          "score": 0.235,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital.",
+          "start": 21.961,
+          "end": 22.381,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
+      "avg_logprob": -0.06404048959973832,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 22.92,
-      "end": 26.82,
-      "text": " But will our kids be okay if they take the COVID-19 vaccines?",
-      "tokens": [
-        51510,
-        583,
-        486,
-        527,
-        2301,
-        312,
-        1392,
-        498,
-        436,
-        747,
-        264,
-        4566,
-        12,
-        3405,
-        12164,
-        30,
-        51705
+      "start": 22.801,
+      "end": 26.083,
+      "text": "But will our kids be okay if they take the COVID-19 vaccines?",
+      "words": [
+        {
+          "word": "But",
+          "start": 22.801,
+          "end": 22.921,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 22.981,
+          "end": 23.161,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 23.201,
+          "end": 23.302,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids",
+          "start": 23.342,
+          "end": 23.602,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 23.622,
+          "end": 23.742,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "okay",
+          "start": 23.822,
+          "end": 24.102,
+          "score": 0.711,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 24.142,
+          "end": 24.202,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 24.242,
+          "end": 24.382,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "take",
+          "start": 24.402,
+          "end": 24.582,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.622,
+          "end": 24.682,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 24.742,
+          "end": 25.442,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines?",
+          "start": 25.482,
+          "end": 26.083,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
+      "avg_logprob": -0.06404048959973832,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 26.82,
-      "end": 27.92,
-      "text": " Some will.",
-      "tokens": [
-        51705,
-        2188,
-        486,
-        13,
-        51760
+      "start": 26.643,
+      "end": 30.004,
+      "text": "Some will, some won't, and we don't know which.",
+      "words": [
+        {
+          "word": "Some",
+          "start": 26.643,
+          "end": 26.863,
+          "score": 0.587,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will,",
+          "start": 26.923,
+          "end": 27.203,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "some",
+          "start": 27.763,
+          "end": 27.963,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "won't,",
+          "start": 28.023,
+          "end": 28.343,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 28.843,
+          "end": 28.944,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 29.004,
+          "end": 29.124,
+          "score": 0.674,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 29.164,
+          "end": 29.324,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 29.384,
+          "end": 29.564,
+          "score": 0.637,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which.",
+          "start": 29.664,
+          "end": 30.004,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
+      "avg_logprob": -0.06404048959973832,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 27.92,
-      "end": 28.92,
-      "text": " Some won't.",
-      "tokens": [
-        51760,
-        2188,
-        1582,
-        380,
-        13,
-        51810
+      "start": 30.624,
+      "end": 37.547,
+      "text": "Serious cardiac side effects from the Pfizer vaccines, including myocarditis, are rapidly rising in 16 to 24-year-olds.",
+      "words": [
+        {
+          "word": "Serious",
+          "start": 30.624,
+          "end": 31.024,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cardiac",
+          "start": 31.084,
+          "end": 31.524,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "side",
+          "start": 31.564,
+          "end": 31.785,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "effects",
+          "start": 31.825,
+          "end": 32.105,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 32.125,
+          "end": 32.265,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 32.285,
+          "end": 32.345,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer",
+          "start": 32.365,
+          "end": 32.765,
+          "score": 0.698,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines,",
+          "start": 32.805,
+          "end": 33.325,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "including",
+          "start": 33.745,
+          "end": 34.225,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "myocarditis,",
+          "start": 34.305,
+          "end": 35.226,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 35.606,
+          "end": 35.726,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rapidly",
+          "start": 35.806,
+          "end": 36.246,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rising",
+          "start": 36.306,
+          "end": 36.706,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 36.786,
+          "end": 36.866,
+          "score": 0.761,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "16",
+          "start": 36.926,
+          "end": 37.026,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 37.146,
+          "end": 37.267,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "24-year-olds.",
+          "start": 37.287,
+          "end": 37.547,
+          "score": 0.324,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13117194411778213,
-      "compression_ratio": 1.5299145299145298,
-      "no_speech_prob": 0.08865629136562347
+      "avg_logprob": -0.06404048959973832,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2892,
-      "start": 28.92,
-      "end": 30.64,
-      "text": " And we don't know which.",
-      "tokens": [
-        50364,
-        400,
-        321,
-        500,
-        380,
-        458,
-        597,
-        13,
-        50450
+      "start": 38.747,
+      "end": 47.269,
+      "text": " Myocarditis has a mortality rate of 25-56% within 3-10 years, owing to progressive heart failure and cardiac arrest.",
+      "words": [
+        {
+          "word": "Myocarditis",
+          "start": 38.747,
+          "end": 39.627,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 39.667,
+          "end": 39.827,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 39.867,
+          "end": 39.887,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mortality",
+          "start": 39.947,
+          "end": 40.507,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rate",
+          "start": 40.547,
+          "end": 41.668,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 41.808,
+          "end": 42.148,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "25-56%",
+          "start": 42.188,
+          "end": 42.788,
+          "score": 0.624,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "within",
+          "start": 42.848,
+          "end": 43.428,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "3-10",
+          "start": 43.448,
+          "end": 43.808,
+          "score": 0.488,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years,",
+          "start": 43.868,
+          "end": 44.208,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "owing",
+          "start": 44.588,
+          "end": 44.808,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 44.868,
+          "end": 44.948,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "progressive",
+          "start": 45.008,
+          "end": 45.489,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heart",
+          "start": 45.549,
+          "end": 45.729,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "failure",
+          "start": 45.749,
+          "end": 46.089,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 46.249,
+          "end": 46.369,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cardiac",
+          "start": 46.449,
+          "end": 46.849,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "arrest.",
+          "start": 46.889,
+          "end": 47.269,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14040614091433012,
-      "compression_ratio": 1.5223880597014925,
-      "no_speech_prob": 0.009278611280024052
+      "avg_logprob": -0.06391058882905377,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2892,
-      "start": 30.64,
-      "end": 36.160000000000004,
-      "text": " Serious cardiac side effects from the Pfizer vaccines, including myocarditis, are rapidly",
-      "tokens": [
-        50450,
-        4210,
-        851,
-        32129,
-        1252,
-        5065,
-        490,
-        264,
-        34694,
-        12164,
-        11,
-        3009,
-        452,
-        905,
-        515,
-        16074,
-        11,
-        366,
-        12910,
-        50726
+      "start": 47.429,
+      "end": 49.75,
+      "text": "And families are on their own once that happens.",
+      "words": [
+        {
+          "word": "And",
+          "start": 47.429,
+          "end": 47.549,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "families",
+          "start": 47.649,
+          "end": 48.049,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 48.109,
+          "end": 48.229,
+          "score": 0.541,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 48.349,
+          "end": 48.429,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 48.469,
+          "end": 48.629,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "own",
+          "start": 48.749,
+          "end": 48.889,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "once",
+          "start": 49.009,
+          "end": 49.109,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 49.149,
+          "end": 49.289,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happens.",
+          "start": 49.329,
+          "end": 49.75,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14040614091433012,
-      "compression_ratio": 1.5223880597014925,
-      "no_speech_prob": 0.009278611280024052
+      "avg_logprob": -0.06391058882905377,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 2892,
-      "start": 36.160000000000004,
-      "end": 39.56,
-      "text": " rising in 16 to 24-year-olds.",
-      "tokens": [
-        50726,
-        11636,
-        294,
-        3165,
-        281,
-        4022,
-        12,
-        5294,
-        12,
-        31518,
-        13,
-        50896
+      "start": 50.05,
+      "end": 55.311,
+      "text": "Pfizer has zero financial responsibility for any adverse effects from its COVID-19 vaccine.",
+      "words": [
+        {
+          "word": "Pfizer",
+          "start": 50.05,
+          "end": 50.41,
+          "score": 0.65,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 50.45,
+          "end": 50.59,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zero",
+          "start": 50.67,
+          "end": 51.01,
+          "score": 0.761,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "financial",
+          "start": 51.07,
+          "end": 51.47,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "responsibility",
+          "start": 51.53,
+          "end": 52.37,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 52.47,
+          "end": 52.59,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "any",
+          "start": 52.69,
+          "end": 52.85,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "adverse",
+          "start": 53.01,
+          "end": 53.35,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "effects",
+          "start": 53.41,
+          "end": 53.75,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 53.791,
+          "end": 53.911,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "its",
+          "start": 53.971,
+          "end": 54.051,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 54.091,
+          "end": 54.751,
+          "score": 0.679,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine.",
+          "start": 54.791,
+          "end": 55.311,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14040614091433012,
-      "compression_ratio": 1.5223880597014925,
-      "no_speech_prob": 0.009278611280024052
+      "avg_logprob": -0.06391058882905377,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 2892,
-      "start": 39.56,
-      "end": 45.400000000000006,
-      "text": " Myocarditis has a mortality rate of 25 to 56% within 3 to 10 years, owing to progressive",
-      "tokens": [
-        50896,
-        1222,
-        905,
-        515,
-        16074,
-        575,
-        257,
-        23330,
-        3314,
-        295,
-        3552,
-        281,
-        19687,
-        4,
-        1951,
-        805,
-        281,
-        1266,
-        924,
-        11,
-        277,
-        7904,
-        281,
-        16131,
-        51188
+      "start": 55.531,
+      "end": 60.072,
+      "text": "Children already injured by the COVID vaccines have also been unable to get government aid.",
+      "words": [
+        {
+          "word": "Children",
+          "start": 55.531,
+          "end": 55.911,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "already",
+          "start": 56.031,
+          "end": 56.351,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "injured",
+          "start": 56.451,
+          "end": 56.691,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 56.731,
+          "end": 56.831,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 56.871,
+          "end": 56.951,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 56.991,
+          "end": 57.311,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 57.331,
+          "end": 57.851,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 57.891,
+          "end": 58.011,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 58.172,
+          "end": 58.412,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 58.472,
+          "end": 58.632,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unable",
+          "start": 58.692,
+          "end": 59.072,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 59.092,
+          "end": 59.132,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 59.172,
+          "end": 59.312,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "government",
+          "start": 59.352,
+          "end": 59.752,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "aid.",
+          "start": 59.892,
+          "end": 60.072,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14040614091433012,
-      "compression_ratio": 1.5223880597014925,
-      "no_speech_prob": 0.009278611280024052
+      "avg_logprob": -0.06391058882905377,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 2892,
-      "start": 45.400000000000006,
-      "end": 50.120000000000005,
-      "text": " heart failure and cardiac arrest, and families are on their own once that happens.",
-      "tokens": [
-        51188,
-        1917,
-        7763,
-        293,
-        32129,
-        7823,
-        11,
-        293,
-        4466,
-        366,
-        322,
-        641,
-        1065,
-        1564,
-        300,
-        2314,
-        13,
-        51424
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14040614091433012,
-      "compression_ratio": 1.5223880597014925,
-      "no_speech_prob": 0.009278611280024052
-    },
-    {
-      "id": 13,
-      "seek": 2892,
-      "start": 50.120000000000005,
-      "end": 55.84,
-      "text": " Pfizer has zero financial responsibility for any adverse effects from its COVID-19 vaccine.",
-      "tokens": [
-        51424,
-        34694,
-        575,
-        4018,
-        4669,
-        6357,
-        337,
-        604,
-        27590,
-        5065,
-        490,
-        1080,
-        4566,
-        12,
-        3405,
-        7007,
-        13,
-        51710
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14040614091433012,
-      "compression_ratio": 1.5223880597014925,
-      "no_speech_prob": 0.009278611280024052
-    },
-    {
-      "id": 14,
-      "seek": 5584,
-      "start": 55.84,
-      "end": 60.52,
-      "text": " Children already injured by the COVID vaccines have also been unable to get government aid.",
-      "tokens": [
-        50364,
-        13354,
-        1217,
-        13408,
-        538,
-        264,
-        4566,
-        12164,
-        362,
-        611,
-        668,
-        11299,
-        281,
-        483,
-        2463,
-        9418,
-        13,
-        50598
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0734653652838941,
-      "compression_ratio": 1.6945454545454546,
-      "no_speech_prob": 0.038383375853300095
-    },
-    {
-      "id": 15,
-      "seek": 5584,
-      "start": 60.52,
-      "end": 65.60000000000001,
+      "start": 60.452,
+      "end": 65.295,
       "text": " We don't know how Pfizer's COVID-19 vaccine will impact fertility and development.",
-      "tokens": [
-        50598,
-        492,
-        500,
-        380,
-        458,
-        577,
-        34694,
-        311,
-        4566,
-        12,
-        3405,
-        7007,
-        486,
-        2712,
-        31707,
-        293,
-        3250,
-        13,
-        50852
+      "words": [
+        {
+          "word": "We",
+          "start": 60.452,
+          "end": 60.572,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 60.592,
+          "end": 60.792,
+          "score": 0.622,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 60.852,
+          "end": 61.052,
+          "score": 0.59,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 61.113,
+          "end": 61.253,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer's",
+          "start": 61.353,
+          "end": 61.733,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 61.753,
+          "end": 62.513,
+          "score": 0.626,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 62.553,
+          "end": 63.074,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 63.294,
+          "end": 63.474,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "impact",
+          "start": 63.534,
+          "end": 63.914,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fertility",
+          "start": 63.954,
+          "end": 64.475,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 64.595,
+          "end": 64.675,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "development.",
+          "start": 64.735,
+          "end": 65.295,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0734653652838941,
-      "compression_ratio": 1.6945454545454546,
-      "no_speech_prob": 0.038383375853300095
+      "avg_logprob": -0.043841910186935874,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 5584,
-      "start": 65.60000000000001,
-      "end": 69.76,
-      "text": " No human reproductive toxicity data has been published to date.",
-      "tokens": [
-        50852,
-        883,
-        1952,
-        33569,
-        45866,
-        1412,
-        575,
-        668,
-        6572,
-        281,
-        4002,
-        13,
-        51060
+      "start": 65.575,
+      "end": 69.258,
+      "text": "No human reproductive toxicity data has been published to date.",
+      "words": [
+        {
+          "word": "No",
+          "start": 65.575,
+          "end": 65.735,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "human",
+          "start": 65.836,
+          "end": 66.156,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reproductive",
+          "start": 66.216,
+          "end": 66.836,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "toxicity",
+          "start": 66.876,
+          "end": 67.457,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data",
+          "start": 67.517,
+          "end": 67.817,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 68.037,
+          "end": 68.177,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 68.217,
+          "end": 68.377,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "published",
+          "start": 68.457,
+          "end": 68.837,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 68.857,
+          "end": 68.958,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "date.",
+          "start": 68.998,
+          "end": 69.258,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0734653652838941,
-      "compression_ratio": 1.6945454545454546,
-      "no_speech_prob": 0.038383375853300095
+      "avg_logprob": -0.043841910186935874,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 5584,
-      "start": 69.76,
-      "end": 74.28,
-      "text": " We don't know why the Pfizer vaccine interferes with a child's healthy immune response and",
-      "tokens": [
-        51060,
-        492,
-        500,
-        380,
-        458,
-        983,
-        264,
-        34694,
-        7007,
-        25799,
-        279,
-        365,
-        257,
-        1440,
-        311,
-        4627,
-        11992,
-        4134,
-        293,
-        51286
+      "start": 69.718,
+      "end": 77.023,
+      "text": "We don't know why the Pfizer vaccine interferes with a child's healthy immune response and increases the risk of developing autoimmune disease.",
+      "words": [
+        {
+          "word": "We",
+          "start": 69.718,
+          "end": 69.778,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 69.818,
+          "end": 69.958,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 69.998,
+          "end": 70.138,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "why",
+          "start": 70.198,
+          "end": 70.378,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 70.438,
+          "end": 70.519,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer",
+          "start": 70.579,
+          "end": 70.899,
+          "score": 0.716,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 70.939,
+          "end": 71.399,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interferes",
+          "start": 71.479,
+          "end": 71.939,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 71.959,
+          "end": 72.08,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 72.14,
+          "end": 72.18,
+          "score": 0.408,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "child's",
+          "start": 72.22,
+          "end": 72.56,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "healthy",
+          "start": 72.58,
+          "end": 72.9,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 72.94,
+          "end": 73.26,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "response",
+          "start": 73.3,
+          "end": 73.841,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 74.161,
+          "end": 74.261,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "increases",
+          "start": 74.361,
+          "end": 74.841,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 74.901,
+          "end": 75.001,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 75.061,
+          "end": 75.282,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 75.362,
+          "end": 75.422,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "developing",
+          "start": 75.482,
+          "end": 75.982,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "autoimmune",
+          "start": 76.082,
+          "end": 76.542,
+          "score": 0.558,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease.",
+          "start": 76.562,
+          "end": 77.023,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0734653652838941,
-      "compression_ratio": 1.6945454545454546,
-      "no_speech_prob": 0.038383375853300095
+      "avg_logprob": -0.043841910186935874,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 5584,
-      "start": 74.28,
-      "end": 77.44,
-      "text": " increases the risk of developing autoimmune disease.",
-      "tokens": [
-        51286,
-        8637,
-        264,
-        3148,
-        295,
-        6416,
-        8399,
-        49031,
-        4752,
-        13,
-        51444
+      "start": 77.403,
+      "end": 84.287,
+      "text": "We don't know because Pfizer's COVID-19 vaccine trials for 5 to 11 year olds tested the vaccine on fewer than 2,500 kids.",
+      "words": [
+        {
+          "word": "We",
+          "start": 77.403,
+          "end": 77.483,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 77.523,
+          "end": 77.703,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 77.763,
+          "end": 77.943,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 78.003,
+          "end": 78.283,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer's",
+          "start": 78.364,
+          "end": 78.764,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 78.804,
+          "end": 79.484,
+          "score": 0.673,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 79.524,
+          "end": 79.945,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trials",
+          "start": 79.985,
+          "end": 80.405,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 80.645,
+          "end": 80.785,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "5",
+          "start": 80.845,
+          "end": 81.105,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 81.145,
+          "end": 81.265,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "11",
+          "start": 81.486,
+          "end": 81.666,
+          "score": 0.624,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "year",
+          "start": 81.686,
+          "end": 81.826,
+          "score": 0.751,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "olds",
+          "start": 81.886,
+          "end": 82.046,
+          "score": 0.65,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tested",
+          "start": 82.246,
+          "end": 82.586,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 82.626,
+          "end": 82.706,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 82.746,
+          "end": 83.227,
+          "score": 0.694,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 83.327,
+          "end": 83.407,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fewer",
+          "start": 83.507,
+          "end": 83.767,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 83.787,
+          "end": 83.907,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2,500",
+          "start": 83.927,
+          "end": 84.107,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids.",
+          "start": 84.147,
+          "end": 84.287,
+          "score": 0.392,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0734653652838941,
-      "compression_ratio": 1.6945454545454546,
-      "no_speech_prob": 0.038383375853300095
+      "avg_logprob": -0.043841910186935874,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 5584,
-      "start": 77.44,
-      "end": 82.52000000000001,
-      "text": " We don't know because Pfizer's COVID-19 vaccine trials for 5 to 11-year-olds tested",
-      "tokens": [
-        51444,
-        492,
-        500,
-        380,
-        458,
-        570,
-        34694,
-        311,
-        4566,
-        12,
-        3405,
-        7007,
-        12450,
-        337,
-        1025,
-        281,
-        2975,
-        12,
-        5294,
-        12,
-        31518,
-        8246,
-        51698
+      "start": 85.428,
+      "end": 88.53,
+      "text": " and observe them for only two to eight weeks after vaccination.",
+      "words": [
+        {
+          "word": "and",
+          "start": 85.428,
+          "end": 85.528,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "observe",
+          "start": 85.588,
+          "end": 85.948,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 85.968,
+          "end": 86.129,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 86.169,
+          "end": 86.289,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "only",
+          "start": 86.389,
+          "end": 86.569,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two",
+          "start": 86.669,
+          "end": 86.889,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 86.929,
+          "end": 86.989,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "eight",
+          "start": 87.109,
+          "end": 87.249,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "weeks",
+          "start": 87.309,
+          "end": 87.53,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 87.63,
+          "end": 87.83,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccination.",
+          "start": 87.89,
+          "end": 88.53,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0734653652838941,
-      "compression_ratio": 1.6945454545454546,
-      "no_speech_prob": 0.038383375853300095
+      "avg_logprob": -0.025245948338214263,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 20,
-      "seek": 8252,
-      "start": 82.52,
-      "end": 89.08,
-      "text": " the vaccine on fewer than 2,500 kids and observed them for only 2 to 8 weeks after vaccination.",
-      "tokens": [
-        50364,
-        264,
-        7007,
-        322,
-        13366,
-        813,
-        568,
-        11,
-        7526,
-        2301,
-        293,
-        13095,
-        552,
-        337,
-        787,
-        568,
-        281,
-        1649,
-        3259,
-        934,
-        16498,
-        13,
-        50692
+      "start": 88.971,
+      "end": 92.513,
+      "text": "Such underpowered trials would fail to detect many signals.",
+      "words": [
+        {
+          "word": "Such",
+          "start": 88.971,
+          "end": 89.171,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "underpowered",
+          "start": 89.311,
+          "end": 89.891,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trials",
+          "start": 89.931,
+          "end": 90.392,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 90.672,
+          "end": 90.852,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fail",
+          "start": 90.892,
+          "end": 91.172,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 91.232,
+          "end": 91.312,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "detect",
+          "start": 91.372,
+          "end": 91.733,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "many",
+          "start": 91.813,
+          "end": 92.053,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "signals.",
+          "start": 92.113,
+          "end": 92.513,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14596099853515626,
-      "compression_ratio": 1.61986301369863,
-      "no_speech_prob": 0.2254408299922943
+      "avg_logprob": -0.025245948338214263,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 21,
-      "seek": 8252,
-      "start": 89.08,
-      "end": 93.64,
-      "text": " Such underpowered trials would fail to detect many signals.",
-      "tokens": [
-        50692,
-        9653,
-        833,
-        27178,
-        12450,
-        576,
-        3061,
-        281,
-        5531,
-        867,
-        12354,
-        13,
-        50920
+      "start": 93.114,
+      "end": 100.699,
+      "text": "Vaccinating kids to protect adults when children themselves don't need the protection violates basic principles of ethics in medicine.",
+      "words": [
+        {
+          "word": "Vaccinating",
+          "start": 93.114,
+          "end": 93.734,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids",
+          "start": 93.794,
+          "end": 94.074,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 94.134,
+          "end": 94.235,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protect",
+          "start": 94.295,
+          "end": 94.615,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "adults",
+          "start": 94.695,
+          "end": 95.055,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 95.455,
+          "end": 95.596,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 95.656,
+          "end": 95.996,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "themselves",
+          "start": 96.056,
+          "end": 96.616,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 96.676,
+          "end": 96.876,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 96.957,
+          "end": 97.157,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 97.177,
+          "end": 97.257,
+          "score": 0.615,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protection",
+          "start": 97.297,
+          "end": 97.777,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "violates",
+          "start": 98.217,
+          "end": 98.658,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "basic",
+          "start": 98.738,
+          "end": 99.078,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "principles",
+          "start": 99.158,
+          "end": 99.578,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 99.618,
+          "end": 99.679,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ethics",
+          "start": 99.819,
+          "end": 100.099,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 100.159,
+          "end": 100.239,
+          "score": 0.436,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine.",
+          "start": 100.279,
+          "end": 100.699,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14596099853515626,
-      "compression_ratio": 1.61986301369863,
-      "no_speech_prob": 0.2254408299922943
+      "avg_logprob": -0.025245948338214263,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 22,
-      "seek": 8252,
-      "start": 93.64,
-      "end": 98.6,
-      "text": " Vaccinating kids to protect adults when children themselves don't need the protection violates",
-      "tokens": [
-        50920,
-        48579,
-        8205,
-        2301,
-        281,
-        2371,
-        8865,
-        562,
-        2227,
-        2969,
-        500,
-        380,
-        643,
-        264,
-        6334,
-        3448,
-        1024,
-        51168
+      "start": 101.04,
+      "end": 105.083,
+      "text": "Besides, vaccinated individuals already transmit the virus readily.",
+      "words": [
+        {
+          "word": "Besides,",
+          "start": 101.04,
+          "end": 101.6,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 101.94,
+          "end": 102.501,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individuals",
+          "start": 102.561,
+          "end": 103.141,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "already",
+          "start": 103.301,
+          "end": 103.641,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "transmit",
+          "start": 103.701,
+          "end": 104.102,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 104.142,
+          "end": 104.202,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus",
+          "start": 104.242,
+          "end": 104.622,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "readily.",
+          "start": 104.702,
+          "end": 105.083,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14596099853515626,
-      "compression_ratio": 1.61986301369863,
-      "no_speech_prob": 0.2254408299922943
+      "avg_logprob": -0.025245948338214263,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 23,
-      "seek": 8252,
-      "start": 98.6,
-      "end": 101.12,
-      "text": " basic principles of ethics and medicine.",
-      "tokens": [
-        51168,
-        3875,
-        9156,
-        295,
-        19769,
-        293,
-        7195,
-        13,
-        51294
+      "start": 105.423,
+      "end": 110.627,
+      "text": "We can't possibly know what's going to happen with the medium to long-term effects of these vaccines on children.",
+      "words": [
+        {
+          "word": "We",
+          "start": 105.423,
+          "end": 105.523,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 105.563,
+          "end": 105.763,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "possibly",
+          "start": 105.803,
+          "end": 106.263,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 106.323,
+          "end": 106.484,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what's",
+          "start": 106.524,
+          "end": 106.684,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 106.704,
+          "end": 106.904,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 106.924,
+          "end": 107.004,
+          "score": 0.516,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happen",
+          "start": 107.064,
+          "end": 107.344,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 107.384,
+          "end": 107.524,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 107.564,
+          "end": 107.644,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medium",
+          "start": 107.684,
+          "end": 108.025,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 108.165,
+          "end": 108.285,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long-term",
+          "start": 108.325,
+          "end": 108.785,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "effects",
+          "start": 108.805,
+          "end": 109.145,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 109.186,
+          "end": 109.246,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 109.306,
+          "end": 109.506,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 109.566,
+          "end": 110.066,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 110.146,
+          "end": 110.226,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children.",
+          "start": 110.286,
+          "end": 110.627,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14596099853515626,
-      "compression_ratio": 1.61986301369863,
-      "no_speech_prob": 0.2254408299922943
+      "avg_logprob": -0.025245948338214263,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 24,
-      "seek": 8252,
-      "start": 101.12,
-      "end": 105.44,
-      "text": " Besides, vaccinated individuals already transmit the virus readily.",
-      "tokens": [
-        51294,
-        13212,
-        11,
-        14686,
-        5346,
-        1217,
-        17831,
-        264,
-        5752,
-        26336,
-        13,
-        51510
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14596099853515626,
-      "compression_ratio": 1.61986301369863,
-      "no_speech_prob": 0.2254408299922943
-    },
-    {
-      "id": 25,
-      "seek": 8252,
-      "start": 105.44,
-      "end": 109.44,
-      "text": " We can't possibly know what's going to happen with the medium to long-term effects of these",
-      "tokens": [
-        51510,
-        492,
-        393,
-        380,
-        6264,
-        458,
-        437,
-        311,
-        516,
-        281,
-        1051,
-        365,
-        264,
-        6399,
-        281,
-        938,
-        12,
-        7039,
-        5065,
-        295,
-        613,
-        51710
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14596099853515626,
-      "compression_ratio": 1.61986301369863,
-      "no_speech_prob": 0.2254408299922943
-    },
-    {
-      "id": 26,
-      "seek": 8252,
-      "start": 109.44,
-      "end": 111.32,
-      "text": " vaccines on children.",
-      "tokens": [
-        51710,
-        12164,
-        322,
-        2227,
-        13,
-        51804
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14596099853515626,
-      "compression_ratio": 1.61986301369863,
-      "no_speech_prob": 0.2254408299922943
-    },
-    {
-      "id": 27,
-      "seek": 11132,
-      "start": 111.32,
-      "end": 113.75999999999999,
+      "start": 111.267,
+      "end": 113.29,
       "text": " The plan is to test the shots on our kids.",
-      "tokens": [
-        50364,
-        440,
-        1393,
-        307,
-        281,
-        1500,
-        264,
-        8305,
-        322,
-        527,
-        2301,
-        13,
-        50486
+      "words": [
+        {
+          "word": "The",
+          "start": 111.267,
+          "end": 111.367,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plan",
+          "start": 111.427,
+          "end": 111.628,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 111.688,
+          "end": 111.748,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 111.788,
+          "end": 111.868,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 111.948,
+          "end": 112.188,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 112.228,
+          "end": 112.309,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shots",
+          "start": 112.369,
+          "end": 112.629,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 112.669,
+          "end": 112.749,
+          "score": 0.659,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 112.789,
+          "end": 112.889,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids.",
+          "start": 112.929,
+          "end": 113.29,
+          "score": 0.97,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.04127261660208827,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 28,
-      "seek": 11132,
-      "start": 113.75999999999999,
-      "end": 118.88,
-      "text": " During the FDA's review, they admitted this, that we can't know the vaccine's safety",
-      "tokens": [
-        50486,
-        6842,
-        264,
-        18933,
-        311,
-        3131,
-        11,
-        436,
-        14920,
-        341,
-        11,
-        300,
-        321,
-        393,
-        380,
-        458,
-        264,
-        7007,
-        311,
-        4514,
-        50742
+      "start": 113.731,
+      "end": 120.74,
+      "text": "During the FDA's review, they admitted this, that we can't know the vaccine's safety until after our kids take it.",
+      "words": [
+        {
+          "word": "During",
+          "start": 113.731,
+          "end": 113.971,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 113.991,
+          "end": 114.071,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "FDA's",
+          "start": 114.211,
+          "end": 114.612,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "review,",
+          "start": 114.672,
+          "end": 115.012,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 115.393,
+          "end": 115.553,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admitted",
+          "start": 115.613,
+          "end": 115.954,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this,",
+          "start": 115.994,
+          "end": 116.194,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 116.655,
+          "end": 116.815,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 116.855,
+          "end": 116.995,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 117.015,
+          "end": 117.255,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 117.295,
+          "end": 117.456,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 117.496,
+          "end": 117.576,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine's",
+          "start": 117.616,
+          "end": 118.177,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety",
+          "start": 118.237,
+          "end": 118.657,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "until",
+          "start": 118.898,
+          "end": 119.158,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 119.398,
+          "end": 119.659,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 119.779,
+          "end": 119.899,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids",
+          "start": 119.979,
+          "end": 120.32,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "take",
+          "start": 120.38,
+          "end": 120.64,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 120.68,
+          "end": 120.74,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.04127261660208827,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 29,
-      "seek": 11132,
-      "start": 118.88,
-      "end": 121.47999999999999,
-      "text": " until after our kids take it.",
-      "tokens": [
-        50742,
-        1826,
-        934,
-        527,
-        2301,
-        747,
-        309,
-        13,
-        50872
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
-    },
-    {
-      "id": 30,
-      "seek": 11132,
-      "start": 121.47999999999999,
-      "end": 122.47999999999999,
+      "start": 121.536,
+      "end": 121.816,
       "text": " What?",
-      "tokens": [
-        50872,
-        708,
-        30,
-        50922
+      "words": [
+        {
+          "word": "What?",
+          "start": 121.536,
+          "end": 121.816,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.06220519050674619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 31,
-      "seek": 11132,
-      "start": 122.47999999999999,
-      "end": 127.67999999999999,
-      "text": " Dr. Eric Rubin, who sits on the FDA advisory panel that rushed through the Pfizer COVID-19",
-      "tokens": [
-        50922,
-        2491,
-        13,
-        9336,
-        10518,
-        259,
-        11,
-        567,
-        12696,
-        322,
-        264,
-        18933,
-        26289,
-        4831,
-        300,
-        24421,
-        807,
-        264,
-        34694,
-        4566,
-        12,
-        3405,
-        51182
+      "start": 122.337,
+      "end": 132.983,
+      "text": "Dr. Eric Rubin, who sits on the FDA advisory panel that rushed through the Pfizer COVID-19 vaccines on children as young as five, was very clear about their ignorance on medium to long-term safety.",
+      "words": [
+        {
+          "word": "Dr.",
+          "start": 122.337,
+          "end": 122.657,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Eric",
+          "start": 122.777,
+          "end": 122.977,
+          "score": 0.594,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Rubin,",
+          "start": 123.037,
+          "end": 123.337,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 123.357,
+          "end": 123.497,
+          "score": 0.745,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sits",
+          "start": 123.557,
+          "end": 123.757,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 123.817,
+          "end": 123.878,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 123.898,
+          "end": 123.978,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "FDA",
+          "start": 124.138,
+          "end": 124.418,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "advisory",
+          "start": 124.458,
+          "end": 124.938,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "panel",
+          "start": 124.958,
+          "end": 125.278,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 125.459,
+          "end": 125.599,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rushed",
+          "start": 125.699,
+          "end": 125.899,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 125.919,
+          "end": 126.079,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 126.099,
+          "end": 126.159,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer",
+          "start": 126.179,
+          "end": 126.499,
+          "score": 0.659,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 126.539,
+          "end": 127.24,
+          "score": 0.675,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 127.28,
+          "end": 127.74,
+          "score": 0.684,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 127.8,
+          "end": 127.9,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 127.94,
+          "end": 128.3,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 128.42,
+          "end": 128.52,
+          "score": 0.556,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "young",
+          "start": 128.6,
+          "end": 128.781,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 128.841,
+          "end": 128.901,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "five,",
+          "start": 128.981,
+          "end": 129.321,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 129.661,
+          "end": 129.801,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 129.841,
+          "end": 130.101,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "clear",
+          "start": 130.181,
+          "end": 130.422,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 130.462,
+          "end": 130.662,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 130.702,
+          "end": 130.842,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ignorance",
+          "start": 130.922,
+          "end": 131.262,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 131.362,
+          "end": 131.462,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medium",
+          "start": 131.522,
+          "end": 131.902,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 131.963,
+          "end": 132.063,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long-term",
+          "start": 132.103,
+          "end": 132.603,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety.",
+          "start": 132.623,
+          "end": 132.983,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.06220519050674619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 32,
-      "seek": 11132,
-      "start": 127.67999999999999,
-      "end": 132.51999999999998,
-      "text": " vaccines on children as young as 5, was very clear about their ignorance on medium to long-term",
-      "tokens": [
-        51182,
-        12164,
-        322,
-        2227,
-        382,
-        2037,
-        382,
-        1025,
-        11,
-        390,
-        588,
-        1850,
-        466,
-        641,
-        25390,
-        322,
-        6399,
-        281,
-        938,
-        12,
-        7039,
-        51424
+      "start": 133.443,
+      "end": 137.646,
+      "text": "We're never going to learn about how safe this vaccine is unless we start giving it.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 133.443,
+          "end": 133.604,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 133.644,
+          "end": 133.844,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 133.884,
+          "end": 134.084,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 134.124,
+          "end": 134.184,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "learn",
+          "start": 134.244,
+          "end": 134.424,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 134.464,
+          "end": 134.664,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 134.724,
+          "end": 134.864,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safe",
+          "start": 134.944,
+          "end": 135.164,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 135.185,
+          "end": 135.325,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 135.365,
+          "end": 135.805,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 135.985,
+          "end": 136.085,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unless",
+          "start": 136.485,
+          "end": 136.806,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 136.846,
+          "end": 136.966,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "start",
+          "start": 137.006,
+          "end": 137.226,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "giving",
+          "start": 137.266,
+          "end": 137.566,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 137.586,
+          "end": 137.646,
+          "score": 0.423,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.06220519050674619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 33,
-      "seek": 11132,
-      "start": 132.51999999999998,
-      "end": 133.51999999999998,
-      "text": " safety.",
-      "tokens": [
-        51424,
-        4514,
-        13,
-        51474
+      "start": 137.906,
+      "end": 139.247,
+      "text": "That's just the way it goes.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 137.906,
+          "end": 138.106,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 138.146,
+          "end": 138.326,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 138.366,
+          "end": 138.447,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "way",
+          "start": 138.507,
+          "end": 138.687,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 138.727,
+          "end": 138.767,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "goes.",
+          "start": 138.847,
+          "end": 139.247,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.06220519050674619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 34,
-      "seek": 11132,
-      "start": 133.51999999999998,
-      "end": 138.04,
-      "text": " We're never going to learn about how safe this vaccine is unless we start giving it.",
-      "tokens": [
-        51474,
-        492,
-        434,
-        1128,
-        516,
-        281,
-        1466,
-        466,
-        577,
-        3273,
-        341,
-        7007,
-        307,
-        5969,
-        321,
-        722,
-        2902,
-        309,
-        13,
-        51700
+      "start": 139.947,
+      "end": 142.149,
+      "text": "That's not just the way it goes with our kids.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 139.947,
+          "end": 140.188,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 140.348,
+          "end": 140.548,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 140.608,
+          "end": 140.788,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 140.828,
+          "end": 140.908,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "way",
+          "start": 140.928,
+          "end": 141.068,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 141.108,
+          "end": 141.148,
+          "score": 0.498,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "goes",
+          "start": 141.188,
+          "end": 141.408,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 141.448,
+          "end": 141.588,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 141.648,
+          "end": 141.749,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids.",
+          "start": 141.789,
+          "end": 142.149,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.06220519050674619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 35,
-      "seek": 11132,
-      "start": 138.04,
-      "end": 140.12,
-      "text": " That's just the way it goes.",
-      "tokens": [
-        51700,
-        663,
-        311,
-        445,
-        264,
-        636,
-        309,
-        1709,
-        13,
-        51804
+      "start": 142.729,
+      "end": 143.189,
+      "text": "Join us.",
+      "words": [
+        {
+          "word": "Join",
+          "start": 142.729,
+          "end": 143.009,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us.",
+          "start": 143.089,
+          "end": 143.189,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16474346816539764,
-      "compression_ratio": 1.5838926174496644,
-      "no_speech_prob": 0.003957727458328009
+      "avg_logprob": -0.06220519050674619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 36,
-      "seek": 14012,
-      "start": 140.12,
-      "end": 142.68,
-      "text": " It's not just the way it goes with our kids.",
-      "tokens": [
-        50364,
-        467,
-        311,
-        406,
-        445,
-        264,
-        636,
-        309,
-        1709,
-        365,
-        527,
-        2301,
-        13,
-        50492
+      "start": 143.61,
+      "end": 148.453,
+      "text": "Oppose the experimental Pfizer COVID-19 shots on children at vacsafety.org.",
+      "words": [
+        {
+          "word": "Oppose",
+          "start": 143.61,
+          "end": 143.91,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 143.93,
+          "end": 144.03,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "experimental",
+          "start": 144.09,
+          "end": 144.67,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer",
+          "start": 144.69,
+          "end": 145.071,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 145.091,
+          "end": 145.831,
+          "score": 0.675,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shots",
+          "start": 145.891,
+          "end": 146.171,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 146.271,
+          "end": 146.371,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 146.451,
+          "end": 146.852,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 147.212,
+          "end": 147.292,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vacsafety.org.",
+          "start": 147.392,
+          "end": 148.453,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2506903096249229,
-      "compression_ratio": 1.1120689655172413,
-      "no_speech_prob": 0.8069452047348022
-    },
-    {
-      "id": 37,
-      "seek": 14012,
-      "start": 142.68,
-      "end": 148.68,
-      "text": " Join us, oppose the experimental Pfizer COVID-19 shots on children at vacsafety.org.",
-      "tokens": [
-        50492,
-        19642,
-        505,
-        11,
-        28355,
-        264,
-        17069,
-        34694,
-        4566,
-        12,
-        3405,
-        8305,
-        322,
-        2227,
-        412,
-        2842,
-        82,
-        2792,
-        2210,
-        13,
-        4646,
-        13,
-        50792
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2506903096249229,
-      "compression_ratio": 1.1120689655172413,
-      "no_speech_prob": 0.8069452047348022
+      "avg_logprob": -0.06220519050674619,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Are",
+      "start": 3.655,
+      "end": 3.775,
+      "score": 0.612,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 3.815,
+      "end": 3.935,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids",
+      "start": 4.015,
+      "end": 4.375,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "okay?",
+      "start": 4.515,
+      "end": 4.955,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 5.476,
+      "end": 5.576,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data",
+      "start": 5.616,
+      "end": 5.896,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shows",
+      "start": 5.936,
+      "end": 6.216,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 6.256,
+      "end": 6.396,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 6.476,
+      "end": 6.836,
+      "score": 0.676,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ages",
+      "start": 6.956,
+      "end": 7.196,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "5",
+      "start": 7.396,
+      "end": 7.516,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 7.576,
+      "end": 7.676,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "11",
+      "start": 7.816,
+      "end": 8.096,
+      "score": 0.625,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 8.417,
+      "end": 8.597,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 8.637,
+      "end": 8.677,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "minuscule",
+      "start": 8.757,
+      "end": 9.297,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 9.357,
+      "end": 9.597,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 9.717,
+      "end": 9.797,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 9.877,
+      "end": 10.717,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospitalization",
+      "start": 10.817,
+      "end": 11.758,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 12.078,
+      "end": 12.218,
+      "score": 0.484,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "death",
+      "start": 12.298,
+      "end": 12.578,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 12.938,
+      "end": 13.078,
+      "score": 0.498,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long-haul",
+      "start": 13.158,
+      "end": 13.698,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID.",
+      "start": 13.738,
+      "end": 14.158,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Safe",
+      "start": 14.639,
+      "end": 14.839,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prevention",
+      "start": 14.899,
+      "end": 15.379,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 15.539,
+      "end": 15.639,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatment",
+      "start": 15.699,
+      "end": 16.059,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "options",
+      "start": 16.159,
+      "end": 16.439,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 16.599,
+      "end": 16.699,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "available",
+      "start": 16.759,
+      "end": 17.199,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 17.239,
+      "end": 17.359,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids",
+      "start": 17.399,
+      "end": 17.62,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 17.64,
+      "end": 17.76,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19.",
+      "start": 17.82,
+      "end": 18.22,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 19.24,
+      "end": 19.36,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treated",
+      "start": 19.46,
+      "end": 19.78,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "early,",
+      "start": 19.88,
+      "end": 20.16,
+      "score": 0.763,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 20.621,
+      "end": 20.981,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 21.041,
+      "end": 21.141,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 21.201,
+      "end": 21.341,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "end",
+      "start": 21.441,
+      "end": 21.581,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 21.661,
+      "end": 21.741,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 21.781,
+      "end": 21.821,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 21.841,
+      "end": 21.901,
+      "score": 0.235,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital.",
+      "start": 21.961,
+      "end": 22.381,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 22.801,
+      "end": 22.921,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 22.981,
+      "end": 23.161,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 23.201,
+      "end": 23.302,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids",
+      "start": 23.342,
+      "end": 23.602,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 23.622,
+      "end": 23.742,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "okay",
+      "start": 23.822,
+      "end": 24.102,
+      "score": 0.711,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 24.142,
+      "end": 24.202,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 24.242,
+      "end": 24.382,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "take",
+      "start": 24.402,
+      "end": 24.582,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.622,
+      "end": 24.682,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 24.742,
+      "end": 25.442,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines?",
+      "start": 25.482,
+      "end": 26.083,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Some",
+      "start": 26.643,
+      "end": 26.863,
+      "score": 0.587,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will,",
+      "start": 26.923,
+      "end": 27.203,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "some",
+      "start": 27.763,
+      "end": 27.963,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "won't,",
+      "start": 28.023,
+      "end": 28.343,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 28.843,
+      "end": 28.944,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 29.004,
+      "end": 29.124,
+      "score": 0.674,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 29.164,
+      "end": 29.324,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 29.384,
+      "end": 29.564,
+      "score": 0.637,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which.",
+      "start": 29.664,
+      "end": 30.004,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Serious",
+      "start": 30.624,
+      "end": 31.024,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cardiac",
+      "start": 31.084,
+      "end": 31.524,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "side",
+      "start": 31.564,
+      "end": 31.785,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "effects",
+      "start": 31.825,
+      "end": 32.105,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 32.125,
+      "end": 32.265,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 32.285,
+      "end": 32.345,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 32.365,
+      "end": 32.765,
+      "score": 0.698,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines,",
+      "start": 32.805,
+      "end": 33.325,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "including",
+      "start": 33.745,
+      "end": 34.225,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "myocarditis,",
+      "start": 34.305,
+      "end": 35.226,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 35.606,
+      "end": 35.726,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rapidly",
+      "start": 35.806,
+      "end": 36.246,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rising",
+      "start": 36.306,
+      "end": 36.706,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 36.786,
+      "end": 36.866,
+      "score": 0.761,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "16",
+      "start": 36.926,
+      "end": 37.026,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 37.146,
+      "end": 37.267,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "24-year-olds.",
+      "start": 37.287,
+      "end": 37.547,
+      "score": 0.324,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Myocarditis",
+      "start": 38.747,
+      "end": 39.627,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 39.667,
+      "end": 39.827,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 39.867,
+      "end": 39.887,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mortality",
+      "start": 39.947,
+      "end": 40.507,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rate",
+      "start": 40.547,
+      "end": 41.668,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 41.808,
+      "end": 42.148,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "25-56%",
+      "start": 42.188,
+      "end": 42.788,
+      "score": 0.624,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "within",
+      "start": 42.848,
+      "end": 43.428,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "3-10",
+      "start": 43.448,
+      "end": 43.808,
+      "score": 0.488,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years,",
+      "start": 43.868,
+      "end": 44.208,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "owing",
+      "start": 44.588,
+      "end": 44.808,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 44.868,
+      "end": 44.948,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "progressive",
+      "start": 45.008,
+      "end": 45.489,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heart",
+      "start": 45.549,
+      "end": 45.729,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "failure",
+      "start": 45.749,
+      "end": 46.089,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 46.249,
+      "end": 46.369,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cardiac",
+      "start": 46.449,
+      "end": 46.849,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "arrest.",
+      "start": 46.889,
+      "end": 47.269,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 47.429,
+      "end": 47.549,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "families",
+      "start": 47.649,
+      "end": 48.049,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 48.109,
+      "end": 48.229,
+      "score": 0.541,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 48.349,
+      "end": 48.429,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 48.469,
+      "end": 48.629,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "own",
+      "start": 48.749,
+      "end": 48.889,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "once",
+      "start": 49.009,
+      "end": 49.109,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 49.149,
+      "end": 49.289,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happens.",
+      "start": 49.329,
+      "end": 49.75,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 50.05,
+      "end": 50.41,
+      "score": 0.65,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 50.45,
+      "end": 50.59,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zero",
+      "start": 50.67,
+      "end": 51.01,
+      "score": 0.761,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "financial",
+      "start": 51.07,
+      "end": 51.47,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "responsibility",
+      "start": 51.53,
+      "end": 52.37,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 52.47,
+      "end": 52.59,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "any",
+      "start": 52.69,
+      "end": 52.85,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "adverse",
+      "start": 53.01,
+      "end": 53.35,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "effects",
+      "start": 53.41,
+      "end": 53.75,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 53.791,
+      "end": 53.911,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "its",
+      "start": 53.971,
+      "end": 54.051,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 54.091,
+      "end": 54.751,
+      "score": 0.679,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine.",
+      "start": 54.791,
+      "end": 55.311,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Children",
+      "start": 55.531,
+      "end": 55.911,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "already",
+      "start": 56.031,
+      "end": 56.351,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "injured",
+      "start": 56.451,
+      "end": 56.691,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 56.731,
+      "end": 56.831,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 56.871,
+      "end": 56.951,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 56.991,
+      "end": 57.311,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 57.331,
+      "end": 57.851,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 57.891,
+      "end": 58.011,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 58.172,
+      "end": 58.412,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 58.472,
+      "end": 58.632,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unable",
+      "start": 58.692,
+      "end": 59.072,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 59.092,
+      "end": 59.132,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 59.172,
+      "end": 59.312,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "government",
+      "start": 59.352,
+      "end": 59.752,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "aid.",
+      "start": 59.892,
+      "end": 60.072,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 60.452,
+      "end": 60.572,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 60.592,
+      "end": 60.792,
+      "score": 0.622,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 60.852,
+      "end": 61.052,
+      "score": 0.59,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 61.113,
+      "end": 61.253,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer's",
+      "start": 61.353,
+      "end": 61.733,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 61.753,
+      "end": 62.513,
+      "score": 0.626,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 62.553,
+      "end": 63.074,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 63.294,
+      "end": 63.474,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "impact",
+      "start": 63.534,
+      "end": 63.914,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fertility",
+      "start": 63.954,
+      "end": 64.475,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 64.595,
+      "end": 64.675,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "development.",
+      "start": 64.735,
+      "end": 65.295,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "No",
+      "start": 65.575,
+      "end": 65.735,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "human",
+      "start": 65.836,
+      "end": 66.156,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reproductive",
+      "start": 66.216,
+      "end": 66.836,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "toxicity",
+      "start": 66.876,
+      "end": 67.457,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data",
+      "start": 67.517,
+      "end": 67.817,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 68.037,
+      "end": 68.177,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 68.217,
+      "end": 68.377,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "published",
+      "start": 68.457,
+      "end": 68.837,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 68.857,
+      "end": 68.958,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "date.",
+      "start": 68.998,
+      "end": 69.258,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 69.718,
+      "end": 69.778,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 69.818,
+      "end": 69.958,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 69.998,
+      "end": 70.138,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "why",
+      "start": 70.198,
+      "end": 70.378,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 70.438,
+      "end": 70.519,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 70.579,
+      "end": 70.899,
+      "score": 0.716,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 70.939,
+      "end": 71.399,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interferes",
+      "start": 71.479,
+      "end": 71.939,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 71.959,
+      "end": 72.08,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 72.14,
+      "end": 72.18,
+      "score": 0.408,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "child's",
+      "start": 72.22,
+      "end": 72.56,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "healthy",
+      "start": 72.58,
+      "end": 72.9,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 72.94,
+      "end": 73.26,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "response",
+      "start": 73.3,
+      "end": 73.841,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 74.161,
+      "end": 74.261,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "increases",
+      "start": 74.361,
+      "end": 74.841,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 74.901,
+      "end": 75.001,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 75.061,
+      "end": 75.282,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 75.362,
+      "end": 75.422,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "developing",
+      "start": 75.482,
+      "end": 75.982,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "autoimmune",
+      "start": 76.082,
+      "end": 76.542,
+      "score": 0.558,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease.",
+      "start": 76.562,
+      "end": 77.023,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 77.403,
+      "end": 77.483,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 77.523,
+      "end": 77.703,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 77.763,
+      "end": 77.943,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 78.003,
+      "end": 78.283,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer's",
+      "start": 78.364,
+      "end": 78.764,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 78.804,
+      "end": 79.484,
+      "score": 0.673,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 79.524,
+      "end": 79.945,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trials",
+      "start": 79.985,
+      "end": 80.405,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 80.645,
+      "end": 80.785,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "5",
+      "start": 80.845,
+      "end": 81.105,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 81.145,
+      "end": 81.265,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "11",
+      "start": 81.486,
+      "end": 81.666,
+      "score": 0.624,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "year",
+      "start": 81.686,
+      "end": 81.826,
+      "score": 0.751,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "olds",
+      "start": 81.886,
+      "end": 82.046,
+      "score": 0.65,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tested",
+      "start": 82.246,
+      "end": 82.586,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 82.626,
+      "end": 82.706,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 82.746,
+      "end": 83.227,
+      "score": 0.694,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 83.327,
+      "end": 83.407,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fewer",
+      "start": 83.507,
+      "end": 83.767,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 83.787,
+      "end": 83.907,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2,500",
+      "start": 83.927,
+      "end": 84.107,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids.",
+      "start": 84.147,
+      "end": 84.287,
+      "score": 0.392,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 85.428,
+      "end": 85.528,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "observe",
+      "start": 85.588,
+      "end": 85.948,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 85.968,
+      "end": 86.129,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 86.169,
+      "end": 86.289,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "only",
+      "start": 86.389,
+      "end": 86.569,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two",
+      "start": 86.669,
+      "end": 86.889,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 86.929,
+      "end": 86.989,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "eight",
+      "start": 87.109,
+      "end": 87.249,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "weeks",
+      "start": 87.309,
+      "end": 87.53,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 87.63,
+      "end": 87.83,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccination.",
+      "start": 87.89,
+      "end": 88.53,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Such",
+      "start": 88.971,
+      "end": 89.171,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "underpowered",
+      "start": 89.311,
+      "end": 89.891,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trials",
+      "start": 89.931,
+      "end": 90.392,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 90.672,
+      "end": 90.852,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fail",
+      "start": 90.892,
+      "end": 91.172,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 91.232,
+      "end": 91.312,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "detect",
+      "start": 91.372,
+      "end": 91.733,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "many",
+      "start": 91.813,
+      "end": 92.053,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "signals.",
+      "start": 92.113,
+      "end": 92.513,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Vaccinating",
+      "start": 93.114,
+      "end": 93.734,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids",
+      "start": 93.794,
+      "end": 94.074,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 94.134,
+      "end": 94.235,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protect",
+      "start": 94.295,
+      "end": 94.615,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "adults",
+      "start": 94.695,
+      "end": 95.055,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 95.455,
+      "end": 95.596,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 95.656,
+      "end": 95.996,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "themselves",
+      "start": 96.056,
+      "end": 96.616,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 96.676,
+      "end": 96.876,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 96.957,
+      "end": 97.157,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 97.177,
+      "end": 97.257,
+      "score": 0.615,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protection",
+      "start": 97.297,
+      "end": 97.777,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "violates",
+      "start": 98.217,
+      "end": 98.658,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "basic",
+      "start": 98.738,
+      "end": 99.078,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "principles",
+      "start": 99.158,
+      "end": 99.578,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 99.618,
+      "end": 99.679,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ethics",
+      "start": 99.819,
+      "end": 100.099,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 100.159,
+      "end": 100.239,
+      "score": 0.436,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine.",
+      "start": 100.279,
+      "end": 100.699,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Besides,",
+      "start": 101.04,
+      "end": 101.6,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 101.94,
+      "end": 102.501,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individuals",
+      "start": 102.561,
+      "end": 103.141,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "already",
+      "start": 103.301,
+      "end": 103.641,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "transmit",
+      "start": 103.701,
+      "end": 104.102,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 104.142,
+      "end": 104.202,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus",
+      "start": 104.242,
+      "end": 104.622,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "readily.",
+      "start": 104.702,
+      "end": 105.083,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 105.423,
+      "end": 105.523,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 105.563,
+      "end": 105.763,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "possibly",
+      "start": 105.803,
+      "end": 106.263,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 106.323,
+      "end": 106.484,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what's",
+      "start": 106.524,
+      "end": 106.684,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 106.704,
+      "end": 106.904,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 106.924,
+      "end": 107.004,
+      "score": 0.516,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happen",
+      "start": 107.064,
+      "end": 107.344,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 107.384,
+      "end": 107.524,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 107.564,
+      "end": 107.644,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medium",
+      "start": 107.684,
+      "end": 108.025,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 108.165,
+      "end": 108.285,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long-term",
+      "start": 108.325,
+      "end": 108.785,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "effects",
+      "start": 108.805,
+      "end": 109.145,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 109.186,
+      "end": 109.246,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 109.306,
+      "end": 109.506,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 109.566,
+      "end": 110.066,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 110.146,
+      "end": 110.226,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children.",
+      "start": 110.286,
+      "end": 110.627,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 111.267,
+      "end": 111.367,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plan",
+      "start": 111.427,
+      "end": 111.628,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 111.688,
+      "end": 111.748,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 111.788,
+      "end": 111.868,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 111.948,
+      "end": 112.188,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 112.228,
+      "end": 112.309,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shots",
+      "start": 112.369,
+      "end": 112.629,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 112.669,
+      "end": 112.749,
+      "score": 0.659,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 112.789,
+      "end": 112.889,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids.",
+      "start": 112.929,
+      "end": 113.29,
+      "score": 0.97,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "During",
+      "start": 113.731,
+      "end": 113.971,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 113.991,
+      "end": 114.071,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "FDA's",
+      "start": 114.211,
+      "end": 114.612,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "review,",
+      "start": 114.672,
+      "end": 115.012,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 115.393,
+      "end": 115.553,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admitted",
+      "start": 115.613,
+      "end": 115.954,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this,",
+      "start": 115.994,
+      "end": 116.194,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 116.655,
+      "end": 116.815,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 116.855,
+      "end": 116.995,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 117.015,
+      "end": 117.255,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 117.295,
+      "end": 117.456,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 117.496,
+      "end": 117.576,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine's",
+      "start": 117.616,
+      "end": 118.177,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety",
+      "start": 118.237,
+      "end": 118.657,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "until",
+      "start": 118.898,
+      "end": 119.158,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 119.398,
+      "end": 119.659,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 119.779,
+      "end": 119.899,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids",
+      "start": 119.979,
+      "end": 120.32,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "take",
+      "start": 120.38,
+      "end": 120.64,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 120.68,
+      "end": 120.74,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "What?",
+      "start": 121.536,
+      "end": 121.816,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Dr.",
+      "start": 122.337,
+      "end": 122.657,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Eric",
+      "start": 122.777,
+      "end": 122.977,
+      "score": 0.594,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Rubin,",
+      "start": 123.037,
+      "end": 123.337,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 123.357,
+      "end": 123.497,
+      "score": 0.745,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sits",
+      "start": 123.557,
+      "end": 123.757,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 123.817,
+      "end": 123.878,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 123.898,
+      "end": 123.978,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "FDA",
+      "start": 124.138,
+      "end": 124.418,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "advisory",
+      "start": 124.458,
+      "end": 124.938,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "panel",
+      "start": 124.958,
+      "end": 125.278,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 125.459,
+      "end": 125.599,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rushed",
+      "start": 125.699,
+      "end": 125.899,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 125.919,
+      "end": 126.079,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 126.099,
+      "end": 126.159,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 126.179,
+      "end": 126.499,
+      "score": 0.659,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 126.539,
+      "end": 127.24,
+      "score": 0.675,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 127.28,
+      "end": 127.74,
+      "score": 0.684,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 127.8,
+      "end": 127.9,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 127.94,
+      "end": 128.3,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 128.42,
+      "end": 128.52,
+      "score": 0.556,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "young",
+      "start": 128.6,
+      "end": 128.781,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 128.841,
+      "end": 128.901,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "five,",
+      "start": 128.981,
+      "end": 129.321,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 129.661,
+      "end": 129.801,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 129.841,
+      "end": 130.101,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "clear",
+      "start": 130.181,
+      "end": 130.422,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 130.462,
+      "end": 130.662,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 130.702,
+      "end": 130.842,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ignorance",
+      "start": 130.922,
+      "end": 131.262,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 131.362,
+      "end": 131.462,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medium",
+      "start": 131.522,
+      "end": 131.902,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 131.963,
+      "end": 132.063,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long-term",
+      "start": 132.103,
+      "end": 132.603,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety.",
+      "start": 132.623,
+      "end": 132.983,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We're",
+      "start": 133.443,
+      "end": 133.604,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 133.644,
+      "end": 133.844,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 133.884,
+      "end": 134.084,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 134.124,
+      "end": 134.184,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "learn",
+      "start": 134.244,
+      "end": 134.424,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 134.464,
+      "end": 134.664,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 134.724,
+      "end": 134.864,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safe",
+      "start": 134.944,
+      "end": 135.164,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 135.185,
+      "end": 135.325,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 135.365,
+      "end": 135.805,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 135.985,
+      "end": 136.085,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unless",
+      "start": 136.485,
+      "end": 136.806,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 136.846,
+      "end": 136.966,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "start",
+      "start": 137.006,
+      "end": 137.226,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "giving",
+      "start": 137.266,
+      "end": 137.566,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 137.586,
+      "end": 137.646,
+      "score": 0.423,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 137.906,
+      "end": 138.106,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 138.146,
+      "end": 138.326,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 138.366,
+      "end": 138.447,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "way",
+      "start": 138.507,
+      "end": 138.687,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 138.727,
+      "end": 138.767,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "goes.",
+      "start": 138.847,
+      "end": 139.247,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 139.947,
+      "end": 140.188,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 140.348,
+      "end": 140.548,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 140.608,
+      "end": 140.788,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 140.828,
+      "end": 140.908,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "way",
+      "start": 140.928,
+      "end": 141.068,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 141.108,
+      "end": 141.148,
+      "score": 0.498,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "goes",
+      "start": 141.188,
+      "end": 141.408,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 141.448,
+      "end": 141.588,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 141.648,
+      "end": 141.749,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids.",
+      "start": 141.789,
+      "end": 142.149,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Join",
+      "start": 142.729,
+      "end": 143.009,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us.",
+      "start": 143.089,
+      "end": 143.189,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Oppose",
+      "start": 143.61,
+      "end": 143.91,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 143.93,
+      "end": 144.03,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "experimental",
+      "start": 144.09,
+      "end": 144.67,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 144.69,
+      "end": 145.071,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 145.091,
+      "end": 145.831,
+      "score": 0.675,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shots",
+      "start": 145.891,
+      "end": 146.171,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 146.271,
+      "end": 146.371,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 146.451,
+      "end": 146.852,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 147.212,
+      "end": 147.292,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vacsafety.org.",
+      "start": 147.392,
+      "end": 148.453,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

@@ -1,242 +1,1301 @@
 {
-  "text": " Bottom line is that as we go forward, the natural immunity is long, broad and durable. And I don't know if you mentioned it, but we have SARS-CoV-1 patients who still had immunity 18 years later. Let that sink in. 18 years later, we still had immunity from SARS-CoV-1 to SARS-CoV-2. This is long, broad, durable immunity. What I want to say in closing is natural immunity should be considered legally to be at least equal to vaccinated immunity. And immunity is likely lifelong. Thank you.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.36,
-      "text": " Bottom line is that as we go forward, the natural immunity is long, broad and durable.",
-      "tokens": [
-        50364,
-        38289,
-        1622,
-        307,
-        300,
-        382,
-        321,
-        352,
-        2128,
-        11,
-        264,
-        3303,
-        22701,
-        307,
-        938,
-        11,
-        4152,
-        293,
-        22308,
-        13,
-        50732
+      "start": 0.612,
+      "end": 6.702,
+      "text": " The bottom line is that as we go forward, the natural immunity is long, broad, and durable.",
+      "words": [
+        {
+          "word": "The",
+          "start": 0.612,
+          "end": 0.672,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bottom",
+          "start": 0.712,
+          "end": 0.973,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "line",
+          "start": 1.013,
+          "end": 1.233,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 1.313,
+          "end": 1.413,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 1.634,
+          "end": 1.834,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 2.134,
+          "end": 2.215,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 2.255,
+          "end": 2.395,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "go",
+          "start": 2.415,
+          "end": 2.595,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forward,",
+          "start": 2.675,
+          "end": 3.116,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.338,
+          "end": 4.478,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 4.578,
+          "end": 4.939,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 4.959,
+          "end": 5.32,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 5.38,
+          "end": 5.46,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long,",
+          "start": 5.54,
+          "end": 5.82,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "broad,",
+          "start": 5.861,
+          "end": 6.141,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 6.181,
+          "end": 6.261,
+          "score": 0.598,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "durable.",
+          "start": 6.281,
+          "end": 6.702,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16947736342748007,
-      "compression_ratio": 1.6546391752577319,
-      "no_speech_prob": 0.04440095275640488
+      "avg_logprob": -0.08374999657273292,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.36,
-      "end": 14.6,
-      "text": " And I don't know if you mentioned it, but we have SARS-CoV-1 patients who still had immunity 18 years later.",
-      "tokens": [
-        50732,
-        400,
-        286,
-        500,
-        380,
-        458,
-        498,
-        291,
-        2835,
-        309,
-        11,
-        457,
-        321,
-        362,
-        34233,
-        12,
-        21141,
-        53,
-        12,
-        16,
-        4209,
-        567,
-        920,
-        632,
-        22701,
-        2443,
-        924,
-        1780,
-        13,
-        51094
+      "start": 7.243,
+      "end": 13.753,
+      "text": "And I don't know if you mentioned it, but we have SARS-CoV-1 patients who still had immunity 18 years later.",
+      "words": [
+        {
+          "word": "And",
+          "start": 7.243,
+          "end": 7.343,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 7.443,
+          "end": 7.483,
+          "score": 0.543,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 7.503,
+          "end": 7.623,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 7.643,
+          "end": 7.724,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 7.744,
+          "end": 7.804,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 7.844,
+          "end": 7.944,
+          "score": 0.345,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mentioned",
+          "start": 7.984,
+          "end": 8.305,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it,",
+          "start": 8.325,
+          "end": 8.385,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 8.445,
+          "end": 8.565,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 8.605,
+          "end": 8.685,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 8.705,
+          "end": 8.825,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "SARS-CoV-1",
+          "start": 8.885,
+          "end": 9.887,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 9.927,
+          "end": 10.448,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 11.45,
+          "end": 11.63,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 11.73,
+          "end": 12.011,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 12.051,
+          "end": 12.311,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 12.451,
+          "end": 12.952,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "18",
+          "start": 12.972,
+          "end": 13.012,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years",
+          "start": 13.273,
+          "end": 13.413,
+          "score": 0.396,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later.",
+          "start": 13.433,
+          "end": 13.753,
+          "score": 0.607,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16947736342748007,
-      "compression_ratio": 1.6546391752577319,
-      "no_speech_prob": 0.04440095275640488
+      "avg_logprob": -0.08374999657273292,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 16.240000000000002,
-      "end": 17.2,
+      "start": 16.105,
+      "end": 16.925,
       "text": " Let that sink in.",
-      "tokens": [
-        51176,
-        961,
-        300,
-        9500,
-        294,
-        13,
-        51224
+      "words": [
+        {
+          "word": "Let",
+          "start": 16.105,
+          "end": 16.245,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 16.265,
+          "end": 16.425,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sink",
+          "start": 16.465,
+          "end": 16.705,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in.",
+          "start": 16.805,
+          "end": 16.925,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16947736342748007,
-      "compression_ratio": 1.6546391752577319,
-      "no_speech_prob": 0.04440095275640488
+      "avg_logprob": -0.06926716423370469,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 17.2,
-      "end": 23.0,
-      "text": " 18 years later, we still had immunity from SARS-CoV-1 to SARS-CoV-2.",
-      "tokens": [
-        51224,
-        2443,
-        924,
-        1780,
-        11,
-        321,
-        920,
-        632,
-        22701,
-        490,
-        34233,
-        12,
-        21141,
-        53,
-        12,
-        16,
-        281,
-        34233,
-        12,
-        21141,
-        53,
-        12,
-        17,
-        13,
-        51514
+      "start": 17.105,
+      "end": 22.088,
+      "text": "18 years later, we still had immunity from SARS-CoV-1 to SARS-CoV-2.",
+      "words": [
+        {
+          "word": "18",
+          "start": 17.105,
+          "end": 17.606,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years",
+          "start": 17.666,
+          "end": 17.926,
+          "score": 0.693,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later,",
+          "start": 18.026,
+          "end": 18.366,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 18.566,
+          "end": 18.706,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 18.746,
+          "end": 18.986,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 19.026,
+          "end": 19.246,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 19.266,
+          "end": 19.847,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 20.207,
+          "end": 20.347,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "SARS-CoV-1",
+          "start": 20.427,
+          "end": 20.987,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 21.187,
+          "end": 21.267,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "SARS-CoV-2.",
+          "start": 21.307,
+          "end": 22.088,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16947736342748007,
-      "compression_ratio": 1.6546391752577319,
-      "no_speech_prob": 0.04440095275640488
+      "avg_logprob": -0.06926716423370469,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 23.0,
-      "end": 24.8,
-      "text": " This is long, broad, durable immunity.",
-      "tokens": [
-        51514,
-        639,
-        307,
-        938,
-        11,
-        4152,
-        11,
-        22308,
-        22701,
-        13,
-        51604
+      "start": 22.848,
+      "end": 24.689,
+      "text": "This is long, broad, durable immunity.",
+      "words": [
+        {
+          "word": "This",
+          "start": 22.848,
+          "end": 23.028,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 23.128,
+          "end": 23.248,
+          "score": 0.644,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long,",
+          "start": 23.408,
+          "end": 23.688,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "broad,",
+          "start": 23.728,
+          "end": 23.948,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "durable",
+          "start": 23.988,
+          "end": 24.329,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity.",
+          "start": 24.349,
+          "end": 24.689,
+          "score": 0.606,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16947736342748007,
-      "compression_ratio": 1.6546391752577319,
-      "no_speech_prob": 0.04440095275640488
+      "avg_logprob": -0.06926716423370469,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2480,
-      "start": 24.8,
-      "end": 31.0,
-      "text": " What I want to say in closing is natural immunity should be considered legally to be at least equal to vaccinated immunity.",
-      "tokens": [
-        50364,
-        708,
-        286,
-        528,
-        281,
-        584,
-        294,
-        10377,
-        307,
-        3303,
-        22701,
-        820,
-        312,
-        4888,
-        21106,
-        281,
-        312,
-        412,
-        1935,
-        2681,
-        281,
-        14686,
-        22701,
-        13,
-        50674
+      "start": 24.709,
+      "end": 33.513,
+      "text": "So what I want to say in closing is natural immunity should be considered legally to be at least equal to vaccinated immunity, and immunity is likely lifelong.",
+      "words": [
+        {
+          "word": "So",
+          "start": 24.709,
+          "end": 24.869,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 24.989,
+          "end": 25.149,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 25.169,
+          "end": 25.209,
+          "score": 0.499,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 25.249,
+          "end": 25.409,
+          "score": 0.691,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 25.429,
+          "end": 25.489,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "say",
+          "start": 25.529,
+          "end": 25.649,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 25.689,
+          "end": 25.769,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "closing",
+          "start": 25.829,
+          "end": 26.269,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 26.389,
+          "end": 26.49,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 27.13,
+          "end": 27.43,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 27.45,
+          "end": 27.81,
+          "score": 0.564,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "should",
+          "start": 27.83,
+          "end": 27.99,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 28.01,
+          "end": 28.09,
+          "score": 0.563,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "considered",
+          "start": 28.13,
+          "end": 28.53,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "legally",
+          "start": 28.59,
+          "end": 28.911,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 28.931,
+          "end": 28.991,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 29.031,
+          "end": 29.111,
+          "score": 0.57,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 29.151,
+          "end": 29.211,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "least",
+          "start": 29.251,
+          "end": 29.511,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "equal",
+          "start": 29.651,
+          "end": 29.891,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 29.931,
+          "end": 30.031,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 30.111,
+          "end": 30.571,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity,",
+          "start": 30.591,
+          "end": 30.971,
+          "score": 0.57,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 31.011,
+          "end": 31.092,
+          "score": 0.421,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 31.152,
+          "end": 31.572,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 31.672,
+          "end": 31.752,
+          "score": 0.763,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "likely",
+          "start": 31.852,
+          "end": 32.372,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lifelong.",
+          "start": 32.872,
+          "end": 33.513,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2687563284849509,
-      "compression_ratio": 1.336,
-      "no_speech_prob": 0.3345119059085846
+      "avg_logprob": -0.06926716423370469,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2480,
-      "start": 31.0,
-      "end": 33.8,
-      "text": " And immunity is likely lifelong.",
-      "tokens": [
-        50674,
-        400,
-        22701,
-        307,
-        3700,
-        27232,
-        13,
-        50814
+      "start": 33.813,
+      "end": 34.173,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 33.813,
+          "end": 34.013,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you.",
+          "start": 34.053,
+          "end": 34.173,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2687563284849509,
-      "compression_ratio": 1.336,
-      "no_speech_prob": 0.3345119059085846
-    },
-    {
-      "id": 7,
-      "seek": 2480,
-      "start": 33.8,
-      "end": 34.8,
-      "text": " Thank you.",
-      "tokens": [
-        50814,
-        1044,
-        291,
-        13,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2687563284849509,
-      "compression_ratio": 1.336,
-      "no_speech_prob": 0.3345119059085846
+      "avg_logprob": -0.06926716423370469,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "The",
+      "start": 0.612,
+      "end": 0.672,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bottom",
+      "start": 0.712,
+      "end": 0.973,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "line",
+      "start": 1.013,
+      "end": 1.233,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 1.313,
+      "end": 1.413,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 1.634,
+      "end": 1.834,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 2.134,
+      "end": 2.215,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 2.255,
+      "end": 2.395,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "go",
+      "start": 2.415,
+      "end": 2.595,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forward,",
+      "start": 2.675,
+      "end": 3.116,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.338,
+      "end": 4.478,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 4.578,
+      "end": 4.939,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 4.959,
+      "end": 5.32,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 5.38,
+      "end": 5.46,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long,",
+      "start": 5.54,
+      "end": 5.82,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "broad,",
+      "start": 5.861,
+      "end": 6.141,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 6.181,
+      "end": 6.261,
+      "score": 0.598,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "durable.",
+      "start": 6.281,
+      "end": 6.702,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 7.243,
+      "end": 7.343,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 7.443,
+      "end": 7.483,
+      "score": 0.543,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 7.503,
+      "end": 7.623,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 7.643,
+      "end": 7.724,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 7.744,
+      "end": 7.804,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 7.844,
+      "end": 7.944,
+      "score": 0.345,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mentioned",
+      "start": 7.984,
+      "end": 8.305,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it,",
+      "start": 8.325,
+      "end": 8.385,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 8.445,
+      "end": 8.565,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 8.605,
+      "end": 8.685,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 8.705,
+      "end": 8.825,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "SARS-CoV-1",
+      "start": 8.885,
+      "end": 9.887,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 9.927,
+      "end": 10.448,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 11.45,
+      "end": 11.63,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 11.73,
+      "end": 12.011,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 12.051,
+      "end": 12.311,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 12.451,
+      "end": 12.952,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "18",
+      "start": 12.972,
+      "end": 13.012,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years",
+      "start": 13.273,
+      "end": 13.413,
+      "score": 0.396,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later.",
+      "start": 13.433,
+      "end": 13.753,
+      "score": 0.607,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Let",
+      "start": 16.105,
+      "end": 16.245,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 16.265,
+      "end": 16.425,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sink",
+      "start": 16.465,
+      "end": 16.705,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in.",
+      "start": 16.805,
+      "end": 16.925,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "18",
+      "start": 17.105,
+      "end": 17.606,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years",
+      "start": 17.666,
+      "end": 17.926,
+      "score": 0.693,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later,",
+      "start": 18.026,
+      "end": 18.366,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 18.566,
+      "end": 18.706,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 18.746,
+      "end": 18.986,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 19.026,
+      "end": 19.246,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 19.266,
+      "end": 19.847,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 20.207,
+      "end": 20.347,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "SARS-CoV-1",
+      "start": 20.427,
+      "end": 20.987,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 21.187,
+      "end": 21.267,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "SARS-CoV-2.",
+      "start": 21.307,
+      "end": 22.088,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 22.848,
+      "end": 23.028,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 23.128,
+      "end": 23.248,
+      "score": 0.644,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long,",
+      "start": 23.408,
+      "end": 23.688,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "broad,",
+      "start": 23.728,
+      "end": 23.948,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "durable",
+      "start": 23.988,
+      "end": 24.329,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity.",
+      "start": 24.349,
+      "end": 24.689,
+      "score": 0.606,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 24.709,
+      "end": 24.869,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 24.989,
+      "end": 25.149,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 25.169,
+      "end": 25.209,
+      "score": 0.499,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 25.249,
+      "end": 25.409,
+      "score": 0.691,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 25.429,
+      "end": 25.489,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "say",
+      "start": 25.529,
+      "end": 25.649,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 25.689,
+      "end": 25.769,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "closing",
+      "start": 25.829,
+      "end": 26.269,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 26.389,
+      "end": 26.49,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 27.13,
+      "end": 27.43,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 27.45,
+      "end": 27.81,
+      "score": 0.564,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "should",
+      "start": 27.83,
+      "end": 27.99,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 28.01,
+      "end": 28.09,
+      "score": 0.563,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "considered",
+      "start": 28.13,
+      "end": 28.53,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "legally",
+      "start": 28.59,
+      "end": 28.911,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 28.931,
+      "end": 28.991,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 29.031,
+      "end": 29.111,
+      "score": 0.57,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 29.151,
+      "end": 29.211,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "least",
+      "start": 29.251,
+      "end": 29.511,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "equal",
+      "start": 29.651,
+      "end": 29.891,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 29.931,
+      "end": 30.031,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 30.111,
+      "end": 30.571,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity,",
+      "start": 30.591,
+      "end": 30.971,
+      "score": 0.57,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 31.011,
+      "end": 31.092,
+      "score": 0.421,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 31.152,
+      "end": 31.572,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 31.672,
+      "end": 31.752,
+      "score": 0.763,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "likely",
+      "start": 31.852,
+      "end": 32.372,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lifelong.",
+      "start": 32.872,
+      "end": 33.513,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Thank",
+      "start": 33.813,
+      "end": 34.013,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you.",
+      "start": 34.053,
+      "end": 34.173,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

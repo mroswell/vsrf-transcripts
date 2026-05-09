@@ -1,191 +1,1144 @@
 {
-  "text": " And this may have something to do, so not only is the vaccine efficacy waning, but the multiple jab strategy is actually creating more and more windows where people have this period of T cell suppression. So there's a whole lot in this box of immunology and what are the jabs doing to our immune system and how long does it last that is, let's say, gently a little worrisome to some of us that have a back real in these things.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.34,
-      "text": " And this may have something to do, so not only is the vaccine efficacy waning, but the",
-      "tokens": [
-        50364,
-        400,
-        341,
-        815,
-        362,
-        746,
-        281,
-        360,
-        11,
-        370,
-        406,
-        787,
-        307,
-        264,
-        7007,
-        33492,
-        261,
-        8415,
-        11,
-        457,
-        264,
-        50731
+      "start": 0.772,
+      "end": 14.89,
+      "text": " And this may have something to do, so not only is the vaccine efficacy waning, but the multiple jab strategy is actually creating more and more windows where people have this period of T-cell suppression.",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.772,
+          "end": 0.872,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 0.912,
+          "end": 1.092,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "may",
+          "start": 1.192,
+          "end": 1.353,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 1.393,
+          "end": 1.533,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "something",
+          "start": 1.593,
+          "end": 1.913,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 1.953,
+          "end": 2.034,
+          "score": 0.556,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do,",
+          "start": 2.094,
+          "end": 2.374,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 3.115,
+          "end": 3.275,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 3.335,
+          "end": 3.535,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "only",
+          "start": 3.636,
+          "end": 3.916,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 4.096,
+          "end": 4.196,
+          "score": 0.684,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.256,
+          "end": 4.336,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 4.397,
+          "end": 4.917,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "efficacy",
+          "start": 5.017,
+          "end": 5.578,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "waning,",
+          "start": 5.678,
+          "end": 6.139,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 7.06,
+          "end": 7.22,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 7.28,
+          "end": 7.38,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "multiple",
+          "start": 7.46,
+          "end": 7.941,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "jab",
+          "start": 8.001,
+          "end": 8.402,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "strategy",
+          "start": 8.462,
+          "end": 9.082,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 9.543,
+          "end": 9.623,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 9.723,
+          "end": 10.004,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "creating",
+          "start": 10.104,
+          "end": 10.524,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 10.584,
+          "end": 10.805,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 10.845,
+          "end": 10.925,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 10.965,
+          "end": 11.145,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "windows",
+          "start": 11.245,
+          "end": 11.746,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 12.266,
+          "end": 12.447,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 12.487,
+          "end": 12.827,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 12.867,
+          "end": 13.088,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 13.128,
+          "end": 13.268,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "period",
+          "start": 13.348,
+          "end": 13.688,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 13.708,
+          "end": 13.768,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "T-cell",
+          "start": 13.848,
+          "end": 14.329,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "suppression.",
+          "start": 14.349,
+          "end": 14.89,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12657547990481058,
-      "compression_ratio": 1.5916666666666666,
-      "no_speech_prob": 0.02194429375231266
+      "avg_logprob": -0.09509858471297082,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.34,
-      "end": 13.200000000000001,
-      "text": " multiple jab strategy is actually creating more and more windows where people have this",
-      "tokens": [
-        50731,
-        3866,
-        33475,
-        5206,
-        307,
-        767,
-        4084,
-        544,
-        293,
-        544,
-        9309,
-        689,
-        561,
-        362,
-        341,
-        51024
+      "start": 16.139,
+      "end": 30.702,
+      "text": " So there's a whole lot in this box of immunology and what are the jabs doing to our immune system and how long does it last that is, let's say gently, a little worrisome to some of us that have a background in these things.",
+      "words": [
+        {
+          "word": "So",
+          "start": 16.139,
+          "end": 16.34,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there's",
+          "start": 16.46,
+          "end": 16.661,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 16.701,
+          "end": 16.741,
+          "score": 0.498,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole",
+          "start": 16.821,
+          "end": 17.082,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 17.182,
+          "end": 17.443,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 17.784,
+          "end": 17.884,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 18.225,
+          "end": 18.406,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "box",
+          "start": 18.506,
+          "end": 18.887,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 19.228,
+          "end": 19.328,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunology",
+          "start": 19.93,
+          "end": 20.652,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 21.053,
+          "end": 21.134,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 21.174,
+          "end": 21.274,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 21.294,
+          "end": 21.374,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 21.394,
+          "end": 21.455,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "jabs",
+          "start": 21.495,
+          "end": 21.856,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doing",
+          "start": 21.956,
+          "end": 22.217,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 22.277,
+          "end": 22.377,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 22.458,
+          "end": 22.538,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 22.558,
+          "end": 22.879,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system",
+          "start": 22.919,
+          "end": 23.3,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 23.661,
+          "end": 23.761,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 23.822,
+          "end": 23.962,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long",
+          "start": 24.002,
+          "end": 24.243,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "does",
+          "start": 24.283,
+          "end": 24.423,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 24.483,
+          "end": 24.544,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "last",
+          "start": 24.624,
+          "end": 25.085,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 25.707,
+          "end": 25.867,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is,",
+          "start": 25.968,
+          "end": 26.088,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "let's",
+          "start": 26.73,
+          "end": 26.931,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "say",
+          "start": 26.971,
+          "end": 27.151,
+          "score": 0.683,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gently,",
+          "start": 27.231,
+          "end": 27.653,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 27.773,
+          "end": 27.793,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "little",
+          "start": 27.853,
+          "end": 28.054,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "worrisome",
+          "start": 28.094,
+          "end": 28.595,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 28.656,
+          "end": 28.776,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "some",
+          "start": 28.836,
+          "end": 29.017,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 29.057,
+          "end": 29.117,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 29.197,
+          "end": 29.297,
+          "score": 0.692,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 29.338,
+          "end": 29.478,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 29.518,
+          "end": 29.658,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 29.699,
+          "end": 29.719,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "background",
+          "start": 29.759,
+          "end": 30.16,
+          "score": 0.501,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 30.18,
+          "end": 30.26,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 30.28,
+          "end": 30.421,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "things.",
+          "start": 30.461,
+          "end": 30.702,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12657547990481058,
-      "compression_ratio": 1.5916666666666666,
-      "no_speech_prob": 0.02194429375231266
-    },
-    {
-      "id": 2,
-      "seek": 0,
-      "start": 13.200000000000001,
-      "end": 16.240000000000002,
-      "text": " period of T cell suppression.",
-      "tokens": [
-        51024,
-        2896,
-        295,
-        314,
-        2815,
-        36807,
-        13,
-        51176
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12657547990481058,
-      "compression_ratio": 1.5916666666666666,
-      "no_speech_prob": 0.02194429375231266
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 16.240000000000002,
-      "end": 22.76,
-      "text": " So there's a whole lot in this box of immunology and what are the jabs doing to our immune",
-      "tokens": [
-        51176,
-        407,
-        456,
-        311,
-        257,
-        1379,
-        688,
-        294,
-        341,
-        2424,
-        295,
-        13154,
-        1793,
-        293,
-        437,
-        366,
-        264,
-        361,
-        17243,
-        884,
-        281,
-        527,
-        11992,
-        51502
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12657547990481058,
-      "compression_ratio": 1.5916666666666666,
-      "no_speech_prob": 0.02194429375231266
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 22.76,
-      "end": 28.96,
-      "text": " system and how long does it last that is, let's say, gently a little worrisome to some",
-      "tokens": [
-        51502,
-        1185,
-        293,
-        577,
-        938,
-        775,
-        309,
-        1036,
-        300,
-        307,
-        11,
-        718,
-        311,
-        584,
-        11,
-        13073,
-        257,
-        707,
-        469,
-        5714,
-        423,
-        281,
-        512,
-        51812
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12657547990481058,
-      "compression_ratio": 1.5916666666666666,
-      "no_speech_prob": 0.02194429375231266
-    },
-    {
-      "id": 5,
-      "seek": 2896,
-      "start": 28.96,
-      "end": 30.8,
-      "text": " of us that have a back real in these things.",
-      "tokens": [
-        50364,
-        295,
-        505,
-        300,
-        362,
-        257,
-        646,
-        957,
-        294,
-        613,
-        721,
-        13,
-        50456
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5314459460122245,
-      "compression_ratio": 0.8979591836734694,
-      "no_speech_prob": 0.707101047039032
+      "avg_logprob": -0.05710227435285395,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "And",
+      "start": 0.772,
+      "end": 0.872,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 0.912,
+      "end": 1.092,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "may",
+      "start": 1.192,
+      "end": 1.353,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 1.393,
+      "end": 1.533,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "something",
+      "start": 1.593,
+      "end": 1.913,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 1.953,
+      "end": 2.034,
+      "score": 0.556,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do,",
+      "start": 2.094,
+      "end": 2.374,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 3.115,
+      "end": 3.275,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 3.335,
+      "end": 3.535,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "only",
+      "start": 3.636,
+      "end": 3.916,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 4.096,
+      "end": 4.196,
+      "score": 0.684,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.256,
+      "end": 4.336,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 4.397,
+      "end": 4.917,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "efficacy",
+      "start": 5.017,
+      "end": 5.578,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "waning,",
+      "start": 5.678,
+      "end": 6.139,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 7.06,
+      "end": 7.22,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 7.28,
+      "end": 7.38,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "multiple",
+      "start": 7.46,
+      "end": 7.941,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "jab",
+      "start": 8.001,
+      "end": 8.402,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "strategy",
+      "start": 8.462,
+      "end": 9.082,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 9.543,
+      "end": 9.623,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 9.723,
+      "end": 10.004,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "creating",
+      "start": 10.104,
+      "end": 10.524,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 10.584,
+      "end": 10.805,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 10.845,
+      "end": 10.925,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 10.965,
+      "end": 11.145,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "windows",
+      "start": 11.245,
+      "end": 11.746,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 12.266,
+      "end": 12.447,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 12.487,
+      "end": 12.827,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 12.867,
+      "end": 13.088,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 13.128,
+      "end": 13.268,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "period",
+      "start": 13.348,
+      "end": 13.688,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 13.708,
+      "end": 13.768,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "T-cell",
+      "start": 13.848,
+      "end": 14.329,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "suppression.",
+      "start": 14.349,
+      "end": 14.89,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 16.139,
+      "end": 16.34,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there's",
+      "start": 16.46,
+      "end": 16.661,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 16.701,
+      "end": 16.741,
+      "score": 0.498,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole",
+      "start": 16.821,
+      "end": 17.082,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 17.182,
+      "end": 17.443,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 17.784,
+      "end": 17.884,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 18.225,
+      "end": 18.406,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "box",
+      "start": 18.506,
+      "end": 18.887,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 19.228,
+      "end": 19.328,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunology",
+      "start": 19.93,
+      "end": 20.652,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 21.053,
+      "end": 21.134,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 21.174,
+      "end": 21.274,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 21.294,
+      "end": 21.374,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 21.394,
+      "end": 21.455,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "jabs",
+      "start": 21.495,
+      "end": 21.856,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doing",
+      "start": 21.956,
+      "end": 22.217,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 22.277,
+      "end": 22.377,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 22.458,
+      "end": 22.538,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 22.558,
+      "end": 22.879,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system",
+      "start": 22.919,
+      "end": 23.3,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 23.661,
+      "end": 23.761,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 23.822,
+      "end": 23.962,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long",
+      "start": 24.002,
+      "end": 24.243,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "does",
+      "start": 24.283,
+      "end": 24.423,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 24.483,
+      "end": 24.544,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "last",
+      "start": 24.624,
+      "end": 25.085,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 25.707,
+      "end": 25.867,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is,",
+      "start": 25.968,
+      "end": 26.088,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "let's",
+      "start": 26.73,
+      "end": 26.931,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "say",
+      "start": 26.971,
+      "end": 27.151,
+      "score": 0.683,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gently,",
+      "start": 27.231,
+      "end": 27.653,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 27.773,
+      "end": 27.793,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "little",
+      "start": 27.853,
+      "end": 28.054,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "worrisome",
+      "start": 28.094,
+      "end": 28.595,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 28.656,
+      "end": 28.776,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "some",
+      "start": 28.836,
+      "end": 29.017,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 29.057,
+      "end": 29.117,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 29.197,
+      "end": 29.297,
+      "score": 0.692,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 29.338,
+      "end": 29.478,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 29.518,
+      "end": 29.658,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 29.699,
+      "end": 29.719,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "background",
+      "start": 29.759,
+      "end": 30.16,
+      "score": 0.501,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 30.18,
+      "end": 30.26,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 30.28,
+      "end": 30.421,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "things.",
+      "start": 30.461,
+      "end": 30.702,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

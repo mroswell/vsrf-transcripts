@@ -1,1432 +1,5944 @@
 {
-  "text": " So this is very interesting. I love this question because a lot of people are optimistic because it's a more traditional killed protein type vaccine, Lovivac. It's a killed protein. It's generated in moth cells and culture, which is interesting. We've never been able to vaccinate against the coronavirus. This family of viruses, for a very good reason, because they have a slow mutational drift constantly. Same reason we don't have a vaccine against the common cold. Same reason 40 years later, we don't have an HIV vaccine. The spike on the HIV virus is similar, different, but same concept. They mutationally drift over time. So if you look at SARS-CoV-1, they use dead proteins in those studies in the animal models. And it was a dead spike. I mean, it's an inert protein. It's not an active protein. You developed antibodies in an immune response against it. But when re-exposed to a wild type variant of the virus a couple months later, now you got a hyperimmune reaction to it. These never really made it into humans because that's called antibody dependent enhancement. You recognize one pattern just enough to wear down the road and antibody is forever. A good one is great. A bad one is not a good idea. And so that protein on SARS-CoV-1 drifted just enough that in the animal models, they were hyperimmune down the road. Now think about Novavax. You have an inert protein, still a spike model. What did we look from those other things? The spike is toxic. You're not generating it through your own body. Now your body's not making it. But your immune system is going to remember this spike and you're gonna have an antibody. Great. Until along comes mu or psi or zeta and the shape is different. Now those antibodies you developed from this spike protein, instead of binding and neutralizing and clearing and mopping up virus down the road, they bind, they don't neutralize. And when you have binding, non-neutralizing antibodies, now they can trojan horse the virus into your immune cells, overtake your immune system. And actually you get worse disease faster and a higher risk of death. The Novavax is cool in concept if this were another family of viruses. This is not. This is a coronavirus family. They've been primed with an antibody that at first seems great, but down the road becomes your enemy.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 1.2,
+      "start": 0.091,
+      "end": 1.212,
       "text": " So this is very interesting.",
-      "tokens": [
-        50364,
-        407,
-        341,
-        307,
-        588,
-        1880,
-        13,
-        50424
+      "words": [
+        {
+          "word": "So",
+          "start": 0.091,
+          "end": 0.211,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 0.251,
+          "end": 0.371,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 0.431,
+          "end": 0.511,
+          "score": 0.529,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 0.551,
+          "end": 0.731,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interesting.",
+          "start": 0.771,
+          "end": 1.212,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.08779762037807987,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 1.2,
-      "end": 4.04,
-      "text": " I love this question because a lot of people are optimistic",
-      "tokens": [
-        50424,
-        286,
-        959,
-        341,
-        1168,
-        570,
-        257,
-        688,
-        295,
-        561,
-        366,
-        19397,
-        50566
+      "start": 1.252,
+      "end": 7.735,
+      "text": "I love this question because a lot of people are optimistic because it's a more traditional killed protein type vaccine, Novavax.",
+      "words": [
+        {
+          "word": "I",
+          "start": 1.252,
+          "end": 1.292,
+          "score": 0.494,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "love",
+          "start": 1.372,
+          "end": 1.552,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 1.572,
+          "end": 1.712,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "question",
+          "start": 1.772,
+          "end": 2.252,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 2.452,
+          "end": 2.692,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 2.752,
+          "end": 2.772,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 2.812,
+          "end": 2.953,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 2.973,
+          "end": 3.013,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 3.053,
+          "end": 3.253,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 3.293,
+          "end": 3.373,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "optimistic",
+          "start": 3.453,
+          "end": 3.953,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 3.973,
+          "end": 4.153,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 4.173,
+          "end": 4.313,
+          "score": 0.631,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 4.333,
+          "end": 4.353,
+          "score": 0.97,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 4.393,
+          "end": 4.573,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "traditional",
+          "start": 4.653,
+          "end": 5.294,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "killed",
+          "start": 5.394,
+          "end": 5.614,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protein",
+          "start": 5.754,
+          "end": 6.134,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "type",
+          "start": 6.154,
+          "end": 6.374,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine,",
+          "start": 6.394,
+          "end": 6.935,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Novavax.",
+          "start": 7.215,
+          "end": 7.735,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.08779762037807987,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 4.04,
-      "end": 5.36,
-      "text": " because it's a more traditional",
-      "tokens": [
-        50566,
-        570,
-        309,
-        311,
-        257,
-        544,
-        5164,
-        50632
+      "start": 8.115,
+      "end": 9.336,
+      "text": "It's a killed protein.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 8.115,
+          "end": 8.235,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 8.295,
+          "end": 8.315,
+          "score": 0.689,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "killed",
+          "start": 8.375,
+          "end": 8.595,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protein.",
+          "start": 8.655,
+          "end": 9.336,
+          "score": 0.636,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.08779762037807987,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 5.36,
-      "end": 7.8,
-      "text": " killed protein type vaccine, Lovivac.",
-      "tokens": [
-        50632,
-        4652,
-        7944,
-        2010,
-        7007,
-        11,
-        441,
-        5179,
-        592,
-        326,
-        13,
-        50754
+      "start": 9.496,
+      "end": 12.998,
+      "text": "It's generated in moth cells and culture, which is interesting.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 9.496,
+          "end": 9.676,
+          "score": 0.718,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "generated",
+          "start": 9.896,
+          "end": 10.416,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 10.476,
+          "end": 10.576,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "moth",
+          "start": 10.677,
+          "end": 10.997,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cells",
+          "start": 11.077,
+          "end": 11.477,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 11.557,
+          "end": 11.637,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "culture,",
+          "start": 11.737,
+          "end": 12.177,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 12.237,
+          "end": 12.377,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 12.437,
+          "end": 12.517,
+          "score": 0.692,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interesting.",
+          "start": 12.557,
+          "end": 12.998,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.08779762037807987,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 7.8,
-      "end": 9.36,
-      "text": " It's a killed protein.",
-      "tokens": [
-        50754,
-        467,
-        311,
-        257,
-        4652,
-        7944,
-        13,
-        50832
+      "start": 13.178,
+      "end": 16.419,
+      "text": "We've never been able to vaccinate against the coronavirus.",
+      "words": [
+        {
+          "word": "We've",
+          "start": 13.178,
+          "end": 13.358,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 13.418,
+          "end": 13.658,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 13.738,
+          "end": 13.918,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "able",
+          "start": 13.998,
+          "end": 14.198,
+          "score": 0.643,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 14.238,
+          "end": 14.298,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinate",
+          "start": 14.358,
+          "end": 14.899,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 15.019,
+          "end": 15.339,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 15.419,
+          "end": 15.499,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "coronavirus.",
+          "start": 15.559,
+          "end": 16.419,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.08779762037807987,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 9.36,
-      "end": 12.200000000000001,
-      "text": " It's generated in moth cells and culture,",
-      "tokens": [
-        50832,
-        467,
-        311,
-        10833,
-        294,
-        275,
-        900,
-        5438,
-        293,
-        3713,
-        11,
-        50974
+      "start": 16.78,
+      "end": 22.783,
+      "text": "This family of viruses for a very good reason because they have a slow mutational drift constantly.",
+      "words": [
+        {
+          "word": "This",
+          "start": 16.78,
+          "end": 16.94,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "family",
+          "start": 17.04,
+          "end": 17.4,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 17.42,
+          "end": 17.48,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "viruses",
+          "start": 17.5,
+          "end": 18.0,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 18.14,
+          "end": 18.3,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 18.32,
+          "end": 18.361,
+          "score": 0.492,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 18.461,
+          "end": 18.681,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "good",
+          "start": 18.721,
+          "end": 18.881,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reason",
+          "start": 18.941,
+          "end": 19.261,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 19.461,
+          "end": 19.801,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 19.881,
+          "end": 20.101,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 20.181,
+          "end": 20.422,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 20.462,
+          "end": 20.482,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "slow",
+          "start": 20.582,
+          "end": 20.902,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mutational",
+          "start": 20.942,
+          "end": 21.582,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drift",
+          "start": 21.682,
+          "end": 21.982,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "constantly.",
+          "start": 22.082,
+          "end": 22.783,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.08779762037807987,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 12.200000000000001,
-      "end": 13.16,
-      "text": " which is interesting.",
-      "tokens": [
-        50974,
-        597,
-        307,
-        1880,
-        13,
-        51022
+      "start": 23.383,
+      "end": 26.184,
+      "text": " Same reason we don't have a vaccine against the common cold.",
+      "words": [
+        {
+          "word": "Same",
+          "start": 23.383,
+          "end": 23.563,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reason",
+          "start": 23.603,
+          "end": 23.843,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 23.883,
+          "end": 23.983,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 24.023,
+          "end": 24.243,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 24.304,
+          "end": 24.564,
+          "score": 0.691,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 24.604,
+          "end": 24.644,
+          "score": 0.045,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 24.684,
+          "end": 25.104,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 25.144,
+          "end": 25.404,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 25.444,
+          "end": 25.524,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "common",
+          "start": 25.544,
+          "end": 25.864,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cold.",
+          "start": 25.924,
+          "end": 26.184,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 13.16,
-      "end": 16.7,
-      "text": " We've never been able to vaccinate against the coronavirus.",
-      "tokens": [
-        51022,
-        492,
-        600,
-        1128,
-        668,
-        1075,
-        281,
-        3900,
-        13923,
-        1970,
-        264,
-        13043,
-        13,
-        51199
+      "start": 26.625,
+      "end": 29.886,
+      "text": "Same reason 40 years later, we don't have an HIV vaccine.",
+      "words": [
+        {
+          "word": "Same",
+          "start": 26.625,
+          "end": 26.825,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reason",
+          "start": 26.885,
+          "end": 27.165,
+          "score": 0.719,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "40",
+          "start": 27.365,
+          "end": 27.685,
+          "score": 0.648,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years",
+          "start": 27.705,
+          "end": 27.945,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later,",
+          "start": 28.005,
+          "end": 28.265,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 28.305,
+          "end": 28.385,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 28.425,
+          "end": 28.565,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 28.605,
+          "end": 28.745,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 28.806,
+          "end": 28.926,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "HIV",
+          "start": 29.026,
+          "end": 29.266,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine.",
+          "start": 29.326,
+          "end": 29.886,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 16.7,
-      "end": 19.44,
-      "text": " This family of viruses, for a very good reason,",
-      "tokens": [
-        51199,
-        639,
-        1605,
-        295,
-        21785,
-        11,
-        337,
-        257,
-        588,
-        665,
-        1778,
-        11,
-        51336
+      "start": 30.366,
+      "end": 34.608,
+      "text": "The spike on the HIV virus is similar, different, but same concept.",
+      "words": [
+        {
+          "word": "The",
+          "start": 30.366,
+          "end": 30.486,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spike",
+          "start": 30.526,
+          "end": 30.826,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 30.926,
+          "end": 31.006,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 31.047,
+          "end": 31.267,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "HIV",
+          "start": 31.687,
+          "end": 31.927,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus",
+          "start": 31.947,
+          "end": 32.307,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 32.407,
+          "end": 32.507,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "similar,",
+          "start": 32.727,
+          "end": 33.107,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "different,",
+          "start": 33.167,
+          "end": 33.528,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 33.588,
+          "end": 33.728,
+          "score": 0.425,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "same",
+          "start": 33.848,
+          "end": 34.048,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concept.",
+          "start": 34.088,
+          "end": 34.608,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 0,
-      "start": 19.44,
-      "end": 23.28,
-      "text": " because they have a slow mutational drift constantly.",
-      "tokens": [
-        51336,
-        570,
-        436,
-        362,
-        257,
-        2964,
-        5839,
-        1478,
-        19699,
-        6460,
-        13,
-        51528
+      "start": 35.148,
+      "end": 37.029,
+      "text": "They mutationally drift over time.",
+      "words": [
+        {
+          "word": "They",
+          "start": 35.148,
+          "end": 35.268,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mutationally",
+          "start": 35.328,
+          "end": 36.089,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drift",
+          "start": 36.169,
+          "end": 36.469,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over",
+          "start": 36.509,
+          "end": 36.669,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time.",
+          "start": 36.729,
+          "end": 37.029,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 0,
-      "start": 23.28,
-      "end": 25.16,
-      "text": " Same reason we don't have a vaccine",
-      "tokens": [
-        51528,
-        10635,
-        1778,
-        321,
-        500,
-        380,
-        362,
-        257,
-        7007,
-        51622
+      "start": 37.389,
+      "end": 44.613,
+      "text": "So if you look at SARS-CoV-1, they used dead proteins in those studies in the animal models, and it was a dead spike.",
+      "words": [
+        {
+          "word": "So",
+          "start": 37.389,
+          "end": 37.549,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 37.649,
+          "end": 37.709,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 37.73,
+          "end": 37.83,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "look",
+          "start": 37.87,
+          "end": 38.01,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 38.05,
+          "end": 38.09,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "SARS-CoV-1,",
+          "start": 38.13,
+          "end": 39.03,
+          "score": 0.691,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 39.79,
+          "end": 39.91,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "used",
+          "start": 40.011,
+          "end": 40.171,
+          "score": 0.601,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dead",
+          "start": 40.231,
+          "end": 40.411,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "proteins",
+          "start": 40.451,
+          "end": 40.931,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 40.991,
+          "end": 41.051,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 41.091,
+          "end": 41.251,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies",
+          "start": 41.291,
+          "end": 41.651,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 42.212,
+          "end": 42.452,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 42.692,
+          "end": 42.752,
+          "score": 0.663,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "animal",
+          "start": 42.872,
+          "end": 43.152,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "models,",
+          "start": 43.192,
+          "end": 43.532,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 43.592,
+          "end": 43.692,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 43.712,
+          "end": 43.752,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 43.772,
+          "end": 43.872,
+          "score": 0.3,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 43.912,
+          "end": 43.932,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dead",
+          "start": 43.992,
+          "end": 44.212,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spike.",
+          "start": 44.292,
+          "end": 44.613,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 0,
-      "start": 25.16,
-      "end": 26.560000000000002,
-      "text": " against the common cold.",
-      "tokens": [
-        51622,
-        1970,
-        264,
-        2689,
-        3554,
-        13,
-        51692
+      "start": 44.673,
+      "end": 46.413,
+      "text": "I mean, it's an inert protein.",
+      "words": [
+        {
+          "word": "I",
+          "start": 44.673,
+          "end": 44.713,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mean,",
+          "start": 44.733,
+          "end": 45.093,
+          "score": 0.572,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 45.213,
+          "end": 45.333,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 45.353,
+          "end": 45.413,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inert",
+          "start": 45.493,
+          "end": 45.793,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protein.",
+          "start": 45.833,
+          "end": 46.413,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1834302062988281,
-      "compression_ratio": 1.7462686567164178,
-      "no_speech_prob": 0.012141288258135319
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 2656,
-      "start": 26.599999999999998,
-      "end": 30.36,
-      "text": " Same reason 40 years later, we don't have an HIV vaccine.",
-      "tokens": [
-        50366,
-        10635,
-        1778,
-        3356,
-        924,
-        1780,
-        11,
-        321,
-        500,
-        380,
-        362,
-        364,
-        15907,
-        7007,
-        13,
-        50554
+      "start": 46.573,
+      "end": 48.034,
+      "text": "It's not an active protein.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 46.573,
+          "end": 46.794,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 46.894,
+          "end": 47.054,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 47.094,
+          "end": 47.154,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "active",
+          "start": 47.294,
+          "end": 47.554,
+          "score": 0.508,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protein.",
+          "start": 47.614,
+          "end": 48.034,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 2656,
-      "start": 30.36,
-      "end": 33.6,
-      "text": " The spike on the HIV virus is similar, different,",
-      "tokens": [
-        50554,
-        440,
-        21053,
-        322,
-        264,
-        15907,
-        5752,
-        307,
-        2531,
-        11,
-        819,
-        11,
-        50716
+      "start": 48.414,
+      "end": 51.476,
+      "text": "You developed antibodies and an immune response against it.",
+      "words": [
+        {
+          "word": "You",
+          "start": 48.414,
+          "end": 48.834,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "developed",
+          "start": 48.854,
+          "end": 49.195,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibodies",
+          "start": 49.255,
+          "end": 49.735,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 49.775,
+          "end": 49.855,
+          "score": 0.245,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 49.875,
+          "end": 49.915,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 49.955,
+          "end": 50.215,
+          "score": 0.655,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "response",
+          "start": 50.255,
+          "end": 50.855,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 50.995,
+          "end": 51.336,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 51.416,
+          "end": 51.476,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.07673773392338619,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 2656,
-      "start": 33.6,
-      "end": 35.16,
-      "text": " but same concept.",
-      "tokens": [
-        50716,
-        457,
-        912,
-        3410,
-        13,
-        50794
+      "start": 52.701,
+      "end": 60.531,
+      "text": " When re-exposed to a wild type variant of the virus a couple months later, now you got a hyperimmune reaction to it.",
+      "words": [
+        {
+          "word": "When",
+          "start": 52.701,
+          "end": 52.861,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "re-exposed",
+          "start": 52.921,
+          "end": 53.862,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 53.903,
+          "end": 54.003,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 54.043,
+          "end": 54.083,
+          "score": 0.497,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wild",
+          "start": 54.143,
+          "end": 54.383,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "type",
+          "start": 54.403,
+          "end": 54.643,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "variant",
+          "start": 54.663,
+          "end": 55.004,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 55.044,
+          "end": 55.104,
+          "score": 0.63,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 55.124,
+          "end": 55.184,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus",
+          "start": 55.244,
+          "end": 55.725,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 55.745,
+          "end": 55.765,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "couple",
+          "start": 56.085,
+          "end": 56.346,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "months",
+          "start": 56.386,
+          "end": 56.606,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later,",
+          "start": 56.686,
+          "end": 56.986,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now",
+          "start": 57.827,
+          "end": 58.008,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 58.048,
+          "end": 58.168,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 58.208,
+          "end": 58.368,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 58.388,
+          "end": 58.408,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hyperimmune",
+          "start": 58.588,
+          "end": 59.329,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reaction",
+          "start": 59.69,
+          "end": 60.19,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 60.23,
+          "end": 60.391,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 60.451,
+          "end": 60.531,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.12523437917232513,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 2656,
-      "start": 35.16,
-      "end": 37.28,
-      "text": " They mutationally drift over time.",
-      "tokens": [
-        50794,
-        814,
-        27960,
-        379,
-        19699,
-        670,
-        565,
-        13,
-        50900
+      "start": 61.011,
+      "end": 65.777,
+      "text": "These never really made it into humans because that's called antibody-dependent enhancement.",
+      "words": [
+        {
+          "word": "These",
+          "start": 61.011,
+          "end": 61.212,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 61.272,
+          "end": 61.452,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 61.492,
+          "end": 61.732,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "made",
+          "start": 61.772,
+          "end": 62.013,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 62.033,
+          "end": 62.093,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "into",
+          "start": 62.153,
+          "end": 62.313,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "humans",
+          "start": 62.373,
+          "end": 62.733,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 62.834,
+          "end": 63.234,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 63.675,
+          "end": 63.855,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 63.875,
+          "end": 64.095,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibody-dependent",
+          "start": 64.215,
+          "end": 65.136,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "enhancement.",
+          "start": 65.197,
+          "end": 65.777,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.12523437917232513,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 2656,
-      "start": 37.28,
-      "end": 39.68,
-      "text": " So if you look at SARS-CoV-1,",
-      "tokens": [
-        50900,
-        407,
-        498,
-        291,
-        574,
-        412,
-        34233,
-        12,
-        21141,
-        53,
-        12,
-        16,
-        11,
-        51020
+      "start": 66.258,
+      "end": 67.84,
+      "text": "You recognize one pattern",
+      "words": [
+        {
+          "word": "You",
+          "start": 66.258,
+          "end": 66.378,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recognize",
+          "start": 66.458,
+          "end": 67.019,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 67.239,
+          "end": 67.379,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pattern",
+          "start": 67.439,
+          "end": 67.84,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.12523437917232513,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 2656,
-      "start": 39.68,
-      "end": 42.16,
-      "text": " they use dead proteins in those studies",
-      "tokens": [
-        51020,
-        436,
-        764,
-        3116,
-        15577,
-        294,
-        729,
-        5313,
-        51144
+      "start": 68.36,
+      "end": 72.346,
+      "text": " just enough to wear down the road and antibodies forever.",
+      "words": [
+        {
+          "word": "just",
+          "start": 68.36,
+          "end": 68.621,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "enough",
+          "start": 68.701,
+          "end": 68.921,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 69.242,
+          "end": 69.322,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wear",
+          "start": 69.362,
+          "end": 69.562,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "down",
+          "start": 69.622,
+          "end": 69.862,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 69.902,
+          "end": 69.983,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "road",
+          "start": 70.043,
+          "end": 70.343,
+          "score": 0.653,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 71.124,
+          "end": 71.384,
+          "score": 0.787,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibodies",
+          "start": 71.485,
+          "end": 71.965,
+          "score": 0.615,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forever.",
+          "start": 72.005,
+          "end": 72.346,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.09311995679332365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 2656,
-      "start": 42.16,
-      "end": 43.599999999999994,
-      "text": " in the animal models.",
-      "tokens": [
-        51144,
-        294,
-        264,
-        5496,
-        5245,
-        13,
-        51216
+      "start": 72.506,
+      "end": 74.889,
+      "text": "A good one is great, a bad one is not a good idea.",
+      "words": [
+        {
+          "word": "A",
+          "start": 72.506,
+          "end": 72.546,
+          "score": 0.626,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "good",
+          "start": 72.586,
+          "end": 72.726,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 72.826,
+          "end": 72.906,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 72.966,
+          "end": 73.047,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "great,",
+          "start": 73.107,
+          "end": 73.427,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 73.487,
+          "end": 73.547,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bad",
+          "start": 73.587,
+          "end": 73.788,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 73.888,
+          "end": 73.968,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 74.028,
+          "end": 74.108,
+          "score": 0.499,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 74.148,
+          "end": 74.288,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 74.308,
+          "end": 74.328,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "good",
+          "start": 74.348,
+          "end": 74.489,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "idea.",
+          "start": 74.549,
+          "end": 74.889,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.09311995679332365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 2656,
-      "start": 43.599999999999994,
-      "end": 44.64,
-      "text": " And it was a dead spike.",
-      "tokens": [
-        51216,
-        400,
-        309,
-        390,
-        257,
-        3116,
-        21053,
-        13,
-        51268
+      "start": 75.249,
+      "end": 82.179,
+      "text": "And so that protein on SARS-CoV-1 drifted just enough that in the animal models they were hyperimmune down the road.",
+      "words": [
+        {
+          "word": "And",
+          "start": 75.249,
+          "end": 75.35,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 75.49,
+          "end": 75.73,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 75.81,
+          "end": 76.011,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protein",
+          "start": 76.231,
+          "end": 76.852,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 77.292,
+          "end": 77.412,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "SARS-CoV-1",
+          "start": 77.532,
+          "end": 78.594,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drifted",
+          "start": 78.894,
+          "end": 79.275,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 79.315,
+          "end": 79.535,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "enough",
+          "start": 79.615,
+          "end": 79.856,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 79.896,
+          "end": 80.016,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 80.036,
+          "end": 80.096,
+          "score": 0.693,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 80.136,
+          "end": 80.196,
+          "score": 0.981,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "animal",
+          "start": 80.276,
+          "end": 80.556,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "models",
+          "start": 80.597,
+          "end": 80.877,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 80.917,
+          "end": 81.037,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 81.057,
+          "end": 81.177,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hyperimmune",
+          "start": 81.197,
+          "end": 81.658,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "down",
+          "start": 81.678,
+          "end": 81.838,
+          "score": 0.655,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 81.858,
+          "end": 81.938,
+          "score": 0.195,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "road.",
+          "start": 81.958,
+          "end": 82.179,
+          "score": 0.647,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.09311995679332365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 20,
-      "seek": 2656,
-      "start": 44.64,
-      "end": 46.28,
-      "text": " I mean, it's an inert protein.",
-      "tokens": [
-        51268,
-        286,
-        914,
-        11,
-        309,
-        311,
-        364,
-        25832,
-        7944,
-        13,
-        51350
+      "start": 82.399,
+      "end": 83.641,
+      "text": "Now think about Novavax.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 82.399,
+          "end": 82.559,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 82.599,
+          "end": 82.779,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 82.799,
+          "end": 83.04,
+          "score": 0.271,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Novavax.",
+          "start": 83.08,
+          "end": 83.641,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.09311995679332365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 21,
-      "seek": 2656,
-      "start": 46.28,
-      "end": 48.36,
-      "text": " It's not an active protein.",
-      "tokens": [
-        51350,
-        467,
-        311,
-        406,
-        364,
-        4967,
-        7944,
-        13,
-        51454
+      "start": 84.261,
+      "end": 86.084,
+      "text": " You have an inert protein.",
+      "words": [
+        {
+          "word": "You",
+          "start": 84.261,
+          "end": 84.402,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 84.422,
+          "end": 84.562,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 84.582,
+          "end": 84.622,
+          "score": 0.183,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inert",
+          "start": 85.103,
+          "end": 85.423,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protein.",
+          "start": 85.563,
+          "end": 86.084,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.08126183892741348,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 22,
-      "seek": 2656,
-      "start": 48.36,
-      "end": 51.84,
-      "text": " You developed antibodies in an immune response against it.",
-      "tokens": [
-        51454,
-        509,
-        4743,
-        28356,
-        294,
-        364,
-        11992,
-        4134,
-        1970,
-        309,
-        13,
-        51628
+      "start": 86.465,
+      "end": 87.726,
+      "text": "It's still a spike model.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 86.465,
+          "end": 86.545,
+          "score": 0.214,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 86.605,
+          "end": 86.845,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 86.885,
+          "end": 86.925,
+          "score": 0.5,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spike",
+          "start": 86.965,
+          "end": 87.266,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "model.",
+          "start": 87.366,
+          "end": 87.726,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.08126183892741348,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 23,
-      "seek": 2656,
-      "start": 51.84,
-      "end": 56.04,
-      "text": " But when re-exposed to a wild type variant of the virus",
-      "tokens": [
-        51628,
-        583,
-        562,
-        319,
-        12,
-        15952,
-        1744,
-        281,
-        257,
-        4868,
-        2010,
-        17501,
-        295,
-        264,
-        5752,
-        51838
+      "start": 88.047,
+      "end": 89.369,
+      "text": "What did we look from those other things?",
+      "words": [
+        {
+          "word": "What",
+          "start": 88.047,
+          "end": 88.167,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "did",
+          "start": 88.187,
+          "end": 88.287,
+          "score": 0.398,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 88.307,
+          "end": 88.407,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "look",
+          "start": 88.427,
+          "end": 88.608,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 88.628,
+          "end": 88.768,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 88.788,
+          "end": 88.948,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 88.988,
+          "end": 89.129,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "things?",
+          "start": 89.169,
+          "end": 89.369,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13647410744114927,
-      "compression_ratio": 1.5551724137931036,
-      "no_speech_prob": 0.00012713528121821582
+      "avg_logprob": -0.08126183892741348,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 24,
-      "seek": 5604,
-      "start": 56.04,
-      "end": 57.68,
-      "text": " a couple months later,",
-      "tokens": [
-        50364,
-        257,
-        1916,
-        2493,
-        1780,
-        11,
-        50446
+      "start": 89.409,
+      "end": 90.37,
+      "text": "The spike is toxic.",
+      "words": [
+        {
+          "word": "The",
+          "start": 89.409,
+          "end": 89.529,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spike",
+          "start": 89.549,
+          "end": 89.83,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 89.87,
+          "end": 89.95,
+          "score": 0.533,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "toxic.",
+          "start": 89.99,
+          "end": 90.37,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.08126183892741348,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 25,
-      "seek": 5604,
-      "start": 57.68,
-      "end": 61.04,
-      "text": " now you got a hyperimmune reaction to it.",
-      "tokens": [
-        50446,
-        586,
-        291,
-        658,
-        257,
-        9848,
-        49031,
-        5480,
-        281,
-        309,
-        13,
-        50614
+      "start": 90.39,
+      "end": 92.133,
+      "text": "You're not generating it through your own body.",
+      "words": [
+        {
+          "word": "You're",
+          "start": 90.39,
+          "end": 90.531,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 90.571,
+          "end": 90.671,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "generating",
+          "start": 90.751,
+          "end": 91.212,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 91.252,
+          "end": 91.312,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 91.372,
+          "end": 91.572,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 91.592,
+          "end": 91.712,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "own",
+          "start": 91.732,
+          "end": 91.853,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "body.",
+          "start": 91.893,
+          "end": 92.133,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.08126183892741348,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 26,
-      "seek": 5604,
-      "start": 61.04,
-      "end": 62.839999999999996,
-      "text": " These never really made it into humans",
-      "tokens": [
-        50614,
-        1981,
-        1128,
-        534,
-        1027,
-        309,
-        666,
-        6255,
-        50704
+      "start": 92.193,
+      "end": 97.761,
+      "text": "Now your body's not making it, but your immune system is going to remember this spike and you're gonna have an antibody.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 92.193,
+          "end": 92.293,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 92.313,
+          "end": 92.453,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "body's",
+          "start": 92.473,
+          "end": 92.754,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 92.794,
+          "end": 92.914,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "making",
+          "start": 92.954,
+          "end": 93.235,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it,",
+          "start": 93.275,
+          "end": 93.335,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 93.916,
+          "end": 94.036,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 94.076,
+          "end": 94.196,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 94.216,
+          "end": 94.516,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system",
+          "start": 94.556,
+          "end": 94.817,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 94.857,
+          "end": 94.917,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 94.957,
+          "end": 95.157,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 95.177,
+          "end": 95.278,
+          "score": 0.59,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "remember",
+          "start": 95.298,
+          "end": 95.698,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 95.778,
+          "end": 95.939,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spike",
+          "start": 95.979,
+          "end": 96.319,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 96.519,
+          "end": 96.579,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you're",
+          "start": 96.599,
+          "end": 96.74,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gonna",
+          "start": 96.76,
+          "end": 96.92,
+          "score": 0.367,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 96.98,
+          "end": 97.12,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 97.16,
+          "end": 97.24,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibody.",
+          "start": 97.301,
+          "end": 97.761,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.08126183892741348,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 27,
-      "seek": 5604,
-      "start": 62.839999999999996,
-      "end": 66.26,
-      "text": " because that's called antibody dependent enhancement.",
-      "tokens": [
-        50704,
-        570,
-        300,
-        311,
-        1219,
-        34507,
-        12334,
-        40776,
-        13,
-        50875
+      "start": 98.422,
+      "end": 98.723,
+      "text": "Great.",
+      "words": [
+        {
+          "word": "Great.",
+          "start": 98.422,
+          "end": 98.723,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.08126183892741348,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 28,
-      "seek": 5604,
-      "start": 66.26,
-      "end": 71.12,
-      "text": " You recognize one pattern just enough to wear down the road",
-      "tokens": [
-        50875,
-        509,
-        5521,
-        472,
-        5102,
-        445,
-        1547,
-        281,
-        3728,
-        760,
-        264,
-        3060,
-        51118
+      "start": 99.243,
+      "end": 104.507,
+      "text": " until along comes mu or psi or zeta and the shape is different.",
+      "words": [
+        {
+          "word": "until",
+          "start": 99.243,
+          "end": 99.724,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "along",
+          "start": 100.284,
+          "end": 100.564,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "comes",
+          "start": 100.644,
+          "end": 101.025,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mu",
+          "start": 101.525,
+          "end": 101.845,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 101.885,
+          "end": 101.985,
+          "score": 0.57,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "psi",
+          "start": 102.025,
+          "end": 102.406,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 102.446,
+          "end": 102.546,
+          "score": 0.482,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zeta",
+          "start": 102.606,
+          "end": 103.046,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 103.406,
+          "end": 103.486,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 103.506,
+          "end": 103.607,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shape",
+          "start": 103.667,
+          "end": 103.927,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 103.987,
+          "end": 104.067,
+          "score": 0.631,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "different.",
+          "start": 104.147,
+          "end": 104.507,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.10777484598648117,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 29,
-      "seek": 5604,
-      "start": 71.12,
-      "end": 72.52,
-      "text": " and antibody is forever.",
-      "tokens": [
-        51118,
-        293,
-        34507,
-        307,
-        5680,
-        13,
-        51188
+      "start": 104.908,
+      "end": 114.955,
+      "text": "Now those antibodies you develop from this spike protein, instead of binding and neutralizing and clearing and mopping up virus, down the road they bind, they don't neutralize.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 104.908,
+          "end": 105.068,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 105.108,
+          "end": 105.288,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibodies",
+          "start": 105.528,
+          "end": 106.048,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 106.068,
+          "end": 106.209,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "develop",
+          "start": 106.229,
+          "end": 106.609,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 106.689,
+          "end": 106.869,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 106.989,
+          "end": 107.189,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spike",
+          "start": 107.229,
+          "end": 107.55,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protein,",
+          "start": 107.61,
+          "end": 108.15,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "instead",
+          "start": 108.39,
+          "end": 108.691,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 108.711,
+          "end": 108.771,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "binding",
+          "start": 108.871,
+          "end": 109.251,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 109.271,
+          "end": 109.351,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "neutralizing",
+          "start": 109.411,
+          "end": 110.032,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 110.072,
+          "end": 110.152,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "clearing",
+          "start": 110.192,
+          "end": 110.492,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 110.532,
+          "end": 110.592,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mopping",
+          "start": 110.632,
+          "end": 110.932,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 110.992,
+          "end": 111.072,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus,",
+          "start": 111.112,
+          "end": 111.613,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "down",
+          "start": 111.933,
+          "end": 112.133,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 112.173,
+          "end": 112.253,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "road",
+          "start": 112.313,
+          "end": 112.594,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 112.694,
+          "end": 112.874,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bind,",
+          "start": 112.994,
+          "end": 113.474,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 113.794,
+          "end": 113.915,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 113.955,
+          "end": 114.135,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "neutralize.",
+          "start": 114.235,
+          "end": 114.955,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.10777484598648117,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 30,
-      "seek": 5604,
-      "start": 72.52,
-      "end": 73.52,
-      "text": " A good one is great.",
-      "tokens": [
-        51188,
-        316,
-        665,
-        472,
-        307,
-        869,
-        13,
-        51238
+      "start": 115.095,
+      "end": 123.322,
+      "text": "And when you have binding non-neutralizing antibodies, now they can trojan horse the virus into your immune cells, overtake your immune system,",
+      "words": [
+        {
+          "word": "And",
+          "start": 115.095,
+          "end": 115.176,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 115.196,
+          "end": 115.296,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 115.316,
+          "end": 115.396,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 115.436,
+          "end": 115.556,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "binding",
+          "start": 115.676,
+          "end": 116.076,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "non-neutralizing",
+          "start": 116.116,
+          "end": 116.917,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibodies,",
+          "start": 116.937,
+          "end": 117.497,
+          "score": 0.718,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now",
+          "start": 117.577,
+          "end": 117.697,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 117.738,
+          "end": 117.858,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 117.898,
+          "end": 118.018,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trojan",
+          "start": 118.078,
+          "end": 118.478,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "horse",
+          "start": 118.558,
+          "end": 118.878,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 119.359,
+          "end": 119.459,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus",
+          "start": 119.479,
+          "end": 119.819,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "into",
+          "start": 120.099,
+          "end": 120.36,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 120.4,
+          "end": 120.54,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 120.56,
+          "end": 120.94,
+          "score": 0.561,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cells,",
+          "start": 120.98,
+          "end": 121.36,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "overtake",
+          "start": 121.921,
+          "end": 122.301,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 122.341,
+          "end": 122.481,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 122.521,
+          "end": 122.882,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system,",
+          "start": 122.922,
+          "end": 123.322,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.10777484598648117,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 31,
-      "seek": 5604,
-      "start": 73.52,
-      "end": 75.24,
-      "text": " A bad one is not a good idea.",
-      "tokens": [
-        51238,
-        316,
-        1578,
-        472,
-        307,
-        406,
-        257,
-        665,
-        1558,
-        13,
-        51324
+      "start": 123.682,
+      "end": 127.166,
+      "text": " and actually you get worse disease faster and a higher risk of death.",
+      "words": [
+        {
+          "word": "and",
+          "start": 123.682,
+          "end": 123.822,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 124.063,
+          "end": 124.403,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 124.443,
+          "end": 124.583,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 124.623,
+          "end": 124.803,
+          "score": 0.503,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "worse",
+          "start": 124.883,
+          "end": 125.164,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease",
+          "start": 125.204,
+          "end": 125.564,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "faster",
+          "start": 125.624,
+          "end": 126.085,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 126.125,
+          "end": 126.205,
+          "score": 0.689,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 126.245,
+          "end": 126.285,
+          "score": 0.015,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "higher",
+          "start": 126.325,
+          "end": 126.565,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 126.585,
+          "end": 126.766,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 126.806,
+          "end": 126.866,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "death.",
+          "start": 126.906,
+          "end": 127.166,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.05484251169458268,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 32,
-      "seek": 5604,
-      "start": 75.24,
-      "end": 79.96000000000001,
-      "text": " And so that protein on SARS-CoV-1 drifted just enough",
-      "tokens": [
-        51324,
-        400,
-        370,
-        300,
-        7944,
-        322,
-        34233,
-        12,
-        21141,
-        53,
-        12,
-        16,
-        19699,
-        292,
-        445,
-        1547,
-        51560
+      "start": 127.546,
+      "end": 131.511,
+      "text": "The Novavax is cool in concept if this were another family of viruses.",
+      "words": [
+        {
+          "word": "The",
+          "start": 127.546,
+          "end": 127.646,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Novavax",
+          "start": 127.686,
+          "end": 128.187,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 128.267,
+          "end": 128.367,
+          "score": 0.51,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cool",
+          "start": 128.447,
+          "end": 128.748,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 128.848,
+          "end": 128.948,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concept",
+          "start": 129.028,
+          "end": 129.528,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 129.569,
+          "end": 129.649,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 129.689,
+          "end": 129.849,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 129.889,
+          "end": 130.089,
+          "score": 0.69,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "another",
+          "start": 130.129,
+          "end": 130.429,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "family",
+          "start": 130.51,
+          "end": 130.89,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 130.91,
+          "end": 130.97,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "viruses.",
+          "start": 131.01,
+          "end": 131.511,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.05484251169458268,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 33,
-      "seek": 5604,
-      "start": 79.96000000000001,
-      "end": 82.2,
-      "text": " that in the animal models, they were hyperimmune down the road.",
-      "tokens": [
-        51560,
-        300,
-        294,
-        264,
-        5496,
-        5245,
-        11,
-        436,
-        645,
-        9848,
-        49031,
-        760,
-        264,
-        3060,
-        13,
-        51672
+      "start": 131.711,
+      "end": 132.372,
+      "text": "This is not.",
+      "words": [
+        {
+          "word": "This",
+          "start": 131.711,
+          "end": 131.851,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 131.931,
+          "end": 132.011,
+          "score": 0.562,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not.",
+          "start": 132.091,
+          "end": 132.372,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.05484251169458268,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 34,
-      "seek": 5604,
-      "start": 82.2,
-      "end": 84.0,
-      "text": " Now think about Novavax.",
-      "tokens": [
-        51672,
-        823,
-        519,
-        466,
-        31948,
-        706,
-        2797,
-        13,
-        51762
+      "start": 132.532,
+      "end": 133.933,
+      "text": "This is a coronavirus family.",
+      "words": [
+        {
+          "word": "This",
+          "start": 132.532,
+          "end": 132.672,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 132.732,
+          "end": 132.812,
+          "score": 0.523,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 132.852,
+          "end": 132.872,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "coronavirus",
+          "start": 132.912,
+          "end": 133.593,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "family.",
+          "start": 133.613,
+          "end": 133.933,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14450558749112216,
-      "compression_ratio": 1.6329588014981273,
-      "no_speech_prob": 0.00014709128299728036
+      "avg_logprob": -0.05484251169458268,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 35,
-      "seek": 8400,
-      "start": 84.0,
-      "end": 88.04,
-      "text": " You have an inert protein, still a spike model.",
-      "tokens": [
-        50364,
-        509,
-        362,
-        364,
-        25832,
-        7944,
-        11,
-        920,
-        257,
-        21053,
-        2316,
-        13,
-        50566
+      "start": 134.153,
+      "end": 138.278,
+      "text": "They've been primed with an antibody that at first seems great, but down the road becomes your enemy.",
+      "words": [
+        {
+          "word": "They've",
+          "start": 134.153,
+          "end": 134.334,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 134.354,
+          "end": 134.534,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "primed",
+          "start": 134.614,
+          "end": 134.954,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 134.994,
+          "end": 135.115,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 135.155,
+          "end": 135.215,
+          "score": 0.656,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibody",
+          "start": 135.295,
+          "end": 135.715,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 135.735,
+          "end": 135.875,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 135.915,
+          "end": 135.955,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 136.036,
+          "end": 136.256,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seems",
+          "start": 136.296,
+          "end": 136.536,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "great,",
+          "start": 136.596,
+          "end": 136.856,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 136.896,
+          "end": 137.017,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "down",
+          "start": 137.057,
+          "end": 137.217,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 137.237,
+          "end": 137.317,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "road",
+          "start": 137.357,
+          "end": 137.517,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "becomes",
+          "start": 137.557,
+          "end": 137.817,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 137.857,
+          "end": 137.978,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "enemy.",
+          "start": 138.018,
+          "end": 138.278,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 36,
-      "seek": 8400,
-      "start": 88.04,
-      "end": 89.42,
-      "text": " What did we look from those other things?",
-      "tokens": [
-        50566,
-        708,
-        630,
-        321,
-        574,
-        490,
-        729,
-        661,
-        721,
-        30,
-        50635
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 37,
-      "seek": 8400,
-      "start": 89.42,
-      "end": 90.4,
-      "text": " The spike is toxic.",
-      "tokens": [
-        50635,
-        440,
-        21053,
-        307,
-        12786,
-        13,
-        50684
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 38,
-      "seek": 8400,
-      "start": 90.4,
-      "end": 92.16,
-      "text": " You're not generating it through your own body.",
-      "tokens": [
-        50684,
-        509,
-        434,
-        406,
-        17746,
-        309,
-        807,
-        428,
-        1065,
-        1772,
-        13,
-        50772
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 39,
-      "seek": 8400,
-      "start": 92.16,
-      "end": 93.92,
-      "text": " Now your body's not making it.",
-      "tokens": [
-        50772,
-        823,
-        428,
-        1772,
-        311,
-        406,
-        1455,
-        309,
-        13,
-        50860
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 40,
-      "seek": 8400,
-      "start": 93.92,
-      "end": 96.48,
-      "text": " But your immune system is going to remember this spike",
-      "tokens": [
-        50860,
-        583,
-        428,
-        11992,
-        1185,
-        307,
-        516,
-        281,
-        1604,
-        341,
-        21053,
-        50988
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 41,
-      "seek": 8400,
-      "start": 96.48,
-      "end": 98.36,
-      "text": " and you're gonna have an antibody.",
-      "tokens": [
-        50988,
-        293,
-        291,
-        434,
-        799,
-        362,
-        364,
-        34507,
-        13,
-        51082
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 42,
-      "seek": 8400,
-      "start": 98.36,
-      "end": 99.2,
-      "text": " Great.",
-      "tokens": [
-        51082,
-        3769,
-        13,
-        51124
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 43,
-      "seek": 8400,
-      "start": 99.2,
-      "end": 103.36,
-      "text": " Until along comes mu or psi or zeta",
-      "tokens": [
-        51124,
-        9088,
-        2051,
-        1487,
-        2992,
-        420,
-        20304,
-        420,
-        710,
-        7664,
-        51332
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 44,
-      "seek": 8400,
-      "start": 103.36,
-      "end": 104.82,
-      "text": " and the shape is different.",
-      "tokens": [
-        51332,
-        293,
-        264,
-        3909,
-        307,
-        819,
-        13,
-        51405
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 45,
-      "seek": 8400,
-      "start": 104.82,
-      "end": 108.32,
-      "text": " Now those antibodies you developed from this spike protein,",
-      "tokens": [
-        51405,
-        823,
-        729,
-        28356,
-        291,
-        4743,
-        490,
-        341,
-        21053,
-        7944,
-        11,
-        51580
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 46,
-      "seek": 8400,
-      "start": 108.32,
-      "end": 110.52,
-      "text": " instead of binding and neutralizing and clearing",
-      "tokens": [
-        51580,
-        2602,
-        295,
-        17359,
-        293,
-        10598,
-        3319,
-        293,
-        23937,
-        51690
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 47,
-      "seek": 8400,
-      "start": 110.52,
-      "end": 112.68,
-      "text": " and mopping up virus down the road,",
-      "tokens": [
-        51690,
-        293,
-        275,
-        32799,
-        493,
-        5752,
-        760,
-        264,
-        3060,
-        11,
-        51798
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12927283380264626,
-      "compression_ratio": 1.7152777777777777,
-      "no_speech_prob": 0.0004258914850652218
-    },
-    {
-      "id": 48,
-      "seek": 11268,
-      "start": 112.68,
-      "end": 115.04,
-      "text": " they bind, they don't neutralize.",
-      "tokens": [
-        50364,
-        436,
-        14786,
-        11,
-        436,
-        500,
-        380,
-        10598,
-        1125,
-        13,
-        50482
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 49,
-      "seek": 11268,
-      "start": 115.04,
-      "end": 117.52000000000001,
-      "text": " And when you have binding, non-neutralizing antibodies,",
-      "tokens": [
-        50482,
-        400,
-        562,
-        291,
-        362,
-        17359,
-        11,
-        2107,
-        12,
-        716,
-        43574,
-        3319,
-        28356,
-        11,
-        50606
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 50,
-      "seek": 11268,
-      "start": 117.52000000000001,
-      "end": 121.82000000000001,
-      "text": " now they can trojan horse the virus into your immune cells,",
-      "tokens": [
-        50606,
-        586,
-        436,
-        393,
-        4495,
-        14763,
-        6832,
-        264,
-        5752,
-        666,
-        428,
-        11992,
-        5438,
-        11,
-        50821
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 51,
-      "seek": 11268,
-      "start": 121.82000000000001,
-      "end": 123.58000000000001,
-      "text": " overtake your immune system.",
-      "tokens": [
-        50821,
-        17038,
-        619,
-        428,
-        11992,
-        1185,
-        13,
-        50909
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 52,
-      "seek": 11268,
-      "start": 123.58000000000001,
-      "end": 126.12,
-      "text": " And actually you get worse disease faster",
-      "tokens": [
-        50909,
-        400,
-        767,
-        291,
-        483,
-        5324,
-        4752,
-        4663,
-        51036
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 53,
-      "seek": 11268,
-      "start": 126.12,
-      "end": 127.48,
-      "text": " and a higher risk of death.",
-      "tokens": [
-        51036,
-        293,
-        257,
-        2946,
-        3148,
-        295,
-        2966,
-        13,
-        51104
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 54,
-      "seek": 11268,
-      "start": 127.48,
-      "end": 129.56,
-      "text": " The Novavax is cool in concept",
-      "tokens": [
-        51104,
-        440,
-        31948,
-        706,
-        2797,
-        307,
-        1627,
-        294,
-        3410,
-        51208
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 55,
-      "seek": 11268,
-      "start": 129.56,
-      "end": 131.68,
-      "text": " if this were another family of viruses.",
-      "tokens": [
-        51208,
-        498,
-        341,
-        645,
-        1071,
-        1605,
-        295,
-        21785,
-        13,
-        51314
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 56,
-      "seek": 11268,
-      "start": 131.68,
-      "end": 132.52,
-      "text": " This is not.",
-      "tokens": [
-        51314,
-        639,
-        307,
-        406,
-        13,
-        51356
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 57,
-      "seek": 11268,
-      "start": 132.52,
-      "end": 134.12,
-      "text": " This is a coronavirus family.",
-      "tokens": [
-        51356,
-        639,
-        307,
-        257,
-        13043,
-        1605,
-        13,
-        51436
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 58,
-      "seek": 11268,
-      "start": 134.12,
-      "end": 135.72,
-      "text": " They've been primed with an antibody",
-      "tokens": [
-        51436,
-        814,
-        600,
-        668,
-        2886,
-        292,
-        365,
-        364,
-        34507,
-        51516
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 59,
-      "seek": 11268,
-      "start": 135.72,
-      "end": 136.88,
-      "text": " that at first seems great,",
-      "tokens": [
-        51516,
-        300,
-        412,
-        700,
-        2544,
-        869,
-        11,
-        51574
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
-    },
-    {
-      "id": 60,
-      "seek": 11268,
-      "start": 136.88,
-      "end": 138.72,
-      "text": " but down the road becomes your enemy.",
-      "tokens": [
-        51574,
-        457,
-        760,
-        264,
-        3060,
-        3643,
-        428,
-        5945,
-        13,
-        51666
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14763539438029283,
-      "compression_ratio": 1.669064748201439,
-      "no_speech_prob": 5.210065864957869e-05
+      "avg_logprob": -0.05484251169458268,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 0.091,
+      "end": 0.211,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 0.251,
+      "end": 0.371,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 0.431,
+      "end": 0.511,
+      "score": 0.529,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 0.551,
+      "end": 0.731,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interesting.",
+      "start": 0.771,
+      "end": 1.212,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 1.252,
+      "end": 1.292,
+      "score": 0.494,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "love",
+      "start": 1.372,
+      "end": 1.552,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 1.572,
+      "end": 1.712,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "question",
+      "start": 1.772,
+      "end": 2.252,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 2.452,
+      "end": 2.692,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 2.752,
+      "end": 2.772,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 2.812,
+      "end": 2.953,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 2.973,
+      "end": 3.013,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 3.053,
+      "end": 3.253,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 3.293,
+      "end": 3.373,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "optimistic",
+      "start": 3.453,
+      "end": 3.953,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 3.973,
+      "end": 4.153,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 4.173,
+      "end": 4.313,
+      "score": 0.631,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 4.333,
+      "end": 4.353,
+      "score": 0.97,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 4.393,
+      "end": 4.573,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "traditional",
+      "start": 4.653,
+      "end": 5.294,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "killed",
+      "start": 5.394,
+      "end": 5.614,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protein",
+      "start": 5.754,
+      "end": 6.134,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "type",
+      "start": 6.154,
+      "end": 6.374,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine,",
+      "start": 6.394,
+      "end": 6.935,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Novavax.",
+      "start": 7.215,
+      "end": 7.735,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 8.115,
+      "end": 8.235,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 8.295,
+      "end": 8.315,
+      "score": 0.689,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "killed",
+      "start": 8.375,
+      "end": 8.595,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protein.",
+      "start": 8.655,
+      "end": 9.336,
+      "score": 0.636,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 9.496,
+      "end": 9.676,
+      "score": 0.718,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "generated",
+      "start": 9.896,
+      "end": 10.416,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 10.476,
+      "end": 10.576,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "moth",
+      "start": 10.677,
+      "end": 10.997,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cells",
+      "start": 11.077,
+      "end": 11.477,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 11.557,
+      "end": 11.637,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "culture,",
+      "start": 11.737,
+      "end": 12.177,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 12.237,
+      "end": 12.377,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 12.437,
+      "end": 12.517,
+      "score": 0.692,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interesting.",
+      "start": 12.557,
+      "end": 12.998,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We've",
+      "start": 13.178,
+      "end": 13.358,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 13.418,
+      "end": 13.658,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 13.738,
+      "end": 13.918,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "able",
+      "start": 13.998,
+      "end": 14.198,
+      "score": 0.643,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 14.238,
+      "end": 14.298,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinate",
+      "start": 14.358,
+      "end": 14.899,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 15.019,
+      "end": 15.339,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 15.419,
+      "end": 15.499,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "coronavirus.",
+      "start": 15.559,
+      "end": 16.419,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 16.78,
+      "end": 16.94,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "family",
+      "start": 17.04,
+      "end": 17.4,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 17.42,
+      "end": 17.48,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "viruses",
+      "start": 17.5,
+      "end": 18.0,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 18.14,
+      "end": 18.3,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 18.32,
+      "end": 18.361,
+      "score": 0.492,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 18.461,
+      "end": 18.681,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "good",
+      "start": 18.721,
+      "end": 18.881,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reason",
+      "start": 18.941,
+      "end": 19.261,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 19.461,
+      "end": 19.801,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 19.881,
+      "end": 20.101,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 20.181,
+      "end": 20.422,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 20.462,
+      "end": 20.482,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "slow",
+      "start": 20.582,
+      "end": 20.902,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mutational",
+      "start": 20.942,
+      "end": 21.582,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drift",
+      "start": 21.682,
+      "end": 21.982,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "constantly.",
+      "start": 22.082,
+      "end": 22.783,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Same",
+      "start": 23.383,
+      "end": 23.563,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reason",
+      "start": 23.603,
+      "end": 23.843,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 23.883,
+      "end": 23.983,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 24.023,
+      "end": 24.243,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 24.304,
+      "end": 24.564,
+      "score": 0.691,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 24.604,
+      "end": 24.644,
+      "score": 0.045,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 24.684,
+      "end": 25.104,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 25.144,
+      "end": 25.404,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 25.444,
+      "end": 25.524,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "common",
+      "start": 25.544,
+      "end": 25.864,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cold.",
+      "start": 25.924,
+      "end": 26.184,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Same",
+      "start": 26.625,
+      "end": 26.825,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reason",
+      "start": 26.885,
+      "end": 27.165,
+      "score": 0.719,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "40",
+      "start": 27.365,
+      "end": 27.685,
+      "score": 0.648,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years",
+      "start": 27.705,
+      "end": 27.945,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later,",
+      "start": 28.005,
+      "end": 28.265,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 28.305,
+      "end": 28.385,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 28.425,
+      "end": 28.565,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 28.605,
+      "end": 28.745,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 28.806,
+      "end": 28.926,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "HIV",
+      "start": 29.026,
+      "end": 29.266,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine.",
+      "start": 29.326,
+      "end": 29.886,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 30.366,
+      "end": 30.486,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spike",
+      "start": 30.526,
+      "end": 30.826,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 30.926,
+      "end": 31.006,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 31.047,
+      "end": 31.267,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "HIV",
+      "start": 31.687,
+      "end": 31.927,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus",
+      "start": 31.947,
+      "end": 32.307,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 32.407,
+      "end": 32.507,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "similar,",
+      "start": 32.727,
+      "end": 33.107,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "different,",
+      "start": 33.167,
+      "end": 33.528,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 33.588,
+      "end": 33.728,
+      "score": 0.425,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "same",
+      "start": 33.848,
+      "end": 34.048,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concept.",
+      "start": 34.088,
+      "end": 34.608,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 35.148,
+      "end": 35.268,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mutationally",
+      "start": 35.328,
+      "end": 36.089,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drift",
+      "start": 36.169,
+      "end": 36.469,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over",
+      "start": 36.509,
+      "end": 36.669,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time.",
+      "start": 36.729,
+      "end": 37.029,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 37.389,
+      "end": 37.549,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 37.649,
+      "end": 37.709,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 37.73,
+      "end": 37.83,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "look",
+      "start": 37.87,
+      "end": 38.01,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 38.05,
+      "end": 38.09,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "SARS-CoV-1,",
+      "start": 38.13,
+      "end": 39.03,
+      "score": 0.691,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 39.79,
+      "end": 39.91,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "used",
+      "start": 40.011,
+      "end": 40.171,
+      "score": 0.601,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dead",
+      "start": 40.231,
+      "end": 40.411,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "proteins",
+      "start": 40.451,
+      "end": 40.931,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 40.991,
+      "end": 41.051,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 41.091,
+      "end": 41.251,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies",
+      "start": 41.291,
+      "end": 41.651,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 42.212,
+      "end": 42.452,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 42.692,
+      "end": 42.752,
+      "score": 0.663,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "animal",
+      "start": 42.872,
+      "end": 43.152,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "models,",
+      "start": 43.192,
+      "end": 43.532,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 43.592,
+      "end": 43.692,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 43.712,
+      "end": 43.752,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 43.772,
+      "end": 43.872,
+      "score": 0.3,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 43.912,
+      "end": 43.932,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dead",
+      "start": 43.992,
+      "end": 44.212,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spike.",
+      "start": 44.292,
+      "end": 44.613,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 44.673,
+      "end": 44.713,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mean,",
+      "start": 44.733,
+      "end": 45.093,
+      "score": 0.572,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 45.213,
+      "end": 45.333,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 45.353,
+      "end": 45.413,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inert",
+      "start": 45.493,
+      "end": 45.793,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protein.",
+      "start": 45.833,
+      "end": 46.413,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 46.573,
+      "end": 46.794,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 46.894,
+      "end": 47.054,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 47.094,
+      "end": 47.154,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "active",
+      "start": 47.294,
+      "end": 47.554,
+      "score": 0.508,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protein.",
+      "start": 47.614,
+      "end": 48.034,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 48.414,
+      "end": 48.834,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "developed",
+      "start": 48.854,
+      "end": 49.195,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibodies",
+      "start": 49.255,
+      "end": 49.735,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 49.775,
+      "end": 49.855,
+      "score": 0.245,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 49.875,
+      "end": 49.915,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 49.955,
+      "end": 50.215,
+      "score": 0.655,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "response",
+      "start": 50.255,
+      "end": 50.855,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 50.995,
+      "end": 51.336,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 51.416,
+      "end": 51.476,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "When",
+      "start": 52.701,
+      "end": 52.861,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "re-exposed",
+      "start": 52.921,
+      "end": 53.862,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 53.903,
+      "end": 54.003,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 54.043,
+      "end": 54.083,
+      "score": 0.497,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wild",
+      "start": 54.143,
+      "end": 54.383,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "type",
+      "start": 54.403,
+      "end": 54.643,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "variant",
+      "start": 54.663,
+      "end": 55.004,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 55.044,
+      "end": 55.104,
+      "score": 0.63,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 55.124,
+      "end": 55.184,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus",
+      "start": 55.244,
+      "end": 55.725,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 55.745,
+      "end": 55.765,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "couple",
+      "start": 56.085,
+      "end": 56.346,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "months",
+      "start": 56.386,
+      "end": 56.606,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later,",
+      "start": 56.686,
+      "end": 56.986,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now",
+      "start": 57.827,
+      "end": 58.008,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 58.048,
+      "end": 58.168,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 58.208,
+      "end": 58.368,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 58.388,
+      "end": 58.408,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hyperimmune",
+      "start": 58.588,
+      "end": 59.329,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reaction",
+      "start": 59.69,
+      "end": 60.19,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 60.23,
+      "end": 60.391,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 60.451,
+      "end": 60.531,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "These",
+      "start": 61.011,
+      "end": 61.212,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 61.272,
+      "end": 61.452,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 61.492,
+      "end": 61.732,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "made",
+      "start": 61.772,
+      "end": 62.013,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 62.033,
+      "end": 62.093,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 62.153,
+      "end": 62.313,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "humans",
+      "start": 62.373,
+      "end": 62.733,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 62.834,
+      "end": 63.234,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 63.675,
+      "end": 63.855,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 63.875,
+      "end": 64.095,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibody-dependent",
+      "start": 64.215,
+      "end": 65.136,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "enhancement.",
+      "start": 65.197,
+      "end": 65.777,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 66.258,
+      "end": 66.378,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recognize",
+      "start": 66.458,
+      "end": 67.019,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 67.239,
+      "end": 67.379,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pattern",
+      "start": 67.439,
+      "end": 67.84,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 68.36,
+      "end": 68.621,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "enough",
+      "start": 68.701,
+      "end": 68.921,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 69.242,
+      "end": 69.322,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wear",
+      "start": 69.362,
+      "end": 69.562,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "down",
+      "start": 69.622,
+      "end": 69.862,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 69.902,
+      "end": 69.983,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "road",
+      "start": 70.043,
+      "end": 70.343,
+      "score": 0.653,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 71.124,
+      "end": 71.384,
+      "score": 0.787,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibodies",
+      "start": 71.485,
+      "end": 71.965,
+      "score": 0.615,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forever.",
+      "start": 72.005,
+      "end": 72.346,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "A",
+      "start": 72.506,
+      "end": 72.546,
+      "score": 0.626,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "good",
+      "start": 72.586,
+      "end": 72.726,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 72.826,
+      "end": 72.906,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 72.966,
+      "end": 73.047,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "great,",
+      "start": 73.107,
+      "end": 73.427,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 73.487,
+      "end": 73.547,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bad",
+      "start": 73.587,
+      "end": 73.788,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 73.888,
+      "end": 73.968,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 74.028,
+      "end": 74.108,
+      "score": 0.499,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 74.148,
+      "end": 74.288,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 74.308,
+      "end": 74.328,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "good",
+      "start": 74.348,
+      "end": 74.489,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "idea.",
+      "start": 74.549,
+      "end": 74.889,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 75.249,
+      "end": 75.35,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 75.49,
+      "end": 75.73,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 75.81,
+      "end": 76.011,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protein",
+      "start": 76.231,
+      "end": 76.852,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 77.292,
+      "end": 77.412,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "SARS-CoV-1",
+      "start": 77.532,
+      "end": 78.594,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drifted",
+      "start": 78.894,
+      "end": 79.275,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 79.315,
+      "end": 79.535,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "enough",
+      "start": 79.615,
+      "end": 79.856,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 79.896,
+      "end": 80.016,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 80.036,
+      "end": 80.096,
+      "score": 0.693,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 80.136,
+      "end": 80.196,
+      "score": 0.981,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "animal",
+      "start": 80.276,
+      "end": 80.556,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "models",
+      "start": 80.597,
+      "end": 80.877,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 80.917,
+      "end": 81.037,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 81.057,
+      "end": 81.177,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hyperimmune",
+      "start": 81.197,
+      "end": 81.658,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "down",
+      "start": 81.678,
+      "end": 81.838,
+      "score": 0.655,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 81.858,
+      "end": 81.938,
+      "score": 0.195,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "road.",
+      "start": 81.958,
+      "end": 82.179,
+      "score": 0.647,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Now",
+      "start": 82.399,
+      "end": 82.559,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 82.599,
+      "end": 82.779,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 82.799,
+      "end": 83.04,
+      "score": 0.271,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Novavax.",
+      "start": 83.08,
+      "end": 83.641,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 84.261,
+      "end": 84.402,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 84.422,
+      "end": 84.562,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 84.582,
+      "end": 84.622,
+      "score": 0.183,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inert",
+      "start": 85.103,
+      "end": 85.423,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protein.",
+      "start": 85.563,
+      "end": 86.084,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 86.465,
+      "end": 86.545,
+      "score": 0.214,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 86.605,
+      "end": 86.845,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 86.885,
+      "end": 86.925,
+      "score": 0.5,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spike",
+      "start": 86.965,
+      "end": 87.266,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "model.",
+      "start": 87.366,
+      "end": 87.726,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "What",
+      "start": 88.047,
+      "end": 88.167,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "did",
+      "start": 88.187,
+      "end": 88.287,
+      "score": 0.398,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 88.307,
+      "end": 88.407,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "look",
+      "start": 88.427,
+      "end": 88.608,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 88.628,
+      "end": 88.768,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 88.788,
+      "end": 88.948,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 88.988,
+      "end": 89.129,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "things?",
+      "start": 89.169,
+      "end": 89.369,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 89.409,
+      "end": 89.529,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spike",
+      "start": 89.549,
+      "end": 89.83,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 89.87,
+      "end": 89.95,
+      "score": 0.533,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "toxic.",
+      "start": 89.99,
+      "end": 90.37,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You're",
+      "start": 90.39,
+      "end": 90.531,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 90.571,
+      "end": 90.671,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "generating",
+      "start": 90.751,
+      "end": 91.212,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 91.252,
+      "end": 91.312,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 91.372,
+      "end": 91.572,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 91.592,
+      "end": 91.712,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "own",
+      "start": 91.732,
+      "end": 91.853,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "body.",
+      "start": 91.893,
+      "end": 92.133,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Now",
+      "start": 92.193,
+      "end": 92.293,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 92.313,
+      "end": 92.453,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "body's",
+      "start": 92.473,
+      "end": 92.754,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 92.794,
+      "end": 92.914,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "making",
+      "start": 92.954,
+      "end": 93.235,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it,",
+      "start": 93.275,
+      "end": 93.335,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 93.916,
+      "end": 94.036,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 94.076,
+      "end": 94.196,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 94.216,
+      "end": 94.516,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system",
+      "start": 94.556,
+      "end": 94.817,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 94.857,
+      "end": 94.917,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 94.957,
+      "end": 95.157,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 95.177,
+      "end": 95.278,
+      "score": 0.59,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "remember",
+      "start": 95.298,
+      "end": 95.698,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 95.778,
+      "end": 95.939,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spike",
+      "start": 95.979,
+      "end": 96.319,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 96.519,
+      "end": 96.579,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you're",
+      "start": 96.599,
+      "end": 96.74,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gonna",
+      "start": 96.76,
+      "end": 96.92,
+      "score": 0.367,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 96.98,
+      "end": 97.12,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 97.16,
+      "end": 97.24,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibody.",
+      "start": 97.301,
+      "end": 97.761,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Great.",
+      "start": 98.422,
+      "end": 98.723,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "until",
+      "start": 99.243,
+      "end": 99.724,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "along",
+      "start": 100.284,
+      "end": 100.564,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "comes",
+      "start": 100.644,
+      "end": 101.025,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mu",
+      "start": 101.525,
+      "end": 101.845,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 101.885,
+      "end": 101.985,
+      "score": 0.57,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "psi",
+      "start": 102.025,
+      "end": 102.406,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 102.446,
+      "end": 102.546,
+      "score": 0.482,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zeta",
+      "start": 102.606,
+      "end": 103.046,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 103.406,
+      "end": 103.486,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 103.506,
+      "end": 103.607,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shape",
+      "start": 103.667,
+      "end": 103.927,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 103.987,
+      "end": 104.067,
+      "score": 0.631,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "different.",
+      "start": 104.147,
+      "end": 104.507,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Now",
+      "start": 104.908,
+      "end": 105.068,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 105.108,
+      "end": 105.288,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibodies",
+      "start": 105.528,
+      "end": 106.048,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 106.068,
+      "end": 106.209,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "develop",
+      "start": 106.229,
+      "end": 106.609,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 106.689,
+      "end": 106.869,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 106.989,
+      "end": 107.189,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spike",
+      "start": 107.229,
+      "end": 107.55,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protein,",
+      "start": 107.61,
+      "end": 108.15,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "instead",
+      "start": 108.39,
+      "end": 108.691,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 108.711,
+      "end": 108.771,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "binding",
+      "start": 108.871,
+      "end": 109.251,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 109.271,
+      "end": 109.351,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "neutralizing",
+      "start": 109.411,
+      "end": 110.032,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 110.072,
+      "end": 110.152,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "clearing",
+      "start": 110.192,
+      "end": 110.492,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 110.532,
+      "end": 110.592,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mopping",
+      "start": 110.632,
+      "end": 110.932,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 110.992,
+      "end": 111.072,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus,",
+      "start": 111.112,
+      "end": 111.613,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "down",
+      "start": 111.933,
+      "end": 112.133,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 112.173,
+      "end": 112.253,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "road",
+      "start": 112.313,
+      "end": 112.594,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 112.694,
+      "end": 112.874,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bind,",
+      "start": 112.994,
+      "end": 113.474,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 113.794,
+      "end": 113.915,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 113.955,
+      "end": 114.135,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "neutralize.",
+      "start": 114.235,
+      "end": 114.955,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 115.095,
+      "end": 115.176,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 115.196,
+      "end": 115.296,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 115.316,
+      "end": 115.396,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 115.436,
+      "end": 115.556,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "binding",
+      "start": 115.676,
+      "end": 116.076,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "non-neutralizing",
+      "start": 116.116,
+      "end": 116.917,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibodies,",
+      "start": 116.937,
+      "end": 117.497,
+      "score": 0.718,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now",
+      "start": 117.577,
+      "end": 117.697,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 117.738,
+      "end": 117.858,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 117.898,
+      "end": 118.018,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trojan",
+      "start": 118.078,
+      "end": 118.478,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "horse",
+      "start": 118.558,
+      "end": 118.878,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 119.359,
+      "end": 119.459,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus",
+      "start": 119.479,
+      "end": 119.819,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 120.099,
+      "end": 120.36,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 120.4,
+      "end": 120.54,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 120.56,
+      "end": 120.94,
+      "score": 0.561,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cells,",
+      "start": 120.98,
+      "end": 121.36,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "overtake",
+      "start": 121.921,
+      "end": 122.301,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 122.341,
+      "end": 122.481,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 122.521,
+      "end": 122.882,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system,",
+      "start": 122.922,
+      "end": 123.322,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 123.682,
+      "end": 123.822,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 124.063,
+      "end": 124.403,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 124.443,
+      "end": 124.583,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 124.623,
+      "end": 124.803,
+      "score": 0.503,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "worse",
+      "start": 124.883,
+      "end": 125.164,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease",
+      "start": 125.204,
+      "end": 125.564,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "faster",
+      "start": 125.624,
+      "end": 126.085,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 126.125,
+      "end": 126.205,
+      "score": 0.689,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 126.245,
+      "end": 126.285,
+      "score": 0.015,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "higher",
+      "start": 126.325,
+      "end": 126.565,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 126.585,
+      "end": 126.766,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 126.806,
+      "end": 126.866,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "death.",
+      "start": 126.906,
+      "end": 127.166,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 127.546,
+      "end": 127.646,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Novavax",
+      "start": 127.686,
+      "end": 128.187,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 128.267,
+      "end": 128.367,
+      "score": 0.51,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cool",
+      "start": 128.447,
+      "end": 128.748,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 128.848,
+      "end": 128.948,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concept",
+      "start": 129.028,
+      "end": 129.528,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 129.569,
+      "end": 129.649,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 129.689,
+      "end": 129.849,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 129.889,
+      "end": 130.089,
+      "score": 0.69,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "another",
+      "start": 130.129,
+      "end": 130.429,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "family",
+      "start": 130.51,
+      "end": 130.89,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 130.91,
+      "end": 130.97,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "viruses.",
+      "start": 131.01,
+      "end": 131.511,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 131.711,
+      "end": 131.851,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 131.931,
+      "end": 132.011,
+      "score": 0.562,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not.",
+      "start": 132.091,
+      "end": 132.372,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 132.532,
+      "end": 132.672,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 132.732,
+      "end": 132.812,
+      "score": 0.523,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 132.852,
+      "end": 132.872,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "coronavirus",
+      "start": 132.912,
+      "end": 133.593,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "family.",
+      "start": 133.613,
+      "end": 133.933,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They've",
+      "start": 134.153,
+      "end": 134.334,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 134.354,
+      "end": 134.534,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "primed",
+      "start": 134.614,
+      "end": 134.954,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 134.994,
+      "end": 135.115,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 135.155,
+      "end": 135.215,
+      "score": 0.656,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibody",
+      "start": 135.295,
+      "end": 135.715,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 135.735,
+      "end": 135.875,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 135.915,
+      "end": 135.955,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 136.036,
+      "end": 136.256,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seems",
+      "start": 136.296,
+      "end": 136.536,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "great,",
+      "start": 136.596,
+      "end": 136.856,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 136.896,
+      "end": 137.017,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "down",
+      "start": 137.057,
+      "end": 137.217,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 137.237,
+      "end": 137.317,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "road",
+      "start": 137.357,
+      "end": 137.517,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "becomes",
+      "start": 137.557,
+      "end": 137.817,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 137.857,
+      "end": 137.978,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "enemy.",
+      "start": 138.018,
+      "end": 138.278,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

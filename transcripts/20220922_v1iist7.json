@@ -1,977 +1,5596 @@
 {
-  "text": " Joe Biden says the pandemic is over, so why are teachers still being fired for not being vaccinated? Is the pandemic over? The pandemic is over, we still have a problem with Covid, we're still doing a lot of work on it. It's what the pandemic is over. Okay, so there we have it, the pandemic is over, cause for optimism, cause for joy and celebration. Finally some good news we can get behind. But during the point of the pandemic that most people were concerned to some degree or another about the outcomes, the impact financially, medically, socially, etc. Do you know who we were invited to take into our hearts as heroes? Quite rightly in my view, nurses, teachers, people in services, people that simply had to continue working because their duty and their job demanded it. Why then if the pandemic is over, is this happening? Well in New York City nearly 2,000 school staffers are out of a job for not complying with the Covid vaccine mandate. According to the New York Post, the Department of Education has fired another 850 teachers and classroom aides after they failed to get the shot. That mandate was opposed by former Mayor Bill de Blasio last October. The DOE told the Post that teachers agreed to show proof of vaccination by September or be considered quote to have voluntarily resigned. The New York City Department of Education has asked another 850 teachers and classroom aides, bringing the total to nearly 2,000 school employees fired for failure to comply with the vaccine mandate. About 1,300 DOE employees who took a year's unpaid leave, so essentially they were sacked anyway, unpaid leave with benefits, agreed to show proof of Covid vaccination by September the 5th or be deemed to have voluntarily resigned. That's like stop hitting yourself, isn't it? That's like bullying. Stop hitting yourself, stop hitting, why are you resigning for? Why are you not getting vaccinated for? Why are you resigning for? Rachelle Garcia, an elementary school teacher in Brooklyn for 15 years and mother of two, worked fully in person during the pandemic and never got sick, she said, but she refused to get vaccinated, finally taking leave after the DOE denied her request for a religious exemption.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 6.72,
-      "text": " Joe Biden says the pandemic is over, so why are teachers still being fired for not being vaccinated?",
-      "tokens": [
-        50364,
-        6807,
-        9877,
-        1619,
-        264,
-        5388,
-        307,
-        670,
-        11,
-        370,
-        983,
-        366,
-        6023,
-        920,
-        885,
-        11777,
-        337,
-        406,
-        885,
-        14686,
-        30,
-        50700
+      "start": 0.071,
+      "end": 2.594,
+      "text": " Joe Biden says the pandemic is over.",
+      "words": [
+        {
+          "word": "Joe",
+          "start": 0.071,
+          "end": 0.331,
+          "score": 0.91,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Biden",
+          "start": 0.391,
+          "end": 0.812,
+          "score": 0.781,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "says",
+          "start": 0.852,
+          "end": 1.112,
+          "score": 0.794,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 1.152,
+          "end": 1.272,
+          "score": 0.722,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "pandemic",
+          "start": 1.332,
+          "end": 1.913,
+          "score": 0.97,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "is",
+          "start": 1.993,
+          "end": 2.093,
+          "score": 0.723,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "over.",
+          "start": 2.333,
+          "end": 2.594,
+          "score": 0.844,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27369721421917664,
-      "compression_ratio": 1.7623318385650224,
-      "no_speech_prob": 0.00010307881893822923
+      "avg_logprob": -0.06108566938803114,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 8.48,
-      "end": 10.24,
-      "text": " Is the pandemic over?",
-      "tokens": [
-        50788,
-        1119,
-        264,
-        5388,
-        670,
-        30,
-        50876
+      "start": 2.854,
+      "end": 6.578,
+      "text": "So why are teachers still being fired for not being vaccinated?",
+      "words": [
+        {
+          "word": "So",
+          "start": 2.854,
+          "end": 3.014,
+          "score": 0.996,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "why",
+          "start": 3.114,
+          "end": 3.334,
+          "score": 0.898,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 3.394,
+          "end": 3.494,
+          "score": 0.564,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "teachers",
+          "start": 3.534,
+          "end": 4.075,
+          "score": 0.548,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "still",
+          "start": 4.155,
+          "end": 4.455,
+          "score": 0.908,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "being",
+          "start": 4.475,
+          "end": 4.676,
+          "score": 0.908,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "fired",
+          "start": 4.776,
+          "end": 5.136,
+          "score": 0.917,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 5.196,
+          "end": 5.336,
+          "score": 0.898,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "not",
+          "start": 5.376,
+          "end": 5.516,
+          "score": 0.858,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "being",
+          "start": 5.556,
+          "end": 5.777,
+          "score": 0.831,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "vaccinated?",
+          "start": 5.857,
+          "end": 6.578,
+          "score": 0.884,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27369721421917664,
-      "compression_ratio": 1.7623318385650224,
-      "no_speech_prob": 0.00010307881893822923
+      "avg_logprob": -0.06108566938803114,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 10.24,
-      "end": 16.4,
-      "text": " The pandemic is over, we still have a problem with Covid, we're still doing a lot of work on it.",
-      "tokens": [
-        50876,
-        440,
-        5388,
-        307,
-        670,
-        11,
-        321,
-        920,
-        362,
-        257,
-        1154,
-        365,
-        14633,
-        11,
-        321,
-        434,
-        920,
-        884,
-        257,
-        688,
-        295,
-        589,
-        322,
-        309,
-        13,
-        51184
+      "start": 8.68,
+      "end": 10.001,
+      "text": "Is the pandemic over?",
+      "words": [
+        {
+          "word": "Is",
+          "start": 8.68,
+          "end": 8.8,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 8.84,
+          "end": 8.94,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pandemic",
+          "start": 8.96,
+          "end": 9.54,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over?",
+          "start": 9.781,
+          "end": 10.001,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27369721421917664,
-      "compression_ratio": 1.7623318385650224,
-      "no_speech_prob": 0.00010307881893822923
+      "avg_logprob": -0.06108566938803114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 16.4,
-      "end": 19.2,
-      "text": " It's what the pandemic is over.",
-      "tokens": [
-        51184,
-        467,
-        311,
-        437,
-        264,
-        5388,
-        307,
-        670,
-        13,
-        51324
+      "start": 10.722,
+      "end": 12.684,
+      "text": "The pandemic is over.",
+      "words": [
+        {
+          "word": "The",
+          "start": 10.722,
+          "end": 10.842,
+          "score": 0.467,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pandemic",
+          "start": 10.882,
+          "end": 11.803,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 12.203,
+          "end": 12.303,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over.",
+          "start": 12.443,
+          "end": 12.684,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27369721421917664,
-      "compression_ratio": 1.7623318385650224,
-      "no_speech_prob": 0.00010307881893822923
+      "avg_logprob": -0.06108566938803114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 19.2,
-      "end": 25.2,
-      "text": " Okay, so there we have it, the pandemic is over, cause for optimism, cause for joy and celebration.",
-      "tokens": [
-        51324,
-        1033,
-        11,
-        370,
-        456,
-        321,
-        362,
-        309,
-        11,
-        264,
-        5388,
-        307,
-        670,
-        11,
-        3082,
-        337,
-        31074,
-        11,
-        3082,
-        337,
-        6258,
-        293,
-        14184,
-        13,
-        51624
+      "start": 12.844,
+      "end": 14.646,
+      "text": "We still have a problem with COVID.",
+      "words": [
+        {
+          "word": "We",
+          "start": 12.844,
+          "end": 12.984,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 13.024,
+          "end": 13.224,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 13.264,
+          "end": 13.444,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 13.484,
+          "end": 13.504,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "problem",
+          "start": 13.564,
+          "end": 13.965,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 14.005,
+          "end": 14.145,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID.",
+          "start": 14.225,
+          "end": 14.646,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27369721421917664,
-      "compression_ratio": 1.7623318385650224,
-      "no_speech_prob": 0.00010307881893822923
+      "avg_logprob": -0.06108566938803114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 25.2,
-      "end": 27.2,
-      "text": " Finally some good news we can get behind.",
-      "tokens": [
-        51624,
-        6288,
-        512,
-        665,
-        2583,
-        321,
-        393,
-        483,
-        2261,
-        13,
-        51724
+      "start": 14.706,
+      "end": 16.207,
+      "text": "We're still doing a lot of work on it.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 14.706,
+          "end": 14.866,
+          "score": 0.438,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 14.886,
+          "end": 15.106,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doing",
+          "start": 15.126,
+          "end": 15.286,
+          "score": 0.436,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 15.306,
+          "end": 15.326,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 15.386,
+          "end": 15.546,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 15.586,
+          "end": 15.626,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work",
+          "start": 15.667,
+          "end": 15.887,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 16.027,
+          "end": 16.107,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 16.147,
+          "end": 16.207,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27369721421917664,
-      "compression_ratio": 1.7623318385650224,
-      "no_speech_prob": 0.00010307881893822923
+      "avg_logprob": -0.06108566938803114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2720,
-      "start": 27.279999999999998,
-      "end": 31.68,
-      "text": " But during the point of the pandemic that most people were concerned to some degree or another",
-      "tokens": [
-        50368,
-        583,
-        1830,
-        264,
-        935,
-        295,
-        264,
-        5388,
-        300,
-        881,
-        561,
-        645,
-        5922,
-        281,
-        512,
-        4314,
-        420,
-        1071,
-        50588
+      "start": 17.448,
+      "end": 19.05,
+      "text": "It's what the pandemic is over.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 17.448,
+          "end": 17.608,
+          "score": 0.787,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 17.789,
+          "end": 17.949,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 18.009,
+          "end": 18.109,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pandemic",
+          "start": 18.149,
+          "end": 18.65,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 18.71,
+          "end": 18.79,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over.",
+          "start": 18.89,
+          "end": 19.05,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11732889556884765,
-      "compression_ratio": 1.6603174603174604,
-      "no_speech_prob": 0.001506372937001288
+      "avg_logprob": -0.06108566938803114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2720,
-      "start": 31.68,
-      "end": 35.44,
-      "text": " about the outcomes, the impact financially, medically, socially, etc.",
-      "tokens": [
-        50588,
-        466,
-        264,
-        10070,
-        11,
-        264,
-        2712,
-        20469,
-        11,
-        49230,
-        11,
-        21397,
-        11,
-        5183,
-        13,
-        50776
+      "start": 19.318,
+      "end": 20.218,
+      "text": " Okay, so there we have it.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 19.318,
+          "end": 19.618,
+          "score": 0.74,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "so",
+          "start": 19.638,
+          "end": 19.718,
+          "score": 0.002,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "there",
+          "start": 19.758,
+          "end": 19.858,
+          "score": 0.771,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "we",
+          "start": 19.898,
+          "end": 19.978,
+          "score": 0.83,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "have",
+          "start": 19.998,
+          "end": 20.118,
+          "score": 0.754,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "it.",
+          "start": 20.158,
+          "end": 20.218,
+          "score": 0.995,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11732889556884765,
-      "compression_ratio": 1.6603174603174604,
-      "no_speech_prob": 0.001506372937001288
+      "avg_logprob": -0.09043560617349365,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 8,
-      "seek": 2720,
-      "start": 36.08,
-      "end": 38.879999999999995,
+      "start": 20.238,
+      "end": 21.399,
+      "text": "The pandemic is over.",
+      "words": [
+        {
+          "word": "The",
+          "start": 20.238,
+          "end": 20.318,
+          "score": 0.942,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "pandemic",
+          "start": 20.338,
+          "end": 20.818,
+          "score": 0.858,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "is",
+          "start": 20.919,
+          "end": 20.999,
+          "score": 0.978,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "over.",
+          "start": 21.199,
+          "end": 21.399,
+          "score": 0.981,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "avg_logprob": -0.09043560617349365,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 21.479,
+      "end": 25.14,
+      "text": "Calls for optimism, calls for joy and celebration.",
+      "words": [
+        {
+          "word": "Calls",
+          "start": 21.479,
+          "end": 21.859,
+          "score": 0.691,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 21.939,
+          "end": 22.179,
+          "score": 0.746,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "optimism,",
+          "start": 22.339,
+          "end": 22.839,
+          "score": 0.961,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "calls",
+          "start": 23.119,
+          "end": 23.399,
+          "score": 0.605,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 23.419,
+          "end": 23.539,
+          "score": 0.794,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "joy",
+          "start": 23.619,
+          "end": 23.939,
+          "score": 0.804,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 24.32,
+          "end": 24.46,
+          "score": 0.739,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "celebration.",
+          "start": 24.52,
+          "end": 25.14,
+          "score": 0.875,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "avg_logprob": -0.09043560617349365,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 25.24,
+      "end": 27.04,
+      "text": "Finally, some good news we can get behind.",
+      "words": [
+        {
+          "word": "Finally,",
+          "start": 25.24,
+          "end": 25.62,
+          "score": 0.912,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "some",
+          "start": 25.64,
+          "end": 25.78,
+          "score": 0.81,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "good",
+          "start": 25.82,
+          "end": 25.98,
+          "score": 0.94,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "news",
+          "start": 26.04,
+          "end": 26.22,
+          "score": 0.701,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "we",
+          "start": 26.26,
+          "end": 26.36,
+          "score": 0.46,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "can",
+          "start": 26.38,
+          "end": 26.52,
+          "score": 0.808,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "get",
+          "start": 26.54,
+          "end": 26.68,
+          "score": 0.823,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "behind.",
+          "start": 26.72,
+          "end": 27.04,
+          "score": 0.927,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "avg_logprob": -0.09043560617349365,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 27.4,
+      "end": 35.243,
+      "text": "But during the point of the pandemic that most people were concerned to some degree or another about the outcomes, the impact financially, medically, socially, etc.",
+      "words": [
+        {
+          "word": "But",
+          "start": 27.4,
+          "end": 27.58,
+          "score": 0.927,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "during",
+          "start": 27.721,
+          "end": 28.021,
+          "score": 0.783,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 28.061,
+          "end": 28.141,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "point",
+          "start": 28.181,
+          "end": 28.401,
+          "score": 0.744,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 28.421,
+          "end": 28.481,
+          "score": 0.75,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 28.501,
+          "end": 28.581,
+          "score": 0.828,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "pandemic",
+          "start": 28.601,
+          "end": 29.161,
+          "score": 0.878,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "that",
+          "start": 29.201,
+          "end": 29.341,
+          "score": 0.806,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "most",
+          "start": 29.521,
+          "end": 29.841,
+          "score": 0.836,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "people",
+          "start": 29.941,
+          "end": 30.221,
+          "score": 0.793,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "were",
+          "start": 30.241,
+          "end": 30.381,
+          "score": 0.862,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "concerned",
+          "start": 30.401,
+          "end": 30.841,
+          "score": 0.801,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 30.861,
+          "end": 30.941,
+          "score": 0.963,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "some",
+          "start": 31.001,
+          "end": 31.182,
+          "score": 0.742,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "degree",
+          "start": 31.222,
+          "end": 31.462,
+          "score": 0.881,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "or",
+          "start": 31.482,
+          "end": 31.542,
+          "score": 0.76,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "another",
+          "start": 31.562,
+          "end": 31.802,
+          "score": 0.781,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "about",
+          "start": 31.822,
+          "end": 32.002,
+          "score": 0.708,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 32.022,
+          "end": 32.102,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "outcomes,",
+          "start": 32.242,
+          "end": 32.622,
+          "score": 0.879,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 32.642,
+          "end": 32.702,
+          "score": 0.987,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "impact",
+          "start": 32.762,
+          "end": 33.082,
+          "score": 0.829,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "financially,",
+          "start": 33.122,
+          "end": 33.742,
+          "score": 0.821,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "medically,",
+          "start": 33.862,
+          "end": 34.322,
+          "score": 0.929,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "socially,",
+          "start": 34.422,
+          "end": 34.923,
+          "score": 0.871,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "etc.",
+          "start": 35.003,
+          "end": 35.243,
+          "score": 0.894,
+          "speaker": "SPEAKER_02"
+        }
+      ],
+      "avg_logprob": -0.09043560617349365,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 36.223,
+      "end": 38.865,
       "text": " Do you know who we were invited to take into our hearts as heroes?",
-      "tokens": [
-        50808,
-        1144,
-        291,
-        458,
-        567,
-        321,
-        645,
-        9185,
-        281,
-        747,
-        666,
-        527,
-        8852,
-        382,
-        12332,
-        30,
-        50948
+      "words": [
+        {
+          "word": "Do",
+          "start": 36.223,
+          "end": 36.323,
+          "score": 0.655,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 36.343,
+          "end": 36.423,
+          "score": 0.778,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "know",
+          "start": 36.463,
+          "end": 36.603,
+          "score": 0.916,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "who",
+          "start": 36.643,
+          "end": 36.804,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "we",
+          "start": 36.844,
+          "end": 36.944,
+          "score": 0.99,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "were",
+          "start": 36.964,
+          "end": 37.084,
+          "score": 0.825,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "invited",
+          "start": 37.104,
+          "end": 37.424,
+          "score": 0.885,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 37.464,
+          "end": 37.544,
+          "score": 0.736,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "take",
+          "start": 37.584,
+          "end": 37.744,
+          "score": 0.908,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "into",
+          "start": 37.784,
+          "end": 37.925,
+          "score": 0.89,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "our",
+          "start": 37.985,
+          "end": 38.085,
+          "score": 0.823,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "hearts",
+          "start": 38.105,
+          "end": 38.325,
+          "score": 0.761,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "as",
+          "start": 38.385,
+          "end": 38.485,
+          "score": 0.59,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "heroes?",
+          "start": 38.505,
+          "end": 38.865,
+          "score": 0.859,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11732889556884765,
-      "compression_ratio": 1.6603174603174604,
-      "no_speech_prob": 0.001506372937001288
+      "avg_logprob": -0.03955905833991907,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 9,
-      "seek": 2720,
-      "start": 38.879999999999995,
-      "end": 44.72,
-      "text": " Quite rightly in my view, nurses, teachers, people in services, people that simply had to",
-      "tokens": [
-        50948,
-        20464,
-        32879,
-        294,
-        452,
-        1910,
-        11,
-        17446,
-        11,
-        6023,
-        11,
-        561,
-        294,
-        3328,
-        11,
-        561,
-        300,
-        2935,
-        632,
-        281,
-        51240
+      "start": 38.965,
+      "end": 48.934,
+      "text": "Quite rightly in my view, nurses, teachers, people in services, people that simply had to continue working because their duty and their job demanded it.",
+      "words": [
+        {
+          "word": "Quite",
+          "start": 38.965,
+          "end": 39.166,
+          "score": 0.97,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "rightly",
+          "start": 39.206,
+          "end": 39.466,
+          "score": 0.859,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 39.486,
+          "end": 39.566,
+          "score": 0.828,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "my",
+          "start": 39.586,
+          "end": 39.746,
+          "score": 0.894,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "view,",
+          "start": 39.786,
+          "end": 39.986,
+          "score": 0.88,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "nurses,",
+          "start": 40.427,
+          "end": 40.927,
+          "score": 0.903,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "teachers,",
+          "start": 41.227,
+          "end": 41.788,
+          "score": 0.85,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "people",
+          "start": 42.048,
+          "end": 42.348,
+          "score": 0.81,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 42.388,
+          "end": 42.489,
+          "score": 0.868,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "services,",
+          "start": 42.569,
+          "end": 43.149,
+          "score": 0.883,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "people",
+          "start": 43.429,
+          "end": 43.69,
+          "score": 0.867,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "that",
+          "start": 43.71,
+          "end": 43.87,
+          "score": 0.841,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "simply",
+          "start": 43.93,
+          "end": 44.23,
+          "score": 0.902,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "had",
+          "start": 44.33,
+          "end": 44.63,
+          "score": 0.896,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 44.65,
+          "end": 44.791,
+          "score": 0.638,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "continue",
+          "start": 44.831,
+          "end": 45.451,
+          "score": 0.813,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "working",
+          "start": 45.491,
+          "end": 45.852,
+          "score": 0.864,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "because",
+          "start": 46.072,
+          "end": 46.332,
+          "score": 0.913,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "their",
+          "start": 46.372,
+          "end": 46.572,
+          "score": 0.856,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "duty",
+          "start": 46.652,
+          "end": 47.133,
+          "score": 0.937,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 47.293,
+          "end": 47.373,
+          "score": 0.909,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "their",
+          "start": 47.413,
+          "end": 47.573,
+          "score": 0.938,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "job",
+          "start": 47.653,
+          "end": 47.933,
+          "score": 0.997,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "demanded",
+          "start": 48.234,
+          "end": 48.814,
+          "score": 0.873,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "it.",
+          "start": 48.874,
+          "end": 48.934,
+          "score": 0.991,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11732889556884765,
-      "compression_ratio": 1.6603174603174604,
-      "no_speech_prob": 0.001506372937001288
+      "avg_logprob": -0.03955905833991907,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 10,
-      "seek": 2720,
-      "start": 44.72,
-      "end": 49.2,
-      "text": " continue working because their duty and their job demanded it.",
-      "tokens": [
-        51240,
-        2354,
-        1364,
-        570,
-        641,
-        9776,
-        293,
-        641,
-        1691,
-        28276,
-        309,
-        13,
-        51464
+      "start": 49.355,
+      "end": 51.997,
+      "text": "Why then, if the pandemic is over, is this happening?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 49.355,
+          "end": 49.615,
+          "score": 0.871,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "then,",
+          "start": 49.655,
+          "end": 49.855,
+          "score": 0.945,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "if",
+          "start": 49.975,
+          "end": 50.035,
+          "score": 0.901,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 50.075,
+          "end": 50.155,
+          "score": 0.929,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "pandemic",
+          "start": 50.195,
+          "end": 50.696,
+          "score": 0.946,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "is",
+          "start": 50.736,
+          "end": 50.816,
+          "score": 0.906,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "over,",
+          "start": 50.936,
+          "end": 51.136,
+          "score": 0.952,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "is",
+          "start": 51.396,
+          "end": 51.456,
+          "score": 0.853,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "this",
+          "start": 51.497,
+          "end": 51.637,
+          "score": 0.748,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "happening?",
+          "start": 51.657,
+          "end": 51.997,
+          "score": 0.977,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11732889556884765,
-      "compression_ratio": 1.6603174603174604,
-      "no_speech_prob": 0.001506372937001288
+      "avg_logprob": -0.03955905833991907,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 11,
-      "seek": 2720,
-      "start": 49.2,
-      "end": 51.92,
-      "text": " Why then if the pandemic is over, is this happening?",
-      "tokens": [
-        51464,
-        1545,
-        550,
-        498,
-        264,
-        5388,
-        307,
-        670,
-        11,
-        307,
-        341,
-        2737,
-        30,
-        51600
+      "start": 52.077,
+      "end": 58.523,
+      "text": " Well, in New York City, nearly 2000 school staffers are out of a job for not complying with the COVID vaccine mandate.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 52.077,
+          "end": 52.197,
+          "score": 0.217,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 52.217,
+          "end": 52.257,
+          "score": 0.324,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "New",
+          "start": 52.277,
+          "end": 52.357,
+          "score": 0.833,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "York",
+          "start": 52.397,
+          "end": 52.537,
+          "score": 0.974,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "City,",
+          "start": 52.577,
+          "end": 52.798,
+          "score": 0.889,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "nearly",
+          "start": 52.818,
+          "end": 53.078,
+          "score": 0.803,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "2000",
+          "start": 53.138,
+          "end": 54.019,
+          "score": 0.754,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "school",
+          "start": 54.139,
+          "end": 54.419,
+          "score": 0.835,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "staffers",
+          "start": 54.479,
+          "end": 55.0,
+          "score": 0.873,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "are",
+          "start": 55.04,
+          "end": 55.14,
+          "score": 0.682,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "out",
+          "start": 55.22,
+          "end": 55.34,
+          "score": 0.914,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 55.38,
+          "end": 55.44,
+          "score": 0.749,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "a",
+          "start": 55.48,
+          "end": 55.5,
+          "score": 0.928,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "job",
+          "start": 55.56,
+          "end": 55.861,
+          "score": 0.992,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "for",
+          "start": 55.941,
+          "end": 56.121,
+          "score": 0.674,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "not",
+          "start": 56.221,
+          "end": 56.441,
+          "score": 0.94,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "complying",
+          "start": 56.521,
+          "end": 57.002,
+          "score": 0.903,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "with",
+          "start": 57.082,
+          "end": 57.222,
+          "score": 0.839,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 57.242,
+          "end": 57.322,
+          "score": 0.808,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "COVID",
+          "start": 57.362,
+          "end": 57.682,
+          "score": 0.889,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccine",
+          "start": 57.702,
+          "end": 58.123,
+          "score": 0.801,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mandate.",
+          "start": 58.163,
+          "end": 58.523,
+          "score": 0.919,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11732889556884765,
-      "compression_ratio": 1.6603174603174604,
-      "no_speech_prob": 0.001506372937001288
+      "avg_logprob": -0.05634469591607951,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 12,
-      "seek": 2720,
-      "start": 51.92,
-      "end": 56.96,
-      "text": " Well in New York City nearly 2,000 school staffers are out of a job for not complying",
-      "tokens": [
-        51600,
-        1042,
-        294,
-        1873,
-        3609,
-        4392,
-        6217,
-        568,
-        11,
-        1360,
-        1395,
-        3525,
-        433,
-        366,
-        484,
-        295,
-        257,
-        1691,
-        337,
-        406,
-        715,
-        7310,
-        51852
+      "start": 58.883,
+      "end": 65.589,
+      "text": "According to the New York Post, the Department of Education has fired another 850 teachers and classroom aides after they failed to get the shot.",
+      "words": [
+        {
+          "word": "According",
+          "start": 58.883,
+          "end": 59.124,
+          "score": 0.999,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 59.144,
+          "end": 59.204,
+          "score": 0.745,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 59.224,
+          "end": 59.284,
+          "score": 0.981,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "New",
+          "start": 59.324,
+          "end": 59.384,
+          "score": 0.999,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "York",
+          "start": 59.404,
+          "end": 59.564,
+          "score": 0.762,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Post,",
+          "start": 59.604,
+          "end": 59.924,
+          "score": 0.942,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 59.984,
+          "end": 60.044,
+          "score": 0.998,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Department",
+          "start": 60.084,
+          "end": 60.405,
+          "score": 0.901,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 60.425,
+          "end": 60.485,
+          "score": 0.751,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Education",
+          "start": 60.545,
+          "end": 60.905,
+          "score": 0.868,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "has",
+          "start": 60.925,
+          "end": 61.025,
+          "score": 0.477,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "fired",
+          "start": 61.045,
+          "end": 61.245,
+          "score": 0.562,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "another",
+          "start": 61.286,
+          "end": 61.526,
+          "score": 0.731,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "850",
+          "start": 61.546,
+          "end": 61.906,
+          "score": 0.295,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "teachers",
+          "start": 62.286,
+          "end": 62.747,
+          "score": 0.712,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 62.847,
+          "end": 62.947,
+          "score": 0.839,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "classroom",
+          "start": 62.987,
+          "end": 63.448,
+          "score": 0.829,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "aides",
+          "start": 63.568,
+          "end": 63.768,
+          "score": 0.781,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "after",
+          "start": 63.888,
+          "end": 64.128,
+          "score": 0.801,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "they",
+          "start": 64.208,
+          "end": 64.448,
+          "score": 0.812,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "failed",
+          "start": 64.529,
+          "end": 64.829,
+          "score": 0.718,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 64.949,
+          "end": 65.049,
+          "score": 0.611,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "get",
+          "start": 65.069,
+          "end": 65.189,
+          "score": 0.85,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 65.209,
+          "end": 65.289,
+          "score": 0.803,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "shot.",
+          "start": 65.329,
+          "end": 65.589,
+          "score": 0.937,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11732889556884765,
-      "compression_ratio": 1.6603174603174604,
-      "no_speech_prob": 0.001506372937001288
+      "avg_logprob": -0.05634469591607951,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 13,
-      "seek": 5696,
-      "start": 56.96,
-      "end": 58.72,
-      "text": " with the Covid vaccine mandate.",
-      "tokens": [
-        50364,
-        365,
-        264,
-        14633,
-        7007,
-        23885,
-        13,
-        50452
+      "start": 66.03,
+      "end": 69.693,
+      "text": "That mandate was opposed by former Mayor Bill de Blasio last October.",
+      "words": [
+        {
+          "word": "That",
+          "start": 66.03,
+          "end": 66.15,
+          "score": 0.886,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mandate",
+          "start": 66.19,
+          "end": 66.45,
+          "score": 0.824,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "was",
+          "start": 66.47,
+          "end": 66.55,
+          "score": 0.88,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "opposed",
+          "start": 66.61,
+          "end": 66.951,
+          "score": 0.921,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "by",
+          "start": 67.011,
+          "end": 67.131,
+          "score": 0.863,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "former",
+          "start": 67.311,
+          "end": 67.751,
+          "score": 0.857,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Mayor",
+          "start": 67.932,
+          "end": 68.192,
+          "score": 0.831,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Bill",
+          "start": 68.232,
+          "end": 68.352,
+          "score": 0.884,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "de",
+          "start": 68.372,
+          "end": 68.472,
+          "score": 0.657,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Blasio",
+          "start": 68.492,
+          "end": 68.913,
+          "score": 0.895,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "last",
+          "start": 68.933,
+          "end": 69.133,
+          "score": 0.726,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "October.",
+          "start": 69.193,
+          "end": 69.693,
+          "score": 0.826,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09587885480408274,
-      "compression_ratio": 1.7740740740740741,
-      "no_speech_prob": 0.026607347652316093
+      "avg_logprob": -0.05634469591607951,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 14,
-      "seek": 5696,
-      "start": 58.72,
-      "end": 62.72,
-      "text": " According to the New York Post, the Department of Education has fired another 850 teachers",
-      "tokens": [
-        50452,
-        7328,
-        281,
-        264,
-        1873,
-        3609,
-        10223,
-        11,
-        264,
-        5982,
-        295,
-        10680,
-        575,
-        11777,
-        1071,
-        1649,
-        2803,
-        6023,
-        50652
+      "start": 70.034,
+      "end": 77.921,
+      "text": "The DOE told the Post that teachers agreed to show proof of vaccination by September or be considered, quote, to have voluntarily resigned.",
+      "words": [
+        {
+          "word": "The",
+          "start": 70.034,
+          "end": 70.114,
+          "score": 0.886,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "DOE",
+          "start": 70.134,
+          "end": 70.574,
+          "score": 0.817,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "told",
+          "start": 70.614,
+          "end": 70.794,
+          "score": 0.71,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 70.814,
+          "end": 70.874,
+          "score": 0.982,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Post",
+          "start": 70.934,
+          "end": 71.215,
+          "score": 0.92,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 71.235,
+          "end": 71.375,
+          "score": 0.762,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "teachers",
+          "start": 71.415,
+          "end": 71.735,
+          "score": 0.764,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "agreed",
+          "start": 71.775,
+          "end": 72.095,
+          "score": 0.809,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 72.156,
+          "end": 72.276,
+          "score": 0.644,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "show",
+          "start": 72.336,
+          "end": 72.516,
+          "score": 0.792,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "proof",
+          "start": 72.576,
+          "end": 72.816,
+          "score": 0.797,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 72.856,
+          "end": 72.896,
+          "score": 0.92,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccination",
+          "start": 72.936,
+          "end": 73.517,
+          "score": 0.893,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "by",
+          "start": 73.557,
+          "end": 73.697,
+          "score": 0.834,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "September",
+          "start": 73.777,
+          "end": 74.398,
+          "score": 0.908,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "or",
+          "start": 74.838,
+          "end": 74.958,
+          "score": 0.736,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "be",
+          "start": 74.998,
+          "end": 75.098,
+          "score": 0.924,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "considered,",
+          "start": 75.138,
+          "end": 75.559,
+          "score": 0.873,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "quote,",
+          "start": 75.619,
+          "end": 75.879,
+          "score": 0.828,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 75.979,
+          "end": 76.099,
+          "score": 0.666,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 76.139,
+          "end": 76.259,
+          "score": 0.888,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "voluntarily",
+          "start": 76.319,
+          "end": 77.14,
+          "score": 0.821,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "resigned.",
+          "start": 77.4,
+          "end": 77.921,
+          "score": 0.844,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09587885480408274,
-      "compression_ratio": 1.7740740740740741,
-      "no_speech_prob": 0.026607347652316093
+      "avg_logprob": -0.05634469591607951,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 15,
-      "seek": 5696,
-      "start": 62.72,
-      "end": 65.84,
-      "text": " and classroom aides after they failed to get the shot.",
-      "tokens": [
-        50652,
-        293,
-        7419,
-        257,
-        1875,
-        934,
-        436,
-        7612,
-        281,
-        483,
-        264,
-        3347,
-        13,
-        50808
+      "start": 78.181,
+      "end": 87.511,
+      "text": " The New York City Department of Education has axed another 850 teachers and classroom aides, bringing the total to nearly 2000 school employees fired for failure to comply with the vaccine mandate.",
+      "words": [
+        {
+          "word": "The",
+          "start": 78.181,
+          "end": 78.261,
+          "score": 0.873,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "New",
+          "start": 78.301,
+          "end": 78.401,
+          "score": 0.685,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "York",
+          "start": 78.421,
+          "end": 78.602,
+          "score": 0.948,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "City",
+          "start": 78.622,
+          "end": 78.802,
+          "score": 0.447,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Department",
+          "start": 78.822,
+          "end": 79.182,
+          "score": 0.897,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 79.202,
+          "end": 79.242,
+          "score": 1.0,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Education",
+          "start": 79.302,
+          "end": 79.783,
+          "score": 0.932,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "has",
+          "start": 79.823,
+          "end": 79.923,
+          "score": 0.586,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "axed",
+          "start": 79.983,
+          "end": 80.163,
+          "score": 0.549,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "another",
+          "start": 80.223,
+          "end": 81.044,
+          "score": 0.47,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "850",
+          "start": 81.084,
+          "end": 81.344,
+          "score": 0.785,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "teachers",
+          "start": 81.384,
+          "end": 81.745,
+          "score": 0.908,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 81.785,
+          "end": 81.885,
+          "score": 0.785,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "classroom",
+          "start": 81.945,
+          "end": 82.445,
+          "score": 0.878,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "aides,",
+          "start": 82.505,
+          "end": 82.726,
+          "score": 0.84,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "bringing",
+          "start": 82.786,
+          "end": 83.046,
+          "score": 0.93,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 83.066,
+          "end": 83.146,
+          "score": 0.825,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "total",
+          "start": 83.186,
+          "end": 83.386,
+          "score": 0.959,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 83.406,
+          "end": 83.486,
+          "score": 0.492,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "nearly",
+          "start": 83.506,
+          "end": 83.707,
+          "score": 0.86,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "2000",
+          "start": 83.747,
+          "end": 84.287,
+          "score": 0.68,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "school",
+          "start": 84.327,
+          "end": 84.588,
+          "score": 0.729,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "employees",
+          "start": 84.628,
+          "end": 85.068,
+          "score": 0.652,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "fired",
+          "start": 85.128,
+          "end": 85.428,
+          "score": 0.88,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 85.468,
+          "end": 85.589,
+          "score": 0.888,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "failure",
+          "start": 85.629,
+          "end": 85.949,
+          "score": 0.806,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 85.969,
+          "end": 86.029,
+          "score": 0.854,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "comply",
+          "start": 86.069,
+          "end": 86.429,
+          "score": 0.948,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "with",
+          "start": 86.469,
+          "end": 86.55,
+          "score": 0.99,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 86.57,
+          "end": 86.63,
+          "score": 0.0,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "vaccine",
+          "start": 86.65,
+          "end": 87.03,
+          "score": 0.81,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "mandate.",
+          "start": 87.07,
+          "end": 87.511,
+          "score": 0.854,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09587885480408274,
-      "compression_ratio": 1.7740740740740741,
-      "no_speech_prob": 0.026607347652316093
+      "avg_logprob": -0.07262899345436762,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 16,
-      "seek": 5696,
-      "start": 65.84,
-      "end": 69.84,
-      "text": " That mandate was opposed by former Mayor Bill de Blasio last October.",
-      "tokens": [
-        50808,
-        663,
-        23885,
-        390,
-        8851,
-        538,
-        5819,
-        13925,
-        5477,
-        368,
-        2177,
-        296,
-        1004,
-        1036,
-        7617,
-        13,
-        51008
+      "start": 87.691,
+      "end": 99.743,
+      "text": "About 1300 DOE employees who took a year's unpaid leave, so essentially they were sacked anyway, unpaid leave with benefits, agreed to show proof of COVID vaccination by September the 5th or be deemed to have voluntarily resigned.",
+      "words": [
+        {
+          "word": "About",
+          "start": 87.691,
+          "end": 87.911,
+          "score": 0.763,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "1300",
+          "start": 87.951,
+          "end": 88.291,
+          "score": 0.645,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "DOE",
+          "start": 88.431,
+          "end": 88.592,
+          "score": 0.576,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "employees",
+          "start": 89.112,
+          "end": 89.633,
+          "score": 0.854,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "who",
+          "start": 89.653,
+          "end": 89.753,
+          "score": 0.846,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "took",
+          "start": 89.793,
+          "end": 89.933,
+          "score": 0.908,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "a",
+          "start": 89.973,
+          "end": 90.013,
+          "score": 0.501,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "year's",
+          "start": 90.053,
+          "end": 90.293,
+          "score": 0.701,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "unpaid",
+          "start": 90.474,
+          "end": 90.934,
+          "score": 0.839,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "leave,",
+          "start": 90.994,
+          "end": 91.254,
+          "score": 0.856,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "so",
+          "start": 91.354,
+          "end": 91.434,
+          "score": 0.934,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "essentially",
+          "start": 91.475,
+          "end": 91.815,
+          "score": 0.74,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "they",
+          "start": 91.835,
+          "end": 91.915,
+          "score": 0.999,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "were",
+          "start": 91.955,
+          "end": 92.055,
+          "score": 0.857,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "sacked",
+          "start": 92.075,
+          "end": 92.315,
+          "score": 0.812,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "anyway,",
+          "start": 92.355,
+          "end": 92.676,
+          "score": 0.905,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "unpaid",
+          "start": 92.916,
+          "end": 93.296,
+          "score": 0.822,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "leave",
+          "start": 93.336,
+          "end": 93.597,
+          "score": 0.808,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "with",
+          "start": 93.737,
+          "end": 93.897,
+          "score": 0.778,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "benefits,",
+          "start": 93.957,
+          "end": 94.397,
+          "score": 0.827,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "agreed",
+          "start": 94.558,
+          "end": 94.878,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 94.898,
+          "end": 94.978,
+          "score": 0.632,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "show",
+          "start": 95.018,
+          "end": 95.198,
+          "score": 0.776,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "proof",
+          "start": 95.258,
+          "end": 95.539,
+          "score": 0.7,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 95.559,
+          "end": 95.619,
+          "score": 0.75,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 95.679,
+          "end": 95.959,
+          "score": 0.681,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "vaccination",
+          "start": 95.999,
+          "end": 96.46,
+          "score": 0.913,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "by",
+          "start": 96.5,
+          "end": 96.6,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "September",
+          "start": 96.66,
+          "end": 97.16,
+          "score": 0.906,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 97.18,
+          "end": 97.24,
+          "score": 0.989,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "5th",
+          "start": 97.28,
+          "end": 97.461,
+          "score": 0.457,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "or",
+          "start": 97.481,
+          "end": 97.581,
+          "score": 0.599,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "be",
+          "start": 97.621,
+          "end": 97.721,
+          "score": 0.906,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "deemed",
+          "start": 97.801,
+          "end": 98.121,
+          "score": 0.8,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 98.241,
+          "end": 98.361,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "have",
+          "start": 98.402,
+          "end": 98.502,
+          "score": 0.86,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "voluntarily",
+          "start": 98.682,
+          "end": 99.282,
+          "score": 0.798,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "resigned.",
+          "start": 99.322,
+          "end": 99.743,
+          "score": 0.861,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09587885480408274,
-      "compression_ratio": 1.7740740740740741,
-      "no_speech_prob": 0.026607347652316093
+      "avg_logprob": -0.07262899345436762,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 17,
-      "seek": 5696,
-      "start": 69.84,
-      "end": 74.56,
-      "text": " The DOE told the Post that teachers agreed to show proof of vaccination by September",
-      "tokens": [
-        51008,
-        440,
-        10699,
-        36,
-        1907,
-        264,
-        10223,
-        300,
-        6023,
-        9166,
-        281,
-        855,
-        8177,
-        295,
-        16498,
-        538,
-        7216,
-        51244
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09587885480408274,
-      "compression_ratio": 1.7740740740740741,
-      "no_speech_prob": 0.026607347652316093
-    },
-    {
-      "id": 18,
-      "seek": 5696,
-      "start": 74.56,
-      "end": 78.0,
-      "text": " or be considered quote to have voluntarily resigned.",
-      "tokens": [
-        51244,
-        420,
-        312,
-        4888,
-        6513,
-        281,
-        362,
-        41782,
-        41180,
-        13,
-        51416
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09587885480408274,
-      "compression_ratio": 1.7740740740740741,
-      "no_speech_prob": 0.026607347652316093
-    },
-    {
-      "id": 19,
-      "seek": 5696,
-      "start": 78.0,
-      "end": 82.64,
-      "text": " The New York City Department of Education has asked another 850 teachers and classroom aides,",
-      "tokens": [
-        51416,
-        440,
-        1873,
-        3609,
-        4392,
-        5982,
-        295,
-        10680,
-        575,
-        2351,
-        1071,
-        1649,
-        2803,
-        6023,
-        293,
-        7419,
-        257,
-        1875,
-        11,
-        51648
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09587885480408274,
-      "compression_ratio": 1.7740740740740741,
-      "no_speech_prob": 0.026607347652316093
-    },
-    {
-      "id": 20,
-      "seek": 8264,
-      "start": 82.72,
-      "end": 86.48,
-      "text": " bringing the total to nearly 2,000 school employees fired for failure to comply with",
-      "tokens": [
-        50368,
-        5062,
-        264,
-        3217,
-        281,
-        6217,
-        568,
-        11,
-        1360,
-        1395,
-        6619,
-        11777,
-        337,
-        7763,
-        281,
-        27956,
-        365,
-        50556
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
-    },
-    {
-      "id": 21,
-      "seek": 8264,
-      "start": 86.48,
-      "end": 87.52,
-      "text": " the vaccine mandate.",
-      "tokens": [
-        50556,
-        264,
-        7007,
-        23885,
-        13,
-        50608
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
-    },
-    {
-      "id": 22,
-      "seek": 8264,
-      "start": 87.52,
-      "end": 92.72,
-      "text": " About 1,300 DOE employees who took a year's unpaid leave, so essentially they were sacked anyway,",
-      "tokens": [
-        50608,
-        7769,
-        502,
-        11,
-        12566,
-        10699,
-        36,
-        6619,
-        567,
-        1890,
-        257,
-        1064,
-        311,
-        517,
-        35035,
-        1856,
-        11,
-        370,
-        4476,
-        436,
-        645,
-        262,
-        25949,
-        4033,
-        11,
-        50868
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
-    },
-    {
-      "id": 23,
-      "seek": 8264,
-      "start": 92.72,
-      "end": 97.04,
-      "text": " unpaid leave with benefits, agreed to show proof of Covid vaccination by September",
-      "tokens": [
-        50868,
-        517,
-        35035,
-        1856,
-        365,
-        5311,
-        11,
-        9166,
-        281,
-        855,
-        8177,
-        295,
-        14633,
-        16498,
-        538,
-        7216,
-        51084
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
-    },
-    {
-      "id": 24,
-      "seek": 8264,
-      "start": 97.04,
-      "end": 99.84,
-      "text": " the 5th or be deemed to have voluntarily resigned.",
-      "tokens": [
-        51084,
-        264,
-        1025,
-        392,
-        420,
-        312,
-        27637,
-        281,
-        362,
-        41782,
-        41180,
-        13,
-        51224
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
-    },
-    {
-      "id": 25,
-      "seek": 8264,
-      "start": 99.84,
-      "end": 101.68,
+      "start": 99.963,
+      "end": 101.824,
       "text": " That's like stop hitting yourself, isn't it?",
-      "tokens": [
-        51224,
-        663,
-        311,
-        411,
-        1590,
-        8850,
-        1803,
-        11,
-        1943,
-        380,
-        309,
-        30,
-        51316
+      "words": [
+        {
+          "word": "That's",
+          "start": 99.963,
+          "end": 100.163,
+          "score": 0.767,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "like",
+          "start": 100.203,
+          "end": 100.383,
+          "score": 0.776,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "stop",
+          "start": 100.423,
+          "end": 100.664,
+          "score": 0.871,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "hitting",
+          "start": 100.704,
+          "end": 100.964,
+          "score": 0.512,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "yourself,",
+          "start": 100.984,
+          "end": 101.384,
+          "score": 0.857,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "isn't",
+          "start": 101.564,
+          "end": 101.664,
+          "score": 0.105,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "it?",
+          "start": 101.704,
+          "end": 101.824,
+          "score": 0.793,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 26,
-      "seek": 8264,
-      "start": 101.68,
-      "end": 102.64,
-      "text": " That's like bullying.",
-      "tokens": [
-        51316,
-        663,
-        311,
-        411,
-        25633,
-        13,
-        51364
+      "start": 101.844,
+      "end": 102.725,
+      "text": "That's like bullying.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 101.844,
+          "end": 101.984,
+          "score": 0.95,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "like",
+          "start": 102.024,
+          "end": 102.184,
+          "score": 0.874,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "bullying.",
+          "start": 102.265,
+          "end": 102.725,
+          "score": 0.825,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 27,
-      "seek": 8264,
-      "start": 102.64,
-      "end": 105.28,
-      "text": " Stop hitting yourself, stop hitting, why are you resigning for?",
-      "tokens": [
-        51364,
-        5535,
-        8850,
-        1803,
-        11,
-        1590,
-        8850,
-        11,
-        983,
-        366,
-        291,
-        725,
-        9676,
-        337,
-        30,
-        51496
+      "start": 102.825,
+      "end": 103.625,
+      "text": "Stop hitting yourself.",
+      "words": [
+        {
+          "word": "Stop",
+          "start": 102.825,
+          "end": 103.005,
+          "score": 0.724,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "hitting",
+          "start": 103.025,
+          "end": 103.225,
+          "score": 0.861,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "yourself.",
+          "start": 103.265,
+          "end": 103.625,
+          "score": 0.951,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 28,
-      "seek": 8264,
-      "start": 105.28,
-      "end": 106.72,
-      "text": " Why are you not getting vaccinated for?",
-      "tokens": [
-        51496,
-        1545,
-        366,
-        291,
-        406,
-        1242,
-        14686,
-        337,
-        30,
-        51568
+      "start": 103.725,
+      "end": 104.226,
+      "text": "Stop hitting.",
+      "words": [
+        {
+          "word": "Stop",
+          "start": 103.725,
+          "end": 103.906,
+          "score": 0.871,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "hitting.",
+          "start": 103.926,
+          "end": 104.226,
+          "score": 0.323,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 29,
-      "seek": 8264,
-      "start": 106.72,
-      "end": 108.08,
-      "text": " Why are you resigning for?",
-      "tokens": [
-        51568,
-        1545,
-        366,
-        291,
-        725,
-        9676,
-        337,
-        30,
-        51636
+      "start": 104.266,
+      "end": 105.266,
+      "text": "Why are you resigning for?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 104.266,
+          "end": 104.326,
+          "score": 0.662,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 104.346,
+          "end": 104.406,
+          "score": 0.021,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 104.426,
+          "end": 104.566,
+          "score": 0.85,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "resigning",
+          "start": 104.586,
+          "end": 104.986,
+          "score": 0.896,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for?",
+          "start": 105.046,
+          "end": 105.266,
+          "score": 0.911,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14252430157069743,
-      "compression_ratio": 1.7774086378737541,
-      "no_speech_prob": 0.025666631758213043
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 30,
-      "seek": 10808,
-      "start": 108.08,
-      "end": 112.4,
-      "text": " Rachelle Garcia, an elementary school teacher in Brooklyn for 15 years and mother of two,",
-      "tokens": [
-        50364,
-        40793,
-        4434,
-        33738,
-        11,
-        364,
-        16429,
-        1395,
-        5027,
-        294,
-        21872,
-        337,
-        2119,
-        924,
-        293,
-        2895,
-        295,
-        732,
-        11,
-        50580
+      "start": 105.447,
+      "end": 106.747,
+      "text": "Why are you not getting vaccinated for?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 105.447,
+          "end": 105.507,
+          "score": 0.664,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 105.527,
+          "end": 105.587,
+          "score": 0.023,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 105.607,
+          "end": 105.747,
+          "score": 0.884,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "not",
+          "start": 105.767,
+          "end": 105.887,
+          "score": 0.925,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "getting",
+          "start": 105.927,
+          "end": 106.067,
+          "score": 0.244,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "vaccinated",
+          "start": 106.087,
+          "end": 106.547,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for?",
+          "start": 106.587,
+          "end": 106.747,
+          "score": 0.974,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13995781540870667,
-      "compression_ratio": 1.4183673469387754,
-      "no_speech_prob": 0.5961333513259888
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 31,
-      "seek": 10808,
-      "start": 112.4,
-      "end": 115.67999999999999,
-      "text": " worked fully in person during the pandemic and never got sick, she said,",
-      "tokens": [
-        50580,
-        2732,
-        4498,
-        294,
-        954,
-        1830,
-        264,
-        5388,
-        293,
-        1128,
-        658,
-        4998,
-        11,
-        750,
-        848,
-        11,
-        50744
+      "start": 106.907,
+      "end": 107.968,
+      "text": "Why are you resigning for?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 106.907,
+          "end": 106.967,
+          "score": 0.664,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 106.987,
+          "end": 107.048,
+          "score": 0.023,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 107.068,
+          "end": 107.208,
+          "score": 0.757,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "resigning",
+          "start": 107.228,
+          "end": 107.648,
+          "score": 0.842,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for?",
+          "start": 107.708,
+          "end": 107.968,
+          "score": 0.858,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13995781540870667,
-      "compression_ratio": 1.4183673469387754,
-      "no_speech_prob": 0.5961333513259888
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 32,
-      "seek": 10808,
-      "start": 115.67999999999999,
-      "end": 120.56,
-      "text": " but she refused to get vaccinated, finally taking leave after the DOE denied her request",
-      "tokens": [
-        50744,
-        457,
-        750,
-        14654,
-        281,
-        483,
-        14686,
-        11,
-        2721,
-        1940,
-        1856,
-        934,
-        264,
-        10699,
-        36,
-        17774,
-        720,
-        5308,
-        50988
+      "start": 108.188,
+      "end": 115.493,
+      "text": "Rochelle Garcia, an elementary school teacher in Brooklyn for 15 years and mother of two, worked fully in person during the pandemic and never got sick, she said.",
+      "words": [
+        {
+          "word": "Rochelle",
+          "start": 108.188,
+          "end": 108.649,
+          "score": 0.814,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Garcia,",
+          "start": 108.729,
+          "end": 109.209,
+          "score": 0.849,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "an",
+          "start": 109.329,
+          "end": 109.409,
+          "score": 0.735,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "elementary",
+          "start": 109.489,
+          "end": 109.889,
+          "score": 0.767,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "school",
+          "start": 109.909,
+          "end": 110.129,
+          "score": 0.827,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "teacher",
+          "start": 110.17,
+          "end": 110.37,
+          "score": 0.928,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 110.41,
+          "end": 110.47,
+          "score": 0.764,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Brooklyn",
+          "start": 110.49,
+          "end": 110.91,
+          "score": 0.78,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 110.95,
+          "end": 111.07,
+          "score": 0.887,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "15",
+          "start": 111.39,
+          "end": 111.47,
+          "score": 0.834,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "years",
+          "start": 111.49,
+          "end": 111.67,
+          "score": 0.842,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 111.73,
+          "end": 111.791,
+          "score": 0.983,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "mother",
+          "start": 111.831,
+          "end": 112.051,
+          "score": 0.843,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 112.091,
+          "end": 112.151,
+          "score": 0.75,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "two,",
+          "start": 112.211,
+          "end": 112.431,
+          "score": 0.939,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "worked",
+          "start": 112.491,
+          "end": 112.711,
+          "score": 0.866,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "fully",
+          "start": 112.751,
+          "end": 112.971,
+          "score": 0.824,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 113.011,
+          "end": 113.091,
+          "score": 0.826,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "person",
+          "start": 113.131,
+          "end": 113.452,
+          "score": 0.969,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "during",
+          "start": 113.492,
+          "end": 113.672,
+          "score": 0.852,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 113.692,
+          "end": 113.772,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "pandemic",
+          "start": 113.792,
+          "end": 114.232,
+          "score": 0.907,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 114.272,
+          "end": 114.372,
+          "score": 0.718,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "never",
+          "start": 114.432,
+          "end": 114.612,
+          "score": 0.862,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "got",
+          "start": 114.652,
+          "end": 114.772,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "sick,",
+          "start": 114.832,
+          "end": 115.073,
+          "score": 0.788,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "she",
+          "start": 115.113,
+          "end": 115.233,
+          "score": 0.608,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "said.",
+          "start": 115.293,
+          "end": 115.493,
+          "score": 0.845,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13995781540870667,
-      "compression_ratio": 1.4183673469387754,
-      "no_speech_prob": 0.5961333513259888
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 33,
-      "seek": 10808,
-      "start": 120.56,
-      "end": 121.75999999999999,
-      "text": " for a religious exemption.",
-      "tokens": [
-        50988,
-        337,
-        257,
-        7185,
-        43154,
-        13,
-        51048
+      "start": 115.853,
+      "end": 121.777,
+      "text": "But she refused to get vaccinated, finally taking leave after the DOE denied her request for a religious exemption.",
+      "words": [
+        {
+          "word": "But",
+          "start": 115.853,
+          "end": 115.973,
+          "score": 0.835,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "she",
+          "start": 116.013,
+          "end": 116.153,
+          "score": 0.867,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "refused",
+          "start": 116.193,
+          "end": 116.494,
+          "score": 0.821,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 116.514,
+          "end": 116.554,
+          "score": 1.0,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "get",
+          "start": 116.594,
+          "end": 116.694,
+          "score": 0.933,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "vaccinated,",
+          "start": 116.754,
+          "end": 117.374,
+          "score": 0.886,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "finally",
+          "start": 117.474,
+          "end": 117.774,
+          "score": 0.823,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "taking",
+          "start": 117.814,
+          "end": 118.115,
+          "score": 0.817,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "leave",
+          "start": 118.175,
+          "end": 118.415,
+          "score": 0.709,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "after",
+          "start": 118.595,
+          "end": 118.815,
+          "score": 0.83,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 118.835,
+          "end": 118.935,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "DOE",
+          "start": 119.015,
+          "end": 119.676,
+          "score": 0.862,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "denied",
+          "start": 119.736,
+          "end": 120.076,
+          "score": 0.905,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "her",
+          "start": 120.096,
+          "end": 120.196,
+          "score": 0.668,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "request",
+          "start": 120.236,
+          "end": 120.616,
+          "score": 0.86,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 120.656,
+          "end": 120.776,
+          "score": 0.675,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "a",
+          "start": 120.816,
+          "end": 120.856,
+          "score": 0.411,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "religious",
+          "start": 120.916,
+          "end": 121.277,
+          "score": 0.902,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "exemption.",
+          "start": 121.337,
+          "end": 121.777,
+          "score": 0.928,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13995781540870667,
-      "compression_ratio": 1.4183673469387754,
-      "no_speech_prob": 0.5961333513259888
+      "avg_logprob": -0.09183517324866033,
+      "speaker": "SPEAKER_02"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Joe",
+      "start": 0.071,
+      "end": 0.331,
+      "score": 0.91,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Biden",
+      "start": 0.391,
+      "end": 0.812,
+      "score": 0.781,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "says",
+      "start": 0.852,
+      "end": 1.112,
+      "score": 0.794,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 1.152,
+      "end": 1.272,
+      "score": 0.722,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "pandemic",
+      "start": 1.332,
+      "end": 1.913,
+      "score": 0.97,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "is",
+      "start": 1.993,
+      "end": 2.093,
+      "score": 0.723,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "over.",
+      "start": 2.333,
+      "end": 2.594,
+      "score": 0.844,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "So",
+      "start": 2.854,
+      "end": 3.014,
+      "score": 0.996,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "why",
+      "start": 3.114,
+      "end": 3.334,
+      "score": 0.898,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 3.394,
+      "end": 3.494,
+      "score": 0.564,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "teachers",
+      "start": 3.534,
+      "end": 4.075,
+      "score": 0.548,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "still",
+      "start": 4.155,
+      "end": 4.455,
+      "score": 0.908,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "being",
+      "start": 4.475,
+      "end": 4.676,
+      "score": 0.908,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "fired",
+      "start": 4.776,
+      "end": 5.136,
+      "score": 0.917,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 5.196,
+      "end": 5.336,
+      "score": 0.898,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "not",
+      "start": 5.376,
+      "end": 5.516,
+      "score": 0.858,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "being",
+      "start": 5.556,
+      "end": 5.777,
+      "score": 0.831,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "vaccinated?",
+      "start": 5.857,
+      "end": 6.578,
+      "score": 0.884,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Is",
+      "start": 8.68,
+      "end": 8.8,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 8.84,
+      "end": 8.94,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pandemic",
+      "start": 8.96,
+      "end": 9.54,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over?",
+      "start": 9.781,
+      "end": 10.001,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 10.722,
+      "end": 10.842,
+      "score": 0.467,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pandemic",
+      "start": 10.882,
+      "end": 11.803,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 12.203,
+      "end": 12.303,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over.",
+      "start": 12.443,
+      "end": 12.684,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 12.844,
+      "end": 12.984,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 13.024,
+      "end": 13.224,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 13.264,
+      "end": 13.444,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 13.484,
+      "end": 13.504,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "problem",
+      "start": 13.564,
+      "end": 13.965,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 14.005,
+      "end": 14.145,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID.",
+      "start": 14.225,
+      "end": 14.646,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We're",
+      "start": 14.706,
+      "end": 14.866,
+      "score": 0.438,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 14.886,
+      "end": 15.106,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doing",
+      "start": 15.126,
+      "end": 15.286,
+      "score": 0.436,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 15.306,
+      "end": 15.326,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 15.386,
+      "end": 15.546,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 15.586,
+      "end": 15.626,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work",
+      "start": 15.667,
+      "end": 15.887,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 16.027,
+      "end": 16.107,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 16.147,
+      "end": 16.207,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 17.448,
+      "end": 17.608,
+      "score": 0.787,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 17.789,
+      "end": 17.949,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 18.009,
+      "end": 18.109,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pandemic",
+      "start": 18.149,
+      "end": 18.65,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 18.71,
+      "end": 18.79,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over.",
+      "start": 18.89,
+      "end": 19.05,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Okay,",
+      "start": 19.318,
+      "end": 19.618,
+      "score": 0.74,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "so",
+      "start": 19.638,
+      "end": 19.718,
+      "score": 0.002,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "there",
+      "start": 19.758,
+      "end": 19.858,
+      "score": 0.771,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "we",
+      "start": 19.898,
+      "end": 19.978,
+      "score": 0.83,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "have",
+      "start": 19.998,
+      "end": 20.118,
+      "score": 0.754,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "it.",
+      "start": 20.158,
+      "end": 20.218,
+      "score": 0.995,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "The",
+      "start": 20.238,
+      "end": 20.318,
+      "score": 0.942,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "pandemic",
+      "start": 20.338,
+      "end": 20.818,
+      "score": 0.858,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "is",
+      "start": 20.919,
+      "end": 20.999,
+      "score": 0.978,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "over.",
+      "start": 21.199,
+      "end": 21.399,
+      "score": 0.981,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Calls",
+      "start": 21.479,
+      "end": 21.859,
+      "score": 0.691,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 21.939,
+      "end": 22.179,
+      "score": 0.746,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "optimism,",
+      "start": 22.339,
+      "end": 22.839,
+      "score": 0.961,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "calls",
+      "start": 23.119,
+      "end": 23.399,
+      "score": 0.605,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 23.419,
+      "end": 23.539,
+      "score": 0.794,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "joy",
+      "start": 23.619,
+      "end": 23.939,
+      "score": 0.804,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 24.32,
+      "end": 24.46,
+      "score": 0.739,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "celebration.",
+      "start": 24.52,
+      "end": 25.14,
+      "score": 0.875,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Finally,",
+      "start": 25.24,
+      "end": 25.62,
+      "score": 0.912,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "some",
+      "start": 25.64,
+      "end": 25.78,
+      "score": 0.81,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "good",
+      "start": 25.82,
+      "end": 25.98,
+      "score": 0.94,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "news",
+      "start": 26.04,
+      "end": 26.22,
+      "score": 0.701,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "we",
+      "start": 26.26,
+      "end": 26.36,
+      "score": 0.46,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "can",
+      "start": 26.38,
+      "end": 26.52,
+      "score": 0.808,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "get",
+      "start": 26.54,
+      "end": 26.68,
+      "score": 0.823,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "behind.",
+      "start": 26.72,
+      "end": 27.04,
+      "score": 0.927,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "But",
+      "start": 27.4,
+      "end": 27.58,
+      "score": 0.927,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "during",
+      "start": 27.721,
+      "end": 28.021,
+      "score": 0.783,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 28.061,
+      "end": 28.141,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "point",
+      "start": 28.181,
+      "end": 28.401,
+      "score": 0.744,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 28.421,
+      "end": 28.481,
+      "score": 0.75,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 28.501,
+      "end": 28.581,
+      "score": 0.828,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "pandemic",
+      "start": 28.601,
+      "end": 29.161,
+      "score": 0.878,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "that",
+      "start": 29.201,
+      "end": 29.341,
+      "score": 0.806,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "most",
+      "start": 29.521,
+      "end": 29.841,
+      "score": 0.836,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "people",
+      "start": 29.941,
+      "end": 30.221,
+      "score": 0.793,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "were",
+      "start": 30.241,
+      "end": 30.381,
+      "score": 0.862,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "concerned",
+      "start": 30.401,
+      "end": 30.841,
+      "score": 0.801,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 30.861,
+      "end": 30.941,
+      "score": 0.963,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "some",
+      "start": 31.001,
+      "end": 31.182,
+      "score": 0.742,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "degree",
+      "start": 31.222,
+      "end": 31.462,
+      "score": 0.881,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "or",
+      "start": 31.482,
+      "end": 31.542,
+      "score": 0.76,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "another",
+      "start": 31.562,
+      "end": 31.802,
+      "score": 0.781,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "about",
+      "start": 31.822,
+      "end": 32.002,
+      "score": 0.708,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 32.022,
+      "end": 32.102,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "outcomes,",
+      "start": 32.242,
+      "end": 32.622,
+      "score": 0.879,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 32.642,
+      "end": 32.702,
+      "score": 0.987,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "impact",
+      "start": 32.762,
+      "end": 33.082,
+      "score": 0.829,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "financially,",
+      "start": 33.122,
+      "end": 33.742,
+      "score": 0.821,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "medically,",
+      "start": 33.862,
+      "end": 34.322,
+      "score": 0.929,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "socially,",
+      "start": 34.422,
+      "end": 34.923,
+      "score": 0.871,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "etc.",
+      "start": 35.003,
+      "end": 35.243,
+      "score": 0.894,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Do",
+      "start": 36.223,
+      "end": 36.323,
+      "score": 0.655,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 36.343,
+      "end": 36.423,
+      "score": 0.778,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "know",
+      "start": 36.463,
+      "end": 36.603,
+      "score": 0.916,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "who",
+      "start": 36.643,
+      "end": 36.804,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "we",
+      "start": 36.844,
+      "end": 36.944,
+      "score": 0.99,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "were",
+      "start": 36.964,
+      "end": 37.084,
+      "score": 0.825,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "invited",
+      "start": 37.104,
+      "end": 37.424,
+      "score": 0.885,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 37.464,
+      "end": 37.544,
+      "score": 0.736,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "take",
+      "start": 37.584,
+      "end": 37.744,
+      "score": 0.908,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "into",
+      "start": 37.784,
+      "end": 37.925,
+      "score": 0.89,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "our",
+      "start": 37.985,
+      "end": 38.085,
+      "score": 0.823,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "hearts",
+      "start": 38.105,
+      "end": 38.325,
+      "score": 0.761,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "as",
+      "start": 38.385,
+      "end": 38.485,
+      "score": 0.59,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "heroes?",
+      "start": 38.505,
+      "end": 38.865,
+      "score": 0.859,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Quite",
+      "start": 38.965,
+      "end": 39.166,
+      "score": 0.97,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "rightly",
+      "start": 39.206,
+      "end": 39.466,
+      "score": 0.859,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 39.486,
+      "end": 39.566,
+      "score": 0.828,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "my",
+      "start": 39.586,
+      "end": 39.746,
+      "score": 0.894,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "view,",
+      "start": 39.786,
+      "end": 39.986,
+      "score": 0.88,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "nurses,",
+      "start": 40.427,
+      "end": 40.927,
+      "score": 0.903,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "teachers,",
+      "start": 41.227,
+      "end": 41.788,
+      "score": 0.85,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "people",
+      "start": 42.048,
+      "end": 42.348,
+      "score": 0.81,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 42.388,
+      "end": 42.489,
+      "score": 0.868,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "services,",
+      "start": 42.569,
+      "end": 43.149,
+      "score": 0.883,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "people",
+      "start": 43.429,
+      "end": 43.69,
+      "score": 0.867,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "that",
+      "start": 43.71,
+      "end": 43.87,
+      "score": 0.841,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "simply",
+      "start": 43.93,
+      "end": 44.23,
+      "score": 0.902,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "had",
+      "start": 44.33,
+      "end": 44.63,
+      "score": 0.896,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 44.65,
+      "end": 44.791,
+      "score": 0.638,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "continue",
+      "start": 44.831,
+      "end": 45.451,
+      "score": 0.813,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "working",
+      "start": 45.491,
+      "end": 45.852,
+      "score": 0.864,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "because",
+      "start": 46.072,
+      "end": 46.332,
+      "score": 0.913,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "their",
+      "start": 46.372,
+      "end": 46.572,
+      "score": 0.856,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "duty",
+      "start": 46.652,
+      "end": 47.133,
+      "score": 0.937,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 47.293,
+      "end": 47.373,
+      "score": 0.909,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "their",
+      "start": 47.413,
+      "end": 47.573,
+      "score": 0.938,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "job",
+      "start": 47.653,
+      "end": 47.933,
+      "score": 0.997,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "demanded",
+      "start": 48.234,
+      "end": 48.814,
+      "score": 0.873,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "it.",
+      "start": 48.874,
+      "end": 48.934,
+      "score": 0.991,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Why",
+      "start": 49.355,
+      "end": 49.615,
+      "score": 0.871,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "then,",
+      "start": 49.655,
+      "end": 49.855,
+      "score": 0.945,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "if",
+      "start": 49.975,
+      "end": 50.035,
+      "score": 0.901,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 50.075,
+      "end": 50.155,
+      "score": 0.929,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "pandemic",
+      "start": 50.195,
+      "end": 50.696,
+      "score": 0.946,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "is",
+      "start": 50.736,
+      "end": 50.816,
+      "score": 0.906,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "over,",
+      "start": 50.936,
+      "end": 51.136,
+      "score": 0.952,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "is",
+      "start": 51.396,
+      "end": 51.456,
+      "score": 0.853,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "this",
+      "start": 51.497,
+      "end": 51.637,
+      "score": 0.748,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "happening?",
+      "start": 51.657,
+      "end": 51.997,
+      "score": 0.977,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Well,",
+      "start": 52.077,
+      "end": 52.197,
+      "score": 0.217,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 52.217,
+      "end": 52.257,
+      "score": 0.324,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "New",
+      "start": 52.277,
+      "end": 52.357,
+      "score": 0.833,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "York",
+      "start": 52.397,
+      "end": 52.537,
+      "score": 0.974,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "City,",
+      "start": 52.577,
+      "end": 52.798,
+      "score": 0.889,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "nearly",
+      "start": 52.818,
+      "end": 53.078,
+      "score": 0.803,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "2000",
+      "start": 53.138,
+      "end": 54.019,
+      "score": 0.754,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "school",
+      "start": 54.139,
+      "end": 54.419,
+      "score": 0.835,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "staffers",
+      "start": 54.479,
+      "end": 55.0,
+      "score": 0.873,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "are",
+      "start": 55.04,
+      "end": 55.14,
+      "score": 0.682,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "out",
+      "start": 55.22,
+      "end": 55.34,
+      "score": 0.914,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 55.38,
+      "end": 55.44,
+      "score": 0.749,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "a",
+      "start": 55.48,
+      "end": 55.5,
+      "score": 0.928,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "job",
+      "start": 55.56,
+      "end": 55.861,
+      "score": 0.992,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "for",
+      "start": 55.941,
+      "end": 56.121,
+      "score": 0.674,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "not",
+      "start": 56.221,
+      "end": 56.441,
+      "score": 0.94,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "complying",
+      "start": 56.521,
+      "end": 57.002,
+      "score": 0.903,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "with",
+      "start": 57.082,
+      "end": 57.222,
+      "score": 0.839,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 57.242,
+      "end": 57.322,
+      "score": 0.808,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "COVID",
+      "start": 57.362,
+      "end": 57.682,
+      "score": 0.889,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccine",
+      "start": 57.702,
+      "end": 58.123,
+      "score": 0.801,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mandate.",
+      "start": 58.163,
+      "end": 58.523,
+      "score": 0.919,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "According",
+      "start": 58.883,
+      "end": 59.124,
+      "score": 0.999,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 59.144,
+      "end": 59.204,
+      "score": 0.745,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 59.224,
+      "end": 59.284,
+      "score": 0.981,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "New",
+      "start": 59.324,
+      "end": 59.384,
+      "score": 0.999,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "York",
+      "start": 59.404,
+      "end": 59.564,
+      "score": 0.762,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Post,",
+      "start": 59.604,
+      "end": 59.924,
+      "score": 0.942,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 59.984,
+      "end": 60.044,
+      "score": 0.998,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Department",
+      "start": 60.084,
+      "end": 60.405,
+      "score": 0.901,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 60.425,
+      "end": 60.485,
+      "score": 0.751,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Education",
+      "start": 60.545,
+      "end": 60.905,
+      "score": 0.868,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "has",
+      "start": 60.925,
+      "end": 61.025,
+      "score": 0.477,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "fired",
+      "start": 61.045,
+      "end": 61.245,
+      "score": 0.562,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "another",
+      "start": 61.286,
+      "end": 61.526,
+      "score": 0.731,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "850",
+      "start": 61.546,
+      "end": 61.906,
+      "score": 0.295,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "teachers",
+      "start": 62.286,
+      "end": 62.747,
+      "score": 0.712,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 62.847,
+      "end": 62.947,
+      "score": 0.839,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "classroom",
+      "start": 62.987,
+      "end": 63.448,
+      "score": 0.829,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "aides",
+      "start": 63.568,
+      "end": 63.768,
+      "score": 0.781,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "after",
+      "start": 63.888,
+      "end": 64.128,
+      "score": 0.801,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "they",
+      "start": 64.208,
+      "end": 64.448,
+      "score": 0.812,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "failed",
+      "start": 64.529,
+      "end": 64.829,
+      "score": 0.718,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 64.949,
+      "end": 65.049,
+      "score": 0.611,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "get",
+      "start": 65.069,
+      "end": 65.189,
+      "score": 0.85,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 65.209,
+      "end": 65.289,
+      "score": 0.803,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "shot.",
+      "start": 65.329,
+      "end": 65.589,
+      "score": 0.937,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "That",
+      "start": 66.03,
+      "end": 66.15,
+      "score": 0.886,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mandate",
+      "start": 66.19,
+      "end": 66.45,
+      "score": 0.824,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "was",
+      "start": 66.47,
+      "end": 66.55,
+      "score": 0.88,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "opposed",
+      "start": 66.61,
+      "end": 66.951,
+      "score": 0.921,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "by",
+      "start": 67.011,
+      "end": 67.131,
+      "score": 0.863,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "former",
+      "start": 67.311,
+      "end": 67.751,
+      "score": 0.857,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Mayor",
+      "start": 67.932,
+      "end": 68.192,
+      "score": 0.831,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Bill",
+      "start": 68.232,
+      "end": 68.352,
+      "score": 0.884,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "de",
+      "start": 68.372,
+      "end": 68.472,
+      "score": 0.657,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Blasio",
+      "start": 68.492,
+      "end": 68.913,
+      "score": 0.895,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "last",
+      "start": 68.933,
+      "end": 69.133,
+      "score": 0.726,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "October.",
+      "start": 69.193,
+      "end": 69.693,
+      "score": 0.826,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "The",
+      "start": 70.034,
+      "end": 70.114,
+      "score": 0.886,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "DOE",
+      "start": 70.134,
+      "end": 70.574,
+      "score": 0.817,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "told",
+      "start": 70.614,
+      "end": 70.794,
+      "score": 0.71,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 70.814,
+      "end": 70.874,
+      "score": 0.982,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Post",
+      "start": 70.934,
+      "end": 71.215,
+      "score": 0.92,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 71.235,
+      "end": 71.375,
+      "score": 0.762,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "teachers",
+      "start": 71.415,
+      "end": 71.735,
+      "score": 0.764,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "agreed",
+      "start": 71.775,
+      "end": 72.095,
+      "score": 0.809,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 72.156,
+      "end": 72.276,
+      "score": 0.644,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "show",
+      "start": 72.336,
+      "end": 72.516,
+      "score": 0.792,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "proof",
+      "start": 72.576,
+      "end": 72.816,
+      "score": 0.797,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 72.856,
+      "end": 72.896,
+      "score": 0.92,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccination",
+      "start": 72.936,
+      "end": 73.517,
+      "score": 0.893,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "by",
+      "start": 73.557,
+      "end": 73.697,
+      "score": 0.834,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "September",
+      "start": 73.777,
+      "end": 74.398,
+      "score": 0.908,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "or",
+      "start": 74.838,
+      "end": 74.958,
+      "score": 0.736,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "be",
+      "start": 74.998,
+      "end": 75.098,
+      "score": 0.924,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "considered,",
+      "start": 75.138,
+      "end": 75.559,
+      "score": 0.873,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "quote,",
+      "start": 75.619,
+      "end": 75.879,
+      "score": 0.828,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 75.979,
+      "end": 76.099,
+      "score": 0.666,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 76.139,
+      "end": 76.259,
+      "score": 0.888,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "voluntarily",
+      "start": 76.319,
+      "end": 77.14,
+      "score": 0.821,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "resigned.",
+      "start": 77.4,
+      "end": 77.921,
+      "score": 0.844,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "The",
+      "start": 78.181,
+      "end": 78.261,
+      "score": 0.873,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "New",
+      "start": 78.301,
+      "end": 78.401,
+      "score": 0.685,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "York",
+      "start": 78.421,
+      "end": 78.602,
+      "score": 0.948,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "City",
+      "start": 78.622,
+      "end": 78.802,
+      "score": 0.447,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Department",
+      "start": 78.822,
+      "end": 79.182,
+      "score": 0.897,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 79.202,
+      "end": 79.242,
+      "score": 1.0,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Education",
+      "start": 79.302,
+      "end": 79.783,
+      "score": 0.932,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "has",
+      "start": 79.823,
+      "end": 79.923,
+      "score": 0.586,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "axed",
+      "start": 79.983,
+      "end": 80.163,
+      "score": 0.549,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "another",
+      "start": 80.223,
+      "end": 81.044,
+      "score": 0.47,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "850",
+      "start": 81.084,
+      "end": 81.344,
+      "score": 0.785,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "teachers",
+      "start": 81.384,
+      "end": 81.745,
+      "score": 0.908,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 81.785,
+      "end": 81.885,
+      "score": 0.785,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "classroom",
+      "start": 81.945,
+      "end": 82.445,
+      "score": 0.878,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "aides,",
+      "start": 82.505,
+      "end": 82.726,
+      "score": 0.84,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "bringing",
+      "start": 82.786,
+      "end": 83.046,
+      "score": 0.93,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 83.066,
+      "end": 83.146,
+      "score": 0.825,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "total",
+      "start": 83.186,
+      "end": 83.386,
+      "score": 0.959,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 83.406,
+      "end": 83.486,
+      "score": 0.492,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "nearly",
+      "start": 83.506,
+      "end": 83.707,
+      "score": 0.86,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "2000",
+      "start": 83.747,
+      "end": 84.287,
+      "score": 0.68,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "school",
+      "start": 84.327,
+      "end": 84.588,
+      "score": 0.729,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "employees",
+      "start": 84.628,
+      "end": 85.068,
+      "score": 0.652,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "fired",
+      "start": 85.128,
+      "end": 85.428,
+      "score": 0.88,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 85.468,
+      "end": 85.589,
+      "score": 0.888,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "failure",
+      "start": 85.629,
+      "end": 85.949,
+      "score": 0.806,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 85.969,
+      "end": 86.029,
+      "score": 0.854,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "comply",
+      "start": 86.069,
+      "end": 86.429,
+      "score": 0.948,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "with",
+      "start": 86.469,
+      "end": 86.55,
+      "score": 0.99,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 86.57,
+      "end": 86.63,
+      "score": 0.0,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "vaccine",
+      "start": 86.65,
+      "end": 87.03,
+      "score": 0.81,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "mandate.",
+      "start": 87.07,
+      "end": 87.511,
+      "score": 0.854,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "About",
+      "start": 87.691,
+      "end": 87.911,
+      "score": 0.763,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "1300",
+      "start": 87.951,
+      "end": 88.291,
+      "score": 0.645,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "DOE",
+      "start": 88.431,
+      "end": 88.592,
+      "score": 0.576,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "employees",
+      "start": 89.112,
+      "end": 89.633,
+      "score": 0.854,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "who",
+      "start": 89.653,
+      "end": 89.753,
+      "score": 0.846,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "took",
+      "start": 89.793,
+      "end": 89.933,
+      "score": 0.908,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "a",
+      "start": 89.973,
+      "end": 90.013,
+      "score": 0.501,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "year's",
+      "start": 90.053,
+      "end": 90.293,
+      "score": 0.701,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "unpaid",
+      "start": 90.474,
+      "end": 90.934,
+      "score": 0.839,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "leave,",
+      "start": 90.994,
+      "end": 91.254,
+      "score": 0.856,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "so",
+      "start": 91.354,
+      "end": 91.434,
+      "score": 0.934,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "essentially",
+      "start": 91.475,
+      "end": 91.815,
+      "score": 0.74,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "they",
+      "start": 91.835,
+      "end": 91.915,
+      "score": 0.999,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "were",
+      "start": 91.955,
+      "end": 92.055,
+      "score": 0.857,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "sacked",
+      "start": 92.075,
+      "end": 92.315,
+      "score": 0.812,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "anyway,",
+      "start": 92.355,
+      "end": 92.676,
+      "score": 0.905,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "unpaid",
+      "start": 92.916,
+      "end": 93.296,
+      "score": 0.822,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "leave",
+      "start": 93.336,
+      "end": 93.597,
+      "score": 0.808,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "with",
+      "start": 93.737,
+      "end": 93.897,
+      "score": 0.778,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "benefits,",
+      "start": 93.957,
+      "end": 94.397,
+      "score": 0.827,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "agreed",
+      "start": 94.558,
+      "end": 94.878,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 94.898,
+      "end": 94.978,
+      "score": 0.632,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "show",
+      "start": 95.018,
+      "end": 95.198,
+      "score": 0.776,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "proof",
+      "start": 95.258,
+      "end": 95.539,
+      "score": 0.7,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 95.559,
+      "end": 95.619,
+      "score": 0.75,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 95.679,
+      "end": 95.959,
+      "score": 0.681,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "vaccination",
+      "start": 95.999,
+      "end": 96.46,
+      "score": 0.913,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "by",
+      "start": 96.5,
+      "end": 96.6,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "September",
+      "start": 96.66,
+      "end": 97.16,
+      "score": 0.906,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 97.18,
+      "end": 97.24,
+      "score": 0.989,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "5th",
+      "start": 97.28,
+      "end": 97.461,
+      "score": 0.457,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "or",
+      "start": 97.481,
+      "end": 97.581,
+      "score": 0.599,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "be",
+      "start": 97.621,
+      "end": 97.721,
+      "score": 0.906,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "deemed",
+      "start": 97.801,
+      "end": 98.121,
+      "score": 0.8,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 98.241,
+      "end": 98.361,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "have",
+      "start": 98.402,
+      "end": 98.502,
+      "score": 0.86,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "voluntarily",
+      "start": 98.682,
+      "end": 99.282,
+      "score": 0.798,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "resigned.",
+      "start": 99.322,
+      "end": 99.743,
+      "score": 0.861,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "That's",
+      "start": 99.963,
+      "end": 100.163,
+      "score": 0.767,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "like",
+      "start": 100.203,
+      "end": 100.383,
+      "score": 0.776,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "stop",
+      "start": 100.423,
+      "end": 100.664,
+      "score": 0.871,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "hitting",
+      "start": 100.704,
+      "end": 100.964,
+      "score": 0.512,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "yourself,",
+      "start": 100.984,
+      "end": 101.384,
+      "score": 0.857,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "isn't",
+      "start": 101.564,
+      "end": 101.664,
+      "score": 0.105,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "it?",
+      "start": 101.704,
+      "end": 101.824,
+      "score": 0.793,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "That's",
+      "start": 101.844,
+      "end": 101.984,
+      "score": 0.95,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "like",
+      "start": 102.024,
+      "end": 102.184,
+      "score": 0.874,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "bullying.",
+      "start": 102.265,
+      "end": 102.725,
+      "score": 0.825,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Stop",
+      "start": 102.825,
+      "end": 103.005,
+      "score": 0.724,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "hitting",
+      "start": 103.025,
+      "end": 103.225,
+      "score": 0.861,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "yourself.",
+      "start": 103.265,
+      "end": 103.625,
+      "score": 0.951,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Stop",
+      "start": 103.725,
+      "end": 103.906,
+      "score": 0.871,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "hitting.",
+      "start": 103.926,
+      "end": 104.226,
+      "score": 0.323,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Why",
+      "start": 104.266,
+      "end": 104.326,
+      "score": 0.662,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 104.346,
+      "end": 104.406,
+      "score": 0.021,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 104.426,
+      "end": 104.566,
+      "score": 0.85,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "resigning",
+      "start": 104.586,
+      "end": 104.986,
+      "score": 0.896,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for?",
+      "start": 105.046,
+      "end": 105.266,
+      "score": 0.911,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Why",
+      "start": 105.447,
+      "end": 105.507,
+      "score": 0.664,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 105.527,
+      "end": 105.587,
+      "score": 0.023,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 105.607,
+      "end": 105.747,
+      "score": 0.884,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "not",
+      "start": 105.767,
+      "end": 105.887,
+      "score": 0.925,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "getting",
+      "start": 105.927,
+      "end": 106.067,
+      "score": 0.244,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "vaccinated",
+      "start": 106.087,
+      "end": 106.547,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for?",
+      "start": 106.587,
+      "end": 106.747,
+      "score": 0.974,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Why",
+      "start": 106.907,
+      "end": 106.967,
+      "score": 0.664,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 106.987,
+      "end": 107.048,
+      "score": 0.023,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 107.068,
+      "end": 107.208,
+      "score": 0.757,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "resigning",
+      "start": 107.228,
+      "end": 107.648,
+      "score": 0.842,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for?",
+      "start": 107.708,
+      "end": 107.968,
+      "score": 0.858,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Rochelle",
+      "start": 108.188,
+      "end": 108.649,
+      "score": 0.814,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Garcia,",
+      "start": 108.729,
+      "end": 109.209,
+      "score": 0.849,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "an",
+      "start": 109.329,
+      "end": 109.409,
+      "score": 0.735,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "elementary",
+      "start": 109.489,
+      "end": 109.889,
+      "score": 0.767,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "school",
+      "start": 109.909,
+      "end": 110.129,
+      "score": 0.827,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "teacher",
+      "start": 110.17,
+      "end": 110.37,
+      "score": 0.928,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 110.41,
+      "end": 110.47,
+      "score": 0.764,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Brooklyn",
+      "start": 110.49,
+      "end": 110.91,
+      "score": 0.78,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 110.95,
+      "end": 111.07,
+      "score": 0.887,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "15",
+      "start": 111.39,
+      "end": 111.47,
+      "score": 0.834,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "years",
+      "start": 111.49,
+      "end": 111.67,
+      "score": 0.842,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 111.73,
+      "end": 111.791,
+      "score": 0.983,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "mother",
+      "start": 111.831,
+      "end": 112.051,
+      "score": 0.843,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 112.091,
+      "end": 112.151,
+      "score": 0.75,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "two,",
+      "start": 112.211,
+      "end": 112.431,
+      "score": 0.939,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "worked",
+      "start": 112.491,
+      "end": 112.711,
+      "score": 0.866,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "fully",
+      "start": 112.751,
+      "end": 112.971,
+      "score": 0.824,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 113.011,
+      "end": 113.091,
+      "score": 0.826,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "person",
+      "start": 113.131,
+      "end": 113.452,
+      "score": 0.969,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "during",
+      "start": 113.492,
+      "end": 113.672,
+      "score": 0.852,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 113.692,
+      "end": 113.772,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "pandemic",
+      "start": 113.792,
+      "end": 114.232,
+      "score": 0.907,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 114.272,
+      "end": 114.372,
+      "score": 0.718,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "never",
+      "start": 114.432,
+      "end": 114.612,
+      "score": 0.862,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "got",
+      "start": 114.652,
+      "end": 114.772,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "sick,",
+      "start": 114.832,
+      "end": 115.073,
+      "score": 0.788,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "she",
+      "start": 115.113,
+      "end": 115.233,
+      "score": 0.608,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "said.",
+      "start": 115.293,
+      "end": 115.493,
+      "score": 0.845,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "But",
+      "start": 115.853,
+      "end": 115.973,
+      "score": 0.835,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "she",
+      "start": 116.013,
+      "end": 116.153,
+      "score": 0.867,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "refused",
+      "start": 116.193,
+      "end": 116.494,
+      "score": 0.821,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 116.514,
+      "end": 116.554,
+      "score": 1.0,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "get",
+      "start": 116.594,
+      "end": 116.694,
+      "score": 0.933,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "vaccinated,",
+      "start": 116.754,
+      "end": 117.374,
+      "score": 0.886,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "finally",
+      "start": 117.474,
+      "end": 117.774,
+      "score": 0.823,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "taking",
+      "start": 117.814,
+      "end": 118.115,
+      "score": 0.817,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "leave",
+      "start": 118.175,
+      "end": 118.415,
+      "score": 0.709,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "after",
+      "start": 118.595,
+      "end": 118.815,
+      "score": 0.83,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 118.835,
+      "end": 118.935,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "DOE",
+      "start": 119.015,
+      "end": 119.676,
+      "score": 0.862,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "denied",
+      "start": 119.736,
+      "end": 120.076,
+      "score": 0.905,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "her",
+      "start": 120.096,
+      "end": 120.196,
+      "score": 0.668,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "request",
+      "start": 120.236,
+      "end": 120.616,
+      "score": 0.86,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 120.656,
+      "end": 120.776,
+      "score": 0.675,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "a",
+      "start": 120.816,
+      "end": 120.856,
+      "score": 0.411,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "religious",
+      "start": 120.916,
+      "end": 121.277,
+      "score": 0.902,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "exemption.",
+      "start": 121.337,
+      "end": 121.777,
+      "score": 0.928,
+      "speaker": "SPEAKER_02"
+    }
+  ]
 }

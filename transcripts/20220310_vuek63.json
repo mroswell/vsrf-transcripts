@@ -1,207 +1,1109 @@
 {
-  "text": " I think they had already decided in advance what they wanted to do. And the university has a lot of money at stake. There are financial ties to pharmaceutical industries in terms of clinical trials money and grant funding. The university holds on to all their patent rights for products that are later marketed by pharmaceutical companies. I mean you look at the retirement plan for the UC alone, it has millions invested in Pfizer.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.88,
+      "start": 0.351,
+      "end": 3.892,
       "text": " I think they had already decided in advance what they wanted to do.",
-      "tokens": [
-        50364,
-        286,
-        519,
-        436,
-        632,
-        1217,
-        3047,
-        294,
-        7295,
-        437,
-        436,
-        1415,
-        281,
-        360,
-        13,
-        50608
+      "words": [
+        {
+          "word": "I",
+          "start": 0.351,
+          "end": 0.431,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 0.531,
+          "end": 0.771,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 0.811,
+          "end": 0.951,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 0.991,
+          "end": 1.091,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "already",
+          "start": 1.151,
+          "end": 1.411,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "decided",
+          "start": 1.431,
+          "end": 1.871,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 2.412,
+          "end": 2.472,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "advance",
+          "start": 2.512,
+          "end": 2.892,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 2.952,
+          "end": 3.052,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 3.092,
+          "end": 3.192,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wanted",
+          "start": 3.232,
+          "end": 3.472,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 3.512,
+          "end": 3.612,
+          "score": 0.602,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do.",
+          "start": 3.652,
+          "end": 3.892,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18293446992572984,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.013671483844518661
+      "avg_logprob": -0.04310993913067392,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.88,
-      "end": 7.92,
-      "text": " And the university has a lot of money at stake.",
-      "tokens": [
-        50608,
-        400,
-        264,
-        5454,
-        575,
-        257,
-        688,
-        295,
-        1460,
-        412,
-        10407,
-        13,
-        50760
+      "start": 4.732,
+      "end": 7.813,
+      "text": "And the university has a lot of money at stake.",
+      "words": [
+        {
+          "word": "And",
+          "start": 4.732,
+          "end": 4.892,
+          "score": 0.657,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.972,
+          "end": 5.072,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "university",
+          "start": 5.152,
+          "end": 5.712,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 5.732,
+          "end": 6.533,
+          "score": 0.761,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 6.813,
+          "end": 6.853,
+          "score": 0.558,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 6.893,
+          "end": 7.073,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 7.093,
+          "end": 7.153,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "money",
+          "start": 7.233,
+          "end": 7.413,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 7.453,
+          "end": 7.533,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stake.",
+          "start": 7.573,
+          "end": 7.813,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18293446992572984,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.013671483844518661
+      "avg_logprob": -0.04310993913067392,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 7.92,
-      "end": 13.56,
-      "text": " There are financial ties to pharmaceutical industries in terms of clinical trials money",
-      "tokens": [
-        50760,
-        821,
-        366,
-        4669,
-        14039,
-        281,
-        27130,
-        13284,
-        294,
-        2115,
-        295,
-        9115,
-        12450,
-        1460,
-        51042
+      "start": 7.833,
+      "end": 14.754,
+      "text": "There are financial ties to pharmaceutical industries in terms of clinical trials money and grant funding.",
+      "words": [
+        {
+          "word": "There",
+          "start": 7.833,
+          "end": 7.993,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 8.113,
+          "end": 8.233,
+          "score": 0.619,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "financial",
+          "start": 8.333,
+          "end": 8.853,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ties",
+          "start": 8.913,
+          "end": 9.333,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 9.713,
+          "end": 9.873,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmaceutical",
+          "start": 9.953,
+          "end": 10.693,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "industries",
+          "start": 11.534,
+          "end": 12.114,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 12.154,
+          "end": 12.214,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "terms",
+          "start": 12.254,
+          "end": 12.474,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 12.514,
+          "end": 12.574,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "clinical",
+          "start": 12.634,
+          "end": 12.974,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trials",
+          "start": 13.014,
+          "end": 13.374,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "money",
+          "start": 13.434,
+          "end": 13.654,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 13.714,
+          "end": 13.774,
+          "score": 0.353,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "grant",
+          "start": 13.874,
+          "end": 14.174,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "funding.",
+          "start": 14.274,
+          "end": 14.754,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18293446992572984,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.013671483844518661
+      "avg_logprob": -0.04310993913067392,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 13.56,
-      "end": 15.52,
-      "text": " and grant funding.",
-      "tokens": [
-        51042,
-        293,
-        6386,
-        6137,
-        13,
-        51140
+      "start": 15.435,
+      "end": 23.296,
+      "text": "The university holds on to all their patent rights for products that are later marketed by pharmaceutical companies.",
+      "words": [
+        {
+          "word": "The",
+          "start": 15.435,
+          "end": 15.595,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "university",
+          "start": 15.835,
+          "end": 16.375,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "holds",
+          "start": 16.955,
+          "end": 17.215,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 17.355,
+          "end": 17.455,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 17.555,
+          "end": 17.735,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 17.895,
+          "end": 18.035,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 18.075,
+          "end": 18.255,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patent",
+          "start": 18.335,
+          "end": 18.655,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights",
+          "start": 18.695,
+          "end": 18.975,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 19.055,
+          "end": 19.255,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "products",
+          "start": 19.696,
+          "end": 20.076,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 20.116,
+          "end": 20.656,
+          "score": 0.644,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 20.796,
+          "end": 21.236,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later",
+          "start": 21.276,
+          "end": 21.496,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "marketed",
+          "start": 21.556,
+          "end": 21.936,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 21.976,
+          "end": 22.096,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmaceutical",
+          "start": 22.136,
+          "end": 22.776,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "companies.",
+          "start": 22.816,
+          "end": 23.296,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18293446992572984,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.013671483844518661
+      "avg_logprob": -0.04310993913067392,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 15.52,
-      "end": 21.88,
-      "text": " The university holds on to all their patent rights for products that are later marketed",
-      "tokens": [
-        51140,
-        440,
-        5454,
-        9190,
-        322,
-        281,
-        439,
-        641,
-        20495,
-        4601,
-        337,
-        3383,
-        300,
-        366,
-        1780,
-        49089,
-        51458
+      "start": 24.437,
+      "end": 29.718,
+      "text": "I mean, you look at the retirement plan for the UC alone, it has millions invested in Pfizer.",
+      "words": [
+        {
+          "word": "I",
+          "start": 24.437,
+          "end": 24.477,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mean,",
+          "start": 24.497,
+          "end": 24.617,
+          "score": 0.514,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 24.637,
+          "end": 24.717,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "look",
+          "start": 24.737,
+          "end": 24.877,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 24.897,
+          "end": 24.937,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.957,
+          "end": 25.037,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "retirement",
+          "start": 25.057,
+          "end": 25.477,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plan",
+          "start": 25.517,
+          "end": 25.757,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 25.777,
+          "end": 25.877,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 25.897,
+          "end": 25.977,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "UC",
+          "start": 26.077,
+          "end": 26.317,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "alone,",
+          "start": 26.377,
+          "end": 26.837,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 26.917,
+          "end": 26.977,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 27.017,
+          "end": 27.177,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "millions",
+          "start": 27.277,
+          "end": 27.737,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "invested",
+          "start": 27.797,
+          "end": 28.258,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 28.798,
+          "end": 28.918,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer.",
+          "start": 29.198,
+          "end": 29.718,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18293446992572984,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.013671483844518661
+      "avg_logprob": -0.04310993913067392,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 21.88,
-      "end": 24.36,
-      "text": " by pharmaceutical companies.",
-      "tokens": [
-        51458,
-        538,
-        27130,
-        3431,
-        13,
-        51582
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18293446992572984,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.013671483844518661
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 24.36,
-      "end": 29.2,
-      "text": " I mean you look at the retirement plan for the UC alone, it has millions invested in",
-      "tokens": [
-        51582,
-        286,
-        914,
-        291,
-        574,
-        412,
-        264,
-        15189,
-        1393,
-        337,
-        264,
-        14079,
-        3312,
-        11,
-        309,
-        575,
-        6803,
-        13104,
-        294,
-        51824
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18293446992572984,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.013671483844518661
-    },
-    {
-      "id": 7,
-      "seek": 2920,
-      "start": 29.2,
-      "end": 29.759999999999998,
-      "text": " Pfizer.",
-      "tokens": [
-        50364,
-        34694,
-        13,
-        50392
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6852831840515137,
-      "compression_ratio": 0.4666666666666667,
-      "no_speech_prob": 0.8819227814674377
+      "start": 30.018,
+      "end": 30.153,
+      "text": " Thank you.",
+      "words": [],
+      "chars": null,
+      "avg_logprob": -1.2138672173023224
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "I",
+      "start": 0.351,
+      "end": 0.431,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 0.531,
+      "end": 0.771,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 0.811,
+      "end": 0.951,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 0.991,
+      "end": 1.091,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "already",
+      "start": 1.151,
+      "end": 1.411,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "decided",
+      "start": 1.431,
+      "end": 1.871,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 2.412,
+      "end": 2.472,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "advance",
+      "start": 2.512,
+      "end": 2.892,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 2.952,
+      "end": 3.052,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 3.092,
+      "end": 3.192,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wanted",
+      "start": 3.232,
+      "end": 3.472,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 3.512,
+      "end": 3.612,
+      "score": 0.602,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do.",
+      "start": 3.652,
+      "end": 3.892,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 4.732,
+      "end": 4.892,
+      "score": 0.657,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.972,
+      "end": 5.072,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "university",
+      "start": 5.152,
+      "end": 5.712,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 5.732,
+      "end": 6.533,
+      "score": 0.761,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 6.813,
+      "end": 6.853,
+      "score": 0.558,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 6.893,
+      "end": 7.073,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 7.093,
+      "end": 7.153,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "money",
+      "start": 7.233,
+      "end": 7.413,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 7.453,
+      "end": 7.533,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stake.",
+      "start": 7.573,
+      "end": 7.813,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "There",
+      "start": 7.833,
+      "end": 7.993,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 8.113,
+      "end": 8.233,
+      "score": 0.619,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "financial",
+      "start": 8.333,
+      "end": 8.853,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ties",
+      "start": 8.913,
+      "end": 9.333,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 9.713,
+      "end": 9.873,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmaceutical",
+      "start": 9.953,
+      "end": 10.693,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "industries",
+      "start": 11.534,
+      "end": 12.114,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 12.154,
+      "end": 12.214,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "terms",
+      "start": 12.254,
+      "end": 12.474,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 12.514,
+      "end": 12.574,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "clinical",
+      "start": 12.634,
+      "end": 12.974,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trials",
+      "start": 13.014,
+      "end": 13.374,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "money",
+      "start": 13.434,
+      "end": 13.654,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 13.714,
+      "end": 13.774,
+      "score": 0.353,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "grant",
+      "start": 13.874,
+      "end": 14.174,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "funding.",
+      "start": 14.274,
+      "end": 14.754,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 15.435,
+      "end": 15.595,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "university",
+      "start": 15.835,
+      "end": 16.375,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "holds",
+      "start": 16.955,
+      "end": 17.215,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 17.355,
+      "end": 17.455,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 17.555,
+      "end": 17.735,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 17.895,
+      "end": 18.035,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 18.075,
+      "end": 18.255,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patent",
+      "start": 18.335,
+      "end": 18.655,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights",
+      "start": 18.695,
+      "end": 18.975,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 19.055,
+      "end": 19.255,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "products",
+      "start": 19.696,
+      "end": 20.076,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 20.116,
+      "end": 20.656,
+      "score": 0.644,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 20.796,
+      "end": 21.236,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later",
+      "start": 21.276,
+      "end": 21.496,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "marketed",
+      "start": 21.556,
+      "end": 21.936,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 21.976,
+      "end": 22.096,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmaceutical",
+      "start": 22.136,
+      "end": 22.776,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "companies.",
+      "start": 22.816,
+      "end": 23.296,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 24.437,
+      "end": 24.477,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mean,",
+      "start": 24.497,
+      "end": 24.617,
+      "score": 0.514,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 24.637,
+      "end": 24.717,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "look",
+      "start": 24.737,
+      "end": 24.877,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 24.897,
+      "end": 24.937,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.957,
+      "end": 25.037,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "retirement",
+      "start": 25.057,
+      "end": 25.477,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plan",
+      "start": 25.517,
+      "end": 25.757,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 25.777,
+      "end": 25.877,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 25.897,
+      "end": 25.977,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "UC",
+      "start": 26.077,
+      "end": 26.317,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "alone,",
+      "start": 26.377,
+      "end": 26.837,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 26.917,
+      "end": 26.977,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 27.017,
+      "end": 27.177,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "millions",
+      "start": 27.277,
+      "end": 27.737,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "invested",
+      "start": 27.797,
+      "end": 28.258,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 28.798,
+      "end": 28.918,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer.",
+      "start": 29.198,
+      "end": 29.718,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

@@ -1,666 +1,4450 @@
 {
-  "text": " So we ask that you join us. DC isn't that far away and January 3rd is not far away. 23rd, on January 23rd we're coming together, black, white and Hispanic, vaccinated and unvaccinated, Democrats and Republicans, for freedom to march on Washington in peace. The discrimination against the unvaccinated is an assault against the very fabric of what makes a free Democratic society. Europe and Australia and countries around the world have risen up in massive protests in which hundreds of thousands of people have come together. The worldwide rally for freedom has protested vaccine mandates and passports. January 23rd will be the next day that the whole world comes together. It's time for America to step up and join the worldwide rally for freedom. The plan currently is to walk together from Washington Monument to the Lincoln Memorial where there will be a program of featured speakers, Peters among them, as is Bobby Kennedy, as is myself. The first half will consist of thought leaders and medical experts. The second half would highlight several national celebrities who will make a stand against the mandates. The ask for everyone at the march is very simple. Do not comply. Ultimately, our hope is that the defeat the mandates in American homecoming rally will help bring about new policies at the federal, state and city level to eliminate the blatant discrimination that's happening in front of our eyes. We are not against the vaccinated. Again, we are not against the vaccinated. We are against forcing vaccinations on Americans and on the world. It is time for America to stand up and time for America to come home. Sign up to join me at the march. You can find that at defeat the mandates DC dot com. Thank you for your time. I hope to see you in DC. Thank you.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 10.0,
-      "text": " So we ask that you join us. DC isn't that far away and January 3rd is not far away.",
-      "tokens": [
-        50364,
-        407,
-        321,
-        1029,
-        300,
-        291,
-        3917,
-        505,
-        13,
-        9114,
-        1943,
-        380,
-        300,
-        1400,
-        1314,
-        293,
-        7061,
-        805,
-        7800,
-        307,
-        406,
-        1400,
-        1314,
-        13,
-        50864
+      "start": 0.904,
+      "end": 2.305,
+      "text": " So we ask that you join us.",
+      "words": [
+        {
+          "word": "So",
+          "start": 0.904,
+          "end": 1.084,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 1.104,
+          "end": 1.244,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ask",
+          "start": 1.344,
+          "end": 1.545,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 1.605,
+          "end": 1.705,
+          "score": 0.333,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 1.725,
+          "end": 1.825,
+          "score": 0.407,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "join",
+          "start": 1.885,
+          "end": 2.165,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us.",
+          "start": 2.205,
+          "end": 2.305,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2716333445380716,
-      "compression_ratio": 1.4301675977653632,
-      "no_speech_prob": 0.29551371932029724
+      "avg_logprob": -0.1218327685586504,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 10.0,
-      "end": 17.0,
-      "text": " 23rd, on January 23rd we're coming together, black, white and Hispanic,",
-      "tokens": [
-        50864,
-        6673,
-        7800,
-        11,
-        322,
-        7061,
-        6673,
-        7800,
-        321,
-        434,
-        1348,
-        1214,
-        11,
-        2211,
-        11,
-        2418,
-        293,
-        29559,
-        11,
-        51214
+      "start": 4.407,
+      "end": 9.45,
+      "text": "DC isn't that far away, and January 3rd isn't that far away.",
+      "words": [
+        {
+          "word": "DC",
+          "start": 4.407,
+          "end": 4.767,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "isn't",
+          "start": 4.807,
+          "end": 5.027,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 5.067,
+          "end": 5.227,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "far",
+          "start": 5.327,
+          "end": 5.507,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away,",
+          "start": 5.567,
+          "end": 5.828,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 7.569,
+          "end": 7.649,
+          "score": 0.518,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "January",
+          "start": 7.709,
+          "end": 8.229,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "3rd",
+          "start": 8.369,
+          "end": 8.529,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "isn't",
+          "start": 8.57,
+          "end": 8.69,
+          "score": 0.399,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 8.71,
+          "end": 8.87,
+          "score": 0.429,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "far",
+          "start": 8.93,
+          "end": 9.13,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away.",
+          "start": 9.19,
+          "end": 9.45,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2716333445380716,
-      "compression_ratio": 1.4301675977653632,
-      "no_speech_prob": 0.29551371932029724
+      "avg_logprob": -0.1218327685586504,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 17.0,
-      "end": 27.0,
-      "text": " vaccinated and unvaccinated, Democrats and Republicans, for freedom to march on Washington in peace.",
-      "tokens": [
-        51214,
-        14686,
-        293,
-        517,
-        48976,
-        5410,
-        11,
-        12217,
-        293,
-        12017,
-        11,
-        337,
-        5645,
-        281,
-        8368,
-        322,
-        6149,
-        294,
-        4336,
-        13,
-        51714
+      "start": 10.951,
+      "end": 26.022,
+      "text": "23rd, on January 23rd, we're coming together, Black, White and Hispanic, vaccinated and unvaccinated, Democrats and Republicans, for freedom to march on Washington in peace.",
+      "words": [
+        {
+          "word": "23rd,",
+          "start": 10.951,
+          "end": 11.512,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 12.392,
+          "end": 12.452,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "January",
+          "start": 12.492,
+          "end": 12.953,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "23rd,",
+          "start": 13.113,
+          "end": 13.613,
+          "score": 0.661,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 13.653,
+          "end": 13.813,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "coming",
+          "start": 13.853,
+          "end": 14.093,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "together,",
+          "start": 14.113,
+          "end": 14.514,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Black,",
+          "start": 14.774,
+          "end": 15.154,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "White",
+          "start": 15.354,
+          "end": 15.635,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 15.795,
+          "end": 15.895,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Hispanic,",
+          "start": 15.915,
+          "end": 16.495,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 17.576,
+          "end": 18.216,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 18.256,
+          "end": 18.356,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unvaccinated,",
+          "start": 18.437,
+          "end": 19.297,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Democrats",
+          "start": 20.358,
+          "end": 20.998,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 21.038,
+          "end": 21.138,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Republicans,",
+          "start": 21.199,
+          "end": 21.839,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 22.78,
+          "end": 22.94,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freedom",
+          "start": 23.02,
+          "end": 23.34,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 23.4,
+          "end": 23.48,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "march",
+          "start": 23.54,
+          "end": 23.88,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 24.261,
+          "end": 24.341,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Washington",
+          "start": 24.421,
+          "end": 25.181,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 25.422,
+          "end": 25.542,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "peace.",
+          "start": 25.642,
+          "end": 26.022,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2716333445380716,
-      "compression_ratio": 1.4301675977653632,
-      "no_speech_prob": 0.29551371932029724
+      "avg_logprob": -0.1218327685586504,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 2700,
-      "start": 27.0,
-      "end": 37.0,
-      "text": " The discrimination against the unvaccinated is an assault against the very fabric of what makes a free Democratic society.",
-      "tokens": [
-        50364,
-        440,
-        15973,
-        1970,
-        264,
-        517,
-        48976,
-        5410,
-        307,
-        364,
-        12458,
-        1970,
-        264,
-        588,
-        7253,
-        295,
-        437,
-        1669,
-        257,
-        1737,
-        14928,
-        4086,
-        13,
-        50864
+      "start": 27.143,
+      "end": 30.185,
+      "text": "The discrimination against the unvaccinated is an assault",
+      "words": [
+        {
+          "word": "The",
+          "start": 27.143,
+          "end": 27.243,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "discrimination",
+          "start": 27.283,
+          "end": 28.003,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 28.043,
+          "end": 28.344,
+          "score": 0.787,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 28.384,
+          "end": 28.464,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unvaccinated",
+          "start": 28.544,
+          "end": 29.384,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 29.444,
+          "end": 29.544,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 29.564,
+          "end": 29.645,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "assault",
+          "start": 29.705,
+          "end": 30.185,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0799621153568876,
-      "compression_ratio": 1.6064814814814814,
-      "no_speech_prob": 0.007697912864387035
+      "avg_logprob": -0.1218327685586504,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 2700,
-      "start": 37.0,
-      "end": 47.0,
-      "text": " Europe and Australia and countries around the world have risen up in massive protests in which hundreds of thousands of people have come together.",
-      "tokens": [
-        50864,
-        3315,
-        293,
-        7060,
-        293,
-        3517,
-        926,
-        264,
-        1002,
-        362,
-        28614,
-        493,
-        294,
-        5994,
-        20174,
-        294,
-        597,
-        6779,
-        295,
-        5383,
-        295,
-        561,
-        362,
-        808,
-        1214,
-        13,
-        51364
+      "start": 30.756,
+      "end": 35.159,
+      "text": " against the very fabric of what makes us a free democratic society.",
+      "words": [
+        {
+          "word": "against",
+          "start": 30.756,
+          "end": 31.016,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 31.056,
+          "end": 31.136,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 31.176,
+          "end": 31.417,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fabric",
+          "start": 31.497,
+          "end": 31.937,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 31.977,
+          "end": 32.037,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 32.077,
+          "end": 32.237,
+          "score": 0.555,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "makes",
+          "start": 32.297,
+          "end": 32.517,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 32.597,
+          "end": 32.697,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 32.938,
+          "end": 32.978,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "free",
+          "start": 33.118,
+          "end": 33.498,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "democratic",
+          "start": 33.878,
+          "end": 34.479,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "society.",
+          "start": 34.559,
+          "end": 35.159,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0799621153568876,
-      "compression_ratio": 1.6064814814814814,
-      "no_speech_prob": 0.007697912864387035
+      "avg_logprob": -0.04351447626729222,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2700,
-      "start": 47.0,
-      "end": 53.0,
-      "text": " The worldwide rally for freedom has protested vaccine mandates and passports.",
-      "tokens": [
-        51364,
-        440,
-        13485,
-        17584,
-        337,
-        5645,
-        575,
-        11281,
-        292,
-        7007,
-        48662,
-        293,
-        1320,
-        17845,
-        13,
-        51664
+      "start": 37.061,
+      "end": 45.527,
+      "text": "Europe and Australia and countries around the world have risen up in massive protests in which hundreds of thousands of people have come together.",
+      "words": [
+        {
+          "word": "Europe",
+          "start": 37.061,
+          "end": 37.301,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 37.341,
+          "end": 37.421,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Australia",
+          "start": 37.521,
+          "end": 38.282,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 38.702,
+          "end": 38.802,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "countries",
+          "start": 38.882,
+          "end": 39.222,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "around",
+          "start": 39.282,
+          "end": 39.502,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 39.542,
+          "end": 39.622,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world",
+          "start": 39.683,
+          "end": 40.023,
+          "score": 0.655,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 40.103,
+          "end": 40.263,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risen",
+          "start": 40.323,
+          "end": 40.623,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 40.743,
+          "end": 40.823,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 40.983,
+          "end": 41.064,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "massive",
+          "start": 41.144,
+          "end": 41.584,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protests",
+          "start": 41.664,
+          "end": 42.204,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 42.845,
+          "end": 42.905,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 42.965,
+          "end": 43.145,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hundreds",
+          "start": 43.245,
+          "end": 43.585,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 43.625,
+          "end": 43.685,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "thousands",
+          "start": 43.766,
+          "end": 44.226,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 44.266,
+          "end": 44.306,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 44.386,
+          "end": 44.686,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 44.766,
+          "end": 44.886,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "come",
+          "start": 44.946,
+          "end": 45.106,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "together.",
+          "start": 45.147,
+          "end": 45.527,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0799621153568876,
-      "compression_ratio": 1.6064814814814814,
-      "no_speech_prob": 0.007697912864387035
+      "avg_logprob": -0.04351447626729222,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 5300,
-      "start": 53.0,
-      "end": 59.0,
-      "text": " January 23rd will be the next day that the whole world comes together.",
-      "tokens": [
-        50364,
-        7061,
-        6673,
-        7800,
-        486,
-        312,
-        264,
-        958,
-        786,
-        300,
-        264,
-        1379,
-        1002,
-        1487,
-        1214,
-        13,
-        50664
+      "start": 47.348,
+      "end": 52.212,
+      "text": "The worldwide rally for freedom has protested vaccine mandates and passports.",
+      "words": [
+        {
+          "word": "The",
+          "start": 47.348,
+          "end": 47.448,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "worldwide",
+          "start": 47.488,
+          "end": 48.049,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rally",
+          "start": 48.189,
+          "end": 48.569,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 48.609,
+          "end": 48.729,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freedom",
+          "start": 48.789,
+          "end": 49.169,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 49.29,
+          "end": 49.47,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protested",
+          "start": 49.59,
+          "end": 50.21,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 50.27,
+          "end": 50.791,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mandates",
+          "start": 50.831,
+          "end": 51.371,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 51.411,
+          "end": 51.511,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "passports.",
+          "start": 51.551,
+          "end": 52.212,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07003333419561386,
-      "compression_ratio": 1.4615384615384615,
-      "no_speech_prob": 0.0064867720939219
+      "avg_logprob": -0.04351447626729222,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 5300,
-      "start": 59.0,
-      "end": 65.0,
+      "start": 53.733,
+      "end": 58.136,
+      "text": "January 23rd will be the next day that the whole world comes together.",
+      "words": [
+        {
+          "word": "January",
+          "start": 53.733,
+          "end": 54.253,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "23rd",
+          "start": 54.433,
+          "end": 54.954,
+          "score": 0.617,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 55.034,
+          "end": 55.194,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 55.214,
+          "end": 55.314,
+          "score": 0.665,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 55.334,
+          "end": 55.434,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "next",
+          "start": 55.494,
+          "end": 55.734,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day",
+          "start": 55.794,
+          "end": 56.034,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 56.094,
+          "end": 56.235,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 56.275,
+          "end": 56.355,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole",
+          "start": 56.415,
+          "end": 56.635,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world",
+          "start": 56.715,
+          "end": 57.155,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "comes",
+          "start": 57.375,
+          "end": 57.656,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "together.",
+          "start": 57.736,
+          "end": 58.136,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.04351447626729222,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 59.525,
+      "end": 64.468,
       "text": " It's time for America to step up and join the worldwide rally for freedom.",
-      "tokens": [
-        50664,
-        467,
-        311,
-        565,
-        337,
-        3374,
-        281,
-        1823,
-        493,
-        293,
-        3917,
-        264,
-        13485,
-        17584,
-        337,
-        5645,
-        13,
-        50964
+      "words": [
+        {
+          "word": "It's",
+          "start": 59.525,
+          "end": 59.645,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time",
+          "start": 59.705,
+          "end": 59.945,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 60.005,
+          "end": 60.165,
+          "score": 0.763,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "America",
+          "start": 60.225,
+          "end": 60.806,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 60.946,
+          "end": 61.046,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "step",
+          "start": 61.106,
+          "end": 61.426,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 61.566,
+          "end": 61.706,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 61.886,
+          "end": 61.966,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "join",
+          "start": 62.006,
+          "end": 62.327,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 62.367,
+          "end": 62.447,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "worldwide",
+          "start": 62.487,
+          "end": 63.307,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rally",
+          "start": 63.407,
+          "end": 63.767,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 63.847,
+          "end": 63.988,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freedom.",
+          "start": 64.068,
+          "end": 64.468,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07003333419561386,
-      "compression_ratio": 1.4615384615384615,
-      "no_speech_prob": 0.0064867720939219
+      "avg_logprob": -0.05831068711004395,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 5300,
-      "start": 65.0,
-      "end": 76.0,
-      "text": " The plan currently is to walk together from Washington Monument to the Lincoln Memorial where there will be a program of featured speakers,",
-      "tokens": [
-        50964,
-        440,
-        1393,
-        4362,
-        307,
-        281,
-        1792,
-        1214,
-        490,
-        6149,
-        4713,
-        2206,
-        281,
-        264,
-        15993,
-        24957,
-        689,
-        456,
-        486,
-        312,
-        257,
-        1461,
-        295,
-        13822,
-        9518,
-        11,
-        51514
+      "start": 66.069,
+      "end": 75.054,
+      "text": "The plan currently is to walk together from Washington Monument to the Lincoln Memorial, where there will be a program of featured speakers.",
+      "words": [
+        {
+          "word": "The",
+          "start": 66.069,
+          "end": 66.169,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plan",
+          "start": 66.209,
+          "end": 66.649,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "currently",
+          "start": 67.97,
+          "end": 68.45,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 68.53,
+          "end": 68.61,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 68.65,
+          "end": 68.75,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "walk",
+          "start": 68.81,
+          "end": 69.07,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "together",
+          "start": 69.13,
+          "end": 69.531,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 69.631,
+          "end": 69.791,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Washington",
+          "start": 69.851,
+          "end": 70.451,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Monument",
+          "start": 70.491,
+          "end": 70.971,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 71.012,
+          "end": 71.092,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 71.132,
+          "end": 71.192,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Lincoln",
+          "start": 71.252,
+          "end": 71.532,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Memorial,",
+          "start": 71.572,
+          "end": 72.112,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 72.712,
+          "end": 72.893,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 72.933,
+          "end": 73.073,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 73.093,
+          "end": 73.253,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 73.293,
+          "end": 73.373,
+          "score": 0.718,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 73.433,
+          "end": 73.453,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "program",
+          "start": 73.513,
+          "end": 73.973,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 73.993,
+          "end": 74.073,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "featured",
+          "start": 74.133,
+          "end": 74.493,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "speakers.",
+          "start": 74.533,
+          "end": 75.054,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07003333419561386,
-      "compression_ratio": 1.4615384615384615,
-      "no_speech_prob": 0.0064867720939219
+      "avg_logprob": -0.05831068711004395,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 7600,
-      "start": 76.0,
-      "end": 82.0,
-      "text": " Peters among them, as is Bobby Kennedy, as is myself.",
-      "tokens": [
-        50364,
-        26028,
-        3654,
-        552,
-        11,
-        382,
-        307,
-        19573,
-        16517,
-        11,
-        382,
-        307,
-        2059,
-        13,
-        50664
+      "start": 76.655,
+      "end": 81.537,
+      "text": "Peter's among them, as is Bobby Kennedy, as is myself.",
+      "words": [
+        {
+          "word": "Peter's",
+          "start": 76.655,
+          "end": 76.995,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "among",
+          "start": 77.055,
+          "end": 77.295,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them,",
+          "start": 77.315,
+          "end": 77.455,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 78.136,
+          "end": 78.236,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 78.316,
+          "end": 78.416,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Bobby",
+          "start": 78.476,
+          "end": 78.756,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Kennedy,",
+          "start": 78.796,
+          "end": 79.196,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 80.777,
+          "end": 80.877,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 80.957,
+          "end": 81.037,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "myself.",
+          "start": 81.097,
+          "end": 81.537,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06116259275977291,
-      "compression_ratio": 1.515625,
-      "no_speech_prob": 0.07708604633808136
+      "avg_logprob": -0.05831068711004395,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 7600,
-      "start": 82.0,
-      "end": 86.0,
-      "text": " The first half will consist of thought leaders and medical experts.",
-      "tokens": [
-        50664,
-        440,
-        700,
-        1922,
-        486,
-        4603,
-        295,
-        1194,
-        3523,
-        293,
-        4625,
-        8572,
-        13,
-        50864
+      "start": 82.798,
+      "end": 85.86,
+      "text": "The first half will consist of thought leaders and medical experts.",
+      "words": [
+        {
+          "word": "The",
+          "start": 82.798,
+          "end": 82.878,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 82.918,
+          "end": 83.158,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "half",
+          "start": 83.198,
+          "end": 83.398,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 83.419,
+          "end": 83.579,
+          "score": 0.622,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "consist",
+          "start": 83.599,
+          "end": 83.999,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 84.039,
+          "end": 84.099,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "thought",
+          "start": 84.159,
+          "end": 84.419,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "leaders",
+          "start": 84.459,
+          "end": 84.839,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 84.899,
+          "end": 84.979,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 85.019,
+          "end": 85.36,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "experts.",
+          "start": 85.4,
+          "end": 85.86,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06116259275977291,
-      "compression_ratio": 1.515625,
-      "no_speech_prob": 0.07708604633808136
+      "avg_logprob": -0.05831068711004395,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 7600,
-      "start": 86.0,
-      "end": 93.0,
+      "start": 86.788,
+      "end": 92.629,
       "text": " The second half would highlight several national celebrities who will make a stand against the mandates.",
-      "tokens": [
-        50864,
-        440,
-        1150,
-        1922,
-        576,
-        5078,
-        2940,
-        4048,
-        23200,
-        567,
-        486,
-        652,
-        257,
-        1463,
-        1970,
-        264,
-        48662,
-        13,
-        51214
+      "words": [
+        {
+          "word": "The",
+          "start": 86.788,
+          "end": 86.888,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "second",
+          "start": 86.928,
+          "end": 87.228,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "half",
+          "start": 87.268,
+          "end": 87.528,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 87.568,
+          "end": 87.728,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "highlight",
+          "start": 87.768,
+          "end": 88.268,
+          "score": 0.541,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "several",
+          "start": 88.428,
+          "end": 88.808,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "national",
+          "start": 88.888,
+          "end": 89.349,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "celebrities",
+          "start": 89.489,
+          "end": 90.089,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 90.629,
+          "end": 90.709,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 90.749,
+          "end": 90.889,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 90.929,
+          "end": 91.069,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 91.129,
+          "end": 91.169,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stand",
+          "start": 91.209,
+          "end": 91.569,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 91.609,
+          "end": 91.889,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 91.949,
+          "end": 92.029,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mandates.",
+          "start": 92.069,
+          "end": 92.629,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06116259275977291,
-      "compression_ratio": 1.515625,
-      "no_speech_prob": 0.07708604633808136
+      "avg_logprob": -0.0603465563020645,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 7600,
-      "start": 93.0,
-      "end": 100.0,
-      "text": " The ask for everyone at the march is very simple. Do not comply.",
-      "tokens": [
-        51214,
-        440,
-        1029,
-        337,
-        1518,
-        412,
-        264,
-        8368,
-        307,
-        588,
-        2199,
-        13,
-        1144,
-        406,
-        27956,
-        13,
-        51564
+      "start": 93.769,
+      "end": 97.43,
+      "text": "The ask for everyone at the march is very simple.",
+      "words": [
+        {
+          "word": "The",
+          "start": 93.769,
+          "end": 93.889,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ask",
+          "start": 94.129,
+          "end": 94.43,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 94.63,
+          "end": 94.77,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "everyone",
+          "start": 94.89,
+          "end": 95.37,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 95.73,
+          "end": 95.79,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 95.83,
+          "end": 95.93,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "march",
+          "start": 95.97,
+          "end": 96.33,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 96.55,
+          "end": 96.65,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 96.71,
+          "end": 96.97,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "simple.",
+          "start": 97.05,
+          "end": 97.43,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06116259275977291,
-      "compression_ratio": 1.515625,
-      "no_speech_prob": 0.07708604633808136
+      "avg_logprob": -0.0603465563020645,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 10000,
-      "start": 100.0,
-      "end": 117.0,
-      "text": " Ultimately, our hope is that the defeat the mandates in American homecoming rally will help bring about new policies at the federal, state and city level to eliminate the blatant discrimination that's happening in front of our eyes.",
-      "tokens": [
-        50364,
-        23921,
-        11,
-        527,
-        1454,
-        307,
-        300,
-        264,
-        11785,
-        264,
-        48662,
-        294,
-        2665,
-        1280,
-        6590,
-        17584,
-        486,
-        854,
-        1565,
-        466,
-        777,
-        7657,
-        412,
-        264,
-        6019,
-        11,
-        1785,
-        293,
-        2307,
-        1496,
-        281,
-        13819,
-        264,
-        42780,
-        394,
-        15973,
-        300,
-        311,
-        2737,
-        294,
-        1868,
-        295,
-        527,
-        2575,
-        13,
-        51214
+      "start": 98.23,
+      "end": 99.21,
+      "text": "Do not comply.",
+      "words": [
+        {
+          "word": "Do",
+          "start": 98.23,
+          "end": 98.37,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 98.41,
+          "end": 98.57,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "comply.",
+          "start": 98.65,
+          "end": 99.21,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14292271931966147,
-      "compression_ratio": 1.6702702702702703,
-      "no_speech_prob": 0.10218779742717743
+      "avg_logprob": -0.0603465563020645,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 10000,
-      "start": 117.0,
-      "end": 127.0,
-      "text": " We are not against the vaccinated. Again, we are not against the vaccinated.",
-      "tokens": [
-        51214,
-        492,
-        366,
-        406,
-        1970,
-        264,
-        14686,
-        13,
-        3764,
-        11,
-        321,
-        366,
-        406,
-        1970,
-        264,
-        14686,
-        13,
-        51714
+      "start": 100.771,
+      "end": 116.274,
+      "text": "Ultimately, our hope is that the defeat the mandates and American homecoming rally will help bring about new policies at the federal, state, and city level to eliminate the blatant discrimination that's happening in front of our eyes.",
+      "words": [
+        {
+          "word": "Ultimately,",
+          "start": 100.771,
+          "end": 101.391,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 101.871,
+          "end": 101.971,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hope",
+          "start": 102.031,
+          "end": 102.271,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 102.371,
+          "end": 102.451,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 102.531,
+          "end": 102.711,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 103.091,
+          "end": 103.231,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "defeat",
+          "start": 103.431,
+          "end": 103.891,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 104.011,
+          "end": 104.091,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mandates",
+          "start": 104.131,
+          "end": 104.752,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 104.992,
+          "end": 105.052,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "American",
+          "start": 105.092,
+          "end": 105.592,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "homecoming",
+          "start": 105.652,
+          "end": 106.292,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rally",
+          "start": 106.712,
+          "end": 107.172,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 108.292,
+          "end": 108.492,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "help",
+          "start": 108.512,
+          "end": 108.692,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bring",
+          "start": 108.752,
+          "end": 108.932,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 108.972,
+          "end": 109.172,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "new",
+          "start": 109.193,
+          "end": 109.393,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "policies",
+          "start": 109.453,
+          "end": 110.013,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 110.073,
+          "end": 110.153,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 110.193,
+          "end": 110.253,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "federal,",
+          "start": 110.333,
+          "end": 110.733,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "state,",
+          "start": 110.873,
+          "end": 111.233,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 111.353,
+          "end": 111.453,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "city",
+          "start": 111.533,
+          "end": 111.773,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "level",
+          "start": 111.833,
+          "end": 112.213,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 112.753,
+          "end": 112.873,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "eliminate",
+          "start": 112.933,
+          "end": 113.393,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 113.433,
+          "end": 113.533,
+          "score": 0.583,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "blatant",
+          "start": 113.573,
+          "end": 113.953,
+          "score": 0.579,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "discrimination",
+          "start": 113.993,
+          "end": 114.754,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 114.774,
+          "end": 114.974,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happening",
+          "start": 115.014,
+          "end": 115.414,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 115.434,
+          "end": 115.514,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "front",
+          "start": 115.574,
+          "end": 115.734,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 115.754,
+          "end": 115.794,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 115.874,
+          "end": 115.974,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "eyes.",
+          "start": 116.114,
+          "end": 116.274,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14292271931966147,
-      "compression_ratio": 1.6702702702702703,
-      "no_speech_prob": 0.10218779742717743
+      "avg_logprob": -0.0603465563020645,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 12700,
-      "start": 127.0,
-      "end": 134.0,
-      "text": " We are against forcing vaccinations on Americans and on the world.",
-      "tokens": [
-        50364,
-        492,
-        366,
-        1970,
-        19030,
-        39333,
-        322,
-        6280,
-        293,
-        322,
-        264,
-        1002,
-        13,
-        50714
+      "start": 118.277,
+      "end": 120.519,
+      "text": " We are not against the vaccinated.",
+      "words": [
+        {
+          "word": "We",
+          "start": 118.277,
+          "end": 118.397,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 118.437,
+          "end": 118.537,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 118.617,
+          "end": 118.898,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 119.058,
+          "end": 119.498,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 119.678,
+          "end": 119.758,
+          "score": 0.566,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated.",
+          "start": 119.798,
+          "end": 120.519,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1383405394024319,
-      "compression_ratio": 1.5813953488372092,
-      "no_speech_prob": 0.035302404314279556
+      "avg_logprob": -0.04821325300468339,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 12700,
-      "start": 134.0,
-      "end": 142.0,
-      "text": " It is time for America to stand up and time for America to come home.",
-      "tokens": [
-        50714,
-        467,
-        307,
-        565,
-        337,
-        3374,
-        281,
-        1463,
-        493,
-        293,
-        565,
-        337,
-        3374,
-        281,
-        808,
-        1280,
-        13,
-        51114
+      "start": 122.14,
+      "end": 126.183,
+      "text": "Again, we are not against the vaccinated.",
+      "words": [
+        {
+          "word": "Again,",
+          "start": 122.14,
+          "end": 122.48,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 123.381,
+          "end": 123.521,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 123.581,
+          "end": 123.681,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 123.761,
+          "end": 124.182,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 124.622,
+          "end": 125.102,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 125.323,
+          "end": 125.403,
+          "score": 0.511,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated.",
+          "start": 125.443,
+          "end": 126.183,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1383405394024319,
-      "compression_ratio": 1.5813953488372092,
-      "no_speech_prob": 0.035302404314279556
+      "avg_logprob": -0.04821325300468339,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 12700,
-      "start": 142.0,
-      "end": 150.0,
-      "text": " Sign up to join me at the march. You can find that at defeat the mandates DC dot com.",
-      "tokens": [
-        51114,
-        13515,
-        493,
-        281,
-        3917,
-        385,
-        412,
-        264,
-        8368,
-        13,
-        509,
-        393,
-        915,
-        300,
-        412,
-        11785,
-        264,
-        48662,
-        9114,
-        5893,
-        395,
-        13,
-        51514
+      "start": 128.045,
+      "end": 133.769,
+      "text": "We are against forcing vaccinations on Americans and on the world.",
+      "words": [
+        {
+          "word": "We",
+          "start": 128.045,
+          "end": 128.165,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 128.205,
+          "end": 128.305,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 128.365,
+          "end": 128.665,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forcing",
+          "start": 128.845,
+          "end": 129.386,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinations",
+          "start": 129.566,
+          "end": 130.427,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 130.687,
+          "end": 130.767,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Americans",
+          "start": 130.807,
+          "end": 131.407,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 132.668,
+          "end": 132.809,
+          "score": 0.631,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 133.069,
+          "end": 133.169,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 133.209,
+          "end": 133.309,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world.",
+          "start": 133.349,
+          "end": 133.769,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1383405394024319,
-      "compression_ratio": 1.5813953488372092,
-      "no_speech_prob": 0.035302404314279556
+      "avg_logprob": -0.04821325300468339,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 12700,
-      "start": 150.0,
-      "end": 154.0,
-      "text": " Thank you for your time. I hope to see you in DC.",
-      "tokens": [
-        51514,
-        1044,
-        291,
-        337,
-        428,
-        565,
-        13,
-        286,
-        1454,
-        281,
-        536,
-        291,
-        294,
-        9114,
-        13,
-        51714
+      "start": 135.09,
+      "end": 140.214,
+      "text": "It is time for America to stand up and time for America to come home.",
+      "words": [
+        {
+          "word": "It",
+          "start": 135.09,
+          "end": 135.13,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 135.19,
+          "end": 135.27,
+          "score": 0.522,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time",
+          "start": 135.31,
+          "end": 135.571,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 135.631,
+          "end": 135.771,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "America",
+          "start": 135.811,
+          "end": 136.271,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 136.311,
+          "end": 136.371,
+          "score": 0.751,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stand",
+          "start": 136.431,
+          "end": 136.772,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 136.912,
+          "end": 137.112,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 137.973,
+          "end": 138.073,
+          "score": 0.761,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time",
+          "start": 138.133,
+          "end": 138.433,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 138.493,
+          "end": 138.613,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "America",
+          "start": 138.653,
+          "end": 139.234,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 139.454,
+          "end": 139.534,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "come",
+          "start": 139.594,
+          "end": 139.834,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "home.",
+          "start": 139.914,
+          "end": 140.214,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1383405394024319,
-      "compression_ratio": 1.5813953488372092,
-      "no_speech_prob": 0.035302404314279556
+      "avg_logprob": -0.04821325300468339,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 15700,
-      "start": 157.0,
-      "end": 159.0,
-      "text": " Thank you.",
-      "tokens": [
-        50364,
-        1044,
-        291,
-        13,
-        50464
+      "start": 142.896,
+      "end": 144.558,
+      "text": "Sign up to join me at the march.",
+      "words": [
+        {
+          "word": "Sign",
+          "start": 142.896,
+          "end": 143.137,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 143.177,
+          "end": 143.317,
+          "score": 0.629,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 143.337,
+          "end": 143.437,
+          "score": 0.373,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "join",
+          "start": 143.497,
+          "end": 143.777,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 143.817,
+          "end": 143.937,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 143.977,
+          "end": 144.057,
+          "score": 0.652,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 144.097,
+          "end": 144.157,
+          "score": 0.981,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "march.",
+          "start": 144.198,
+          "end": 144.558,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.7519481182098389,
-      "compression_ratio": 0.5555555555555556,
-      "no_speech_prob": 0.9800906777381897
+      "avg_logprob": -0.04821325300468339,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 145.898,
+      "end": 150.729,
+      "text": " You can find that at DefeatTheMandatesDC.com.",
+      "words": [
+        {
+          "word": "You",
+          "start": 145.898,
+          "end": 145.978,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 145.998,
+          "end": 146.139,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "find",
+          "start": 146.199,
+          "end": 146.459,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 146.499,
+          "end": 146.72,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 146.88,
+          "end": 146.96,
+          "score": 0.657,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "DefeatTheMandatesDC.com.",
+          "start": 147.121,
+          "end": 150.729,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.10987903562284285,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 150.769,
+      "end": 151.751,
+      "text": "Thank you for your time.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 150.769,
+          "end": 150.949,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 150.989,
+          "end": 151.11,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 151.13,
+          "end": 151.23,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 151.27,
+          "end": 151.39,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time.",
+          "start": 151.43,
+          "end": 151.751,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.10987903562284285,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 151.771,
+      "end": 153.375,
+      "text": "I hope to see you in DC.",
+      "words": [
+        {
+          "word": "I",
+          "start": 151.771,
+          "end": 151.791,
+          "score": 0.001,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hope",
+          "start": 152.152,
+          "end": 152.332,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 152.352,
+          "end": 152.433,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "see",
+          "start": 152.473,
+          "end": 152.633,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 152.653,
+          "end": 152.773,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 152.814,
+          "end": 152.894,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "DC.",
+          "start": 152.914,
+          "end": 153.375,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.10987903562284285,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 0.904,
+      "end": 1.084,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 1.104,
+      "end": 1.244,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ask",
+      "start": 1.344,
+      "end": 1.545,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 1.605,
+      "end": 1.705,
+      "score": 0.333,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 1.725,
+      "end": 1.825,
+      "score": 0.407,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "join",
+      "start": 1.885,
+      "end": 2.165,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us.",
+      "start": 2.205,
+      "end": 2.305,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "DC",
+      "start": 4.407,
+      "end": 4.767,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "isn't",
+      "start": 4.807,
+      "end": 5.027,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 5.067,
+      "end": 5.227,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "far",
+      "start": 5.327,
+      "end": 5.507,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away,",
+      "start": 5.567,
+      "end": 5.828,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 7.569,
+      "end": 7.649,
+      "score": 0.518,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "January",
+      "start": 7.709,
+      "end": 8.229,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "3rd",
+      "start": 8.369,
+      "end": 8.529,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "isn't",
+      "start": 8.57,
+      "end": 8.69,
+      "score": 0.399,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 8.71,
+      "end": 8.87,
+      "score": 0.429,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "far",
+      "start": 8.93,
+      "end": 9.13,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away.",
+      "start": 9.19,
+      "end": 9.45,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "23rd,",
+      "start": 10.951,
+      "end": 11.512,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 12.392,
+      "end": 12.452,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "January",
+      "start": 12.492,
+      "end": 12.953,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "23rd,",
+      "start": 13.113,
+      "end": 13.613,
+      "score": 0.661,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 13.653,
+      "end": 13.813,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "coming",
+      "start": 13.853,
+      "end": 14.093,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "together,",
+      "start": 14.113,
+      "end": 14.514,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Black,",
+      "start": 14.774,
+      "end": 15.154,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "White",
+      "start": 15.354,
+      "end": 15.635,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 15.795,
+      "end": 15.895,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Hispanic,",
+      "start": 15.915,
+      "end": 16.495,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 17.576,
+      "end": 18.216,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 18.256,
+      "end": 18.356,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unvaccinated,",
+      "start": 18.437,
+      "end": 19.297,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Democrats",
+      "start": 20.358,
+      "end": 20.998,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 21.038,
+      "end": 21.138,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Republicans,",
+      "start": 21.199,
+      "end": 21.839,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 22.78,
+      "end": 22.94,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freedom",
+      "start": 23.02,
+      "end": 23.34,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 23.4,
+      "end": 23.48,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "march",
+      "start": 23.54,
+      "end": 23.88,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 24.261,
+      "end": 24.341,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Washington",
+      "start": 24.421,
+      "end": 25.181,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 25.422,
+      "end": 25.542,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "peace.",
+      "start": 25.642,
+      "end": 26.022,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 27.143,
+      "end": 27.243,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "discrimination",
+      "start": 27.283,
+      "end": 28.003,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 28.043,
+      "end": 28.344,
+      "score": 0.787,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 28.384,
+      "end": 28.464,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unvaccinated",
+      "start": 28.544,
+      "end": 29.384,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 29.444,
+      "end": 29.544,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 29.564,
+      "end": 29.645,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "assault",
+      "start": 29.705,
+      "end": 30.185,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 30.756,
+      "end": 31.016,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 31.056,
+      "end": 31.136,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 31.176,
+      "end": 31.417,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fabric",
+      "start": 31.497,
+      "end": 31.937,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 31.977,
+      "end": 32.037,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 32.077,
+      "end": 32.237,
+      "score": 0.555,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "makes",
+      "start": 32.297,
+      "end": 32.517,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 32.597,
+      "end": 32.697,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 32.938,
+      "end": 32.978,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "free",
+      "start": 33.118,
+      "end": 33.498,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "democratic",
+      "start": 33.878,
+      "end": 34.479,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "society.",
+      "start": 34.559,
+      "end": 35.159,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Europe",
+      "start": 37.061,
+      "end": 37.301,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 37.341,
+      "end": 37.421,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Australia",
+      "start": 37.521,
+      "end": 38.282,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 38.702,
+      "end": 38.802,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "countries",
+      "start": 38.882,
+      "end": 39.222,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "around",
+      "start": 39.282,
+      "end": 39.502,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 39.542,
+      "end": 39.622,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world",
+      "start": 39.683,
+      "end": 40.023,
+      "score": 0.655,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 40.103,
+      "end": 40.263,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risen",
+      "start": 40.323,
+      "end": 40.623,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 40.743,
+      "end": 40.823,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 40.983,
+      "end": 41.064,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "massive",
+      "start": 41.144,
+      "end": 41.584,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protests",
+      "start": 41.664,
+      "end": 42.204,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 42.845,
+      "end": 42.905,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 42.965,
+      "end": 43.145,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hundreds",
+      "start": 43.245,
+      "end": 43.585,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 43.625,
+      "end": 43.685,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "thousands",
+      "start": 43.766,
+      "end": 44.226,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 44.266,
+      "end": 44.306,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 44.386,
+      "end": 44.686,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 44.766,
+      "end": 44.886,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "come",
+      "start": 44.946,
+      "end": 45.106,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "together.",
+      "start": 45.147,
+      "end": 45.527,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 47.348,
+      "end": 47.448,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "worldwide",
+      "start": 47.488,
+      "end": 48.049,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rally",
+      "start": 48.189,
+      "end": 48.569,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 48.609,
+      "end": 48.729,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freedom",
+      "start": 48.789,
+      "end": 49.169,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 49.29,
+      "end": 49.47,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protested",
+      "start": 49.59,
+      "end": 50.21,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 50.27,
+      "end": 50.791,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mandates",
+      "start": 50.831,
+      "end": 51.371,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 51.411,
+      "end": 51.511,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "passports.",
+      "start": 51.551,
+      "end": 52.212,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "January",
+      "start": 53.733,
+      "end": 54.253,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "23rd",
+      "start": 54.433,
+      "end": 54.954,
+      "score": 0.617,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 55.034,
+      "end": 55.194,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 55.214,
+      "end": 55.314,
+      "score": 0.665,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 55.334,
+      "end": 55.434,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "next",
+      "start": 55.494,
+      "end": 55.734,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day",
+      "start": 55.794,
+      "end": 56.034,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 56.094,
+      "end": 56.235,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 56.275,
+      "end": 56.355,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole",
+      "start": 56.415,
+      "end": 56.635,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world",
+      "start": 56.715,
+      "end": 57.155,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "comes",
+      "start": 57.375,
+      "end": 57.656,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "together.",
+      "start": 57.736,
+      "end": 58.136,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 59.525,
+      "end": 59.645,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time",
+      "start": 59.705,
+      "end": 59.945,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 60.005,
+      "end": 60.165,
+      "score": 0.763,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "America",
+      "start": 60.225,
+      "end": 60.806,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 60.946,
+      "end": 61.046,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "step",
+      "start": 61.106,
+      "end": 61.426,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 61.566,
+      "end": 61.706,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 61.886,
+      "end": 61.966,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "join",
+      "start": 62.006,
+      "end": 62.327,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 62.367,
+      "end": 62.447,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "worldwide",
+      "start": 62.487,
+      "end": 63.307,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rally",
+      "start": 63.407,
+      "end": 63.767,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 63.847,
+      "end": 63.988,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freedom.",
+      "start": 64.068,
+      "end": 64.468,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 66.069,
+      "end": 66.169,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plan",
+      "start": 66.209,
+      "end": 66.649,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "currently",
+      "start": 67.97,
+      "end": 68.45,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 68.53,
+      "end": 68.61,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 68.65,
+      "end": 68.75,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "walk",
+      "start": 68.81,
+      "end": 69.07,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "together",
+      "start": 69.13,
+      "end": 69.531,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 69.631,
+      "end": 69.791,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Washington",
+      "start": 69.851,
+      "end": 70.451,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Monument",
+      "start": 70.491,
+      "end": 70.971,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 71.012,
+      "end": 71.092,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 71.132,
+      "end": 71.192,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Lincoln",
+      "start": 71.252,
+      "end": 71.532,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Memorial,",
+      "start": 71.572,
+      "end": 72.112,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 72.712,
+      "end": 72.893,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 72.933,
+      "end": 73.073,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 73.093,
+      "end": 73.253,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 73.293,
+      "end": 73.373,
+      "score": 0.718,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 73.433,
+      "end": 73.453,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "program",
+      "start": 73.513,
+      "end": 73.973,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 73.993,
+      "end": 74.073,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "featured",
+      "start": 74.133,
+      "end": 74.493,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "speakers.",
+      "start": 74.533,
+      "end": 75.054,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Peter's",
+      "start": 76.655,
+      "end": 76.995,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "among",
+      "start": 77.055,
+      "end": 77.295,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them,",
+      "start": 77.315,
+      "end": 77.455,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 78.136,
+      "end": 78.236,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 78.316,
+      "end": 78.416,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Bobby",
+      "start": 78.476,
+      "end": 78.756,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Kennedy,",
+      "start": 78.796,
+      "end": 79.196,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 80.777,
+      "end": 80.877,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 80.957,
+      "end": 81.037,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "myself.",
+      "start": 81.097,
+      "end": 81.537,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 82.798,
+      "end": 82.878,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 82.918,
+      "end": 83.158,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "half",
+      "start": 83.198,
+      "end": 83.398,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 83.419,
+      "end": 83.579,
+      "score": 0.622,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "consist",
+      "start": 83.599,
+      "end": 83.999,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 84.039,
+      "end": 84.099,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "thought",
+      "start": 84.159,
+      "end": 84.419,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "leaders",
+      "start": 84.459,
+      "end": 84.839,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 84.899,
+      "end": 84.979,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 85.019,
+      "end": 85.36,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "experts.",
+      "start": 85.4,
+      "end": 85.86,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 86.788,
+      "end": 86.888,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "second",
+      "start": 86.928,
+      "end": 87.228,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "half",
+      "start": 87.268,
+      "end": 87.528,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 87.568,
+      "end": 87.728,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "highlight",
+      "start": 87.768,
+      "end": 88.268,
+      "score": 0.541,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "several",
+      "start": 88.428,
+      "end": 88.808,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "national",
+      "start": 88.888,
+      "end": 89.349,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "celebrities",
+      "start": 89.489,
+      "end": 90.089,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 90.629,
+      "end": 90.709,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 90.749,
+      "end": 90.889,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 90.929,
+      "end": 91.069,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 91.129,
+      "end": 91.169,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stand",
+      "start": 91.209,
+      "end": 91.569,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 91.609,
+      "end": 91.889,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 91.949,
+      "end": 92.029,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mandates.",
+      "start": 92.069,
+      "end": 92.629,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 93.769,
+      "end": 93.889,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ask",
+      "start": 94.129,
+      "end": 94.43,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 94.63,
+      "end": 94.77,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "everyone",
+      "start": 94.89,
+      "end": 95.37,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 95.73,
+      "end": 95.79,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 95.83,
+      "end": 95.93,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "march",
+      "start": 95.97,
+      "end": 96.33,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 96.55,
+      "end": 96.65,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 96.71,
+      "end": 96.97,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "simple.",
+      "start": 97.05,
+      "end": 97.43,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Do",
+      "start": 98.23,
+      "end": 98.37,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 98.41,
+      "end": 98.57,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "comply.",
+      "start": 98.65,
+      "end": 99.21,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Ultimately,",
+      "start": 100.771,
+      "end": 101.391,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 101.871,
+      "end": 101.971,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hope",
+      "start": 102.031,
+      "end": 102.271,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 102.371,
+      "end": 102.451,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 102.531,
+      "end": 102.711,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 103.091,
+      "end": 103.231,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "defeat",
+      "start": 103.431,
+      "end": 103.891,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 104.011,
+      "end": 104.091,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mandates",
+      "start": 104.131,
+      "end": 104.752,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 104.992,
+      "end": 105.052,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "American",
+      "start": 105.092,
+      "end": 105.592,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "homecoming",
+      "start": 105.652,
+      "end": 106.292,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rally",
+      "start": 106.712,
+      "end": 107.172,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 108.292,
+      "end": 108.492,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "help",
+      "start": 108.512,
+      "end": 108.692,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bring",
+      "start": 108.752,
+      "end": 108.932,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 108.972,
+      "end": 109.172,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "new",
+      "start": 109.193,
+      "end": 109.393,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "policies",
+      "start": 109.453,
+      "end": 110.013,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 110.073,
+      "end": 110.153,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 110.193,
+      "end": 110.253,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "federal,",
+      "start": 110.333,
+      "end": 110.733,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "state,",
+      "start": 110.873,
+      "end": 111.233,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 111.353,
+      "end": 111.453,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "city",
+      "start": 111.533,
+      "end": 111.773,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "level",
+      "start": 111.833,
+      "end": 112.213,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 112.753,
+      "end": 112.873,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "eliminate",
+      "start": 112.933,
+      "end": 113.393,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 113.433,
+      "end": 113.533,
+      "score": 0.583,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "blatant",
+      "start": 113.573,
+      "end": 113.953,
+      "score": 0.579,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "discrimination",
+      "start": 113.993,
+      "end": 114.754,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 114.774,
+      "end": 114.974,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happening",
+      "start": 115.014,
+      "end": 115.414,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 115.434,
+      "end": 115.514,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "front",
+      "start": 115.574,
+      "end": 115.734,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 115.754,
+      "end": 115.794,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 115.874,
+      "end": 115.974,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "eyes.",
+      "start": 116.114,
+      "end": 116.274,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 118.277,
+      "end": 118.397,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 118.437,
+      "end": 118.537,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 118.617,
+      "end": 118.898,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 119.058,
+      "end": 119.498,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 119.678,
+      "end": 119.758,
+      "score": 0.566,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated.",
+      "start": 119.798,
+      "end": 120.519,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Again,",
+      "start": 122.14,
+      "end": 122.48,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 123.381,
+      "end": 123.521,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 123.581,
+      "end": 123.681,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 123.761,
+      "end": 124.182,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 124.622,
+      "end": 125.102,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 125.323,
+      "end": 125.403,
+      "score": 0.511,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated.",
+      "start": 125.443,
+      "end": 126.183,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 128.045,
+      "end": 128.165,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 128.205,
+      "end": 128.305,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 128.365,
+      "end": 128.665,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forcing",
+      "start": 128.845,
+      "end": 129.386,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinations",
+      "start": 129.566,
+      "end": 130.427,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 130.687,
+      "end": 130.767,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Americans",
+      "start": 130.807,
+      "end": 131.407,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 132.668,
+      "end": 132.809,
+      "score": 0.631,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 133.069,
+      "end": 133.169,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 133.209,
+      "end": 133.309,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world.",
+      "start": 133.349,
+      "end": 133.769,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 135.09,
+      "end": 135.13,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 135.19,
+      "end": 135.27,
+      "score": 0.522,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time",
+      "start": 135.31,
+      "end": 135.571,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 135.631,
+      "end": 135.771,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "America",
+      "start": 135.811,
+      "end": 136.271,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 136.311,
+      "end": 136.371,
+      "score": 0.751,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stand",
+      "start": 136.431,
+      "end": 136.772,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 136.912,
+      "end": 137.112,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 137.973,
+      "end": 138.073,
+      "score": 0.761,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time",
+      "start": 138.133,
+      "end": 138.433,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 138.493,
+      "end": 138.613,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "America",
+      "start": 138.653,
+      "end": 139.234,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 139.454,
+      "end": 139.534,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "come",
+      "start": 139.594,
+      "end": 139.834,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "home.",
+      "start": 139.914,
+      "end": 140.214,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Sign",
+      "start": 142.896,
+      "end": 143.137,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 143.177,
+      "end": 143.317,
+      "score": 0.629,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 143.337,
+      "end": 143.437,
+      "score": 0.373,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "join",
+      "start": 143.497,
+      "end": 143.777,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 143.817,
+      "end": 143.937,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 143.977,
+      "end": 144.057,
+      "score": 0.652,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 144.097,
+      "end": 144.157,
+      "score": 0.981,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "march.",
+      "start": 144.198,
+      "end": 144.558,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 145.898,
+      "end": 145.978,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 145.998,
+      "end": 146.139,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "find",
+      "start": 146.199,
+      "end": 146.459,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 146.499,
+      "end": 146.72,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 146.88,
+      "end": 146.96,
+      "score": 0.657,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "DefeatTheMandatesDC.com.",
+      "start": 147.121,
+      "end": 150.729,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Thank",
+      "start": 150.769,
+      "end": 150.949,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 150.989,
+      "end": 151.11,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 151.13,
+      "end": 151.23,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 151.27,
+      "end": 151.39,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time.",
+      "start": 151.43,
+      "end": 151.751,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 151.771,
+      "end": 151.791,
+      "score": 0.001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hope",
+      "start": 152.152,
+      "end": 152.332,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 152.352,
+      "end": 152.433,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "see",
+      "start": 152.473,
+      "end": 152.633,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 152.653,
+      "end": 152.773,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 152.814,
+      "end": 152.894,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "DC.",
+      "start": 152.914,
+      "end": 153.375,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

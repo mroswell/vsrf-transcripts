@@ -1,727 +1,3369 @@
 {
-  "text": " Extraordinary injustice demands extraordinary lawyers. And now we are winning. Build upon the groundbreaking COVID litigation conference in Atlanta and join the lawyers at the forefront of this growing field. As cases are being won and damages awarded, a recent poll suggests over 40% of Americans would be party to a COVID class action lawsuit. Experts predict COVID litigation will surpass the combined impact of big tobacco and asbestos cases. We invite attorneys to join this important opportunity at the second COVID litigation conference coming to Las Vegas March 7th and 8th, 2024. Connect with a diverse group of attorneys for strategic networking and expand your practice in the COVID space. Having a network of people to fall back on who actually understand what it is they're talking about has been critical for me. Learn from the leaders at the frontier who are bringing cases. I sued Rochester General six times. I won in court each of those six times. Get exclusive resources and the insights you need to litigate COVID cases now from panels, keynotes and more. At the conference, you're going to see some of the most seasoned COVID litigation attorneys. I always learn something. Litigate with confidence and be empowered by the transformative event shaping national policy. Who will right these extraordinary wrongs? You will at the second COVID litigation conference. Register now at covidlitigation.com.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.6000000000000005,
+      "start": 0.352,
+      "end": 4.324,
       "text": " Extraordinary injustice demands extraordinary lawyers.",
-      "tokens": [
-        50364,
-        29429,
-        765,
-        4066,
-        24750,
-        15107,
-        10581,
-        16219,
-        13,
-        50594
+      "words": [
+        {
+          "word": "Extraordinary",
+          "start": 0.352,
+          "end": 1.154,
+          "score": 0.744,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "injustice",
+          "start": 1.215,
+          "end": 1.857,
+          "score": 0.926,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "demands",
+          "start": 2.178,
+          "end": 2.8,
+          "score": 0.782,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "extraordinary",
+          "start": 3.08,
+          "end": 3.843,
+          "score": 0.718,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "lawyers.",
+          "start": 3.903,
+          "end": 4.324,
+          "score": 0.83,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.15494791666666666,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.6000000000000005,
-      "end": 7.4,
-      "text": " And now we are winning.",
-      "tokens": [
-        50594,
-        400,
-        586,
-        321,
-        366,
-        8224,
-        13,
-        50734
+      "start": 4.926,
+      "end": 6.571,
+      "text": "And now we are winning.",
+      "words": [
+        {
+          "word": "And",
+          "start": 4.926,
+          "end": 5.026,
+          "score": 0.882,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "now",
+          "start": 5.127,
+          "end": 5.428,
+          "score": 0.804,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "we",
+          "start": 5.849,
+          "end": 6.03,
+          "score": 0.982,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 6.11,
+          "end": 6.21,
+          "score": 0.667,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "winning.",
+          "start": 6.29,
+          "end": 6.571,
+          "score": 0.974,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.15494791666666666,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 7.4,
-      "end": 11.6,
-      "text": " Build upon the groundbreaking COVID litigation conference in Atlanta",
-      "tokens": [
-        50734,
-        11875,
-        3564,
-        264,
-        42491,
-        4566,
-        33359,
-        7586,
-        294,
-        20225,
-        50944
+      "start": 7.725,
+      "end": 15.011,
+      "text": " build upon the groundbreaking COVID litigation conference in Atlanta, and join the lawyers at the forefront of this growing field.",
+      "words": [
+        {
+          "word": "build",
+          "start": 7.725,
+          "end": 8.025,
+          "score": 0.839,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "upon",
+          "start": 8.105,
+          "end": 8.326,
+          "score": 0.903,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 8.366,
+          "end": 8.446,
+          "score": 0.838,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "groundbreaking",
+          "start": 8.506,
+          "end": 9.206,
+          "score": 0.855,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 9.286,
+          "end": 9.587,
+          "score": 0.99,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "litigation",
+          "start": 9.627,
+          "end": 10.187,
+          "score": 0.897,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "conference",
+          "start": 10.267,
+          "end": 10.768,
+          "score": 0.92,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 10.828,
+          "end": 10.908,
+          "score": 0.901,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Atlanta,",
+          "start": 10.968,
+          "end": 11.448,
+          "score": 0.925,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 11.929,
+          "end": 12.009,
+          "score": 0.696,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "join",
+          "start": 12.089,
+          "end": 12.389,
+          "score": 0.81,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 12.409,
+          "end": 12.509,
+          "score": 0.733,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "lawyers",
+          "start": 12.569,
+          "end": 12.97,
+          "score": 0.747,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "at",
+          "start": 13.05,
+          "end": 13.13,
+          "score": 0.767,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 13.15,
+          "end": 13.25,
+          "score": 0.728,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "forefront",
+          "start": 13.33,
+          "end": 13.83,
+          "score": 0.884,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 13.85,
+          "end": 13.91,
+          "score": 0.766,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "this",
+          "start": 13.95,
+          "end": 14.111,
+          "score": 0.638,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "growing",
+          "start": 14.211,
+          "end": 14.591,
+          "score": 0.83,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "field.",
+          "start": 14.691,
+          "end": 15.011,
+          "score": 0.77,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.07103794877018248,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 11.6,
-      "end": 15.4,
-      "text": " and join the lawyers at the forefront of this growing field.",
-      "tokens": [
-        50944,
-        293,
-        3917,
-        264,
-        16219,
-        412,
-        264,
-        27287,
-        295,
-        341,
-        4194,
-        2519,
-        13,
-        51134
+      "start": 15.772,
+      "end": 25.68,
+      "text": "As cases are being won and damages awarded, a recent poll suggests over 40% of Americans would be party to a COVID class action lawsuit.",
+      "words": [
+        {
+          "word": "As",
+          "start": 15.772,
+          "end": 15.852,
+          "score": 0.933,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "cases",
+          "start": 15.972,
+          "end": 16.392,
+          "score": 0.816,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 16.473,
+          "end": 16.553,
+          "score": 0.827,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "being",
+          "start": 16.593,
+          "end": 16.813,
+          "score": 0.783,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "won",
+          "start": 16.873,
+          "end": 17.153,
+          "score": 0.859,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 17.433,
+          "end": 17.593,
+          "score": 0.781,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "damages",
+          "start": 17.734,
+          "end": 18.194,
+          "score": 0.873,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "awarded,",
+          "start": 18.254,
+          "end": 18.694,
+          "score": 0.888,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "a",
+          "start": 19.435,
+          "end": 19.475,
+          "score": 0.89,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "recent",
+          "start": 19.555,
+          "end": 19.895,
+          "score": 0.987,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "poll",
+          "start": 19.976,
+          "end": 20.316,
+          "score": 0.848,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "suggests",
+          "start": 20.376,
+          "end": 20.996,
+          "score": 0.825,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "over",
+          "start": 21.076,
+          "end": 21.257,
+          "score": 0.777,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "40%",
+          "start": 21.337,
+          "end": 21.997,
+          "score": 0.434,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 22.017,
+          "end": 22.077,
+          "score": 0.749,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Americans",
+          "start": 22.137,
+          "end": 22.678,
+          "score": 0.846,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "would",
+          "start": 22.838,
+          "end": 22.998,
+          "score": 0.958,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "be",
+          "start": 23.018,
+          "end": 23.118,
+          "score": 0.69,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "party",
+          "start": 23.198,
+          "end": 23.559,
+          "score": 0.806,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 23.619,
+          "end": 23.739,
+          "score": 0.839,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "a",
+          "start": 23.799,
+          "end": 23.819,
+          "score": 0.998,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 23.899,
+          "end": 24.299,
+          "score": 0.882,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "class",
+          "start": 24.379,
+          "end": 24.72,
+          "score": 0.886,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "action",
+          "start": 24.84,
+          "end": 25.14,
+          "score": 0.889,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "lawsuit.",
+          "start": 25.18,
+          "end": 25.68,
+          "score": 0.898,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.07103794877018248,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 15.4,
-      "end": 19.1,
-      "text": " As cases are being won and damages awarded,",
-      "tokens": [
-        51134,
-        1018,
-        3331,
-        366,
-        885,
-        1582,
-        293,
-        28536,
-        19100,
-        11,
-        51319
+      "start": 26.601,
+      "end": 33.147,
+      "text": "Experts predict COVID litigation will surpass the combined impact of big tobacco and asbestos cases.",
+      "words": [
+        {
+          "word": "Experts",
+          "start": 26.601,
+          "end": 27.022,
+          "score": 0.86,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "predict",
+          "start": 27.082,
+          "end": 27.502,
+          "score": 0.868,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 27.722,
+          "end": 28.062,
+          "score": 0.928,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "litigation",
+          "start": 28.102,
+          "end": 28.703,
+          "score": 0.88,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "will",
+          "start": 28.723,
+          "end": 28.903,
+          "score": 0.858,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "surpass",
+          "start": 28.943,
+          "end": 29.504,
+          "score": 0.909,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 29.564,
+          "end": 29.664,
+          "score": 0.937,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "combined",
+          "start": 29.704,
+          "end": 30.164,
+          "score": 0.851,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "impact",
+          "start": 30.204,
+          "end": 30.645,
+          "score": 0.932,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 30.685,
+          "end": 30.745,
+          "score": 0.75,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "big",
+          "start": 30.825,
+          "end": 31.005,
+          "score": 0.979,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "tobacco",
+          "start": 31.045,
+          "end": 31.545,
+          "score": 0.958,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 31.866,
+          "end": 32.006,
+          "score": 0.88,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "asbestos",
+          "start": 32.086,
+          "end": 32.686,
+          "score": 0.801,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "cases.",
+          "start": 32.746,
+          "end": 33.147,
+          "score": 0.936,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.07103794877018248,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 19.1,
-      "end": 22.6,
-      "text": " a recent poll suggests over 40% of Americans",
-      "tokens": [
-        51319,
-        257,
-        5162,
-        6418,
-        13409,
-        670,
-        3356,
-        4,
-        295,
-        6280,
-        51494
+      "start": 35.323,
+      "end": 44.927,
+      "text": " We invite attorneys to join this important opportunity at the second COVID litigation conference coming to Las Vegas, March 7th and 8th, 2024.",
+      "words": [
+        {
+          "word": "We",
+          "start": 35.323,
+          "end": 35.483,
+          "score": 0.817,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "invite",
+          "start": 35.543,
+          "end": 35.943,
+          "score": 0.874,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "attorneys",
+          "start": 35.963,
+          "end": 36.423,
+          "score": 0.789,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 36.504,
+          "end": 36.624,
+          "score": 0.783,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "join",
+          "start": 36.724,
+          "end": 37.044,
+          "score": 0.9,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "this",
+          "start": 37.084,
+          "end": 37.224,
+          "score": 0.874,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "important",
+          "start": 37.284,
+          "end": 37.784,
+          "score": 0.856,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "opportunity",
+          "start": 37.824,
+          "end": 38.464,
+          "score": 0.925,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "at",
+          "start": 38.945,
+          "end": 39.005,
+          "score": 0.885,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 39.045,
+          "end": 39.165,
+          "score": 0.862,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "second",
+          "start": 39.265,
+          "end": 39.605,
+          "score": 0.886,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 39.745,
+          "end": 40.045,
+          "score": 0.928,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "litigation",
+          "start": 40.085,
+          "end": 40.605,
+          "score": 0.894,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "conference",
+          "start": 40.685,
+          "end": 41.166,
+          "score": 0.922,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "coming",
+          "start": 41.446,
+          "end": 41.726,
+          "score": 0.856,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 41.786,
+          "end": 41.886,
+          "score": 0.843,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Las",
+          "start": 41.926,
+          "end": 42.166,
+          "score": 0.9,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Vegas,",
+          "start": 42.226,
+          "end": 42.646,
+          "score": 0.868,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "March",
+          "start": 42.866,
+          "end": 43.166,
+          "score": 0.776,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "7th",
+          "start": 43.346,
+          "end": 43.567,
+          "score": 0.717,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 43.607,
+          "end": 43.667,
+          "score": 0.907,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "8th,",
+          "start": 43.727,
+          "end": 44.287,
+          "score": 0.483,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "2024.",
+          "start": 44.347,
+          "end": 44.927,
+          "score": 0.665,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.055650685748008834,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 22.6,
-      "end": 26.2,
-      "text": " would be party to a COVID class action lawsuit.",
-      "tokens": [
-        51494,
-        576,
-        312,
-        3595,
-        281,
-        257,
-        4566,
-        1508,
-        3069,
-        22504,
-        13,
-        51674
+      "start": 46.408,
+      "end": 53.351,
+      "text": "Connect with a diverse group of attorneys for strategic networking and expand your practice in the COVID space.",
+      "words": [
+        {
+          "word": "Connect",
+          "start": 46.408,
+          "end": 46.888,
+          "score": 0.907,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "with",
+          "start": 46.948,
+          "end": 47.068,
+          "score": 0.894,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "a",
+          "start": 47.128,
+          "end": 47.168,
+          "score": 0.364,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "diverse",
+          "start": 47.188,
+          "end": 47.588,
+          "score": 0.809,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "group",
+          "start": 47.628,
+          "end": 47.888,
+          "score": 0.802,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 47.928,
+          "end": 48.008,
+          "score": 0.676,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "attorneys",
+          "start": 48.048,
+          "end": 48.529,
+          "score": 0.884,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 48.909,
+          "end": 49.029,
+          "score": 0.683,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "strategic",
+          "start": 49.049,
+          "end": 49.689,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "networking",
+          "start": 49.749,
+          "end": 50.289,
+          "score": 0.872,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 50.71,
+          "end": 50.81,
+          "score": 0.661,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "expand",
+          "start": 50.89,
+          "end": 51.37,
+          "score": 0.866,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "your",
+          "start": 51.41,
+          "end": 51.59,
+          "score": 0.798,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "practice",
+          "start": 51.69,
+          "end": 52.19,
+          "score": 0.836,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 52.25,
+          "end": 52.33,
+          "score": 0.831,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 52.35,
+          "end": 52.43,
+          "score": 0.821,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 52.51,
+          "end": 52.89,
+          "score": 0.985,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "space.",
+          "start": 52.951,
+          "end": 53.351,
+          "score": 0.947,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.055650685748008834,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 26.2,
-      "end": 29.3,
-      "text": " Experts predict COVID litigation will surpass",
-      "tokens": [
-        51674,
-        12522,
-        1373,
-        6069,
-        4566,
-        33359,
-        486,
-        27650,
-        51829
+      "start": 53.631,
+      "end": 58.733,
+      "text": "Having a network of people to fall back on who actually understand what it is they're talking about has been critical for me.",
+      "words": [
+        {
+          "word": "Having",
+          "start": 53.631,
+          "end": 53.871,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 53.911,
+          "end": 53.951,
+          "score": 0.588,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "network",
+          "start": 53.991,
+          "end": 54.351,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 54.391,
+          "end": 54.451,
+          "score": 0.716,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 54.471,
+          "end": 54.731,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 54.751,
+          "end": 54.831,
+          "score": 0.484,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fall",
+          "start": 54.871,
+          "end": 55.071,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "back",
+          "start": 55.111,
+          "end": 55.332,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 55.452,
+          "end": 55.532,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 55.552,
+          "end": 55.672,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 55.732,
+          "end": 56.012,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "understand",
+          "start": 56.052,
+          "end": 56.572,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 56.612,
+          "end": 56.772,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 56.812,
+          "end": 56.852,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 56.932,
+          "end": 56.992,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they're",
+          "start": 57.032,
+          "end": 57.172,
+          "score": 0.561,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talking",
+          "start": 57.212,
+          "end": 57.572,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 57.592,
+          "end": 57.813,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 57.833,
+          "end": 57.933,
+          "score": 0.276,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 57.953,
+          "end": 58.073,
+          "score": 0.309,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "critical",
+          "start": 58.093,
+          "end": 58.393,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 58.413,
+          "end": 58.513,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me.",
+          "start": 58.553,
+          "end": 58.733,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22252043810757724,
-      "compression_ratio": 1.589430894308943,
-      "no_speech_prob": 0.07323341816663742
+      "avg_logprob": -0.055650685748008834,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2930,
-      "start": 29.3,
-      "end": 33.3,
-      "text": " the combined impact of big tobacco and asbestos cases.",
-      "tokens": [
-        50364,
-        264,
-        9354,
-        2712,
-        295,
-        955,
-        22994,
-        293,
-        382,
-        25331,
-        329,
-        3331,
-        13,
-        50564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 9,
-      "seek": 2930,
-      "start": 33.3,
-      "end": 38.6,
-      "text": " We invite attorneys to join this important opportunity",
-      "tokens": [
-        50564,
-        492,
-        7980,
-        30019,
-        281,
-        3917,
-        341,
-        1021,
-        2650,
-        50829
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 10,
-      "seek": 2930,
-      "start": 38.6,
-      "end": 41.2,
-      "text": " at the second COVID litigation conference",
-      "tokens": [
-        50829,
-        412,
-        264,
-        1150,
-        4566,
-        33359,
-        7586,
-        50959
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 11,
-      "seek": 2930,
-      "start": 41.2,
-      "end": 45.0,
-      "text": " coming to Las Vegas March 7th and 8th, 2024.",
-      "tokens": [
-        50959,
-        1348,
-        281,
-        10663,
-        15841,
-        6129,
-        1614,
-        392,
-        293,
-        1649,
-        392,
-        11,
-        45237,
-        13,
-        51149
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 12,
-      "seek": 2930,
-      "start": 45.0,
-      "end": 48.6,
-      "text": " Connect with a diverse group of attorneys",
-      "tokens": [
-        51149,
-        11653,
-        365,
-        257,
-        9521,
-        1594,
-        295,
-        30019,
-        51329
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 13,
-      "seek": 2930,
-      "start": 48.6,
-      "end": 53.400000000000006,
-      "text": " for strategic networking and expand your practice in the COVID space.",
-      "tokens": [
-        51329,
-        337,
-        10924,
-        17985,
-        293,
-        5268,
-        428,
-        3124,
-        294,
-        264,
-        4566,
-        1901,
-        13,
-        51569
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 14,
-      "seek": 2930,
-      "start": 53.400000000000006,
-      "end": 55.5,
-      "text": " Having a network of people to fall back on",
-      "tokens": [
-        51569,
-        10222,
-        257,
-        3209,
-        295,
-        561,
-        281,
-        2100,
-        646,
-        322,
-        51674
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 15,
-      "seek": 2930,
-      "start": 55.5,
-      "end": 57.8,
-      "text": " who actually understand what it is they're talking about",
-      "tokens": [
-        51674,
-        567,
-        767,
-        1223,
-        437,
-        309,
-        307,
-        436,
-        434,
-        1417,
-        466,
-        51789
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 16,
-      "seek": 2930,
-      "start": 57.8,
-      "end": 58.7,
-      "text": " has been critical for me.",
-      "tokens": [
-        51789,
-        575,
-        668,
-        4924,
-        337,
-        385,
-        13,
-        51834
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1843902069388084,
-      "compression_ratio": 1.5390070921985815,
-      "no_speech_prob": 0.0015349024906754494
-    },
-    {
-      "id": 17,
-      "seek": 5870,
-      "start": 58.900000000000006,
-      "end": 62.800000000000004,
+      "start": 58.991,
+      "end": 62.293,
       "text": " Learn from the leaders at the frontier who are bringing cases.",
-      "tokens": [
-        50374,
-        17216,
-        490,
-        264,
-        3523,
-        412,
-        264,
-        35853,
-        567,
-        366,
-        5062,
-        3331,
-        13,
-        50569
+      "words": [
+        {
+          "word": "Learn",
+          "start": 58.991,
+          "end": 59.291,
+          "score": 0.7,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "from",
+          "start": 59.411,
+          "end": 59.551,
+          "score": 0.761,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 59.591,
+          "end": 59.671,
+          "score": 0.83,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "leaders",
+          "start": 59.751,
+          "end": 60.092,
+          "score": 0.806,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "at",
+          "start": 60.192,
+          "end": 60.252,
+          "score": 0.74,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 60.272,
+          "end": 60.352,
+          "score": 0.868,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "frontier",
+          "start": 60.432,
+          "end": 61.012,
+          "score": 0.834,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "who",
+          "start": 61.132,
+          "end": 61.232,
+          "score": 0.973,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 61.292,
+          "end": 61.412,
+          "score": 0.733,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "bringing",
+          "start": 61.452,
+          "end": 61.793,
+          "score": 0.886,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "cases.",
+          "start": 61.853,
+          "end": 62.293,
+          "score": 0.914,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.062109375812790614,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 18,
-      "seek": 5870,
-      "start": 62.800000000000004,
-      "end": 65.4,
-      "text": " I sued Rochester General six times.",
-      "tokens": [
-        50569,
-        286,
-        33864,
-        39895,
-        6996,
-        2309,
-        1413,
-        13,
-        50699
+      "start": 62.933,
+      "end": 65.355,
+      "text": "I sued Rochester General six times.",
+      "words": [
+        {
+          "word": "I",
+          "start": 62.933,
+          "end": 62.993,
+          "score": 0.996,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "sued",
+          "start": 63.053,
+          "end": 63.273,
+          "score": 0.586,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Rochester",
+          "start": 63.333,
+          "end": 63.834,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "General",
+          "start": 63.874,
+          "end": 64.274,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "six",
+          "start": 64.394,
+          "end": 64.634,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "times.",
+          "start": 64.954,
+          "end": 65.355,
+          "score": 0.831,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.062109375812790614,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 5870,
-      "start": 65.4,
-      "end": 68.8,
-      "text": " I won in court each of those six times.",
-      "tokens": [
-        50699,
-        286,
-        1582,
-        294,
-        4753,
-        1184,
-        295,
-        729,
-        2309,
-        1413,
-        13,
-        50869
+      "start": 65.535,
+      "end": 68.516,
+      "text": "I won in court each of those six times.",
+      "words": [
+        {
+          "word": "I",
+          "start": 65.535,
+          "end": 65.615,
+          "score": 0.752,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "won",
+          "start": 65.735,
+          "end": 65.995,
+          "score": 0.695,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 66.115,
+          "end": 66.215,
+          "score": 0.85,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "court",
+          "start": 66.295,
+          "end": 66.675,
+          "score": 0.826,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "each",
+          "start": 67.036,
+          "end": 67.236,
+          "score": 0.897,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 67.436,
+          "end": 67.516,
+          "score": 0.834,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "those",
+          "start": 67.596,
+          "end": 67.816,
+          "score": 0.913,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "six",
+          "start": 67.876,
+          "end": 68.116,
+          "score": 0.956,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "times.",
+          "start": 68.156,
+          "end": 68.516,
+          "score": 0.893,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.062109375812790614,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 20,
-      "seek": 5870,
-      "start": 68.8,
-      "end": 72.4,
-      "text": " Get exclusive resources and the insights you need",
-      "tokens": [
-        50869,
-        3240,
-        13005,
-        3593,
-        293,
-        264,
-        14310,
-        291,
-        643,
-        51049
+      "start": 68.897,
+      "end": 76.641,
+      "text": "Get exclusive resources and the insights you need to litigate COVID cases now from panels, keynotes, and more.",
+      "words": [
+        {
+          "word": "Get",
+          "start": 68.897,
+          "end": 69.037,
+          "score": 0.987,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "exclusive",
+          "start": 69.097,
+          "end": 69.657,
+          "score": 0.813,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "resources",
+          "start": 69.737,
+          "end": 70.357,
+          "score": 0.85,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 70.858,
+          "end": 70.958,
+          "score": 0.712,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 70.978,
+          "end": 71.038,
+          "score": 0.994,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "insights",
+          "start": 71.198,
+          "end": 71.638,
+          "score": 0.817,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 71.718,
+          "end": 71.838,
+          "score": 0.999,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "need",
+          "start": 71.918,
+          "end": 72.178,
+          "score": 0.934,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 72.438,
+          "end": 72.539,
+          "score": 0.982,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "litigate",
+          "start": 72.639,
+          "end": 73.059,
+          "score": 0.969,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 73.179,
+          "end": 73.539,
+          "score": 0.938,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "cases",
+          "start": 73.599,
+          "end": 73.999,
+          "score": 0.804,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "now",
+          "start": 74.079,
+          "end": 74.34,
+          "score": 0.861,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "from",
+          "start": 74.82,
+          "end": 74.98,
+          "score": 0.901,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "panels,",
+          "start": 75.1,
+          "end": 75.56,
+          "score": 0.805,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "keynotes,",
+          "start": 75.7,
+          "end": 76.161,
+          "score": 0.906,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 76.221,
+          "end": 76.301,
+          "score": 0.914,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "more.",
+          "start": 76.361,
+          "end": 76.641,
+          "score": 0.865,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.062109375812790614,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 21,
-      "seek": 5870,
-      "start": 72.4,
-      "end": 77.10000000000001,
-      "text": " to litigate COVID cases now from panels, keynotes and more.",
-      "tokens": [
-        51049,
-        281,
-        7997,
-        328,
-        473,
-        4566,
-        3331,
-        586,
-        490,
-        13419,
-        11,
-        2141,
-        2247,
-        279,
-        293,
-        544,
-        13,
-        51284
+      "start": 77.121,
+      "end": 81.445,
+      "text": " At the conference, you're going to see some of the most seasoned COVID litigation attorneys.",
+      "words": [
+        {
+          "word": "At",
+          "start": 77.121,
+          "end": 77.201,
+          "score": 0.815,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 77.241,
+          "end": 77.321,
+          "score": 0.826,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "conference,",
+          "start": 77.361,
+          "end": 77.702,
+          "score": 0.753,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "you're",
+          "start": 77.722,
+          "end": 77.842,
+          "score": 0.161,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "going",
+          "start": 77.862,
+          "end": 77.962,
+          "score": 0.223,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 77.982,
+          "end": 78.062,
+          "score": 0.444,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "see",
+          "start": 78.102,
+          "end": 78.282,
+          "score": 0.504,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "some",
+          "start": 78.322,
+          "end": 78.462,
+          "score": 0.889,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 78.502,
+          "end": 78.542,
+          "score": 0.994,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 78.582,
+          "end": 78.663,
+          "score": 0.83,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "most",
+          "start": 78.703,
+          "end": 78.903,
+          "score": 0.71,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "seasoned",
+          "start": 79.083,
+          "end": 79.663,
+          "score": 0.94,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "COVID",
+          "start": 79.804,
+          "end": 80.204,
+          "score": 0.919,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "litigation",
+          "start": 80.244,
+          "end": 80.824,
+          "score": 0.933,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "attorneys.",
+          "start": 80.885,
+          "end": 81.445,
+          "score": 0.83,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.07760027740428697,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 22,
-      "seek": 5870,
-      "start": 77.10000000000001,
-      "end": 79.7,
-      "text": " At the conference, you're going to see some of the most seasoned",
-      "tokens": [
-        51284,
-        1711,
-        264,
-        7586,
-        11,
-        291,
-        434,
-        516,
-        281,
-        536,
-        512,
-        295,
-        264,
-        881,
-        30111,
-        51414
+      "start": 81.765,
+      "end": 83.147,
+      "text": "I always learn something.",
+      "words": [
+        {
+          "word": "I",
+          "start": 81.765,
+          "end": 81.845,
+          "score": 0.749,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "always",
+          "start": 81.905,
+          "end": 82.186,
+          "score": 0.788,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "learn",
+          "start": 82.246,
+          "end": 82.526,
+          "score": 0.766,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "something.",
+          "start": 82.586,
+          "end": 83.147,
+          "score": 0.948,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.07760027740428697,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 23,
-      "seek": 5870,
-      "start": 79.7,
-      "end": 81.60000000000001,
-      "text": " COVID litigation attorneys.",
-      "tokens": [
-        51414,
-        4566,
-        33359,
-        30019,
-        13,
-        51509
+      "start": 83.467,
+      "end": 89.772,
+      "text": "Litigate with confidence and be empowered by the transformative event shaping national policy.",
+      "words": [
+        {
+          "word": "Litigate",
+          "start": 83.467,
+          "end": 83.947,
+          "score": 0.876,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "with",
+          "start": 84.007,
+          "end": 84.167,
+          "score": 0.846,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "confidence",
+          "start": 84.268,
+          "end": 84.828,
+          "score": 0.864,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 85.248,
+          "end": 85.349,
+          "score": 0.795,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "be",
+          "start": 85.429,
+          "end": 85.569,
+          "score": 0.822,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "empowered",
+          "start": 85.629,
+          "end": 86.169,
+          "score": 0.822,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "by",
+          "start": 86.409,
+          "end": 86.57,
+          "score": 0.836,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 86.69,
+          "end": 86.91,
+          "score": 0.83,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "transformative",
+          "start": 87.01,
+          "end": 87.791,
+          "score": 0.64,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "event",
+          "start": 87.851,
+          "end": 88.171,
+          "score": 0.887,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "shaping",
+          "start": 88.291,
+          "end": 88.671,
+          "score": 0.908,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "national",
+          "start": 88.772,
+          "end": 89.152,
+          "score": 0.847,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "policy.",
+          "start": 89.232,
+          "end": 89.772,
+          "score": 0.906,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.07760027740428697,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 24,
-      "seek": 5870,
-      "start": 81.60000000000001,
-      "end": 83.4,
-      "text": " I always learn something.",
-      "tokens": [
-        51509,
-        286,
-        1009,
-        1466,
-        746,
-        13,
-        51599
+      "start": 91.254,
+      "end": 93.616,
+      "text": "Who will right these extraordinary wrongs?",
+      "words": [
+        {
+          "word": "Who",
+          "start": 91.254,
+          "end": 91.394,
+          "score": 0.892,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "will",
+          "start": 91.414,
+          "end": 91.614,
+          "score": 0.992,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "right",
+          "start": 91.734,
+          "end": 91.974,
+          "score": 0.582,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "these",
+          "start": 92.055,
+          "end": 92.295,
+          "score": 0.68,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "extraordinary",
+          "start": 92.415,
+          "end": 93.156,
+          "score": 0.73,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "wrongs?",
+          "start": 93.236,
+          "end": 93.616,
+          "score": 0.902,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.07760027740428697,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 25,
-      "seek": 5870,
-      "start": 83.4,
-      "end": 86.30000000000001,
-      "text": " Litigate with confidence and be empowered",
-      "tokens": [
-        51599,
-        41841,
-        328,
-        473,
-        365,
-        6687,
-        293,
-        312,
-        27898,
-        51744
+      "start": 94.156,
+      "end": 94.637,
+      "text": "You will.",
+      "words": [
+        {
+          "word": "You",
+          "start": 94.156,
+          "end": 94.337,
+          "score": 0.84,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "will.",
+          "start": 94.397,
+          "end": 94.637,
+          "score": 0.942,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1318688576038067,
-      "compression_ratio": 1.610236220472441,
-      "no_speech_prob": 0.004104919731616974
+      "avg_logprob": -0.07760027740428697,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 26,
-      "seek": 8630,
-      "start": 86.3,
-      "end": 89.8,
-      "text": " by the transformative event shaping national policy.",
-      "tokens": [
-        50364,
-        538,
-        264,
-        36070,
-        2280,
-        25945,
-        4048,
-        3897,
-        13,
-        50539
+      "start": 95.277,
+      "end": 97.62,
+      "text": "At the second COVID litigation conference.",
+      "words": [
+        {
+          "word": "At",
+          "start": 95.277,
+          "end": 95.358,
+          "score": 0.804,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 95.398,
+          "end": 95.498,
+          "score": 0.988,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "second",
+          "start": 95.578,
+          "end": 95.938,
+          "score": 0.829,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 96.078,
+          "end": 96.418,
+          "score": 0.985,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "litigation",
+          "start": 96.458,
+          "end": 97.039,
+          "score": 0.943,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "conference.",
+          "start": 97.119,
+          "end": 97.62,
+          "score": 0.948,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20398408313130223,
-      "compression_ratio": 1.3142857142857143,
-      "no_speech_prob": 0.006793791428208351
+      "avg_logprob": -0.07760027740428697,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 27,
-      "seek": 8630,
-      "start": 91.2,
-      "end": 94.0,
-      "text": " Who will right these extraordinary wrongs?",
-      "tokens": [
-        50609,
-        2102,
-        486,
-        558,
-        613,
-        10581,
-        2085,
-        82,
-        30,
-        50749
+      "start": 98.54,
+      "end": 100.602,
+      "text": "Register now at covidlitigation.com.",
+      "words": [
+        {
+          "word": "Register",
+          "start": 98.54,
+          "end": 99.021,
+          "score": 0.866,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "now",
+          "start": 99.081,
+          "end": 99.281,
+          "score": 0.901,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "at",
+          "start": 99.401,
+          "end": 99.501,
+          "score": 0.686,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "covidlitigation.com.",
+          "start": 99.601,
+          "end": 100.602,
+          "score": 0.862,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20398408313130223,
-      "compression_ratio": 1.3142857142857143,
-      "no_speech_prob": 0.006793791428208351
-    },
-    {
-      "id": 28,
-      "seek": 8630,
-      "start": 94.0,
-      "end": 98.39999999999999,
-      "text": " You will at the second COVID litigation conference.",
-      "tokens": [
-        50749,
-        509,
-        486,
-        412,
-        264,
-        1150,
-        4566,
-        33359,
-        7586,
-        13,
-        50969
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20398408313130223,
-      "compression_ratio": 1.3142857142857143,
-      "no_speech_prob": 0.006793791428208351
-    },
-    {
-      "id": 29,
-      "seek": 8630,
-      "start": 98.39999999999999,
-      "end": 101.2,
-      "text": " Register now at covidlitigation.com.",
-      "tokens": [
-        50969,
-        43167,
-        586,
-        412,
-        25616,
-        23062,
-        21494,
-        13,
-        1112,
-        13,
-        51109
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20398408313130223,
-      "compression_ratio": 1.3142857142857143,
-      "no_speech_prob": 0.006793791428208351
+      "avg_logprob": -0.07760027740428697,
+      "speaker": "SPEAKER_02"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Extraordinary",
+      "start": 0.352,
+      "end": 1.154,
+      "score": 0.744,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "injustice",
+      "start": 1.215,
+      "end": 1.857,
+      "score": 0.926,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "demands",
+      "start": 2.178,
+      "end": 2.8,
+      "score": 0.782,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "extraordinary",
+      "start": 3.08,
+      "end": 3.843,
+      "score": 0.718,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "lawyers.",
+      "start": 3.903,
+      "end": 4.324,
+      "score": 0.83,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "And",
+      "start": 4.926,
+      "end": 5.026,
+      "score": 0.882,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "now",
+      "start": 5.127,
+      "end": 5.428,
+      "score": 0.804,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "we",
+      "start": 5.849,
+      "end": 6.03,
+      "score": 0.982,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 6.11,
+      "end": 6.21,
+      "score": 0.667,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "winning.",
+      "start": 6.29,
+      "end": 6.571,
+      "score": 0.974,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "build",
+      "start": 7.725,
+      "end": 8.025,
+      "score": 0.839,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "upon",
+      "start": 8.105,
+      "end": 8.326,
+      "score": 0.903,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 8.366,
+      "end": 8.446,
+      "score": 0.838,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "groundbreaking",
+      "start": 8.506,
+      "end": 9.206,
+      "score": 0.855,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 9.286,
+      "end": 9.587,
+      "score": 0.99,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "litigation",
+      "start": 9.627,
+      "end": 10.187,
+      "score": 0.897,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "conference",
+      "start": 10.267,
+      "end": 10.768,
+      "score": 0.92,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 10.828,
+      "end": 10.908,
+      "score": 0.901,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Atlanta,",
+      "start": 10.968,
+      "end": 11.448,
+      "score": 0.925,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 11.929,
+      "end": 12.009,
+      "score": 0.696,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "join",
+      "start": 12.089,
+      "end": 12.389,
+      "score": 0.81,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 12.409,
+      "end": 12.509,
+      "score": 0.733,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "lawyers",
+      "start": 12.569,
+      "end": 12.97,
+      "score": 0.747,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "at",
+      "start": 13.05,
+      "end": 13.13,
+      "score": 0.767,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 13.15,
+      "end": 13.25,
+      "score": 0.728,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "forefront",
+      "start": 13.33,
+      "end": 13.83,
+      "score": 0.884,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 13.85,
+      "end": 13.91,
+      "score": 0.766,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "this",
+      "start": 13.95,
+      "end": 14.111,
+      "score": 0.638,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "growing",
+      "start": 14.211,
+      "end": 14.591,
+      "score": 0.83,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "field.",
+      "start": 14.691,
+      "end": 15.011,
+      "score": 0.77,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "As",
+      "start": 15.772,
+      "end": 15.852,
+      "score": 0.933,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "cases",
+      "start": 15.972,
+      "end": 16.392,
+      "score": 0.816,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 16.473,
+      "end": 16.553,
+      "score": 0.827,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "being",
+      "start": 16.593,
+      "end": 16.813,
+      "score": 0.783,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "won",
+      "start": 16.873,
+      "end": 17.153,
+      "score": 0.859,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 17.433,
+      "end": 17.593,
+      "score": 0.781,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "damages",
+      "start": 17.734,
+      "end": 18.194,
+      "score": 0.873,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "awarded,",
+      "start": 18.254,
+      "end": 18.694,
+      "score": 0.888,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "a",
+      "start": 19.435,
+      "end": 19.475,
+      "score": 0.89,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "recent",
+      "start": 19.555,
+      "end": 19.895,
+      "score": 0.987,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "poll",
+      "start": 19.976,
+      "end": 20.316,
+      "score": 0.848,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "suggests",
+      "start": 20.376,
+      "end": 20.996,
+      "score": 0.825,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "over",
+      "start": 21.076,
+      "end": 21.257,
+      "score": 0.777,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "40%",
+      "start": 21.337,
+      "end": 21.997,
+      "score": 0.434,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 22.017,
+      "end": 22.077,
+      "score": 0.749,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Americans",
+      "start": 22.137,
+      "end": 22.678,
+      "score": 0.846,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "would",
+      "start": 22.838,
+      "end": 22.998,
+      "score": 0.958,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "be",
+      "start": 23.018,
+      "end": 23.118,
+      "score": 0.69,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "party",
+      "start": 23.198,
+      "end": 23.559,
+      "score": 0.806,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 23.619,
+      "end": 23.739,
+      "score": 0.839,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "a",
+      "start": 23.799,
+      "end": 23.819,
+      "score": 0.998,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 23.899,
+      "end": 24.299,
+      "score": 0.882,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "class",
+      "start": 24.379,
+      "end": 24.72,
+      "score": 0.886,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "action",
+      "start": 24.84,
+      "end": 25.14,
+      "score": 0.889,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "lawsuit.",
+      "start": 25.18,
+      "end": 25.68,
+      "score": 0.898,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Experts",
+      "start": 26.601,
+      "end": 27.022,
+      "score": 0.86,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "predict",
+      "start": 27.082,
+      "end": 27.502,
+      "score": 0.868,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 27.722,
+      "end": 28.062,
+      "score": 0.928,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "litigation",
+      "start": 28.102,
+      "end": 28.703,
+      "score": 0.88,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "will",
+      "start": 28.723,
+      "end": 28.903,
+      "score": 0.858,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "surpass",
+      "start": 28.943,
+      "end": 29.504,
+      "score": 0.909,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 29.564,
+      "end": 29.664,
+      "score": 0.937,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "combined",
+      "start": 29.704,
+      "end": 30.164,
+      "score": 0.851,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "impact",
+      "start": 30.204,
+      "end": 30.645,
+      "score": 0.932,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 30.685,
+      "end": 30.745,
+      "score": 0.75,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "big",
+      "start": 30.825,
+      "end": 31.005,
+      "score": 0.979,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "tobacco",
+      "start": 31.045,
+      "end": 31.545,
+      "score": 0.958,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 31.866,
+      "end": 32.006,
+      "score": 0.88,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "asbestos",
+      "start": 32.086,
+      "end": 32.686,
+      "score": 0.801,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "cases.",
+      "start": 32.746,
+      "end": 33.147,
+      "score": 0.936,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "We",
+      "start": 35.323,
+      "end": 35.483,
+      "score": 0.817,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "invite",
+      "start": 35.543,
+      "end": 35.943,
+      "score": 0.874,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "attorneys",
+      "start": 35.963,
+      "end": 36.423,
+      "score": 0.789,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 36.504,
+      "end": 36.624,
+      "score": 0.783,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "join",
+      "start": 36.724,
+      "end": 37.044,
+      "score": 0.9,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "this",
+      "start": 37.084,
+      "end": 37.224,
+      "score": 0.874,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "important",
+      "start": 37.284,
+      "end": 37.784,
+      "score": 0.856,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "opportunity",
+      "start": 37.824,
+      "end": 38.464,
+      "score": 0.925,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "at",
+      "start": 38.945,
+      "end": 39.005,
+      "score": 0.885,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 39.045,
+      "end": 39.165,
+      "score": 0.862,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "second",
+      "start": 39.265,
+      "end": 39.605,
+      "score": 0.886,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 39.745,
+      "end": 40.045,
+      "score": 0.928,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "litigation",
+      "start": 40.085,
+      "end": 40.605,
+      "score": 0.894,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "conference",
+      "start": 40.685,
+      "end": 41.166,
+      "score": 0.922,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "coming",
+      "start": 41.446,
+      "end": 41.726,
+      "score": 0.856,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 41.786,
+      "end": 41.886,
+      "score": 0.843,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Las",
+      "start": 41.926,
+      "end": 42.166,
+      "score": 0.9,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Vegas,",
+      "start": 42.226,
+      "end": 42.646,
+      "score": 0.868,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "March",
+      "start": 42.866,
+      "end": 43.166,
+      "score": 0.776,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "7th",
+      "start": 43.346,
+      "end": 43.567,
+      "score": 0.717,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 43.607,
+      "end": 43.667,
+      "score": 0.907,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "8th,",
+      "start": 43.727,
+      "end": 44.287,
+      "score": 0.483,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "2024.",
+      "start": 44.347,
+      "end": 44.927,
+      "score": 0.665,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Connect",
+      "start": 46.408,
+      "end": 46.888,
+      "score": 0.907,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "with",
+      "start": 46.948,
+      "end": 47.068,
+      "score": 0.894,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "a",
+      "start": 47.128,
+      "end": 47.168,
+      "score": 0.364,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "diverse",
+      "start": 47.188,
+      "end": 47.588,
+      "score": 0.809,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "group",
+      "start": 47.628,
+      "end": 47.888,
+      "score": 0.802,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 47.928,
+      "end": 48.008,
+      "score": 0.676,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "attorneys",
+      "start": 48.048,
+      "end": 48.529,
+      "score": 0.884,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 48.909,
+      "end": 49.029,
+      "score": 0.683,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "strategic",
+      "start": 49.049,
+      "end": 49.689,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "networking",
+      "start": 49.749,
+      "end": 50.289,
+      "score": 0.872,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 50.71,
+      "end": 50.81,
+      "score": 0.661,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "expand",
+      "start": 50.89,
+      "end": 51.37,
+      "score": 0.866,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "your",
+      "start": 51.41,
+      "end": 51.59,
+      "score": 0.798,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "practice",
+      "start": 51.69,
+      "end": 52.19,
+      "score": 0.836,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 52.25,
+      "end": 52.33,
+      "score": 0.831,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 52.35,
+      "end": 52.43,
+      "score": 0.821,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 52.51,
+      "end": 52.89,
+      "score": 0.985,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "space.",
+      "start": 52.951,
+      "end": 53.351,
+      "score": 0.947,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Having",
+      "start": 53.631,
+      "end": 53.871,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 53.911,
+      "end": 53.951,
+      "score": 0.588,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "network",
+      "start": 53.991,
+      "end": 54.351,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 54.391,
+      "end": 54.451,
+      "score": 0.716,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 54.471,
+      "end": 54.731,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 54.751,
+      "end": 54.831,
+      "score": 0.484,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fall",
+      "start": 54.871,
+      "end": 55.071,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "back",
+      "start": 55.111,
+      "end": 55.332,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 55.452,
+      "end": 55.532,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 55.552,
+      "end": 55.672,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 55.732,
+      "end": 56.012,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "understand",
+      "start": 56.052,
+      "end": 56.572,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 56.612,
+      "end": 56.772,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 56.812,
+      "end": 56.852,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 56.932,
+      "end": 56.992,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they're",
+      "start": 57.032,
+      "end": 57.172,
+      "score": 0.561,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talking",
+      "start": 57.212,
+      "end": 57.572,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 57.592,
+      "end": 57.813,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 57.833,
+      "end": 57.933,
+      "score": 0.276,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 57.953,
+      "end": 58.073,
+      "score": 0.309,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "critical",
+      "start": 58.093,
+      "end": 58.393,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 58.413,
+      "end": 58.513,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me.",
+      "start": 58.553,
+      "end": 58.733,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Learn",
+      "start": 58.991,
+      "end": 59.291,
+      "score": 0.7,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "from",
+      "start": 59.411,
+      "end": 59.551,
+      "score": 0.761,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 59.591,
+      "end": 59.671,
+      "score": 0.83,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "leaders",
+      "start": 59.751,
+      "end": 60.092,
+      "score": 0.806,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "at",
+      "start": 60.192,
+      "end": 60.252,
+      "score": 0.74,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 60.272,
+      "end": 60.352,
+      "score": 0.868,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "frontier",
+      "start": 60.432,
+      "end": 61.012,
+      "score": 0.834,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "who",
+      "start": 61.132,
+      "end": 61.232,
+      "score": 0.973,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 61.292,
+      "end": 61.412,
+      "score": 0.733,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "bringing",
+      "start": 61.452,
+      "end": 61.793,
+      "score": 0.886,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "cases.",
+      "start": 61.853,
+      "end": 62.293,
+      "score": 0.914,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "I",
+      "start": 62.933,
+      "end": 62.993,
+      "score": 0.996,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "sued",
+      "start": 63.053,
+      "end": 63.273,
+      "score": 0.586,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Rochester",
+      "start": 63.333,
+      "end": 63.834,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "General",
+      "start": 63.874,
+      "end": 64.274,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "six",
+      "start": 64.394,
+      "end": 64.634,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "times.",
+      "start": 64.954,
+      "end": 65.355,
+      "score": 0.831,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "I",
+      "start": 65.535,
+      "end": 65.615,
+      "score": 0.752,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "won",
+      "start": 65.735,
+      "end": 65.995,
+      "score": 0.695,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 66.115,
+      "end": 66.215,
+      "score": 0.85,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "court",
+      "start": 66.295,
+      "end": 66.675,
+      "score": 0.826,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "each",
+      "start": 67.036,
+      "end": 67.236,
+      "score": 0.897,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 67.436,
+      "end": 67.516,
+      "score": 0.834,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "those",
+      "start": 67.596,
+      "end": 67.816,
+      "score": 0.913,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "six",
+      "start": 67.876,
+      "end": 68.116,
+      "score": 0.956,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "times.",
+      "start": 68.156,
+      "end": 68.516,
+      "score": 0.893,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Get",
+      "start": 68.897,
+      "end": 69.037,
+      "score": 0.987,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "exclusive",
+      "start": 69.097,
+      "end": 69.657,
+      "score": 0.813,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "resources",
+      "start": 69.737,
+      "end": 70.357,
+      "score": 0.85,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 70.858,
+      "end": 70.958,
+      "score": 0.712,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 70.978,
+      "end": 71.038,
+      "score": 0.994,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "insights",
+      "start": 71.198,
+      "end": 71.638,
+      "score": 0.817,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 71.718,
+      "end": 71.838,
+      "score": 0.999,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "need",
+      "start": 71.918,
+      "end": 72.178,
+      "score": 0.934,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 72.438,
+      "end": 72.539,
+      "score": 0.982,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "litigate",
+      "start": 72.639,
+      "end": 73.059,
+      "score": 0.969,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 73.179,
+      "end": 73.539,
+      "score": 0.938,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "cases",
+      "start": 73.599,
+      "end": 73.999,
+      "score": 0.804,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "now",
+      "start": 74.079,
+      "end": 74.34,
+      "score": 0.861,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "from",
+      "start": 74.82,
+      "end": 74.98,
+      "score": 0.901,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "panels,",
+      "start": 75.1,
+      "end": 75.56,
+      "score": 0.805,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "keynotes,",
+      "start": 75.7,
+      "end": 76.161,
+      "score": 0.906,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 76.221,
+      "end": 76.301,
+      "score": 0.914,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "more.",
+      "start": 76.361,
+      "end": 76.641,
+      "score": 0.865,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "At",
+      "start": 77.121,
+      "end": 77.201,
+      "score": 0.815,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 77.241,
+      "end": 77.321,
+      "score": 0.826,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "conference,",
+      "start": 77.361,
+      "end": 77.702,
+      "score": 0.753,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "you're",
+      "start": 77.722,
+      "end": 77.842,
+      "score": 0.161,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "going",
+      "start": 77.862,
+      "end": 77.962,
+      "score": 0.223,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 77.982,
+      "end": 78.062,
+      "score": 0.444,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "see",
+      "start": 78.102,
+      "end": 78.282,
+      "score": 0.504,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "some",
+      "start": 78.322,
+      "end": 78.462,
+      "score": 0.889,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 78.502,
+      "end": 78.542,
+      "score": 0.994,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 78.582,
+      "end": 78.663,
+      "score": 0.83,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "most",
+      "start": 78.703,
+      "end": 78.903,
+      "score": 0.71,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "seasoned",
+      "start": 79.083,
+      "end": 79.663,
+      "score": 0.94,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "COVID",
+      "start": 79.804,
+      "end": 80.204,
+      "score": 0.919,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "litigation",
+      "start": 80.244,
+      "end": 80.824,
+      "score": 0.933,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "attorneys.",
+      "start": 80.885,
+      "end": 81.445,
+      "score": 0.83,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "I",
+      "start": 81.765,
+      "end": 81.845,
+      "score": 0.749,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "always",
+      "start": 81.905,
+      "end": 82.186,
+      "score": 0.788,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "learn",
+      "start": 82.246,
+      "end": 82.526,
+      "score": 0.766,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "something.",
+      "start": 82.586,
+      "end": 83.147,
+      "score": 0.948,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Litigate",
+      "start": 83.467,
+      "end": 83.947,
+      "score": 0.876,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "with",
+      "start": 84.007,
+      "end": 84.167,
+      "score": 0.846,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "confidence",
+      "start": 84.268,
+      "end": 84.828,
+      "score": 0.864,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 85.248,
+      "end": 85.349,
+      "score": 0.795,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "be",
+      "start": 85.429,
+      "end": 85.569,
+      "score": 0.822,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "empowered",
+      "start": 85.629,
+      "end": 86.169,
+      "score": 0.822,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "by",
+      "start": 86.409,
+      "end": 86.57,
+      "score": 0.836,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 86.69,
+      "end": 86.91,
+      "score": 0.83,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "transformative",
+      "start": 87.01,
+      "end": 87.791,
+      "score": 0.64,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "event",
+      "start": 87.851,
+      "end": 88.171,
+      "score": 0.887,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "shaping",
+      "start": 88.291,
+      "end": 88.671,
+      "score": 0.908,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "national",
+      "start": 88.772,
+      "end": 89.152,
+      "score": 0.847,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "policy.",
+      "start": 89.232,
+      "end": 89.772,
+      "score": 0.906,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Who",
+      "start": 91.254,
+      "end": 91.394,
+      "score": 0.892,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "will",
+      "start": 91.414,
+      "end": 91.614,
+      "score": 0.992,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "right",
+      "start": 91.734,
+      "end": 91.974,
+      "score": 0.582,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "these",
+      "start": 92.055,
+      "end": 92.295,
+      "score": 0.68,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "extraordinary",
+      "start": 92.415,
+      "end": 93.156,
+      "score": 0.73,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "wrongs?",
+      "start": 93.236,
+      "end": 93.616,
+      "score": 0.902,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "You",
+      "start": 94.156,
+      "end": 94.337,
+      "score": 0.84,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "will.",
+      "start": 94.397,
+      "end": 94.637,
+      "score": 0.942,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "At",
+      "start": 95.277,
+      "end": 95.358,
+      "score": 0.804,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 95.398,
+      "end": 95.498,
+      "score": 0.988,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "second",
+      "start": 95.578,
+      "end": 95.938,
+      "score": 0.829,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 96.078,
+      "end": 96.418,
+      "score": 0.985,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "litigation",
+      "start": 96.458,
+      "end": 97.039,
+      "score": 0.943,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "conference.",
+      "start": 97.119,
+      "end": 97.62,
+      "score": 0.948,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Register",
+      "start": 98.54,
+      "end": 99.021,
+      "score": 0.866,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "now",
+      "start": 99.081,
+      "end": 99.281,
+      "score": 0.901,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "at",
+      "start": 99.401,
+      "end": 99.501,
+      "score": 0.686,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "covidlitigation.com.",
+      "start": 99.601,
+      "end": 100.602,
+      "score": 0.862,
+      "speaker": "SPEAKER_02"
+    }
+  ]
 }

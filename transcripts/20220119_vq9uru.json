@@ -1,243 +1,1422 @@
 {
-  "text": " Less than 24 hours after Maddie got her second Pfizer shot during the trial, she was in the ER. Today, she can't walk. Instead of telling the truth, Pfizer reported her sudden illness to the FDA as functional abdominal pain. They buried her injury so the vaccine would get approved for kids. Does abdominal pain explain a bedridden child with a feeding tube? Of course not. If Pfizer and the FDA can cover up Maddie's injury, how can we trust they won't do the same to your child? Paid for by the Vaccine Safety Research Foundation.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 5.04,
+      "start": 0.131,
+      "end": 4.814,
       "text": " Less than 24 hours after Maddie got her second Pfizer shot during the trial, she was in the ER.",
-      "tokens": [
-        50364,
-        18649,
-        813,
-        4022,
-        2496,
-        934,
-        5326,
-        11231,
-        658,
-        720,
-        1150,
-        34694,
-        3347,
-        1830,
-        264,
-        7308,
-        11,
-        750,
-        390,
-        294,
-        264,
-        14929,
-        13,
-        50616
+      "words": [
+        {
+          "word": "Less",
+          "start": 0.131,
+          "end": 0.311,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 0.331,
+          "end": 0.471,
+          "score": 0.657,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "24",
+          "start": 0.611,
+          "end": 0.952,
+          "score": 0.649,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hours",
+          "start": 0.992,
+          "end": 1.212,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 1.272,
+          "end": 1.472,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Maddie",
+          "start": 1.512,
+          "end": 1.732,
+          "score": 0.719,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 1.752,
+          "end": 1.872,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "her",
+          "start": 1.912,
+          "end": 1.992,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "second",
+          "start": 2.032,
+          "end": 2.293,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer",
+          "start": 2.313,
+          "end": 2.773,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shot",
+          "start": 2.793,
+          "end": 3.033,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "during",
+          "start": 3.053,
+          "end": 3.273,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 3.293,
+          "end": 3.373,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trial,",
+          "start": 3.413,
+          "end": 3.774,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "she",
+          "start": 3.934,
+          "end": 4.034,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 4.074,
+          "end": 4.194,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 4.234,
+          "end": 4.274,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.314,
+          "end": 4.374,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ER.",
+          "start": 4.474,
+          "end": 4.814,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 5.04,
-      "end": 8.48,
-      "text": " Today, she can't walk. Instead of telling the truth,",
-      "tokens": [
-        50616,
-        2692,
-        11,
-        750,
-        393,
-        380,
-        1792,
-        13,
-        7156,
-        295,
-        3585,
-        264,
-        3494,
-        11,
-        50788
+      "start": 5.175,
+      "end": 6.816,
+      "text": "Today, she can't walk.",
+      "words": [
+        {
+          "word": "Today,",
+          "start": 5.175,
+          "end": 5.535,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "she",
+          "start": 5.775,
+          "end": 5.915,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 6.015,
+          "end": 6.315,
+          "score": 0.636,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "walk.",
+          "start": 6.456,
+          "end": 6.816,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.48,
-      "end": 12.88,
-      "text": " Pfizer reported her sudden illness to the FDA as functional abdominal pain.",
-      "tokens": [
-        50788,
-        34694,
-        7055,
-        720,
-        3990,
-        10152,
-        281,
-        264,
-        18933,
-        382,
-        11745,
-        38701,
-        1822,
-        13,
-        51008
+      "start": 7.156,
+      "end": 12.82,
+      "text": "Instead of telling the truth, Pfizer reported her sudden illness to the FDA as functional abdominal pain.",
+      "words": [
+        {
+          "word": "Instead",
+          "start": 7.156,
+          "end": 7.516,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 7.536,
+          "end": 7.596,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "telling",
+          "start": 7.636,
+          "end": 7.877,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 7.917,
+          "end": 7.997,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "truth,",
+          "start": 8.097,
+          "end": 8.457,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer",
+          "start": 8.637,
+          "end": 9.017,
+          "score": 0.582,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reported",
+          "start": 9.037,
+          "end": 9.418,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "her",
+          "start": 9.478,
+          "end": 9.598,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sudden",
+          "start": 9.638,
+          "end": 9.878,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "illness",
+          "start": 9.918,
+          "end": 10.178,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 10.218,
+          "end": 10.298,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 10.318,
+          "end": 10.418,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "FDA",
+          "start": 10.538,
+          "end": 10.939,
+          "score": 0.427,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 11.079,
+          "end": 11.219,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "functional",
+          "start": 11.419,
+          "end": 11.879,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "abdominal",
+          "start": 11.979,
+          "end": 12.48,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pain.",
+          "start": 12.52,
+          "end": 12.82,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 12.88,
-      "end": 16.72,
-      "text": " They buried her injury so the vaccine would get approved for kids.",
-      "tokens": [
-        51008,
-        814,
-        14101,
-        720,
-        10454,
-        370,
-        264,
-        7007,
-        576,
-        483,
-        10826,
-        337,
-        2301,
-        13,
-        51200
+      "start": 13.0,
+      "end": 16.523,
+      "text": "They buried her injury so the vaccine would get approved for kids.",
+      "words": [
+        {
+          "word": "They",
+          "start": 13.0,
+          "end": 13.16,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "buried",
+          "start": 13.26,
+          "end": 13.661,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "her",
+          "start": 13.701,
+          "end": 13.821,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "injury",
+          "start": 13.901,
+          "end": 14.201,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 14.221,
+          "end": 14.321,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 14.361,
+          "end": 14.441,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 14.481,
+          "end": 15.062,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 15.082,
+          "end": 15.222,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 15.242,
+          "end": 15.362,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "approved",
+          "start": 15.402,
+          "end": 15.902,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 15.982,
+          "end": 16.102,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kids.",
+          "start": 16.162,
+          "end": 16.523,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 16.72,
-      "end": 21.44,
-      "text": " Does abdominal pain explain a bedridden child with a feeding tube? Of course not.",
-      "tokens": [
-        51200,
-        4402,
-        38701,
-        1822,
-        2903,
-        257,
-        2901,
-        81,
-        6171,
-        1440,
-        365,
-        257,
-        12919,
-        9917,
-        30,
-        2720,
-        1164,
-        406,
-        13,
-        51436
+      "start": 16.863,
+      "end": 20.205,
+      "text": "Does abdominal pain explain a bedridden child with a feeding tube?",
+      "words": [
+        {
+          "word": "Does",
+          "start": 16.863,
+          "end": 17.023,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "abdominal",
+          "start": 17.103,
+          "end": 17.643,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pain",
+          "start": 17.683,
+          "end": 17.904,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "explain",
+          "start": 17.944,
+          "end": 18.304,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 18.364,
+          "end": 18.404,
+          "score": 0.531,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bedridden",
+          "start": 18.504,
+          "end": 18.964,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "child",
+          "start": 18.984,
+          "end": 19.225,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 19.265,
+          "end": 19.365,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 19.425,
+          "end": 19.445,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "feeding",
+          "start": 19.485,
+          "end": 19.825,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tube?",
+          "start": 19.865,
+          "end": 20.205,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 21.44,
-      "end": 24.32,
-      "text": " If Pfizer and the FDA can cover up Maddie's injury,",
-      "tokens": [
-        51436,
-        759,
-        34694,
-        293,
-        264,
-        18933,
-        393,
-        2060,
-        493,
-        5326,
-        11231,
-        311,
-        10454,
-        11,
-        51580
+      "start": 20.545,
+      "end": 21.366,
+      "text": "Of course not.",
+      "words": [
+        {
+          "word": "Of",
+          "start": 20.545,
+          "end": 20.626,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "course",
+          "start": 20.786,
+          "end": 21.066,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not.",
+          "start": 21.146,
+          "end": 21.366,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 24.32,
-      "end": 27.44,
-      "text": " how can we trust they won't do the same to your child?",
-      "tokens": [
-        51580,
-        577,
-        393,
-        321,
-        3361,
-        436,
-        1582,
-        380,
-        360,
-        264,
-        912,
-        281,
-        428,
-        1440,
-        30,
-        51736
+      "start": 21.606,
+      "end": 27.35,
+      "text": "If Pfizer and the FDA can cover up Maddie's injury, how can we trust they won't do the same to your child?",
+      "words": [
+        {
+          "word": "If",
+          "start": 21.606,
+          "end": 21.686,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pfizer",
+          "start": 21.766,
+          "end": 22.127,
+          "score": 0.591,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 22.147,
+          "end": 22.207,
+          "score": 0.373,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 22.227,
+          "end": 22.287,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "FDA",
+          "start": 22.387,
+          "end": 22.747,
+          "score": 0.709,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 22.767,
+          "end": 22.907,
+          "score": 0.691,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cover",
+          "start": 22.947,
+          "end": 23.187,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 23.227,
+          "end": 23.347,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Maddie's",
+          "start": 23.488,
+          "end": 23.868,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "injury,",
+          "start": 23.908,
+          "end": 24.268,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 24.488,
+          "end": 24.648,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 24.688,
+          "end": 24.828,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 24.869,
+          "end": 24.989,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trust",
+          "start": 25.049,
+          "end": 25.309,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 25.349,
+          "end": 25.469,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "won't",
+          "start": 25.509,
+          "end": 25.709,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 25.769,
+          "end": 25.849,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 25.889,
+          "end": 25.989,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "same",
+          "start": 26.089,
+          "end": 26.41,
+          "score": 0.689,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 26.51,
+          "end": 26.63,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 26.67,
+          "end": 26.89,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "child?",
+          "start": 26.97,
+          "end": 27.35,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 27.44,
-      "end": 29.84,
-      "text": " Paid for by the Vaccine Safety Research Foundation.",
-      "tokens": [
-        51736,
-        3426,
-        327,
-        337,
-        538,
-        264,
-        48579,
-        533,
-        21340,
-        10303,
-        10335,
-        13,
-        51856
+      "start": 27.67,
+      "end": 29.772,
+      "text": "Paid for by the Vaccine Safety Research Foundation.",
+      "words": [
+        {
+          "word": "Paid",
+          "start": 27.67,
+          "end": 27.851,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 27.871,
+          "end": 28.031,
+          "score": 0.65,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 28.071,
+          "end": 28.151,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 28.171,
+          "end": 28.231,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Vaccine",
+          "start": 28.271,
+          "end": 28.631,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Safety",
+          "start": 28.651,
+          "end": 28.931,
+          "score": 0.467,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Research",
+          "start": 28.991,
+          "end": 29.292,
+          "score": 0.436,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Foundation.",
+          "start": 29.312,
+          "end": 29.772,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08370896239778888,
-      "compression_ratio": 1.6521739130434783,
-      "no_speech_prob": 0.19021517038345337
+      "avg_logprob": -0.036314882464328055,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Less",
+      "start": 0.131,
+      "end": 0.311,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 0.331,
+      "end": 0.471,
+      "score": 0.657,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "24",
+      "start": 0.611,
+      "end": 0.952,
+      "score": 0.649,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hours",
+      "start": 0.992,
+      "end": 1.212,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 1.272,
+      "end": 1.472,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Maddie",
+      "start": 1.512,
+      "end": 1.732,
+      "score": 0.719,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 1.752,
+      "end": 1.872,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "her",
+      "start": 1.912,
+      "end": 1.992,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "second",
+      "start": 2.032,
+      "end": 2.293,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 2.313,
+      "end": 2.773,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shot",
+      "start": 2.793,
+      "end": 3.033,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "during",
+      "start": 3.053,
+      "end": 3.273,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 3.293,
+      "end": 3.373,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trial,",
+      "start": 3.413,
+      "end": 3.774,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "she",
+      "start": 3.934,
+      "end": 4.034,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 4.074,
+      "end": 4.194,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 4.234,
+      "end": 4.274,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.314,
+      "end": 4.374,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ER.",
+      "start": 4.474,
+      "end": 4.814,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Today,",
+      "start": 5.175,
+      "end": 5.535,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "she",
+      "start": 5.775,
+      "end": 5.915,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 6.015,
+      "end": 6.315,
+      "score": 0.636,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "walk.",
+      "start": 6.456,
+      "end": 6.816,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Instead",
+      "start": 7.156,
+      "end": 7.516,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 7.536,
+      "end": 7.596,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "telling",
+      "start": 7.636,
+      "end": 7.877,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 7.917,
+      "end": 7.997,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "truth,",
+      "start": 8.097,
+      "end": 8.457,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 8.637,
+      "end": 9.017,
+      "score": 0.582,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reported",
+      "start": 9.037,
+      "end": 9.418,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "her",
+      "start": 9.478,
+      "end": 9.598,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sudden",
+      "start": 9.638,
+      "end": 9.878,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "illness",
+      "start": 9.918,
+      "end": 10.178,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 10.218,
+      "end": 10.298,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 10.318,
+      "end": 10.418,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "FDA",
+      "start": 10.538,
+      "end": 10.939,
+      "score": 0.427,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 11.079,
+      "end": 11.219,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "functional",
+      "start": 11.419,
+      "end": 11.879,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "abdominal",
+      "start": 11.979,
+      "end": 12.48,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pain.",
+      "start": 12.52,
+      "end": 12.82,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 13.0,
+      "end": 13.16,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "buried",
+      "start": 13.26,
+      "end": 13.661,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "her",
+      "start": 13.701,
+      "end": 13.821,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "injury",
+      "start": 13.901,
+      "end": 14.201,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 14.221,
+      "end": 14.321,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 14.361,
+      "end": 14.441,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 14.481,
+      "end": 15.062,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 15.082,
+      "end": 15.222,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 15.242,
+      "end": 15.362,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "approved",
+      "start": 15.402,
+      "end": 15.902,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 15.982,
+      "end": 16.102,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kids.",
+      "start": 16.162,
+      "end": 16.523,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Does",
+      "start": 16.863,
+      "end": 17.023,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "abdominal",
+      "start": 17.103,
+      "end": 17.643,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pain",
+      "start": 17.683,
+      "end": 17.904,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "explain",
+      "start": 17.944,
+      "end": 18.304,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 18.364,
+      "end": 18.404,
+      "score": 0.531,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bedridden",
+      "start": 18.504,
+      "end": 18.964,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "child",
+      "start": 18.984,
+      "end": 19.225,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 19.265,
+      "end": 19.365,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 19.425,
+      "end": 19.445,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "feeding",
+      "start": 19.485,
+      "end": 19.825,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tube?",
+      "start": 19.865,
+      "end": 20.205,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Of",
+      "start": 20.545,
+      "end": 20.626,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "course",
+      "start": 20.786,
+      "end": 21.066,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not.",
+      "start": 21.146,
+      "end": 21.366,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 21.606,
+      "end": 21.686,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pfizer",
+      "start": 21.766,
+      "end": 22.127,
+      "score": 0.591,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 22.147,
+      "end": 22.207,
+      "score": 0.373,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 22.227,
+      "end": 22.287,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "FDA",
+      "start": 22.387,
+      "end": 22.747,
+      "score": 0.709,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 22.767,
+      "end": 22.907,
+      "score": 0.691,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cover",
+      "start": 22.947,
+      "end": 23.187,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 23.227,
+      "end": 23.347,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Maddie's",
+      "start": 23.488,
+      "end": 23.868,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "injury,",
+      "start": 23.908,
+      "end": 24.268,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 24.488,
+      "end": 24.648,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 24.688,
+      "end": 24.828,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 24.869,
+      "end": 24.989,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trust",
+      "start": 25.049,
+      "end": 25.309,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 25.349,
+      "end": 25.469,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "won't",
+      "start": 25.509,
+      "end": 25.709,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 25.769,
+      "end": 25.849,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 25.889,
+      "end": 25.989,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "same",
+      "start": 26.089,
+      "end": 26.41,
+      "score": 0.689,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 26.51,
+      "end": 26.63,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 26.67,
+      "end": 26.89,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "child?",
+      "start": 26.97,
+      "end": 27.35,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Paid",
+      "start": 27.67,
+      "end": 27.851,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 27.871,
+      "end": 28.031,
+      "score": 0.65,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 28.071,
+      "end": 28.151,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 28.171,
+      "end": 28.231,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Vaccine",
+      "start": 28.271,
+      "end": 28.631,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Safety",
+      "start": 28.651,
+      "end": 28.931,
+      "score": 0.467,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Research",
+      "start": 28.991,
+      "end": 29.292,
+      "score": 0.436,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Foundation.",
+      "start": 29.312,
+      "end": 29.772,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

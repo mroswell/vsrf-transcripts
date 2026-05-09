@@ -1,379 +1,1602 @@
 {
-  "text": " So I've reached out to these politicians. I've reached out to EGAY. I've reached out to Governor Josh Green. I've reached out to Rick Blanghiardi. I've emailed, I've messaged these people, letting them know what's going on and it's silence. None of them get back to me. None of them correspond with me whatsoever. I hear no feedback from them. I've talked to Rick Blanghiardi and Governor EGAY, or I've messaged them and I've messaged Josh Green about the hospice patients that were terminally ill, that were labeled as COVID deaths. No one's ever gotten back to me about it. No one's ever investigated this.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 2.04,
+      "start": 0.051,
+      "end": 2.033,
       "text": " So I've reached out to these politicians.",
-      "tokens": [
-        50364,
-        407,
-        286,
-        600,
-        6488,
-        484,
-        281,
-        613,
-        14756,
-        13,
-        50466
+      "words": [
+        {
+          "word": "So",
+          "start": 0.051,
+          "end": 0.091,
+          "score": 0.145,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 0.231,
+          "end": 0.411,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reached",
+          "start": 0.491,
+          "end": 0.772,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 0.852,
+          "end": 0.992,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 1.032,
+          "end": 1.112,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 1.152,
+          "end": 1.292,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "politicians.",
+          "start": 1.352,
+          "end": 2.033,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 2.04,
-      "end": 3.24,
-      "text": " I've reached out to EGAY.",
-      "tokens": [
-        50466,
-        286,
-        600,
-        6488,
-        484,
-        281,
-        462,
-        38,
-        4299,
-        13,
-        50526
+      "start": 2.073,
+      "end": 3.273,
+      "text": "I've reached out to Ige.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 2.073,
+          "end": 2.213,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reached",
+          "start": 2.253,
+          "end": 2.493,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 2.553,
+          "end": 2.673,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 2.713,
+          "end": 2.813,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Ige.",
+          "start": 2.953,
+          "end": 3.273,
+          "score": 0.638,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 3.24,
-      "end": 4.96,
-      "text": " I've reached out to Governor Josh Green.",
-      "tokens": [
-        50526,
-        286,
-        600,
-        6488,
-        484,
-        281,
-        14550,
-        9785,
-        6969,
-        13,
-        50612
+      "start": 3.313,
+      "end": 4.995,
+      "text": "I've reached out to Governor Josh Green.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 3.313,
+          "end": 3.434,
+          "score": 0.539,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reached",
+          "start": 3.454,
+          "end": 3.654,
+          "score": 0.378,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 3.714,
+          "end": 3.834,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 3.874,
+          "end": 3.954,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Governor",
+          "start": 3.994,
+          "end": 4.314,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Josh",
+          "start": 4.374,
+          "end": 4.654,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Green.",
+          "start": 4.715,
+          "end": 4.995,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 4.96,
-      "end": 6.96,
-      "text": " I've reached out to Rick Blanghiardi.",
-      "tokens": [
-        50612,
-        286,
-        600,
-        6488,
-        484,
-        281,
-        11224,
-        2177,
-        656,
-        4954,
-        38126,
-        13,
-        50712
+      "start": 5.015,
+      "end": 6.696,
+      "text": "I've reached out to Rick Langiardi.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 5.015,
+          "end": 5.135,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reached",
+          "start": 5.155,
+          "end": 5.335,
+          "score": 0.24,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 5.375,
+          "end": 5.495,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 5.515,
+          "end": 5.615,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Rick",
+          "start": 5.675,
+          "end": 5.855,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Langiardi.",
+          "start": 5.915,
+          "end": 6.696,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 6.96,
-      "end": 9.32,
-      "text": " I've emailed, I've messaged these people,",
-      "tokens": [
-        50712,
-        286,
-        600,
-        45460,
-        11,
-        286,
-        600,
-        2082,
-        2980,
-        613,
-        561,
-        11,
-        50830
+      "start": 7.036,
+      "end": 8.057,
+      "text": "I've emailed.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 7.036,
+          "end": 7.196,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "emailed.",
+          "start": 7.557,
+          "end": 8.057,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 9.32,
-      "end": 12.56,
-      "text": " letting them know what's going on and it's silence.",
-      "tokens": [
-        50830,
-        8295,
-        552,
-        458,
-        437,
-        311,
-        516,
-        322,
-        293,
-        309,
-        311,
-        12239,
-        13,
-        50992
+      "start": 8.177,
+      "end": 10.819,
+      "text": "I've messaged these people, letting them know what's going on.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 8.177,
+          "end": 8.317,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "messaged",
+          "start": 8.437,
+          "end": 8.818,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 8.858,
+          "end": 9.018,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people,",
+          "start": 9.078,
+          "end": 9.338,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "letting",
+          "start": 9.398,
+          "end": 9.658,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 9.678,
+          "end": 9.818,
+          "score": 0.57,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 9.858,
+          "end": 10.059,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what's",
+          "start": 10.099,
+          "end": 10.299,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 10.339,
+          "end": 10.579,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on.",
+          "start": 10.699,
+          "end": 10.819,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 12.56,
-      "end": 14.200000000000001,
-      "text": " None of them get back to me.",
-      "tokens": [
-        50992,
-        14492,
-        295,
-        552,
-        483,
-        646,
-        281,
-        385,
-        13,
-        51074
+      "start": 11.199,
+      "end": 12.12,
+      "text": "And it's silence.",
+      "words": [
+        {
+          "word": "And",
+          "start": 11.199,
+          "end": 11.3,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 11.36,
+          "end": 11.5,
+          "score": 0.602,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "silence.",
+          "start": 11.62,
+          "end": 12.12,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 14.200000000000001,
-      "end": 17.080000000000002,
-      "text": " None of them correspond with me whatsoever.",
-      "tokens": [
-        51074,
-        14492,
-        295,
-        552,
-        6805,
-        365,
-        385,
-        17076,
-        13,
-        51218
+      "start": 12.681,
+      "end": 13.841,
+      "text": "None of them get back to me.",
+      "words": [
+        {
+          "word": "None",
+          "start": 12.681,
+          "end": 12.841,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 12.861,
+          "end": 12.921,
+          "score": 0.675,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 12.961,
+          "end": 13.081,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 13.121,
+          "end": 13.261,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "back",
+          "start": 13.321,
+          "end": 13.521,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 13.581,
+          "end": 13.661,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me.",
+          "start": 13.701,
+          "end": 13.841,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 17.080000000000002,
-      "end": 19.2,
-      "text": " I hear no feedback from them.",
-      "tokens": [
-        51218,
-        286,
-        1568,
-        572,
-        5824,
-        490,
-        552,
-        13,
-        51324
+      "start": 14.342,
+      "end": 17.044,
+      "text": "None of them correspond with me whatsoever.",
+      "words": [
+        {
+          "word": "None",
+          "start": 14.342,
+          "end": 14.522,
+          "score": 0.709,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 14.542,
+          "end": 14.582,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 14.642,
+          "end": 14.862,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "correspond",
+          "start": 15.303,
+          "end": 15.923,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 15.963,
+          "end": 16.123,
+          "score": 0.368,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 16.143,
+          "end": 16.343,
+          "score": 0.554,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whatsoever.",
+          "start": 16.383,
+          "end": 17.044,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 0,
-      "start": 19.2,
-      "end": 22.64,
-      "text": " I've talked to Rick Blanghiardi and Governor EGAY,",
-      "tokens": [
-        51324,
-        286,
-        600,
-        2825,
-        281,
-        11224,
-        2177,
-        656,
-        4954,
-        38126,
-        293,
-        14550,
-        462,
-        38,
-        4299,
-        11,
-        51496
+      "start": 17.204,
+      "end": 18.725,
+      "text": "I hear no feedback from them.",
+      "words": [
+        {
+          "word": "I",
+          "start": 17.204,
+          "end": 17.284,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hear",
+          "start": 17.324,
+          "end": 17.484,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 17.564,
+          "end": 17.724,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "feedback",
+          "start": 17.804,
+          "end": 18.265,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 18.325,
+          "end": 18.485,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them.",
+          "start": 18.525,
+          "end": 18.725,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 0,
-      "start": 22.64,
-      "end": 26.68,
-      "text": " or I've messaged them and I've messaged Josh Green",
-      "tokens": [
-        51496,
-        420,
-        286,
-        600,
-        2082,
-        2980,
-        552,
-        293,
-        286,
-        600,
-        2082,
-        2980,
-        9785,
-        6969,
-        51698
+      "start": 19.346,
+      "end": 22.368,
+      "text": "I've talked to Rick Langiardi and Governor Ige.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 19.346,
+          "end": 19.526,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talked",
+          "start": 19.726,
+          "end": 19.966,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 20.026,
+          "end": 20.126,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Rick",
+          "start": 20.186,
+          "end": 20.366,
+          "score": 0.745,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Langiardi",
+          "start": 20.426,
+          "end": 21.227,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 21.367,
+          "end": 21.447,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Governor",
+          "start": 21.507,
+          "end": 21.848,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Ige.",
+          "start": 21.988,
+          "end": 22.368,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16902424307430491,
-      "compression_ratio": 2.0045045045045047,
-      "no_speech_prob": 0.1534075289964676
+      "avg_logprob": -0.08698453608247422,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 2668,
-      "start": 26.68,
-      "end": 31.48,
-      "text": " about the hospice patients that were terminally ill,",
-      "tokens": [
-        50364,
-        466,
-        264,
-        3872,
-        573,
-        4209,
-        300,
-        645,
-        10761,
-        379,
-        3171,
-        11,
-        50604
+      "start": 22.729,
+      "end": 32.972,
+      "text": " or I've messaged them and I've messaged Josh Green about the hospice patients that were terminally ill that were labeled as COVID deaths.",
+      "words": [
+        {
+          "word": "or",
+          "start": 22.729,
+          "end": 22.849,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 23.149,
+          "end": 23.27,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "messaged",
+          "start": 23.33,
+          "end": 23.691,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 23.731,
+          "end": 23.911,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 24.052,
+          "end": 24.112,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 24.152,
+          "end": 24.272,
+          "score": 0.56,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "messaged",
+          "start": 24.312,
+          "end": 24.653,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Josh",
+          "start": 25.274,
+          "end": 25.595,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Green",
+          "start": 25.655,
+          "end": 26.036,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 26.818,
+          "end": 27.159,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 27.56,
+          "end": 27.88,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospice",
+          "start": 28.662,
+          "end": 29.184,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 29.264,
+          "end": 29.685,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 30.386,
+          "end": 30.527,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 30.567,
+          "end": 30.667,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "terminally",
+          "start": 30.727,
+          "end": 31.148,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ill",
+          "start": 31.288,
+          "end": 31.469,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 31.529,
+          "end": 31.669,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 31.689,
+          "end": 31.81,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "labeled",
+          "start": 31.85,
+          "end": 32.13,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 32.211,
+          "end": 32.291,
+          "score": 0.506,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 32.331,
+          "end": 32.672,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "deaths.",
+          "start": 32.712,
+          "end": 32.972,
+          "score": 0.541,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14502686394585504,
-      "compression_ratio": 1.361344537815126,
-      "no_speech_prob": 0.02375103160738945
+      "avg_logprob": -0.06927614552634102,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 2668,
-      "start": 31.48,
-      "end": 33.519999999999996,
-      "text": " that were labeled as COVID deaths.",
-      "tokens": [
-        50604,
-        300,
-        645,
-        21335,
-        382,
-        4566,
-        13027,
-        13,
-        50706
+      "start": 33.594,
+      "end": 35.177,
+      "text": "No one's ever gotten back to me about it.",
+      "words": [
+        {
+          "word": "No",
+          "start": 33.594,
+          "end": 33.674,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one's",
+          "start": 33.734,
+          "end": 33.874,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ever",
+          "start": 33.894,
+          "end": 34.035,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gotten",
+          "start": 34.075,
+          "end": 34.275,
+          "score": 0.725,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "back",
+          "start": 34.315,
+          "end": 34.496,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 34.516,
+          "end": 34.616,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 34.656,
+          "end": 34.736,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 34.756,
+          "end": 35.017,
+          "score": 0.644,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 35.037,
+          "end": 35.177,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14502686394585504,
-      "compression_ratio": 1.361344537815126,
-      "no_speech_prob": 0.02375103160738945
+      "avg_logprob": -0.06927614552634102,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 2668,
-      "start": 33.519999999999996,
-      "end": 35.32,
-      "text": " No one's ever gotten back to me about it.",
-      "tokens": [
-        50706,
-        883,
-        472,
-        311,
-        1562,
-        5768,
-        646,
-        281,
-        385,
-        466,
-        309,
-        13,
-        50796
+      "start": 35.438,
+      "end": 36.861,
+      "text": "No one's ever investigated this.",
+      "words": [
+        {
+          "word": "No",
+          "start": 35.438,
+          "end": 35.518,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one's",
+          "start": 35.578,
+          "end": 35.719,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ever",
+          "start": 35.759,
+          "end": 35.939,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "investigated",
+          "start": 35.979,
+          "end": 36.621,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this.",
+          "start": 36.681,
+          "end": 36.861,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14502686394585504,
-      "compression_ratio": 1.361344537815126,
-      "no_speech_prob": 0.02375103160738945
-    },
-    {
-      "id": 14,
-      "seek": 2668,
-      "start": 35.32,
-      "end": 37.12,
-      "text": " No one's ever investigated this.",
-      "tokens": [
-        50796,
-        883,
-        472,
-        311,
-        1562,
-        30070,
-        341,
-        13,
-        50886
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14502686394585504,
-      "compression_ratio": 1.361344537815126,
-      "no_speech_prob": 0.02375103160738945
+      "avg_logprob": -0.06927614552634102,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 0.051,
+      "end": 0.091,
+      "score": 0.145,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 0.231,
+      "end": 0.411,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reached",
+      "start": 0.491,
+      "end": 0.772,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 0.852,
+      "end": 0.992,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 1.032,
+      "end": 1.112,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 1.152,
+      "end": 1.292,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "politicians.",
+      "start": 1.352,
+      "end": 2.033,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 2.073,
+      "end": 2.213,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reached",
+      "start": 2.253,
+      "end": 2.493,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 2.553,
+      "end": 2.673,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 2.713,
+      "end": 2.813,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Ige.",
+      "start": 2.953,
+      "end": 3.273,
+      "score": 0.638,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 3.313,
+      "end": 3.434,
+      "score": 0.539,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reached",
+      "start": 3.454,
+      "end": 3.654,
+      "score": 0.378,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 3.714,
+      "end": 3.834,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 3.874,
+      "end": 3.954,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Governor",
+      "start": 3.994,
+      "end": 4.314,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Josh",
+      "start": 4.374,
+      "end": 4.654,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Green.",
+      "start": 4.715,
+      "end": 4.995,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 5.015,
+      "end": 5.135,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reached",
+      "start": 5.155,
+      "end": 5.335,
+      "score": 0.24,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 5.375,
+      "end": 5.495,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 5.515,
+      "end": 5.615,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Rick",
+      "start": 5.675,
+      "end": 5.855,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Langiardi.",
+      "start": 5.915,
+      "end": 6.696,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 7.036,
+      "end": 7.196,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "emailed.",
+      "start": 7.557,
+      "end": 8.057,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 8.177,
+      "end": 8.317,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "messaged",
+      "start": 8.437,
+      "end": 8.818,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 8.858,
+      "end": 9.018,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people,",
+      "start": 9.078,
+      "end": 9.338,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "letting",
+      "start": 9.398,
+      "end": 9.658,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 9.678,
+      "end": 9.818,
+      "score": 0.57,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 9.858,
+      "end": 10.059,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what's",
+      "start": 10.099,
+      "end": 10.299,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 10.339,
+      "end": 10.579,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on.",
+      "start": 10.699,
+      "end": 10.819,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 11.199,
+      "end": 11.3,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 11.36,
+      "end": 11.5,
+      "score": 0.602,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "silence.",
+      "start": 11.62,
+      "end": 12.12,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "None",
+      "start": 12.681,
+      "end": 12.841,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 12.861,
+      "end": 12.921,
+      "score": 0.675,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 12.961,
+      "end": 13.081,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 13.121,
+      "end": 13.261,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "back",
+      "start": 13.321,
+      "end": 13.521,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 13.581,
+      "end": 13.661,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me.",
+      "start": 13.701,
+      "end": 13.841,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "None",
+      "start": 14.342,
+      "end": 14.522,
+      "score": 0.709,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 14.542,
+      "end": 14.582,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 14.642,
+      "end": 14.862,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "correspond",
+      "start": 15.303,
+      "end": 15.923,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 15.963,
+      "end": 16.123,
+      "score": 0.368,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 16.143,
+      "end": 16.343,
+      "score": 0.554,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whatsoever.",
+      "start": 16.383,
+      "end": 17.044,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 17.204,
+      "end": 17.284,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hear",
+      "start": 17.324,
+      "end": 17.484,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 17.564,
+      "end": 17.724,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "feedback",
+      "start": 17.804,
+      "end": 18.265,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 18.325,
+      "end": 18.485,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them.",
+      "start": 18.525,
+      "end": 18.725,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 19.346,
+      "end": 19.526,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talked",
+      "start": 19.726,
+      "end": 19.966,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 20.026,
+      "end": 20.126,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Rick",
+      "start": 20.186,
+      "end": 20.366,
+      "score": 0.745,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Langiardi",
+      "start": 20.426,
+      "end": 21.227,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 21.367,
+      "end": 21.447,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Governor",
+      "start": 21.507,
+      "end": 21.848,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Ige.",
+      "start": 21.988,
+      "end": 22.368,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 22.729,
+      "end": 22.849,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 23.149,
+      "end": 23.27,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "messaged",
+      "start": 23.33,
+      "end": 23.691,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 23.731,
+      "end": 23.911,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 24.052,
+      "end": 24.112,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 24.152,
+      "end": 24.272,
+      "score": 0.56,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "messaged",
+      "start": 24.312,
+      "end": 24.653,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Josh",
+      "start": 25.274,
+      "end": 25.595,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Green",
+      "start": 25.655,
+      "end": 26.036,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 26.818,
+      "end": 27.159,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 27.56,
+      "end": 27.88,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospice",
+      "start": 28.662,
+      "end": 29.184,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 29.264,
+      "end": 29.685,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 30.386,
+      "end": 30.527,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 30.567,
+      "end": 30.667,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "terminally",
+      "start": 30.727,
+      "end": 31.148,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ill",
+      "start": 31.288,
+      "end": 31.469,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 31.529,
+      "end": 31.669,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 31.689,
+      "end": 31.81,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "labeled",
+      "start": 31.85,
+      "end": 32.13,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 32.211,
+      "end": 32.291,
+      "score": 0.506,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 32.331,
+      "end": 32.672,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "deaths.",
+      "start": 32.712,
+      "end": 32.972,
+      "score": 0.541,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "No",
+      "start": 33.594,
+      "end": 33.674,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one's",
+      "start": 33.734,
+      "end": 33.874,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ever",
+      "start": 33.894,
+      "end": 34.035,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gotten",
+      "start": 34.075,
+      "end": 34.275,
+      "score": 0.725,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "back",
+      "start": 34.315,
+      "end": 34.496,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 34.516,
+      "end": 34.616,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 34.656,
+      "end": 34.736,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 34.756,
+      "end": 35.017,
+      "score": 0.644,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 35.037,
+      "end": 35.177,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "No",
+      "start": 35.438,
+      "end": 35.518,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one's",
+      "start": 35.578,
+      "end": 35.719,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ever",
+      "start": 35.759,
+      "end": 35.939,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "investigated",
+      "start": 35.979,
+      "end": 36.621,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this.",
+      "start": 36.681,
+      "end": 36.861,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

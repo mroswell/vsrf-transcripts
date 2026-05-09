@@ -1,132 +1,882 @@
 {
-  "text": " This country was started by people who were angry that they weren't allowed to criticize their government. And that's why they put that right in the First Amendment. And today that right has been taken from us over the past two years. We are no longer allowed on most of the media to criticize government policies with which we disagree.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.76,
-      "text": " This country was started by people who were angry that they weren't allowed to criticize their",
-      "tokens": [
-        50364,
-        639,
-        1941,
-        390,
-        1409,
-        538,
-        561,
-        567,
-        645,
-        6884,
-        300,
-        436,
-        4999,
-        380,
-        4350,
-        281,
-        31010,
-        641,
-        50752
+      "start": 0.091,
+      "end": 8.278,
+      "text": " this country was started by people who were angry that they weren't allowed to criticize their government.",
+      "words": [
+        {
+          "word": "this",
+          "start": 0.091,
+          "end": 0.271,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "country",
+          "start": 0.351,
+          "end": 0.772,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 0.852,
+          "end": 1.152,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "started",
+          "start": 2.493,
+          "end": 3.134,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 4.174,
+          "end": 4.415,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 4.515,
+          "end": 4.955,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 5.275,
+          "end": 5.415,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 5.455,
+          "end": 5.696,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "angry",
+          "start": 5.896,
+          "end": 6.156,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 6.196,
+          "end": 6.316,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 6.336,
+          "end": 6.476,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "weren't",
+          "start": 6.516,
+          "end": 6.676,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "allowed",
+          "start": 6.716,
+          "end": 6.957,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 6.997,
+          "end": 7.057,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "criticize",
+          "start": 7.097,
+          "end": 7.637,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 7.677,
+          "end": 7.837,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "government.",
+          "start": 7.857,
+          "end": 8.278,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11885074413183963,
-      "compression_ratio": 1.546448087431694,
-      "no_speech_prob": 0.02689456008374691
+      "avg_logprob": -0.04751632518287915,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.76,
-      "end": 13.6,
-      "text": " government. And that's why they put that right in the First Amendment. And today that right has",
-      "tokens": [
-        50752,
-        2463,
-        13,
-        400,
-        300,
-        311,
-        983,
-        436,
-        829,
-        300,
-        558,
-        294,
-        264,
-        2386,
-        21443,
-        13,
-        400,
-        965,
-        300,
-        558,
-        575,
-        51044
+      "start": 8.678,
+      "end": 11.7,
+      "text": "And that's why they put that right in the first amendment.",
+      "words": [
+        {
+          "word": "And",
+          "start": 8.678,
+          "end": 8.778,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 8.838,
+          "end": 9.078,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "why",
+          "start": 9.118,
+          "end": 9.278,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 9.319,
+          "end": 9.479,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "put",
+          "start": 9.559,
+          "end": 9.739,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 9.799,
+          "end": 9.979,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right",
+          "start": 10.099,
+          "end": 10.379,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 10.54,
+          "end": 10.62,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 10.64,
+          "end": 10.72,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 10.78,
+          "end": 11.1,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "amendment.",
+          "start": 11.16,
+          "end": 11.7,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11885074413183963,
-      "compression_ratio": 1.546448087431694,
-      "no_speech_prob": 0.02689456008374691
+      "avg_logprob": -0.04751632518287915,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 13.6,
-      "end": 20.16,
-      "text": " been taken from us over the past two years. We are no longer allowed on most of the media to",
-      "tokens": [
-        51044,
-        668,
-        2726,
-        490,
-        505,
-        670,
-        264,
-        1791,
-        732,
-        924,
-        13,
-        492,
-        366,
-        572,
-        2854,
-        4350,
-        322,
-        881,
-        295,
-        264,
-        3021,
-        281,
-        51372
+      "start": 12.201,
+      "end": 15.804,
+      "text": "And today that right has been taken from us over the past two years.",
+      "words": [
+        {
+          "word": "And",
+          "start": 12.201,
+          "end": 12.341,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "today",
+          "start": 12.421,
+          "end": 12.861,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 12.941,
+          "end": 13.142,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right",
+          "start": 13.242,
+          "end": 13.482,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 13.542,
+          "end": 13.722,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 13.742,
+          "end": 13.922,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taken",
+          "start": 13.942,
+          "end": 14.263,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 14.303,
+          "end": 14.463,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 14.543,
+          "end": 14.623,
+          "score": 0.676,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over",
+          "start": 14.683,
+          "end": 14.823,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 14.863,
+          "end": 14.943,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "past",
+          "start": 14.983,
+          "end": 15.283,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two",
+          "start": 15.323,
+          "end": 15.464,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years.",
+          "start": 15.504,
+          "end": 15.804,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11885074413183963,
-      "compression_ratio": 1.546448087431694,
-      "no_speech_prob": 0.02689456008374691
+      "avg_logprob": -0.04751632518287915,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 2016,
-      "start": 20.16,
-      "end": 23.2,
-      "text": " criticize government policies with which we disagree.",
-      "tokens": [
-        50364,
-        31010,
-        2463,
-        7657,
-        365,
-        597,
-        321,
-        14091,
-        13,
-        50516
+      "start": 15.864,
+      "end": 23.23,
+      "text": "We are no longer allowed on most of the media to criticize government policies with which we disagree.",
+      "words": [
+        {
+          "word": "We",
+          "start": 15.864,
+          "end": 15.964,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 16.004,
+          "end": 16.124,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 16.224,
+          "end": 16.464,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "longer",
+          "start": 16.544,
+          "end": 16.985,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "allowed",
+          "start": 17.065,
+          "end": 17.585,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 17.605,
+          "end": 17.645,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 18.826,
+          "end": 19.146,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 19.187,
+          "end": 19.247,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 19.287,
+          "end": 19.347,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "media",
+          "start": 19.407,
+          "end": 19.987,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 20.127,
+          "end": 20.227,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "criticize",
+          "start": 20.307,
+          "end": 21.088,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "government",
+          "start": 21.148,
+          "end": 21.568,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "policies",
+          "start": 21.608,
+          "end": 22.129,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 22.189,
+          "end": 22.329,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 22.389,
+          "end": 22.549,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 22.589,
+          "end": 22.709,
+          "score": 0.682,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disagree.",
+          "start": 22.749,
+          "end": 23.23,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.40240361473777075,
-      "compression_ratio": 0.9137931034482759,
-      "no_speech_prob": 0.008318289183080196
+      "avg_logprob": -0.04751632518287915,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "this",
+      "start": 0.091,
+      "end": 0.271,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "country",
+      "start": 0.351,
+      "end": 0.772,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 0.852,
+      "end": 1.152,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "started",
+      "start": 2.493,
+      "end": 3.134,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 4.174,
+      "end": 4.415,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 4.515,
+      "end": 4.955,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 5.275,
+      "end": 5.415,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 5.455,
+      "end": 5.696,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "angry",
+      "start": 5.896,
+      "end": 6.156,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 6.196,
+      "end": 6.316,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 6.336,
+      "end": 6.476,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "weren't",
+      "start": 6.516,
+      "end": 6.676,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "allowed",
+      "start": 6.716,
+      "end": 6.957,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 6.997,
+      "end": 7.057,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "criticize",
+      "start": 7.097,
+      "end": 7.637,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 7.677,
+      "end": 7.837,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "government.",
+      "start": 7.857,
+      "end": 8.278,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 8.678,
+      "end": 8.778,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 8.838,
+      "end": 9.078,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "why",
+      "start": 9.118,
+      "end": 9.278,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 9.319,
+      "end": 9.479,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "put",
+      "start": 9.559,
+      "end": 9.739,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 9.799,
+      "end": 9.979,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right",
+      "start": 10.099,
+      "end": 10.379,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 10.54,
+      "end": 10.62,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 10.64,
+      "end": 10.72,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 10.78,
+      "end": 11.1,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "amendment.",
+      "start": 11.16,
+      "end": 11.7,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 12.201,
+      "end": 12.341,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "today",
+      "start": 12.421,
+      "end": 12.861,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 12.941,
+      "end": 13.142,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right",
+      "start": 13.242,
+      "end": 13.482,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 13.542,
+      "end": 13.722,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 13.742,
+      "end": 13.922,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taken",
+      "start": 13.942,
+      "end": 14.263,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 14.303,
+      "end": 14.463,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 14.543,
+      "end": 14.623,
+      "score": 0.676,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over",
+      "start": 14.683,
+      "end": 14.823,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 14.863,
+      "end": 14.943,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "past",
+      "start": 14.983,
+      "end": 15.283,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two",
+      "start": 15.323,
+      "end": 15.464,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years.",
+      "start": 15.504,
+      "end": 15.804,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 15.864,
+      "end": 15.964,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 16.004,
+      "end": 16.124,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 16.224,
+      "end": 16.464,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "longer",
+      "start": 16.544,
+      "end": 16.985,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "allowed",
+      "start": 17.065,
+      "end": 17.585,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 17.605,
+      "end": 17.645,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 18.826,
+      "end": 19.146,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 19.187,
+      "end": 19.247,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 19.287,
+      "end": 19.347,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "media",
+      "start": 19.407,
+      "end": 19.987,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 20.127,
+      "end": 20.227,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "criticize",
+      "start": 20.307,
+      "end": 21.088,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "government",
+      "start": 21.148,
+      "end": 21.568,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "policies",
+      "start": 21.608,
+      "end": 22.129,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 22.189,
+      "end": 22.329,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 22.389,
+      "end": 22.549,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 22.589,
+      "end": 22.709,
+      "score": 0.682,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disagree.",
+      "start": 22.749,
+      "end": 23.23,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

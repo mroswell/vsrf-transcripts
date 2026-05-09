@@ -1,1008 +1,4388 @@
 {
-  "text": " I'm gonna tell you what I use and how I address these patients. Number one, we saw everybody in person. So I got to see them face to face. I'm a face to face doctor, I'm not a telemedicine doctor. I have to see this disease for myself. So those who presented with basically just upper URI symptoms cough, not really cough, but more runny nose, headache, fever, those patients got hydroxychloroquine. We started them on 400 milligrams twice a day on day one, and then 200 milligrams three times a day, day two through five. That's number one drug. Number two, we gave them Zithromax or doxycycline. And number three, we gave them zinc. And the zinc was either the zinc sulfate, the 220, or just regular over the countersink, 25, and we gave that to them twice a day. We also used vitamin D3, 5,000 units a day, vitamin C, 500 milligrams twice a day. And we started using an acetylcysteine, NAC, okay? 600 milligrams a day. That was the foundation of our treatment. That's what it started. If patients had pulmonary symptoms, if they had the chest pain and they had a shortness of breath, we did chest x-rays. We found early on that the chest x-rays were positive for inflammation. So what do we do? We started treating the inflammation. So I gave them six milligrams of decadron, and we started them on inhaled budesonite in the nebulized form. I wanted to stay away from the systemic treatment because I didn't want to really suppress their immune system, but I wanted to treat the inflammation. So that's why we went to the nebulized budesonite form. And amazingly, what happened was we found in two to three days, 99% of our patients were better.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.44,
-      "text": " I'm gonna tell you what I use and how I address these patients.",
-      "tokens": [
-        50364,
-        286,
-        478,
-        799,
-        980,
-        291,
-        437,
-        286,
-        764,
-        293,
-        577,
-        286,
-        2985,
-        613,
-        4209,
-        13,
-        50586
+      "start": 0.031,
+      "end": 3.774,
+      "text": " I'm going to tell you what I use and how I address these patients.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 0.031,
+          "end": 0.091,
+          "score": 0.004,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 0.111,
+          "end": 0.211,
+          "score": 0.302,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 0.271,
+          "end": 0.331,
+          "score": 0.47,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tell",
+          "start": 0.371,
+          "end": 0.571,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 0.591,
+          "end": 0.712,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 1.032,
+          "end": 1.192,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 1.252,
+          "end": 1.332,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "use",
+          "start": 1.472,
+          "end": 1.612,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 1.652,
+          "end": 1.732,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 1.792,
+          "end": 1.952,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 2.053,
+          "end": 2.613,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "address",
+          "start": 2.853,
+          "end": 3.153,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 3.173,
+          "end": 3.334,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients.",
+          "start": 3.394,
+          "end": 3.774,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.060781249813735484,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.44,
-      "end": 6.4,
-      "text": " Number one, we saw everybody in person.",
-      "tokens": [
-        50586,
-        5118,
-        472,
-        11,
-        321,
-        1866,
-        2201,
-        294,
-        954,
-        13,
-        50684
+      "start": 4.494,
+      "end": 6.236,
+      "text": "Number one, we saw everybody in person.",
+      "words": [
+        {
+          "word": "Number",
+          "start": 4.494,
+          "end": 4.715,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one,",
+          "start": 4.795,
+          "end": 4.935,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 4.955,
+          "end": 5.035,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "saw",
+          "start": 5.075,
+          "end": 5.215,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "everybody",
+          "start": 5.275,
+          "end": 5.635,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 5.715,
+          "end": 5.795,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "person.",
+          "start": 5.855,
+          "end": 6.236,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.060781249813735484,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 6.4,
-      "end": 8.2,
-      "text": " So I got to see them face to face.",
-      "tokens": [
-        50684,
-        407,
-        286,
-        658,
-        281,
-        536,
-        552,
-        1851,
-        281,
-        1851,
-        13,
-        50774
+      "start": 6.456,
+      "end": 7.937,
+      "text": "So I got to see them face to face.",
+      "words": [
+        {
+          "word": "So",
+          "start": 6.456,
+          "end": 6.576,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 6.616,
+          "end": 6.696,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 6.736,
+          "end": 6.856,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 6.896,
+          "end": 6.976,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "see",
+          "start": 6.996,
+          "end": 7.136,
+          "score": 0.629,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 7.156,
+          "end": 7.297,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "face",
+          "start": 7.337,
+          "end": 7.537,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 7.557,
+          "end": 7.637,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "face.",
+          "start": 7.697,
+          "end": 7.937,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.060781249813735484,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 8.2,
-      "end": 11.64,
-      "text": " I'm a face to face doctor, I'm not a telemedicine doctor.",
-      "tokens": [
-        50774,
-        286,
-        478,
-        257,
-        1851,
-        281,
-        1851,
-        4631,
-        11,
-        286,
-        478,
-        406,
-        257,
-        4304,
-        1912,
-        299,
-        533,
-        4631,
-        13,
-        50946
+      "start": 8.217,
+      "end": 9.298,
+      "text": "I'm a face to face doctor.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 8.217,
+          "end": 8.337,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 8.377,
+          "end": 8.417,
+          "score": 0.537,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "face",
+          "start": 8.477,
+          "end": 8.658,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 8.678,
+          "end": 8.758,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "face",
+          "start": 8.798,
+          "end": 8.998,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctor.",
+          "start": 9.038,
+          "end": 9.298,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.060781249813735484,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 11.64,
-      "end": 15.76,
-      "text": " I have to see this disease for myself.",
-      "tokens": [
-        50946,
-        286,
-        362,
-        281,
-        536,
-        341,
-        4752,
-        337,
-        2059,
-        13,
-        51152
+      "start": 9.318,
+      "end": 10.519,
+      "text": "I'm not a telemedicine doctor.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 9.318,
+          "end": 9.378,
+          "score": 0.538,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 9.398,
+          "end": 9.498,
+          "score": 0.683,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 9.538,
+          "end": 9.578,
+          "score": 0.012,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "telemedicine",
+          "start": 9.598,
+          "end": 10.159,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctor.",
+          "start": 10.179,
+          "end": 10.519,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.060781249813735484,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 15.76,
-      "end": 20.76,
-      "text": " So those who presented with basically just upper URI symptoms",
-      "tokens": [
-        51152,
-        407,
-        729,
-        567,
-        8212,
-        365,
-        1936,
-        445,
-        6597,
-        624,
-        5577,
-        8332,
-        51402
+      "start": 11.82,
+      "end": 14.882,
+      "text": "I have to see disease for myself.",
+      "words": [
+        {
+          "word": "I",
+          "start": 11.82,
+          "end": 12.38,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 12.44,
+          "end": 12.621,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 12.661,
+          "end": 12.761,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "see",
+          "start": 12.821,
+          "end": 13.041,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease",
+          "start": 13.922,
+          "end": 14.282,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 14.322,
+          "end": 14.462,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "myself.",
+          "start": 14.502,
+          "end": 14.882,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.060781249813735484,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 23.2,
-      "end": 24.52,
-      "text": " cough, not really cough,",
-      "tokens": [
-        51524,
-        22777,
-        11,
-        406,
-        534,
-        22777,
-        11,
-        51590
+      "start": 15.903,
+      "end": 29.053,
+      "text": "So those who presented with basically just upper URI symptoms, cough, not really cough, but more runny nose, headache, fever, those patients got hydroxychloroquine.",
+      "words": [
+        {
+          "word": "So",
+          "start": 15.903,
+          "end": 16.163,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 17.624,
+          "end": 17.865,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 17.925,
+          "end": 18.065,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "presented",
+          "start": 18.145,
+          "end": 18.605,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 18.765,
+          "end": 19.005,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "basically",
+          "start": 19.806,
+          "end": 20.446,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 20.667,
+          "end": 20.887,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "upper",
+          "start": 21.047,
+          "end": 22.108,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "URI",
+          "start": 22.348,
+          "end": 22.728,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "symptoms,",
+          "start": 22.788,
+          "end": 23.209,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cough,",
+          "start": 23.249,
+          "end": 23.589,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 23.849,
+          "end": 23.969,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 23.989,
+          "end": 24.209,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cough,",
+          "start": 24.249,
+          "end": 24.51,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 24.53,
+          "end": 24.63,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 24.67,
+          "end": 24.85,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "runny",
+          "start": 24.93,
+          "end": 25.13,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nose,",
+          "start": 25.17,
+          "end": 25.39,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "headache,",
+          "start": 25.43,
+          "end": 25.77,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fever,",
+          "start": 25.831,
+          "end": 26.131,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 27.192,
+          "end": 27.412,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 27.452,
+          "end": 27.832,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 27.852,
+          "end": 28.052,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hydroxychloroquine.",
+          "start": 28.092,
+          "end": 29.053,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.060781249813735484,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 24.52,
-      "end": 26.96,
-      "text": " but more runny nose, headache, fever,",
-      "tokens": [
-        51590,
-        457,
-        544,
-        1190,
-        1634,
-        6690,
-        11,
-        23520,
-        11,
-        18277,
-        11,
-        51712
+      "start": 29.329,
+      "end": 32.151,
+      "text": " We started them on 400 milligrams twice a day on day one.",
+      "words": [
+        {
+          "word": "We",
+          "start": 29.329,
+          "end": 29.429,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "started",
+          "start": 29.449,
+          "end": 29.649,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 29.669,
+          "end": 29.749,
+          "score": 0.506,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 29.829,
+          "end": 29.889,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "400",
+          "start": 29.909,
+          "end": 30.189,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "milligrams",
+          "start": 30.39,
+          "end": 30.93,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "twice",
+          "start": 31.13,
+          "end": 31.39,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 31.43,
+          "end": 31.45,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day",
+          "start": 31.49,
+          "end": 31.57,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 31.63,
+          "end": 31.71,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day",
+          "start": 31.75,
+          "end": 31.89,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one.",
+          "start": 32.01,
+          "end": 32.151,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.07666015725893278,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 26.96,
-      "end": 29.28,
-      "text": " those patients got hydroxychloroquine.",
-      "tokens": [
-        51712,
-        729,
-        4209,
-        658,
-        15435,
-        12876,
-        339,
-        6746,
-        29826,
-        533,
-        13,
-        51828
+      "start": 33.331,
+      "end": 38.254,
+      "text": "And then 200 milligrams three times a day, day two through five.",
+      "words": [
+        {
+          "word": "And",
+          "start": 33.331,
+          "end": 33.411,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "then",
+          "start": 33.431,
+          "end": 33.571,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "200",
+          "start": 33.891,
+          "end": 34.792,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "milligrams",
+          "start": 35.252,
+          "end": 35.752,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three",
+          "start": 36.393,
+          "end": 36.593,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "times",
+          "start": 36.633,
+          "end": 36.853,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 36.913,
+          "end": 36.933,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day,",
+          "start": 36.973,
+          "end": 37.233,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day",
+          "start": 37.453,
+          "end": 37.613,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two",
+          "start": 37.633,
+          "end": 37.773,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 37.793,
+          "end": 37.974,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "five.",
+          "start": 38.014,
+          "end": 38.254,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16614996376684157,
-      "compression_ratio": 1.6024096385542168,
-      "no_speech_prob": 0.018472377210855484
+      "avg_logprob": -0.07666015725893278,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2928,
-      "start": 29.28,
-      "end": 32.36,
-      "text": " We started them on 400 milligrams twice a day on day one,",
-      "tokens": [
-        50364,
-        492,
-        1409,
-        552,
-        322,
-        8423,
-        45147,
-        6091,
-        257,
-        786,
-        322,
-        786,
-        472,
-        11,
-        50518
+      "start": 39.654,
+      "end": 41.015,
+      "text": "That's number one drug.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 39.654,
+          "end": 39.875,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "number",
+          "start": 40.375,
+          "end": 40.575,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 40.655,
+          "end": 40.755,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drug.",
+          "start": 40.775,
+          "end": 41.015,
+          "score": 0.981,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.07666015725893278,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 2928,
-      "start": 33.28,
-      "end": 37.400000000000006,
-      "text": " and then 200 milligrams three times a day,",
-      "tokens": [
-        50564,
-        293,
-        550,
-        2331,
-        45147,
-        1045,
-        1413,
-        257,
-        786,
-        11,
-        50770
+      "start": 41.235,
+      "end": 44.977,
+      "text": "Number two, we gave them Zithromax or doxycycline.",
+      "words": [
+        {
+          "word": "Number",
+          "start": 41.235,
+          "end": 41.455,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two,",
+          "start": 41.495,
+          "end": 41.736,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 42.436,
+          "end": 42.556,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gave",
+          "start": 42.596,
+          "end": 42.776,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 42.816,
+          "end": 42.996,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Zithromax",
+          "start": 43.436,
+          "end": 44.017,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 44.117,
+          "end": 44.197,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doxycycline.",
+          "start": 44.237,
+          "end": 44.977,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.07666015725893278,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 2928,
-      "start": 37.400000000000006,
-      "end": 38.52,
-      "text": " day two through five.",
-      "tokens": [
-        50770,
-        786,
-        732,
-        807,
-        1732,
-        13,
-        50826
+      "start": 46.778,
+      "end": 48.379,
+      "text": "And number three, we gave them zinc.",
+      "words": [
+        {
+          "word": "And",
+          "start": 46.778,
+          "end": 46.858,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "number",
+          "start": 46.898,
+          "end": 47.118,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three,",
+          "start": 47.178,
+          "end": 47.439,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 47.539,
+          "end": 47.659,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gave",
+          "start": 47.699,
+          "end": 47.859,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 47.899,
+          "end": 48.039,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zinc.",
+          "start": 48.119,
+          "end": 48.379,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.07666015725893278,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 2928,
-      "start": 39.6,
-      "end": 41.160000000000004,
-      "text": " That's number one drug.",
-      "tokens": [
-        50880,
-        663,
-        311,
-        1230,
-        472,
-        4110,
-        13,
-        50958
+      "start": 49.92,
+      "end": 55.623,
+      "text": "And the zinc was either the zinc sulfate, the 220, or just regular over-the-counter zinc, 25, and we gave that to them twice a day.",
+      "words": [
+        {
+          "word": "And",
+          "start": 49.92,
+          "end": 50.0,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 50.02,
+          "end": 50.12,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zinc",
+          "start": 50.14,
+          "end": 50.32,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 50.36,
+          "end": 50.46,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "either",
+          "start": 50.52,
+          "end": 50.72,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 50.76,
+          "end": 50.84,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zinc",
+          "start": 50.86,
+          "end": 51.06,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sulfate,",
+          "start": 51.081,
+          "end": 51.501,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 51.521,
+          "end": 51.621,
+          "score": 0.695,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "220,",
+          "start": 51.821,
+          "end": 52.081,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 52.221,
+          "end": 52.341,
+          "score": 0.69,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 52.381,
+          "end": 52.541,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "regular",
+          "start": 52.601,
+          "end": 52.901,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over-the-counter",
+          "start": 52.961,
+          "end": 53.462,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zinc,",
+          "start": 53.482,
+          "end": 53.942,
+          "score": 0.571,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "25,",
+          "start": 53.982,
+          "end": 54.222,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 54.322,
+          "end": 54.402,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 54.442,
+          "end": 54.522,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gave",
+          "start": 54.542,
+          "end": 54.682,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 54.702,
+          "end": 54.822,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 54.842,
+          "end": 54.983,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 55.023,
+          "end": 55.143,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "twice",
+          "start": 55.203,
+          "end": 55.443,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 55.483,
+          "end": 55.503,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day.",
+          "start": 55.523,
+          "end": 55.623,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.07666015725893278,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 2928,
-      "start": 41.160000000000004,
-      "end": 45.160000000000004,
-      "text": " Number two, we gave them Zithromax or doxycycline.",
-      "tokens": [
-        50958,
-        5118,
-        732,
-        11,
-        321,
-        2729,
-        552,
-        1176,
-        355,
-        4397,
-        2797,
-        420,
-        360,
-        12876,
-        1344,
-        66,
-        1889,
-        13,
-        51158
+      "start": 57.072,
+      "end": 64.316,
+      "text": " We also used vitamin D3, 5,000 units a day, vitamin C, 500 milligrams twice a day.",
+      "words": [
+        {
+          "word": "We",
+          "start": 57.072,
+          "end": 57.192,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 57.252,
+          "end": 57.512,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "used",
+          "start": 57.732,
+          "end": 58.013,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vitamin",
+          "start": 58.613,
+          "end": 58.953,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "D3,",
+          "start": 58.993,
+          "end": 59.433,
+          "score": 0.597,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "5,000",
+          "start": 59.453,
+          "end": 60.754,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "units",
+          "start": 60.894,
+          "end": 61.374,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 61.434,
+          "end": 61.454,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day,",
+          "start": 61.494,
+          "end": 61.655,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vitamin",
+          "start": 62.295,
+          "end": 62.675,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "C,",
+          "start": 62.695,
+          "end": 62.915,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "500",
+          "start": 62.995,
+          "end": 63.355,
+          "score": 0.444,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "milligrams",
+          "start": 63.375,
+          "end": 63.796,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "twice",
+          "start": 63.856,
+          "end": 64.096,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 64.116,
+          "end": 64.156,
+          "score": 0.573,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day.",
+          "start": 64.176,
+          "end": 64.316,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.13524590457072022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 2928,
-      "start": 46.68000000000001,
-      "end": 48.64,
-      "text": " And number three, we gave them zinc.",
-      "tokens": [
-        51234,
-        400,
-        1230,
-        1045,
-        11,
-        321,
-        2729,
-        552,
-        29062,
-        13,
-        51332
+      "start": 66.857,
+      "end": 69.699,
+      "text": "And we started using N-acetylcysteine, NAC.",
+      "words": [
+        {
+          "word": "And",
+          "start": 66.857,
+          "end": 67.017,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 67.218,
+          "end": 67.358,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "started",
+          "start": 67.398,
+          "end": 67.658,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "using",
+          "start": 67.758,
+          "end": 68.058,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "N-acetylcysteine,",
+          "start": 68.218,
+          "end": 69.159,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "NAC.",
+          "start": 69.459,
+          "end": 69.699,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.13524590457072022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 2928,
-      "start": 49.84,
-      "end": 52.08,
-      "text": " And the zinc was either the zinc sulfate, the 220,",
-      "tokens": [
-        51392,
-        400,
-        264,
-        29062,
-        390,
-        2139,
-        264,
-        29062,
-        22925,
-        473,
-        11,
-        264,
-        29387,
-        11,
-        51504
+      "start": 70.8,
+      "end": 71.74,
+      "text": "Okay?",
+      "words": [
+        {
+          "word": "Okay?",
+          "start": 70.8,
+          "end": 71.74,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.13524590457072022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 2928,
-      "start": 52.08,
-      "end": 54.28,
-      "text": " or just regular over the countersink, 25,",
-      "tokens": [
-        51504,
-        420,
-        445,
-        3890,
-        670,
-        264,
-        39338,
-        475,
-        11,
-        3552,
-        11,
-        51614
+      "start": 71.76,
+      "end": 72.621,
+      "text": "600 milligrams a day.",
+      "words": [
+        {
+          "word": "600",
+          "start": 71.76,
+          "end": 71.92,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "milligrams",
+          "start": 71.94,
+          "end": 72.36,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 72.42,
+          "end": 72.44,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day.",
+          "start": 72.48,
+          "end": 72.621,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.13524590457072022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 2928,
-      "start": 54.28,
-      "end": 57.0,
-      "text": " and we gave that to them twice a day.",
-      "tokens": [
-        51614,
-        293,
-        321,
-        2729,
-        300,
-        281,
-        552,
-        6091,
-        257,
-        786,
-        13,
-        51750
+      "start": 73.721,
+      "end": 76.082,
+      "text": "That was the foundation of our treatment.",
+      "words": [
+        {
+          "word": "That",
+          "start": 73.721,
+          "end": 73.921,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 73.961,
+          "end": 74.201,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 74.702,
+          "end": 74.802,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "foundation",
+          "start": 74.842,
+          "end": 75.362,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 75.502,
+          "end": 75.562,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 75.622,
+          "end": 75.702,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treatment.",
+          "start": 75.742,
+          "end": 76.082,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20745015144348145,
-      "compression_ratio": 1.697674418604651,
-      "no_speech_prob": 0.00025695253862068057
+      "avg_logprob": -0.13524590457072022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 5700,
-      "start": 57.04,
-      "end": 62.04,
-      "text": " We also used vitamin D3, 5,000 units a day, vitamin C,",
-      "tokens": [
-        50366,
-        492,
-        611,
-        1143,
-        17163,
-        413,
-        18,
-        11,
-        1025,
-        11,
-        1360,
-        6815,
-        257,
-        786,
-        11,
-        17163,
-        383,
-        11,
-        50616
+      "start": 76.323,
+      "end": 77.143,
+      "text": "That's what it started.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 76.323,
+          "end": 76.523,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 76.563,
+          "end": 76.683,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 76.723,
+          "end": 76.823,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "started.",
+          "start": 76.843,
+          "end": 77.143,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
+      "avg_logprob": -0.13524590457072022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 5700,
-      "start": 62.96,
-      "end": 64.56,
-      "text": " 500 milligrams twice a day.",
-      "tokens": [
-        50662,
-        5923,
-        45147,
-        6091,
-        257,
-        786,
-        13,
-        50742
+      "start": 77.995,
+      "end": 84.037,
+      "text": " If patients had pulmonary symptoms, if they had the chest pain and they had a shortness of breath, we did chest x-rays.",
+      "words": [
+        {
+          "word": "If",
+          "start": 77.995,
+          "end": 78.095,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 78.175,
+          "end": 78.535,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 78.575,
+          "end": 78.735,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pulmonary",
+          "start": 78.975,
+          "end": 79.455,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "symptoms,",
+          "start": 79.516,
+          "end": 79.916,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 80.116,
+          "end": 80.196,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 80.236,
+          "end": 80.336,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 80.356,
+          "end": 80.476,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 80.496,
+          "end": 80.556,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chest",
+          "start": 80.616,
+          "end": 80.876,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pain",
+          "start": 80.916,
+          "end": 81.156,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 81.296,
+          "end": 81.396,
+          "score": 0.727,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 81.416,
+          "end": 81.496,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 81.536,
+          "end": 81.656,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 81.696,
+          "end": 81.736,
+          "score": 0.004,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shortness",
+          "start": 81.776,
+          "end": 82.076,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 82.116,
+          "end": 82.176,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "breath,",
+          "start": 82.196,
+          "end": 82.436,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 83.037,
+          "end": 83.157,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "did",
+          "start": 83.197,
+          "end": 83.317,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chest",
+          "start": 83.357,
+          "end": 83.577,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "x-rays.",
+          "start": 83.697,
+          "end": 84.037,
+          "score": 0.653,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
+      "avg_logprob": -0.09862231503250779,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 20,
-      "seek": 5700,
-      "start": 66.68,
-      "end": 71.44,
-      "text": " And we started using an acetylcysteine, NAC, okay?",
-      "tokens": [
-        50848,
-        400,
-        321,
-        1409,
-        1228,
-        364,
-        696,
-        2210,
-        75,
-        1344,
-        2941,
-        533,
-        11,
-        426,
-        4378,
-        11,
-        1392,
-        30,
-        51086
+      "start": 84.617,
+      "end": 88.018,
+      "text": "We found early on that the chest x-rays were positive for inflammation.",
+      "words": [
+        {
+          "word": "We",
+          "start": 84.617,
+          "end": 84.717,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "found",
+          "start": 84.757,
+          "end": 84.957,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "early",
+          "start": 84.977,
+          "end": 85.297,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 85.477,
+          "end": 85.617,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 85.657,
+          "end": 85.777,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 85.817,
+          "end": 85.877,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chest",
+          "start": 85.938,
+          "end": 86.118,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "x-rays",
+          "start": 86.218,
+          "end": 86.478,
+          "score": 0.501,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 86.518,
+          "end": 86.638,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "positive",
+          "start": 86.698,
+          "end": 87.178,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 87.198,
+          "end": 87.318,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inflammation.",
+          "start": 87.358,
+          "end": 88.018,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
+      "avg_logprob": -0.09862231503250779,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 21,
-      "seek": 5700,
-      "start": 71.44,
-      "end": 73.64,
-      "text": " 600 milligrams a day.",
-      "tokens": [
-        51086,
-        11849,
-        45147,
-        257,
-        786,
-        13,
-        51196
+      "start": 89.159,
+      "end": 90.219,
+      "text": "So what did we do?",
+      "words": [
+        {
+          "word": "So",
+          "start": 89.159,
+          "end": 89.359,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 89.659,
+          "end": 89.779,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "did",
+          "start": 89.819,
+          "end": 89.919,
+          "score": 0.556,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 89.939,
+          "end": 90.019,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do?",
+          "start": 90.059,
+          "end": 90.219,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
+      "avg_logprob": -0.09862231503250779,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 22,
-      "seek": 5700,
-      "start": 73.64,
-      "end": 76.28,
-      "text": " That was the foundation of our treatment.",
-      "tokens": [
-        51196,
-        663,
-        390,
-        264,
-        7030,
-        295,
-        527,
-        5032,
-        13,
-        51328
+      "start": 90.659,
+      "end": 92.4,
+      "text": "We started treating the inflammation.",
+      "words": [
+        {
+          "word": "We",
+          "start": 90.659,
+          "end": 90.739,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "started",
+          "start": 90.779,
+          "end": 91.039,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treating",
+          "start": 91.139,
+          "end": 91.439,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 91.739,
+          "end": 91.819,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inflammation.",
+          "start": 91.859,
+          "end": 92.4,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
+      "avg_logprob": -0.09862231503250779,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 23,
-      "seek": 5700,
-      "start": 76.28,
-      "end": 77.88,
-      "text": " That's what it started.",
-      "tokens": [
-        51328,
-        663,
-        311,
-        437,
-        309,
-        1409,
-        13,
-        51408
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
-    },
-    {
-      "id": 24,
-      "seek": 5700,
-      "start": 77.88,
-      "end": 80.03999999999999,
-      "text": " If patients had pulmonary symptoms,",
-      "tokens": [
-        51408,
-        759,
-        4209,
-        632,
-        8331,
-        46386,
-        8332,
-        11,
-        51516
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
-    },
-    {
-      "id": 25,
-      "seek": 5700,
-      "start": 80.03999999999999,
-      "end": 83.0,
-      "text": " if they had the chest pain and they had a shortness of breath,",
-      "tokens": [
-        51516,
-        498,
-        436,
-        632,
-        264,
-        7443,
-        1822,
-        293,
-        436,
-        632,
-        257,
-        2099,
-        1287,
-        295,
-        6045,
-        11,
-        51664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
-    },
-    {
-      "id": 26,
-      "seek": 5700,
-      "start": 83.0,
-      "end": 84.6,
-      "text": " we did chest x-rays.",
-      "tokens": [
-        51664,
-        321,
-        630,
-        7443,
-        2031,
-        12,
-        36212,
-        13,
-        51744
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
-    },
-    {
-      "id": 27,
-      "seek": 5700,
-      "start": 84.6,
-      "end": 86.52,
-      "text": " We found early on that the chest x-rays",
-      "tokens": [
-        51744,
-        492,
-        1352,
-        2440,
-        322,
-        300,
-        264,
-        7443,
-        2031,
-        12,
-        36212,
-        51840
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17210782368977864,
-      "compression_ratio": 1.6282051282051282,
-      "no_speech_prob": 5.372744635678828e-05
-    },
-    {
-      "id": 28,
-      "seek": 8652,
-      "start": 86.52,
-      "end": 89.08,
-      "text": " were positive for inflammation.",
-      "tokens": [
-        50364,
-        645,
-        3353,
-        337,
-        21613,
-        13,
-        50492
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
-    },
-    {
-      "id": 29,
-      "seek": 8652,
-      "start": 89.08,
-      "end": 90.64,
-      "text": " So what do we do?",
-      "tokens": [
-        50492,
-        407,
-        437,
-        360,
-        321,
-        360,
-        30,
-        50570
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
-    },
-    {
-      "id": 30,
-      "seek": 8652,
-      "start": 90.64,
-      "end": 92.92,
-      "text": " We started treating the inflammation.",
-      "tokens": [
-        50570,
-        492,
-        1409,
-        15083,
-        264,
-        21613,
-        13,
-        50684
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
-    },
-    {
-      "id": 31,
-      "seek": 8652,
       "start": 92.92,
-      "end": 95.36,
-      "text": " So I gave them six milligrams of decadron,",
-      "tokens": [
-        50684,
-        407,
-        286,
-        2729,
-        552,
-        2309,
-        45147,
-        295,
-        979,
-        345,
-        2044,
-        11,
-        50806
+      "end": 101.042,
+      "text": "So I gave them six milligrams of Decadrone and we started them on inhaled Budesonite in the nebulized form.",
+      "words": [
+        {
+          "word": "So",
+          "start": 92.92,
+          "end": 93.04,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 93.08,
+          "end": 93.12,
+          "score": 0.499,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gave",
+          "start": 93.14,
+          "end": 93.3,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 93.32,
+          "end": 93.44,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "six",
+          "start": 93.5,
+          "end": 93.7,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "milligrams",
+          "start": 93.74,
+          "end": 94.14,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 94.2,
+          "end": 94.24,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Decadrone",
+          "start": 94.28,
+          "end": 94.8,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 95.42,
+          "end": 95.5,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 95.52,
+          "end": 95.601,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "started",
+          "start": 95.641,
+          "end": 95.921,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 95.961,
+          "end": 96.081,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 96.181,
+          "end": 96.281,
+          "score": 0.568,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inhaled",
+          "start": 96.441,
+          "end": 96.861,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Budesonite",
+          "start": 96.901,
+          "end": 97.561,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 98.121,
+          "end": 98.221,
+          "score": 0.592,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 98.241,
+          "end": 98.321,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nebulized",
+          "start": 98.421,
+          "end": 99.002,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "form.",
+          "start": 99.102,
+          "end": 101.042,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
+      "avg_logprob": -0.09862231503250779,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 32,
-      "seek": 8652,
-      "start": 95.36,
-      "end": 98.08,
-      "text": " and we started them on inhaled budesonite",
-      "tokens": [
-        50806,
-        293,
-        321,
-        1409,
-        552,
-        322,
-        43157,
-        292,
-        3265,
-        279,
-        266,
-        642,
-        50942
+      "start": 101.122,
+      "end": 103.263,
+      "text": "I wanted to stay away from the systemic",
+      "words": [
+        {
+          "word": "I",
+          "start": 101.122,
+          "end": 101.322,
+          "score": 0.315,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wanted",
+          "start": 101.602,
+          "end": 101.802,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 101.842,
+          "end": 101.902,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stay",
+          "start": 101.942,
+          "end": 102.123,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away",
+          "start": 102.163,
+          "end": 102.383,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 102.403,
+          "end": 102.543,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 102.563,
+          "end": 102.623,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "systemic",
+          "start": 102.703,
+          "end": 103.263,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
+      "avg_logprob": -0.09862231503250779,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 33,
-      "seek": 8652,
-      "start": 98.08,
-      "end": 99.6,
-      "text": " in the nebulized form.",
-      "tokens": [
-        50942,
-        294,
-        264,
-        408,
-        12176,
-        1602,
-        1254,
-        13,
-        51018
+      "start": 104.614,
+      "end": 110.477,
+      "text": " treatment because I didn't want to really suppress their immune system, but I wanted to treat the inflammation.",
+      "words": [
+        {
+          "word": "treatment",
+          "start": 104.614,
+          "end": 104.994,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 105.114,
+          "end": 105.635,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 105.655,
+          "end": 105.675,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "didn't",
+          "start": 106.635,
+          "end": 106.835,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 106.875,
+          "end": 106.975,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 107.076,
+          "end": 107.116,
+          "score": 0.01,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 107.196,
+          "end": 107.436,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "suppress",
+          "start": 107.476,
+          "end": 107.836,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 107.856,
+          "end": 107.976,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 107.996,
+          "end": 108.276,
+          "score": 0.648,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system,",
+          "start": 108.316,
+          "end": 108.716,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 108.756,
+          "end": 108.876,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 108.937,
+          "end": 108.997,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wanted",
+          "start": 109.077,
+          "end": 109.357,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 109.397,
+          "end": 109.457,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treat",
+          "start": 109.477,
+          "end": 109.657,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 109.677,
+          "end": 109.757,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inflammation.",
+          "start": 109.797,
+          "end": 110.477,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
+      "avg_logprob": -0.15703124751647313,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 34,
-      "seek": 8652,
-      "start": 100.92,
-      "end": 105.08,
-      "text": " I wanted to stay away from the systemic treatment",
-      "tokens": [
-        51084,
-        286,
-        1415,
-        281,
-        1754,
-        1314,
-        490,
-        264,
-        23789,
-        5032,
-        51292
+      "start": 111.278,
+      "end": 114.139,
+      "text": "So that's why we went to the nebulized Budesonite form.",
+      "words": [
+        {
+          "word": "So",
+          "start": 111.278,
+          "end": 111.458,
+          "score": 0.558,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 111.638,
+          "end": 111.858,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "why",
+          "start": 111.918,
+          "end": 112.038,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 112.098,
+          "end": 112.178,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went",
+          "start": 112.218,
+          "end": 112.338,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 112.378,
+          "end": 112.458,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 112.478,
+          "end": 112.538,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nebulized",
+          "start": 112.659,
+          "end": 113.119,
+          "score": 0.618,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Budesonite",
+          "start": 113.159,
+          "end": 113.739,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "form.",
+          "start": 113.819,
+          "end": 114.139,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
+      "avg_logprob": -0.15703124751647313,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 35,
-      "seek": 8652,
-      "start": 105.08,
-      "end": 108.75999999999999,
-      "text": " because I didn't want to really suppress their immune system,",
-      "tokens": [
-        51292,
-        570,
-        286,
-        994,
-        380,
-        528,
-        281,
-        534,
-        26835,
-        641,
-        11992,
-        1185,
-        11,
-        51476
+      "start": 115.04,
+      "end": 122.544,
+      "text": "And amazingly what happened was we found in two to three days, 99% of our patients were better.",
+      "words": [
+        {
+          "word": "And",
+          "start": 115.04,
+          "end": 115.12,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "amazingly",
+          "start": 115.18,
+          "end": 115.82,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 115.88,
+          "end": 116.04,
+          "score": 0.718,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happened",
+          "start": 116.12,
+          "end": 116.581,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 116.641,
+          "end": 116.981,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 117.201,
+          "end": 117.361,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "found",
+          "start": 117.421,
+          "end": 117.821,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 118.021,
+          "end": 118.101,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two",
+          "start": 118.722,
+          "end": 118.942,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 118.962,
+          "end": 119.002,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three",
+          "start": 119.082,
+          "end": 119.302,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "days,",
+          "start": 119.342,
+          "end": 119.742,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "99%",
+          "start": 119.762,
+          "end": 121.083,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 121.603,
+          "end": 121.663,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 121.703,
+          "end": 121.783,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 121.823,
+          "end": 122.144,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 122.184,
+          "end": 122.304,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "better.",
+          "start": 122.344,
+          "end": 122.544,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
-    },
-    {
-      "id": 36,
-      "seek": 8652,
-      "start": 108.75999999999999,
-      "end": 111.19999999999999,
-      "text": " but I wanted to treat the inflammation.",
-      "tokens": [
-        51476,
-        457,
-        286,
-        1415,
-        281,
-        2387,
-        264,
-        21613,
-        13,
-        51598
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
-    },
-    {
-      "id": 37,
-      "seek": 8652,
-      "start": 111.19999999999999,
-      "end": 114.96,
-      "text": " So that's why we went to the nebulized budesonite form.",
-      "tokens": [
-        51598,
-        407,
-        300,
-        311,
-        983,
-        321,
-        1437,
-        281,
-        264,
-        408,
-        12176,
-        1602,
-        3265,
-        279,
-        266,
-        642,
-        1254,
-        13,
-        51786
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14529674931576378,
-      "compression_ratio": 1.8071748878923768,
-      "no_speech_prob": 0.0002963410224765539
-    },
-    {
-      "id": 38,
-      "seek": 11496,
-      "start": 115.0,
-      "end": 118.0,
-      "text": " And amazingly, what happened was we found",
-      "tokens": [
-        50366,
-        400,
-        31762,
-        11,
-        437,
-        2011,
-        390,
-        321,
-        1352,
-        50516
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1927460034688314,
-      "compression_ratio": 1.0786516853932584,
-      "no_speech_prob": 0.00014737548190169036
-    },
-    {
-      "id": 39,
-      "seek": 11496,
-      "start": 118.0,
-      "end": 123.0,
-      "text": " in two to three days, 99% of our patients were better.",
-      "tokens": [
-        50516,
-        294,
-        732,
-        281,
-        1045,
-        1708,
-        11,
-        11803,
-        4,
-        295,
-        527,
-        4209,
-        645,
-        1101,
-        13,
-        50766
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1927460034688314,
-      "compression_ratio": 1.0786516853932584,
-      "no_speech_prob": 0.00014737548190169036
+      "avg_logprob": -0.15703124751647313,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "I'm",
+      "start": 0.031,
+      "end": 0.091,
+      "score": 0.004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 0.111,
+      "end": 0.211,
+      "score": 0.302,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 0.271,
+      "end": 0.331,
+      "score": 0.47,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tell",
+      "start": 0.371,
+      "end": 0.571,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 0.591,
+      "end": 0.712,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 1.032,
+      "end": 1.192,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 1.252,
+      "end": 1.332,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "use",
+      "start": 1.472,
+      "end": 1.612,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 1.652,
+      "end": 1.732,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 1.792,
+      "end": 1.952,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 2.053,
+      "end": 2.613,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "address",
+      "start": 2.853,
+      "end": 3.153,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 3.173,
+      "end": 3.334,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients.",
+      "start": 3.394,
+      "end": 3.774,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Number",
+      "start": 4.494,
+      "end": 4.715,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one,",
+      "start": 4.795,
+      "end": 4.935,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 4.955,
+      "end": 5.035,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "saw",
+      "start": 5.075,
+      "end": 5.215,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "everybody",
+      "start": 5.275,
+      "end": 5.635,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 5.715,
+      "end": 5.795,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "person.",
+      "start": 5.855,
+      "end": 6.236,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 6.456,
+      "end": 6.576,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 6.616,
+      "end": 6.696,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 6.736,
+      "end": 6.856,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 6.896,
+      "end": 6.976,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "see",
+      "start": 6.996,
+      "end": 7.136,
+      "score": 0.629,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 7.156,
+      "end": 7.297,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "face",
+      "start": 7.337,
+      "end": 7.537,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 7.557,
+      "end": 7.637,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "face.",
+      "start": 7.697,
+      "end": 7.937,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 8.217,
+      "end": 8.337,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 8.377,
+      "end": 8.417,
+      "score": 0.537,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "face",
+      "start": 8.477,
+      "end": 8.658,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 8.678,
+      "end": 8.758,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "face",
+      "start": 8.798,
+      "end": 8.998,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctor.",
+      "start": 9.038,
+      "end": 9.298,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 9.318,
+      "end": 9.378,
+      "score": 0.538,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 9.398,
+      "end": 9.498,
+      "score": 0.683,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 9.538,
+      "end": 9.578,
+      "score": 0.012,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "telemedicine",
+      "start": 9.598,
+      "end": 10.159,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctor.",
+      "start": 10.179,
+      "end": 10.519,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 11.82,
+      "end": 12.38,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 12.44,
+      "end": 12.621,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 12.661,
+      "end": 12.761,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "see",
+      "start": 12.821,
+      "end": 13.041,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease",
+      "start": 13.922,
+      "end": 14.282,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 14.322,
+      "end": 14.462,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "myself.",
+      "start": 14.502,
+      "end": 14.882,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 15.903,
+      "end": 16.163,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 17.624,
+      "end": 17.865,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 17.925,
+      "end": 18.065,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "presented",
+      "start": 18.145,
+      "end": 18.605,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 18.765,
+      "end": 19.005,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "basically",
+      "start": 19.806,
+      "end": 20.446,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 20.667,
+      "end": 20.887,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "upper",
+      "start": 21.047,
+      "end": 22.108,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "URI",
+      "start": 22.348,
+      "end": 22.728,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "symptoms,",
+      "start": 22.788,
+      "end": 23.209,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cough,",
+      "start": 23.249,
+      "end": 23.589,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 23.849,
+      "end": 23.969,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 23.989,
+      "end": 24.209,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cough,",
+      "start": 24.249,
+      "end": 24.51,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 24.53,
+      "end": 24.63,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 24.67,
+      "end": 24.85,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "runny",
+      "start": 24.93,
+      "end": 25.13,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nose,",
+      "start": 25.17,
+      "end": 25.39,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "headache,",
+      "start": 25.43,
+      "end": 25.77,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fever,",
+      "start": 25.831,
+      "end": 26.131,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 27.192,
+      "end": 27.412,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 27.452,
+      "end": 27.832,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 27.852,
+      "end": 28.052,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hydroxychloroquine.",
+      "start": 28.092,
+      "end": 29.053,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 29.329,
+      "end": 29.429,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "started",
+      "start": 29.449,
+      "end": 29.649,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 29.669,
+      "end": 29.749,
+      "score": 0.506,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 29.829,
+      "end": 29.889,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "400",
+      "start": 29.909,
+      "end": 30.189,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "milligrams",
+      "start": 30.39,
+      "end": 30.93,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "twice",
+      "start": 31.13,
+      "end": 31.39,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 31.43,
+      "end": 31.45,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day",
+      "start": 31.49,
+      "end": 31.57,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 31.63,
+      "end": 31.71,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day",
+      "start": 31.75,
+      "end": 31.89,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one.",
+      "start": 32.01,
+      "end": 32.151,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 33.331,
+      "end": 33.411,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "then",
+      "start": 33.431,
+      "end": 33.571,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "200",
+      "start": 33.891,
+      "end": 34.792,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "milligrams",
+      "start": 35.252,
+      "end": 35.752,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three",
+      "start": 36.393,
+      "end": 36.593,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "times",
+      "start": 36.633,
+      "end": 36.853,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 36.913,
+      "end": 36.933,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day,",
+      "start": 36.973,
+      "end": 37.233,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day",
+      "start": 37.453,
+      "end": 37.613,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two",
+      "start": 37.633,
+      "end": 37.773,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 37.793,
+      "end": 37.974,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "five.",
+      "start": 38.014,
+      "end": 38.254,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 39.654,
+      "end": 39.875,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "number",
+      "start": 40.375,
+      "end": 40.575,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 40.655,
+      "end": 40.755,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drug.",
+      "start": 40.775,
+      "end": 41.015,
+      "score": 0.981,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Number",
+      "start": 41.235,
+      "end": 41.455,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two,",
+      "start": 41.495,
+      "end": 41.736,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 42.436,
+      "end": 42.556,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gave",
+      "start": 42.596,
+      "end": 42.776,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 42.816,
+      "end": 42.996,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Zithromax",
+      "start": 43.436,
+      "end": 44.017,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 44.117,
+      "end": 44.197,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doxycycline.",
+      "start": 44.237,
+      "end": 44.977,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 46.778,
+      "end": 46.858,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "number",
+      "start": 46.898,
+      "end": 47.118,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three,",
+      "start": 47.178,
+      "end": 47.439,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 47.539,
+      "end": 47.659,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gave",
+      "start": 47.699,
+      "end": 47.859,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 47.899,
+      "end": 48.039,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zinc.",
+      "start": 48.119,
+      "end": 48.379,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 49.92,
+      "end": 50.0,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 50.02,
+      "end": 50.12,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zinc",
+      "start": 50.14,
+      "end": 50.32,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 50.36,
+      "end": 50.46,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "either",
+      "start": 50.52,
+      "end": 50.72,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 50.76,
+      "end": 50.84,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zinc",
+      "start": 50.86,
+      "end": 51.06,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sulfate,",
+      "start": 51.081,
+      "end": 51.501,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 51.521,
+      "end": 51.621,
+      "score": 0.695,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "220,",
+      "start": 51.821,
+      "end": 52.081,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 52.221,
+      "end": 52.341,
+      "score": 0.69,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 52.381,
+      "end": 52.541,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "regular",
+      "start": 52.601,
+      "end": 52.901,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over-the-counter",
+      "start": 52.961,
+      "end": 53.462,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zinc,",
+      "start": 53.482,
+      "end": 53.942,
+      "score": 0.571,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "25,",
+      "start": 53.982,
+      "end": 54.222,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 54.322,
+      "end": 54.402,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 54.442,
+      "end": 54.522,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gave",
+      "start": 54.542,
+      "end": 54.682,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 54.702,
+      "end": 54.822,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 54.842,
+      "end": 54.983,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 55.023,
+      "end": 55.143,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "twice",
+      "start": 55.203,
+      "end": 55.443,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 55.483,
+      "end": 55.503,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day.",
+      "start": 55.523,
+      "end": 55.623,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 57.072,
+      "end": 57.192,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 57.252,
+      "end": 57.512,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "used",
+      "start": 57.732,
+      "end": 58.013,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vitamin",
+      "start": 58.613,
+      "end": 58.953,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "D3,",
+      "start": 58.993,
+      "end": 59.433,
+      "score": 0.597,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "5,000",
+      "start": 59.453,
+      "end": 60.754,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "units",
+      "start": 60.894,
+      "end": 61.374,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 61.434,
+      "end": 61.454,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day,",
+      "start": 61.494,
+      "end": 61.655,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vitamin",
+      "start": 62.295,
+      "end": 62.675,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "C,",
+      "start": 62.695,
+      "end": 62.915,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "500",
+      "start": 62.995,
+      "end": 63.355,
+      "score": 0.444,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "milligrams",
+      "start": 63.375,
+      "end": 63.796,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "twice",
+      "start": 63.856,
+      "end": 64.096,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 64.116,
+      "end": 64.156,
+      "score": 0.573,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day.",
+      "start": 64.176,
+      "end": 64.316,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 66.857,
+      "end": 67.017,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 67.218,
+      "end": 67.358,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "started",
+      "start": 67.398,
+      "end": 67.658,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "using",
+      "start": 67.758,
+      "end": 68.058,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "N-acetylcysteine,",
+      "start": 68.218,
+      "end": 69.159,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "NAC.",
+      "start": 69.459,
+      "end": 69.699,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Okay?",
+      "start": 70.8,
+      "end": 71.74,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "600",
+      "start": 71.76,
+      "end": 71.92,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "milligrams",
+      "start": 71.94,
+      "end": 72.36,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 72.42,
+      "end": 72.44,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day.",
+      "start": 72.48,
+      "end": 72.621,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That",
+      "start": 73.721,
+      "end": 73.921,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 73.961,
+      "end": 74.201,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 74.702,
+      "end": 74.802,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "foundation",
+      "start": 74.842,
+      "end": 75.362,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 75.502,
+      "end": 75.562,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 75.622,
+      "end": 75.702,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatment.",
+      "start": 75.742,
+      "end": 76.082,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 76.323,
+      "end": 76.523,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 76.563,
+      "end": 76.683,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 76.723,
+      "end": 76.823,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "started.",
+      "start": 76.843,
+      "end": 77.143,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 77.995,
+      "end": 78.095,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 78.175,
+      "end": 78.535,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 78.575,
+      "end": 78.735,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pulmonary",
+      "start": 78.975,
+      "end": 79.455,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "symptoms,",
+      "start": 79.516,
+      "end": 79.916,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 80.116,
+      "end": 80.196,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 80.236,
+      "end": 80.336,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 80.356,
+      "end": 80.476,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 80.496,
+      "end": 80.556,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chest",
+      "start": 80.616,
+      "end": 80.876,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pain",
+      "start": 80.916,
+      "end": 81.156,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 81.296,
+      "end": 81.396,
+      "score": 0.727,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 81.416,
+      "end": 81.496,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 81.536,
+      "end": 81.656,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 81.696,
+      "end": 81.736,
+      "score": 0.004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shortness",
+      "start": 81.776,
+      "end": 82.076,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 82.116,
+      "end": 82.176,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "breath,",
+      "start": 82.196,
+      "end": 82.436,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 83.037,
+      "end": 83.157,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "did",
+      "start": 83.197,
+      "end": 83.317,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chest",
+      "start": 83.357,
+      "end": 83.577,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "x-rays.",
+      "start": 83.697,
+      "end": 84.037,
+      "score": 0.653,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 84.617,
+      "end": 84.717,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "found",
+      "start": 84.757,
+      "end": 84.957,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "early",
+      "start": 84.977,
+      "end": 85.297,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 85.477,
+      "end": 85.617,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 85.657,
+      "end": 85.777,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 85.817,
+      "end": 85.877,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chest",
+      "start": 85.938,
+      "end": 86.118,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "x-rays",
+      "start": 86.218,
+      "end": 86.478,
+      "score": 0.501,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 86.518,
+      "end": 86.638,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "positive",
+      "start": 86.698,
+      "end": 87.178,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 87.198,
+      "end": 87.318,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inflammation.",
+      "start": 87.358,
+      "end": 88.018,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 89.159,
+      "end": 89.359,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 89.659,
+      "end": 89.779,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "did",
+      "start": 89.819,
+      "end": 89.919,
+      "score": 0.556,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 89.939,
+      "end": 90.019,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do?",
+      "start": 90.059,
+      "end": 90.219,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 90.659,
+      "end": 90.739,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "started",
+      "start": 90.779,
+      "end": 91.039,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treating",
+      "start": 91.139,
+      "end": 91.439,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 91.739,
+      "end": 91.819,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inflammation.",
+      "start": 91.859,
+      "end": 92.4,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 92.92,
+      "end": 93.04,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 93.08,
+      "end": 93.12,
+      "score": 0.499,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gave",
+      "start": 93.14,
+      "end": 93.3,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 93.32,
+      "end": 93.44,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "six",
+      "start": 93.5,
+      "end": 93.7,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "milligrams",
+      "start": 93.74,
+      "end": 94.14,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 94.2,
+      "end": 94.24,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Decadrone",
+      "start": 94.28,
+      "end": 94.8,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 95.42,
+      "end": 95.5,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 95.52,
+      "end": 95.601,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "started",
+      "start": 95.641,
+      "end": 95.921,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 95.961,
+      "end": 96.081,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 96.181,
+      "end": 96.281,
+      "score": 0.568,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inhaled",
+      "start": 96.441,
+      "end": 96.861,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Budesonite",
+      "start": 96.901,
+      "end": 97.561,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 98.121,
+      "end": 98.221,
+      "score": 0.592,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 98.241,
+      "end": 98.321,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nebulized",
+      "start": 98.421,
+      "end": 99.002,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "form.",
+      "start": 99.102,
+      "end": 101.042,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 101.122,
+      "end": 101.322,
+      "score": 0.315,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wanted",
+      "start": 101.602,
+      "end": 101.802,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 101.842,
+      "end": 101.902,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stay",
+      "start": 101.942,
+      "end": 102.123,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away",
+      "start": 102.163,
+      "end": 102.383,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 102.403,
+      "end": 102.543,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 102.563,
+      "end": 102.623,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "systemic",
+      "start": 102.703,
+      "end": 103.263,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatment",
+      "start": 104.614,
+      "end": 104.994,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 105.114,
+      "end": 105.635,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 105.655,
+      "end": 105.675,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "didn't",
+      "start": 106.635,
+      "end": 106.835,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 106.875,
+      "end": 106.975,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 107.076,
+      "end": 107.116,
+      "score": 0.01,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 107.196,
+      "end": 107.436,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "suppress",
+      "start": 107.476,
+      "end": 107.836,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 107.856,
+      "end": 107.976,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 107.996,
+      "end": 108.276,
+      "score": 0.648,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system,",
+      "start": 108.316,
+      "end": 108.716,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 108.756,
+      "end": 108.876,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 108.937,
+      "end": 108.997,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wanted",
+      "start": 109.077,
+      "end": 109.357,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 109.397,
+      "end": 109.457,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treat",
+      "start": 109.477,
+      "end": 109.657,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 109.677,
+      "end": 109.757,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inflammation.",
+      "start": 109.797,
+      "end": 110.477,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 111.278,
+      "end": 111.458,
+      "score": 0.558,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 111.638,
+      "end": 111.858,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "why",
+      "start": 111.918,
+      "end": 112.038,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 112.098,
+      "end": 112.178,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went",
+      "start": 112.218,
+      "end": 112.338,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 112.378,
+      "end": 112.458,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 112.478,
+      "end": 112.538,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nebulized",
+      "start": 112.659,
+      "end": 113.119,
+      "score": 0.618,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Budesonite",
+      "start": 113.159,
+      "end": 113.739,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "form.",
+      "start": 113.819,
+      "end": 114.139,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 115.04,
+      "end": 115.12,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "amazingly",
+      "start": 115.18,
+      "end": 115.82,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 115.88,
+      "end": 116.04,
+      "score": 0.718,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happened",
+      "start": 116.12,
+      "end": 116.581,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 116.641,
+      "end": 116.981,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 117.201,
+      "end": 117.361,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "found",
+      "start": 117.421,
+      "end": 117.821,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 118.021,
+      "end": 118.101,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two",
+      "start": 118.722,
+      "end": 118.942,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 118.962,
+      "end": 119.002,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three",
+      "start": 119.082,
+      "end": 119.302,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "days,",
+      "start": 119.342,
+      "end": 119.742,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "99%",
+      "start": 119.762,
+      "end": 121.083,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 121.603,
+      "end": 121.663,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 121.703,
+      "end": 121.783,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 121.823,
+      "end": 122.144,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 122.184,
+      "end": 122.304,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "better.",
+      "start": 122.344,
+      "end": 122.544,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

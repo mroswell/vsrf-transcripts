@@ -1,175 +1,961 @@
 {
-  "text": " So, I've seen from two months to 102 years old, I've seen unvaccinated to vaccinated to even booster vaccinated positive patients. But the one thing is they all respond to treatment. And I think that's the biggest lesson that I want to make sure that everybody hears. Everybody's treatment is so crucial and they need to stop blocking us from saving people's lives. Thank you.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 15.040000000000001,
-      "text": " So, I've seen from two months to 102 years old, I've seen unvaccinated to vaccinated",
-      "tokens": [
-        50364,
-        407,
-        11,
-        286,
-        600,
-        1612,
-        490,
-        732,
-        2493,
-        281,
-        45937,
-        924,
-        1331,
-        11,
-        286,
-        600,
-        1612,
-        517,
-        48976,
-        5410,
-        281,
-        14686,
-        51116
+      "start": 0.995,
+      "end": 18.406,
+      "text": " So I've seen from two months to 102 years old, I've seen unvaccinated to vaccinated to even booster vaccinated positive patients.",
+      "words": [
+        {
+          "word": "So",
+          "start": 0.995,
+          "end": 1.275,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 3.076,
+          "end": 3.257,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seen",
+          "start": 3.357,
+          "end": 3.697,
+          "score": 0.551,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 5.318,
+          "end": 5.478,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two",
+          "start": 5.598,
+          "end": 5.758,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "months",
+          "start": 5.798,
+          "end": 6.078,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 6.679,
+          "end": 6.859,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "102",
+          "start": 6.879,
+          "end": 7.419,
+          "score": 0.435,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years",
+          "start": 7.679,
+          "end": 7.88,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "old,",
+          "start": 7.98,
+          "end": 8.12,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 10.041,
+          "end": 10.201,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seen",
+          "start": 10.321,
+          "end": 10.701,
+          "score": 0.522,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unvaccinated",
+          "start": 11.942,
+          "end": 12.663,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 13.363,
+          "end": 13.583,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 13.803,
+          "end": 14.404,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 15.064,
+          "end": 15.204,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "even",
+          "start": 15.284,
+          "end": 15.504,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "booster",
+          "start": 15.825,
+          "end": 16.145,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 16.185,
+          "end": 16.725,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "positive",
+          "start": 17.546,
+          "end": 17.946,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients.",
+          "start": 17.966,
+          "end": 18.406,
+          "score": 0.665,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1757295096098487,
-      "compression_ratio": 1.5614035087719298,
-      "no_speech_prob": 0.1946154683828354
+      "avg_logprob": -0.05458470342452066,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 15.040000000000001,
-      "end": 19.8,
-      "text": " to even booster vaccinated positive patients.",
-      "tokens": [
-        51116,
-        281,
-        754,
-        29275,
-        14686,
-        3353,
-        4209,
-        13,
-        51354
+      "start": 19.707,
+      "end": 22.109,
+      "text": "But the one thing is they all respond to treatment.",
+      "words": [
+        {
+          "word": "But",
+          "start": 19.707,
+          "end": 19.827,
+          "score": 0.679,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 19.867,
+          "end": 19.927,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 20.007,
+          "end": 20.107,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "thing",
+          "start": 20.147,
+          "end": 20.348,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 20.468,
+          "end": 20.588,
+          "score": 0.525,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 21.008,
+          "end": 21.128,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 21.148,
+          "end": 21.268,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "respond",
+          "start": 21.308,
+          "end": 21.648,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 21.688,
+          "end": 21.769,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treatment.",
+          "start": 21.809,
+          "end": 22.109,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1757295096098487,
-      "compression_ratio": 1.5614035087719298,
-      "no_speech_prob": 0.1946154683828354
+      "avg_logprob": -0.05458470342452066,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 19.8,
-      "end": 23.28,
-      "text": " But the one thing is they all respond to treatment.",
-      "tokens": [
-        51354,
-        583,
-        264,
-        472,
-        551,
-        307,
-        436,
-        439,
-        4196,
-        281,
-        5032,
-        13,
-        51528
+      "start": 23.209,
+      "end": 26.872,
+      "text": "And I think that's the biggest lesson that I want to make sure that everybody hears.",
+      "words": [
+        {
+          "word": "And",
+          "start": 23.209,
+          "end": 23.29,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 23.31,
+          "end": 23.35,
+          "score": 0.485,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 23.39,
+          "end": 23.55,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 23.57,
+          "end": 23.79,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 23.83,
+          "end": 23.93,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "biggest",
+          "start": 24.07,
+          "end": 24.43,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lesson",
+          "start": 24.53,
+          "end": 24.951,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 25.091,
+          "end": 25.231,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 25.311,
+          "end": 25.411,
+          "score": 0.59,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 25.471,
+          "end": 25.611,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 25.631,
+          "end": 25.711,
+          "score": 0.698,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 25.731,
+          "end": 25.871,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sure",
+          "start": 25.891,
+          "end": 26.031,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 26.051,
+          "end": 26.171,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "everybody",
+          "start": 26.211,
+          "end": 26.552,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hears.",
+          "start": 26.612,
+          "end": 26.872,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1757295096098487,
-      "compression_ratio": 1.5614035087719298,
-      "no_speech_prob": 0.1946154683828354
+      "avg_logprob": -0.05458470342452066,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 23.28,
-      "end": 28.16,
-      "text": " And I think that's the biggest lesson that I want to make sure that everybody hears.",
-      "tokens": [
-        51528,
-        400,
-        286,
-        519,
-        300,
-        311,
-        264,
-        3880,
-        6898,
-        300,
-        286,
-        528,
-        281,
-        652,
-        988,
-        300,
-        2201,
-        25688,
-        13,
-        51772
+      "start": 27.955,
+      "end": 39.3,
+      "text": " Early treatment is so crucial and they need to stop blocking us from saving people's lives.",
+      "words": [
+        {
+          "word": "Early",
+          "start": 27.955,
+          "end": 28.295,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treatment",
+          "start": 28.775,
+          "end": 29.316,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 29.696,
+          "end": 29.776,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 30.056,
+          "end": 30.396,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "crucial",
+          "start": 30.896,
+          "end": 31.576,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 32.197,
+          "end": 32.317,
+          "score": 0.621,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 32.337,
+          "end": 32.497,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 32.597,
+          "end": 32.877,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 32.937,
+          "end": 33.037,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stop",
+          "start": 33.117,
+          "end": 33.517,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "blocking",
+          "start": 33.937,
+          "end": 34.598,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 34.778,
+          "end": 34.878,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 35.878,
+          "end": 36.178,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "saving",
+          "start": 36.698,
+          "end": 37.259,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people's",
+          "start": 37.979,
+          "end": 38.539,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lives.",
+          "start": 38.839,
+          "end": 39.3,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1757295096098487,
-      "compression_ratio": 1.5614035087719298,
-      "no_speech_prob": 0.1946154683828354
+      "avg_logprob": -0.057484021071683274,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 2816,
-      "start": 28.16,
-      "end": 39.64,
-      "text": " Everybody's treatment is so crucial and they need to stop blocking us from saving people's lives.",
-      "tokens": [
-        50364,
-        7646,
-        311,
-        5032,
-        307,
-        370,
-        11462,
-        293,
-        436,
-        643,
-        281,
-        1590,
-        17776,
-        505,
-        490,
-        6816,
-        561,
-        311,
-        2909,
-        13,
-        50938
+      "start": 39.76,
+      "end": 40.16,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 39.76,
+          "end": 39.96,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you.",
+          "start": 40.0,
+          "end": 40.16,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5384931917543765,
-      "compression_ratio": 1.1020408163265305,
-      "no_speech_prob": 0.044497519731521606
-    },
-    {
-      "id": 5,
-      "seek": 2816,
-      "start": 39.64,
-      "end": 40.64,
-      "text": " Thank you.",
-      "tokens": [
-        50938,
-        1044,
-        291,
-        13,
-        50988
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5384931917543765,
-      "compression_ratio": 1.1020408163265305,
-      "no_speech_prob": 0.044497519731521606
+      "avg_logprob": -0.057484021071683274,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 0.995,
+      "end": 1.275,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 3.076,
+      "end": 3.257,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seen",
+      "start": 3.357,
+      "end": 3.697,
+      "score": 0.551,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 5.318,
+      "end": 5.478,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two",
+      "start": 5.598,
+      "end": 5.758,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "months",
+      "start": 5.798,
+      "end": 6.078,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 6.679,
+      "end": 6.859,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "102",
+      "start": 6.879,
+      "end": 7.419,
+      "score": 0.435,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years",
+      "start": 7.679,
+      "end": 7.88,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "old,",
+      "start": 7.98,
+      "end": 8.12,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 10.041,
+      "end": 10.201,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seen",
+      "start": 10.321,
+      "end": 10.701,
+      "score": 0.522,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unvaccinated",
+      "start": 11.942,
+      "end": 12.663,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 13.363,
+      "end": 13.583,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 13.803,
+      "end": 14.404,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 15.064,
+      "end": 15.204,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "even",
+      "start": 15.284,
+      "end": 15.504,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "booster",
+      "start": 15.825,
+      "end": 16.145,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 16.185,
+      "end": 16.725,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "positive",
+      "start": 17.546,
+      "end": 17.946,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients.",
+      "start": 17.966,
+      "end": 18.406,
+      "score": 0.665,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 19.707,
+      "end": 19.827,
+      "score": 0.679,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 19.867,
+      "end": 19.927,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 20.007,
+      "end": 20.107,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "thing",
+      "start": 20.147,
+      "end": 20.348,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 20.468,
+      "end": 20.588,
+      "score": 0.525,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 21.008,
+      "end": 21.128,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 21.148,
+      "end": 21.268,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "respond",
+      "start": 21.308,
+      "end": 21.648,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 21.688,
+      "end": 21.769,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatment.",
+      "start": 21.809,
+      "end": 22.109,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 23.209,
+      "end": 23.29,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 23.31,
+      "end": 23.35,
+      "score": 0.485,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 23.39,
+      "end": 23.55,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 23.57,
+      "end": 23.79,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 23.83,
+      "end": 23.93,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "biggest",
+      "start": 24.07,
+      "end": 24.43,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lesson",
+      "start": 24.53,
+      "end": 24.951,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 25.091,
+      "end": 25.231,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 25.311,
+      "end": 25.411,
+      "score": 0.59,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 25.471,
+      "end": 25.611,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 25.631,
+      "end": 25.711,
+      "score": 0.698,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 25.731,
+      "end": 25.871,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sure",
+      "start": 25.891,
+      "end": 26.031,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 26.051,
+      "end": 26.171,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "everybody",
+      "start": 26.211,
+      "end": 26.552,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hears.",
+      "start": 26.612,
+      "end": 26.872,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Early",
+      "start": 27.955,
+      "end": 28.295,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatment",
+      "start": 28.775,
+      "end": 29.316,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 29.696,
+      "end": 29.776,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 30.056,
+      "end": 30.396,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "crucial",
+      "start": 30.896,
+      "end": 31.576,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 32.197,
+      "end": 32.317,
+      "score": 0.621,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 32.337,
+      "end": 32.497,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 32.597,
+      "end": 32.877,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 32.937,
+      "end": 33.037,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stop",
+      "start": 33.117,
+      "end": 33.517,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "blocking",
+      "start": 33.937,
+      "end": 34.598,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 34.778,
+      "end": 34.878,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 35.878,
+      "end": 36.178,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "saving",
+      "start": 36.698,
+      "end": 37.259,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people's",
+      "start": 37.979,
+      "end": 38.539,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lives.",
+      "start": 38.839,
+      "end": 39.3,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Thank",
+      "start": 39.76,
+      "end": 39.96,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you.",
+      "start": 40.0,
+      "end": 40.16,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

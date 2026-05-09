@@ -1,5 +1,58 @@
 {
-  "text": "",
-  "segments": [],
-  "language": "en"
+  "segments": [
+    {
+      "start": 2.275,
+      "end": 2.895,
+      "text": " you you",
+      "words": [
+        {
+          "word": "you",
+          "start": 2.275,
+          "end": 2.755,
+          "score": 0.304
+        },
+        {
+          "word": "you",
+          "start": 2.835,
+          "end": 2.895,
+          "score": 0.004
+        }
+      ],
+      "avg_logprob": -2.2513020833333335
+    },
+    {
+      "start": 28.6,
+      "end": 28.68,
+      "text": " you",
+      "words": [
+        {
+          "word": "you",
+          "start": 28.6,
+          "end": 28.68,
+          "score": 0.152
+        }
+      ],
+      "avg_logprob": -1.23046875
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "you",
+      "start": 2.275,
+      "end": 2.755,
+      "score": 0.304
+    },
+    {
+      "word": "you",
+      "start": 2.835,
+      "end": 2.895,
+      "score": 0.004
+    },
+    {
+      "word": "you",
+      "start": 28.6,
+      "end": 28.68,
+      "score": 0.152
+    }
+  ]
 }

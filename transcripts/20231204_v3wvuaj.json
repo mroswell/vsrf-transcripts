@@ -1,378 +1,2419 @@
 {
-  "text": " Hello, I'm Russell Brand from Stay Free with Russell Brand. We are very excited to have Steve Kirsch on our show. So I'm interrupting this rumblethon to tell you that you've got to join us on the 8th. Is that when it is the 8th? Yeah, the 8th, Friday the 8th of December. Join us because I'm going to be asking Steve about vaccines and low recent uptake of them, excess and sudden deaths in the young population, Fauci, corruption within the health agency such as the CDC, FDA, etc. And he's willingness to put $100,000 on the line for a debate at MIT. The Massachusetts Institute of Technology about vaccine safety. So why are people not taking vaccines? Could it be connected to these sudden excess deaths? To see me talk to Steve Kirsch about that. Join us on Stay Free with Russell Brand on the 8th of December. We stream live and your comments will make it livelier. Stay free till then.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.08,
-      "text": " Hello, I'm Russell Brand from Stay Free with Russell Brand. We are very excited",
-      "tokens": [
-        50364,
-        2425,
-        11,
-        286,
-        478,
-        20937,
-        11119,
-        490,
-        8691,
-        11551,
-        365,
-        20937,
-        11119,
-        13,
-        492,
-        366,
-        588,
-        2919,
-        50568
+      "start": 0.875,
+      "end": 3.397,
+      "text": " Hello, I'm Russell Brand from Stay Free with Russell Brand.",
+      "words": [
+        {
+          "word": "Hello,",
+          "start": 0.875,
+          "end": 1.195,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I'm",
+          "start": 1.295,
+          "end": 1.415,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Russell",
+          "start": 1.435,
+          "end": 1.675,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Brand",
+          "start": 1.696,
+          "end": 1.916,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 1.956,
+          "end": 2.076,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Stay",
+          "start": 2.156,
+          "end": 2.436,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Free",
+          "start": 2.476,
+          "end": 2.656,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 2.676,
+          "end": 2.796,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Russell",
+          "start": 2.856,
+          "end": 3.116,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Brand.",
+          "start": 3.136,
+          "end": 3.397,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19713092629426446,
-      "compression_ratio": 1.6093294460641399,
-      "no_speech_prob": 0.30146896839141846
+      "avg_logprob": -0.11953964829444885,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.08,
-      "end": 8.96,
-      "text": " to have Steve Kirsch on our show. So I'm interrupting this rumblethon to tell you",
-      "tokens": [
-        50568,
-        281,
-        362,
-        7466,
-        11305,
-        6145,
-        322,
-        527,
-        855,
-        13,
-        407,
-        286,
-        478,
-        49455,
-        341,
-        367,
-        2860,
-        2631,
-        34914,
-        281,
-        980,
-        291,
-        50812
+      "start": 3.417,
+      "end": 6.438,
+      "text": "We are very excited to have Steve Kersh on our show.",
+      "words": [
+        {
+          "word": "We",
+          "start": 3.417,
+          "end": 3.477,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 3.517,
+          "end": 3.597,
+          "score": 0.469,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 3.617,
+          "end": 3.777,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "excited",
+          "start": 3.817,
+          "end": 4.117,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 4.137,
+          "end": 4.177,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 4.197,
+          "end": 4.317,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Steve",
+          "start": 4.377,
+          "end": 4.697,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Kersh",
+          "start": 4.777,
+          "end": 5.098,
+          "score": 0.522,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 5.358,
+          "end": 5.438,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 5.738,
+          "end": 5.918,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "show.",
+          "start": 6.078,
+          "end": 6.438,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19713092629426446,
-      "compression_ratio": 1.6093294460641399,
-      "no_speech_prob": 0.30146896839141846
+      "avg_logprob": -0.11953964829444885,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.96,
-      "end": 13.200000000000001,
-      "text": " that you've got to join us on the 8th. Is that when it is the 8th? Yeah, the 8th,",
-      "tokens": [
-        50812,
-        300,
-        291,
-        600,
-        658,
-        281,
-        3917,
-        505,
-        322,
-        264,
-        1649,
-        392,
-        13,
-        1119,
-        300,
-        562,
-        309,
-        307,
-        264,
-        1649,
-        392,
-        30,
-        865,
-        11,
-        264,
-        1649,
-        392,
-        11,
-        51024
+      "start": 6.859,
+      "end": 11.542,
+      "text": "So I'm interrupting this Rumblethon to tell you that you've got to join us on the 8th.",
+      "words": [
+        {
+          "word": "So",
+          "start": 6.859,
+          "end": 6.999,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I'm",
+          "start": 7.099,
+          "end": 7.219,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interrupting",
+          "start": 7.259,
+          "end": 7.679,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 7.719,
+          "end": 7.879,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Rumblethon",
+          "start": 7.939,
+          "end": 8.46,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 8.5,
+          "end": 8.58,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tell",
+          "start": 8.64,
+          "end": 8.84,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 8.88,
+          "end": 8.98,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 9.0,
+          "end": 9.1,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you've",
+          "start": 9.18,
+          "end": 9.42,
+          "score": 0.617,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 9.5,
+          "end": 9.68,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 9.7,
+          "end": 9.741,
+          "score": 0.324,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "join",
+          "start": 9.781,
+          "end": 10.021,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 10.081,
+          "end": 10.141,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 10.701,
+          "end": 10.801,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 10.861,
+          "end": 11.001,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "8th.",
+          "start": 11.301,
+          "end": 11.542,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19713092629426446,
-      "compression_ratio": 1.6093294460641399,
-      "no_speech_prob": 0.30146896839141846
+      "avg_logprob": -0.11953964829444885,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 13.200000000000001,
-      "end": 16.080000000000002,
-      "text": " Friday the 8th of December. Join us because I'm going to be asking Steve about",
-      "tokens": [
-        51024,
-        6984,
-        264,
-        1649,
-        392,
-        295,
-        7687,
-        13,
-        19642,
-        505,
-        570,
-        286,
-        478,
-        516,
-        281,
-        312,
-        3365,
-        7466,
-        466,
-        51168
+      "start": 11.602,
+      "end": 12.542,
+      "text": "Is that when it is the 8th?",
+      "words": [
+        {
+          "word": "Is",
+          "start": 11.602,
+          "end": 11.662,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 11.682,
+          "end": 11.782,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 11.802,
+          "end": 11.902,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 11.942,
+          "end": 11.982,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 12.062,
+          "end": 12.162,
+          "score": 0.676,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 12.182,
+          "end": 12.262,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "8th?",
+          "start": 12.362,
+          "end": 12.542,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19713092629426446,
-      "compression_ratio": 1.6093294460641399,
-      "no_speech_prob": 0.30146896839141846
+      "avg_logprob": -0.11953964829444885,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 16.080000000000002,
-      "end": 20.400000000000002,
-      "text": " vaccines and low recent uptake of them, excess and sudden deaths in the young",
-      "tokens": [
-        51168,
-        12164,
-        293,
-        2295,
-        5162,
-        493,
-        27612,
-        295,
-        552,
-        11,
-        9310,
-        293,
-        3990,
-        13027,
-        294,
-        264,
-        2037,
-        51384
+      "start": 12.782,
+      "end": 14.463,
+      "text": "Yeah, the 8th, Friday the 8th of December.",
+      "words": [
+        {
+          "word": "Yeah,",
+          "start": 12.782,
+          "end": 12.983,
+          "score": 0.604,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 13.003,
+          "end": 13.083,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "8th,",
+          "start": 13.183,
+          "end": 13.263,
+          "score": 0.572,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Friday",
+          "start": 13.303,
+          "end": 13.623,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 13.663,
+          "end": 13.723,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "8th",
+          "start": 13.743,
+          "end": 13.943,
+          "score": 0.35,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 13.983,
+          "end": 14.043,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "December.",
+          "start": 14.083,
+          "end": 14.463,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19713092629426446,
-      "compression_ratio": 1.6093294460641399,
-      "no_speech_prob": 0.30146896839141846
+      "avg_logprob": -0.11953964829444885,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 20.400000000000002,
-      "end": 25.44,
-      "text": " population, Fauci, corruption within the health agency such as the CDC, FDA, etc.",
-      "tokens": [
-        51384,
-        4415,
-        11,
-        48820,
-        537,
-        11,
-        17959,
-        1951,
-        264,
-        1585,
-        7934,
-        1270,
-        382,
-        264,
-        17133,
-        11,
-        18933,
-        11,
-        5183,
-        13,
-        51636
+      "start": 14.544,
+      "end": 18.406,
+      "text": "Join us because I'm going to be asking Steve about vaccines and low recent uptake of them.",
+      "words": [
+        {
+          "word": "Join",
+          "start": 14.544,
+          "end": 14.824,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 14.884,
+          "end": 14.944,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 14.964,
+          "end": 15.124,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I'm",
+          "start": 15.144,
+          "end": 15.224,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 15.244,
+          "end": 15.344,
+          "score": 0.681,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 15.364,
+          "end": 15.404,
+          "score": 0.162,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 15.424,
+          "end": 15.464,
+          "score": 0.001,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "asking",
+          "start": 15.484,
+          "end": 15.704,
+          "score": 0.415,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Steve",
+          "start": 15.724,
+          "end": 15.924,
+          "score": 0.457,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 15.964,
+          "end": 16.125,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 16.385,
+          "end": 16.965,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 17.045,
+          "end": 17.145,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "low",
+          "start": 17.205,
+          "end": 17.405,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recent",
+          "start": 17.465,
+          "end": 17.726,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "uptake",
+          "start": 17.786,
+          "end": 18.146,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 18.186,
+          "end": 18.246,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them.",
+          "start": 18.286,
+          "end": 18.406,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19713092629426446,
-      "compression_ratio": 1.6093294460641399,
-      "no_speech_prob": 0.30146896839141846
+      "avg_logprob": -0.11953964829444885,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 25.44,
-      "end": 29.6,
-      "text": " And he's willingness to put $100,000 on the line for a debate at MIT.",
-      "tokens": [
-        51636,
-        400,
-        415,
-        311,
-        25069,
-        281,
-        829,
-        1848,
-        6879,
-        11,
-        1360,
-        322,
-        264,
-        1622,
-        337,
-        257,
-        7958,
-        412,
-        13100,
-        13,
-        51844
+      "start": 18.866,
+      "end": 25.45,
+      "text": " Excess and sudden deaths in the young population, Fauci, corruption within the health agencies such as the CDC, FDA, etc.",
+      "words": [
+        {
+          "word": "Excess",
+          "start": 18.866,
+          "end": 19.166,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 19.206,
+          "end": 19.306,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sudden",
+          "start": 19.346,
+          "end": 19.587,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "deaths",
+          "start": 19.607,
+          "end": 19.867,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 20.047,
+          "end": 20.127,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.147,
+          "end": 20.207,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "young",
+          "start": 20.267,
+          "end": 20.427,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "population,",
+          "start": 20.467,
+          "end": 21.047,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Fauci,",
+          "start": 21.247,
+          "end": 21.708,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "corruption",
+          "start": 21.948,
+          "end": 22.368,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "within",
+          "start": 22.408,
+          "end": 22.628,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 22.648,
+          "end": 22.708,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 22.748,
+          "end": 22.968,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "agencies",
+          "start": 23.048,
+          "end": 23.409,
+          "score": 0.551,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "such",
+          "start": 23.429,
+          "end": 23.569,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 23.609,
+          "end": 23.689,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 23.709,
+          "end": 23.789,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "CDC,",
+          "start": 23.829,
+          "end": 24.349,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "FDA,",
+          "start": 24.689,
+          "end": 24.989,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "etc.",
+          "start": 25.029,
+          "end": 25.45,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19713092629426446,
-      "compression_ratio": 1.6093294460641399,
-      "no_speech_prob": 0.30146896839141846
+      "avg_logprob": -0.09361644942536314,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2960,
-      "start": 29.6,
-      "end": 34.160000000000004,
-      "text": " The Massachusetts Institute of Technology about vaccine safety. So why are people not",
-      "tokens": [
-        50364,
-        440,
-        19979,
-        9446,
-        295,
-        15037,
-        466,
-        7007,
-        4514,
-        13,
-        407,
-        983,
-        366,
-        561,
-        406,
-        50592
+      "start": 25.97,
+      "end": 32.894,
+      "text": "And his willingness to put $100,000 on the line for a debate at MIT, the Massachusetts Institute of Technology, about vaccine safety.",
+      "words": [
+        {
+          "word": "And",
+          "start": 25.97,
+          "end": 26.13,
+          "score": 0.635,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "his",
+          "start": 26.47,
+          "end": 26.69,
+          "score": 0.674,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "willingness",
+          "start": 26.75,
+          "end": 27.131,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 27.151,
+          "end": 27.231,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "put",
+          "start": 27.251,
+          "end": 27.891,
+          "score": 0.207,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "$100,000",
+          "start": 27.911,
+          "end": 28.131,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 28.171,
+          "end": 28.231,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 28.251,
+          "end": 28.311,
+          "score": 0.963,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "line",
+          "start": 28.351,
+          "end": 28.511,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 28.531,
+          "end": 28.611,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 28.651,
+          "end": 28.671,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "debate",
+          "start": 28.711,
+          "end": 28.992,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 29.052,
+          "end": 29.112,
+          "score": 0.349,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "MIT,",
+          "start": 29.252,
+          "end": 29.752,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 29.792,
+          "end": 29.932,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Massachusetts",
+          "start": 29.972,
+          "end": 30.512,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Institute",
+          "start": 30.532,
+          "end": 30.893,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 30.913,
+          "end": 30.973,
+          "score": 0.141,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Technology,",
+          "start": 30.993,
+          "end": 31.453,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 31.693,
+          "end": 31.913,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 31.973,
+          "end": 32.433,
+          "score": 0.627,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety.",
+          "start": 32.453,
+          "end": 32.894,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13572911371158647,
-      "compression_ratio": 1.4739130434782608,
-      "no_speech_prob": 0.004845441319048405
+      "avg_logprob": -0.09361644942536314,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2960,
-      "start": 34.160000000000004,
-      "end": 38.800000000000004,
-      "text": " taking vaccines? Could it be connected to these sudden excess deaths? To see me talk to Steve",
-      "tokens": [
-        50592,
-        1940,
-        12164,
-        30,
-        7497,
-        309,
-        312,
-        4582,
-        281,
-        613,
-        3990,
-        9310,
-        13027,
-        30,
-        1407,
-        536,
-        385,
-        751,
-        281,
-        7466,
-        50824
+      "start": 33.294,
+      "end": 35.015,
+      "text": "So why are people not taking vaccines?",
+      "words": [
+        {
+          "word": "So",
+          "start": 33.294,
+          "end": 33.494,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "why",
+          "start": 33.714,
+          "end": 33.854,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 33.874,
+          "end": 33.934,
+          "score": 0.001,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 33.954,
+          "end": 34.174,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 34.214,
+          "end": 34.314,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taking",
+          "start": 34.354,
+          "end": 34.595,
+          "score": 0.619,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines?",
+          "start": 34.615,
+          "end": 35.015,
+          "score": 0.685,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13572911371158647,
-      "compression_ratio": 1.4739130434782608,
-      "no_speech_prob": 0.004845441319048405
+      "avg_logprob": -0.09361644942536314,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2960,
-      "start": 38.800000000000004,
-      "end": 43.6,
-      "text": " Kirsch about that. Join us on Stay Free with Russell Brand on the 8th of December. We stream",
-      "tokens": [
-        50824,
-        11305,
-        6145,
-        466,
-        300,
-        13,
-        19642,
-        505,
-        322,
-        8691,
-        11551,
-        365,
-        20937,
-        11119,
-        322,
-        264,
-        1649,
-        392,
-        295,
-        7687,
-        13,
-        492,
-        4309,
-        51064
+      "start": 35.035,
+      "end": 37.196,
+      "text": "Could it be connected to these sudden excess deaths?",
+      "words": [
+        {
+          "word": "Could",
+          "start": 35.035,
+          "end": 35.155,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 35.195,
+          "end": 35.235,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 35.275,
+          "end": 35.355,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "connected",
+          "start": 35.375,
+          "end": 35.775,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 35.815,
+          "end": 35.875,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 35.915,
+          "end": 36.075,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sudden",
+          "start": 36.335,
+          "end": 36.596,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "excess",
+          "start": 36.636,
+          "end": 36.956,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "deaths?",
+          "start": 36.976,
+          "end": 37.196,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13572911371158647,
-      "compression_ratio": 1.4739130434782608,
-      "no_speech_prob": 0.004845441319048405
+      "avg_logprob": -0.09361644942536314,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 2960,
-      "start": 43.6,
-      "end": 47.36,
-      "text": " live and your comments will make it livelier. Stay free till then.",
-      "tokens": [
-        51064,
-        1621,
-        293,
-        428,
-        3053,
-        486,
-        652,
-        309,
-        31876,
-        811,
-        13,
-        8691,
-        1737,
-        4288,
-        550,
-        13,
-        51252
+      "start": 37.436,
+      "end": 43.199,
+      "text": "To see me talk to Steve Kirsch about that, join us on Stay Free with Russell Brand on the 8th of December.",
+      "words": [
+        {
+          "word": "To",
+          "start": 37.436,
+          "end": 37.556,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "see",
+          "start": 37.636,
+          "end": 37.876,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 37.996,
+          "end": 38.196,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talk",
+          "start": 38.297,
+          "end": 38.517,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 38.537,
+          "end": 38.617,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Steve",
+          "start": 38.637,
+          "end": 38.917,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Kirsch",
+          "start": 38.977,
+          "end": 39.257,
+          "score": 0.586,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 39.297,
+          "end": 39.517,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that,",
+          "start": 39.577,
+          "end": 39.777,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "join",
+          "start": 39.877,
+          "end": 40.157,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 40.198,
+          "end": 40.298,
+          "score": 0.434,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 40.358,
+          "end": 40.418,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Stay",
+          "start": 40.478,
+          "end": 40.698,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Free",
+          "start": 40.718,
+          "end": 40.898,
+          "score": 0.51,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 40.918,
+          "end": 41.018,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Russell",
+          "start": 41.038,
+          "end": 41.238,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Brand",
+          "start": 41.258,
+          "end": 41.438,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 41.898,
+          "end": 41.998,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 42.199,
+          "end": 42.299,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "8th",
+          "start": 42.459,
+          "end": 42.659,
+          "score": 0.647,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 42.739,
+          "end": 42.819,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "December.",
+          "start": 42.859,
+          "end": 43.199,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13572911371158647,
-      "compression_ratio": 1.4739130434782608,
-      "no_speech_prob": 0.004845441319048405
+      "avg_logprob": -0.09361644942536314,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 43.219,
+      "end": 45.72,
+      "text": "We stream live and your comments will make it livelier.",
+      "words": [
+        {
+          "word": "We",
+          "start": 43.219,
+          "end": 43.339,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stream",
+          "start": 43.379,
+          "end": 43.679,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "live",
+          "start": 43.759,
+          "end": 43.96,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 44.0,
+          "end": 44.08,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 44.1,
+          "end": 44.3,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "comments",
+          "start": 44.36,
+          "end": 44.7,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 44.84,
+          "end": 44.98,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 45.02,
+          "end": 45.18,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 45.22,
+          "end": 45.3,
+          "score": 0.512,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "livelier.",
+          "start": 45.34,
+          "end": 45.72,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.09361644942536314,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 45.841,
+      "end": 46.461,
+      "text": "Stay free till then.",
+      "words": [
+        {
+          "word": "Stay",
+          "start": 45.841,
+          "end": 46.001,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "free",
+          "start": 46.021,
+          "end": 46.141,
+          "score": 0.57,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "till",
+          "start": 46.181,
+          "end": 46.301,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "then.",
+          "start": 46.321,
+          "end": 46.461,
+          "score": 0.677,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.09361644942536314,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Hello,",
+      "start": 0.875,
+      "end": 1.195,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 1.295,
+      "end": 1.415,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Russell",
+      "start": 1.435,
+      "end": 1.675,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Brand",
+      "start": 1.696,
+      "end": 1.916,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 1.956,
+      "end": 2.076,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Stay",
+      "start": 2.156,
+      "end": 2.436,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Free",
+      "start": 2.476,
+      "end": 2.656,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 2.676,
+      "end": 2.796,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Russell",
+      "start": 2.856,
+      "end": 3.116,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Brand.",
+      "start": 3.136,
+      "end": 3.397,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 3.417,
+      "end": 3.477,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 3.517,
+      "end": 3.597,
+      "score": 0.469,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 3.617,
+      "end": 3.777,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "excited",
+      "start": 3.817,
+      "end": 4.117,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 4.137,
+      "end": 4.177,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 4.197,
+      "end": 4.317,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Steve",
+      "start": 4.377,
+      "end": 4.697,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Kersh",
+      "start": 4.777,
+      "end": 5.098,
+      "score": 0.522,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 5.358,
+      "end": 5.438,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 5.738,
+      "end": 5.918,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "show.",
+      "start": 6.078,
+      "end": 6.438,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 6.859,
+      "end": 6.999,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 7.099,
+      "end": 7.219,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interrupting",
+      "start": 7.259,
+      "end": 7.679,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 7.719,
+      "end": 7.879,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Rumblethon",
+      "start": 7.939,
+      "end": 8.46,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 8.5,
+      "end": 8.58,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tell",
+      "start": 8.64,
+      "end": 8.84,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 8.88,
+      "end": 8.98,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 9.0,
+      "end": 9.1,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you've",
+      "start": 9.18,
+      "end": 9.42,
+      "score": 0.617,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 9.5,
+      "end": 9.68,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 9.7,
+      "end": 9.741,
+      "score": 0.324,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "join",
+      "start": 9.781,
+      "end": 10.021,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 10.081,
+      "end": 10.141,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 10.701,
+      "end": 10.801,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 10.861,
+      "end": 11.001,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "8th.",
+      "start": 11.301,
+      "end": 11.542,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Is",
+      "start": 11.602,
+      "end": 11.662,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 11.682,
+      "end": 11.782,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 11.802,
+      "end": 11.902,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 11.942,
+      "end": 11.982,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 12.062,
+      "end": 12.162,
+      "score": 0.676,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 12.182,
+      "end": 12.262,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "8th?",
+      "start": 12.362,
+      "end": 12.542,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Yeah,",
+      "start": 12.782,
+      "end": 12.983,
+      "score": 0.604,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 13.003,
+      "end": 13.083,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "8th,",
+      "start": 13.183,
+      "end": 13.263,
+      "score": 0.572,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Friday",
+      "start": 13.303,
+      "end": 13.623,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 13.663,
+      "end": 13.723,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "8th",
+      "start": 13.743,
+      "end": 13.943,
+      "score": 0.35,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 13.983,
+      "end": 14.043,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "December.",
+      "start": 14.083,
+      "end": 14.463,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Join",
+      "start": 14.544,
+      "end": 14.824,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 14.884,
+      "end": 14.944,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 14.964,
+      "end": 15.124,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 15.144,
+      "end": 15.224,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 15.244,
+      "end": 15.344,
+      "score": 0.681,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 15.364,
+      "end": 15.404,
+      "score": 0.162,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 15.424,
+      "end": 15.464,
+      "score": 0.001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "asking",
+      "start": 15.484,
+      "end": 15.704,
+      "score": 0.415,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Steve",
+      "start": 15.724,
+      "end": 15.924,
+      "score": 0.457,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 15.964,
+      "end": 16.125,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 16.385,
+      "end": 16.965,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 17.045,
+      "end": 17.145,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "low",
+      "start": 17.205,
+      "end": 17.405,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recent",
+      "start": 17.465,
+      "end": 17.726,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "uptake",
+      "start": 17.786,
+      "end": 18.146,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 18.186,
+      "end": 18.246,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them.",
+      "start": 18.286,
+      "end": 18.406,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Excess",
+      "start": 18.866,
+      "end": 19.166,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 19.206,
+      "end": 19.306,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sudden",
+      "start": 19.346,
+      "end": 19.587,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "deaths",
+      "start": 19.607,
+      "end": 19.867,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 20.047,
+      "end": 20.127,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.147,
+      "end": 20.207,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "young",
+      "start": 20.267,
+      "end": 20.427,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "population,",
+      "start": 20.467,
+      "end": 21.047,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Fauci,",
+      "start": 21.247,
+      "end": 21.708,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "corruption",
+      "start": 21.948,
+      "end": 22.368,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "within",
+      "start": 22.408,
+      "end": 22.628,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 22.648,
+      "end": 22.708,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 22.748,
+      "end": 22.968,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "agencies",
+      "start": 23.048,
+      "end": 23.409,
+      "score": 0.551,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "such",
+      "start": 23.429,
+      "end": 23.569,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 23.609,
+      "end": 23.689,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 23.709,
+      "end": 23.789,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "CDC,",
+      "start": 23.829,
+      "end": 24.349,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "FDA,",
+      "start": 24.689,
+      "end": 24.989,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "etc.",
+      "start": 25.029,
+      "end": 25.45,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 25.97,
+      "end": 26.13,
+      "score": 0.635,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "his",
+      "start": 26.47,
+      "end": 26.69,
+      "score": 0.674,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "willingness",
+      "start": 26.75,
+      "end": 27.131,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 27.151,
+      "end": 27.231,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "put",
+      "start": 27.251,
+      "end": 27.891,
+      "score": 0.207,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "$100,000",
+      "start": 27.911,
+      "end": 28.131,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 28.171,
+      "end": 28.231,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 28.251,
+      "end": 28.311,
+      "score": 0.963,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "line",
+      "start": 28.351,
+      "end": 28.511,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 28.531,
+      "end": 28.611,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 28.651,
+      "end": 28.671,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "debate",
+      "start": 28.711,
+      "end": 28.992,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 29.052,
+      "end": 29.112,
+      "score": 0.349,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "MIT,",
+      "start": 29.252,
+      "end": 29.752,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 29.792,
+      "end": 29.932,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Massachusetts",
+      "start": 29.972,
+      "end": 30.512,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Institute",
+      "start": 30.532,
+      "end": 30.893,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 30.913,
+      "end": 30.973,
+      "score": 0.141,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Technology,",
+      "start": 30.993,
+      "end": 31.453,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 31.693,
+      "end": 31.913,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 31.973,
+      "end": 32.433,
+      "score": 0.627,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety.",
+      "start": 32.453,
+      "end": 32.894,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 33.294,
+      "end": 33.494,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "why",
+      "start": 33.714,
+      "end": 33.854,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 33.874,
+      "end": 33.934,
+      "score": 0.001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 33.954,
+      "end": 34.174,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 34.214,
+      "end": 34.314,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taking",
+      "start": 34.354,
+      "end": 34.595,
+      "score": 0.619,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines?",
+      "start": 34.615,
+      "end": 35.015,
+      "score": 0.685,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Could",
+      "start": 35.035,
+      "end": 35.155,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 35.195,
+      "end": 35.235,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 35.275,
+      "end": 35.355,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "connected",
+      "start": 35.375,
+      "end": 35.775,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 35.815,
+      "end": 35.875,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 35.915,
+      "end": 36.075,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sudden",
+      "start": 36.335,
+      "end": 36.596,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "excess",
+      "start": 36.636,
+      "end": 36.956,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "deaths?",
+      "start": 36.976,
+      "end": 37.196,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "To",
+      "start": 37.436,
+      "end": 37.556,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "see",
+      "start": 37.636,
+      "end": 37.876,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 37.996,
+      "end": 38.196,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talk",
+      "start": 38.297,
+      "end": 38.517,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 38.537,
+      "end": 38.617,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Steve",
+      "start": 38.637,
+      "end": 38.917,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Kirsch",
+      "start": 38.977,
+      "end": 39.257,
+      "score": 0.586,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 39.297,
+      "end": 39.517,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that,",
+      "start": 39.577,
+      "end": 39.777,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "join",
+      "start": 39.877,
+      "end": 40.157,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 40.198,
+      "end": 40.298,
+      "score": 0.434,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 40.358,
+      "end": 40.418,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Stay",
+      "start": 40.478,
+      "end": 40.698,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Free",
+      "start": 40.718,
+      "end": 40.898,
+      "score": 0.51,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 40.918,
+      "end": 41.018,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Russell",
+      "start": 41.038,
+      "end": 41.238,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Brand",
+      "start": 41.258,
+      "end": 41.438,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 41.898,
+      "end": 41.998,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 42.199,
+      "end": 42.299,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "8th",
+      "start": 42.459,
+      "end": 42.659,
+      "score": 0.647,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 42.739,
+      "end": 42.819,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "December.",
+      "start": 42.859,
+      "end": 43.199,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 43.219,
+      "end": 43.339,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stream",
+      "start": 43.379,
+      "end": 43.679,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "live",
+      "start": 43.759,
+      "end": 43.96,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 44.0,
+      "end": 44.08,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 44.1,
+      "end": 44.3,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "comments",
+      "start": 44.36,
+      "end": 44.7,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 44.84,
+      "end": 44.98,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 45.02,
+      "end": 45.18,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 45.22,
+      "end": 45.3,
+      "score": 0.512,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "livelier.",
+      "start": 45.34,
+      "end": 45.72,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Stay",
+      "start": 45.841,
+      "end": 46.001,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "free",
+      "start": 46.021,
+      "end": 46.141,
+      "score": 0.57,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "till",
+      "start": 46.181,
+      "end": 46.301,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "then.",
+      "start": 46.321,
+      "end": 46.461,
+      "score": 0.677,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

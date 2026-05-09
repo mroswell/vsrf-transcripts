@@ -1,708 +1,3152 @@
 {
-  "text": " So the vaccines were overpromised and under-delivered in terms of what they could accomplish. You'll remember when they were first rolled out, people were told, this will not only prevent you from getting sick, Tucker, but it'll prevent you from getting grandma sick. It'll prevent, it'll protect other people, right? That kind of argument would hold more force if we had what's called a sterilizing vaccine for COVID. A sterilizing vaccine like the measles vaccine prevents me from getting measles, but also prevents me from getting a low-level infection that I can transmit to someone else. We now know, and we knew pretty early on, certainly by the time I filed my lawsuit in August, that none of the COVID vaccines offer sterilizing immunity. You can still get infected, you can still transmit the virus to others. So the whole argument that you should do it for the sake of other people really falls apart when applied to these specific vaccines. So we fall back on, okay, you're assuming the risks of getting vaccinated or not getting vaccinated. You're assuming the benefits of getting vaccinated or not getting vaccinated. So given that the risks and benefits are crude to you, you should have the right to decide which risks you want to assume and which risks you don't want to assume.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.88,
-      "text": " So the vaccines were overpromised and under-delivered",
-      "tokens": [
-        50364,
-        407,
-        264,
-        12164,
-        645,
-        670,
-        28722,
-        2640,
-        293,
-        833,
-        12,
-        18105,
-        1837,
-        292,
-        50558
+      "start": 0.031,
+      "end": 5.392,
+      "text": " So the vaccines were over-promised and under-delivered in terms of what they could accomplish.",
+      "words": [
+        {
+          "word": "So",
+          "start": 0.031,
+          "end": 0.211,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 0.951,
+          "end": 1.031,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 1.071,
+          "end": 1.451,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 1.491,
+          "end": 1.611,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over-promised",
+          "start": 1.711,
+          "end": 2.352,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 2.472,
+          "end": 2.912,
+          "score": 0.63,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "under-delivered",
+          "start": 3.272,
+          "end": 3.832,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 3.872,
+          "end": 3.932,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "terms",
+          "start": 3.992,
+          "end": 4.212,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 4.272,
+          "end": 4.332,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 4.392,
+          "end": 4.512,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 4.532,
+          "end": 4.652,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "could",
+          "start": 4.672,
+          "end": 4.832,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "accomplish.",
+          "start": 4.872,
+          "end": 5.392,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.058464616044493746,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.88,
-      "end": 5.48,
-      "text": " in terms of what they could accomplish.",
-      "tokens": [
-        50558,
-        294,
-        2115,
-        295,
-        437,
-        436,
-        727,
-        9021,
-        13,
-        50638
+      "start": 5.412,
+      "end": 13.414,
+      "text": "You'll remember when they were first rolled out, people were told, this will not only prevent you from getting sick, Tucker, but it'll prevent you from getting grandma sick.",
+      "words": [
+        {
+          "word": "You'll",
+          "start": 5.412,
+          "end": 5.592,
+          "score": 0.194,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "remember",
+          "start": 5.612,
+          "end": 5.932,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 5.952,
+          "end": 6.052,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 6.072,
+          "end": 6.152,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 6.192,
+          "end": 6.292,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 6.332,
+          "end": 6.553,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rolled",
+          "start": 6.613,
+          "end": 6.833,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out,",
+          "start": 6.893,
+          "end": 7.013,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 7.093,
+          "end": 7.333,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 7.373,
+          "end": 7.493,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "told,",
+          "start": 7.553,
+          "end": 7.873,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 8.153,
+          "end": 8.273,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 8.313,
+          "end": 8.453,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 8.493,
+          "end": 8.613,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "only",
+          "start": 8.653,
+          "end": 8.813,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prevent",
+          "start": 8.873,
+          "end": 9.153,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 9.213,
+          "end": 9.473,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 9.813,
+          "end": 9.953,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 9.993,
+          "end": 10.213,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sick,",
+          "start": 10.273,
+          "end": 10.553,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Tucker,",
+          "start": 10.613,
+          "end": 10.934,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 10.954,
+          "end": 11.054,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it'll",
+          "start": 11.074,
+          "end": 11.274,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prevent",
+          "start": 11.314,
+          "end": 11.614,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 11.654,
+          "end": 11.774,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 11.854,
+          "end": 11.974,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 12.014,
+          "end": 12.194,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "grandma",
+          "start": 12.234,
+          "end": 12.614,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sick.",
+          "start": 13.134,
+          "end": 13.414,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.058464616044493746,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 5.48,
-      "end": 7.08,
-      "text": " You'll remember when they were first rolled out,",
-      "tokens": [
-        50638,
-        509,
-        603,
-        1604,
-        562,
-        436,
-        645,
-        700,
-        14306,
-        484,
-        11,
-        50718
+      "start": 13.494,
+      "end": 15.715,
+      "text": "It'll protect other people.",
+      "words": [
+        {
+          "word": "It'll",
+          "start": 13.494,
+          "end": 13.694,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protect",
+          "start": 13.714,
+          "end": 15.075,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 15.115,
+          "end": 15.295,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people.",
+          "start": 15.355,
+          "end": 15.715,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.058464616044493746,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 7.08,
-      "end": 9.8,
-      "text": " people were told, this will not only prevent you",
-      "tokens": [
-        50718,
-        561,
-        645,
-        1907,
-        11,
-        341,
-        486,
-        406,
-        787,
-        4871,
-        291,
-        50854
+      "start": 16.575,
+      "end": 21.696,
+      "text": "That kind of argument would hold more force if we had what's called a sterilizing vaccine for COVID.",
+      "words": [
+        {
+          "word": "That",
+          "start": 16.575,
+          "end": 16.715,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kind",
+          "start": 16.735,
+          "end": 16.875,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 16.895,
+          "end": 16.955,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "argument",
+          "start": 17.035,
+          "end": 17.375,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 17.415,
+          "end": 17.555,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hold",
+          "start": 17.615,
+          "end": 17.835,
+          "score": 0.652,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 17.875,
+          "end": 18.075,
+          "score": 0.65,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "force",
+          "start": 18.135,
+          "end": 18.435,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 18.615,
+          "end": 18.675,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 18.715,
+          "end": 18.835,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 18.875,
+          "end": 19.015,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what's",
+          "start": 19.035,
+          "end": 19.175,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 19.195,
+          "end": 19.376,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 19.416,
+          "end": 19.436,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sterilizing",
+          "start": 19.496,
+          "end": 20.176,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 20.216,
+          "end": 20.656,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 21.216,
+          "end": 21.356,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID.",
+          "start": 21.396,
+          "end": 21.696,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.058464616044493746,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 9.8,
-      "end": 11.84,
-      "text": " from getting sick, Tucker, but it'll prevent you",
-      "tokens": [
-        50854,
-        490,
-        1242,
-        4998,
-        11,
-        35581,
-        11,
-        457,
-        309,
-        603,
-        4871,
-        291,
-        50956
+      "start": 21.716,
+      "end": 29.618,
+      "text": "A sterilizing vaccine like the measles vaccine prevents me from getting measles, but also prevents me from getting a low-level infection that I can transmit to someone else.",
+      "words": [
+        {
+          "word": "A",
+          "start": 21.716,
+          "end": 21.736,
+          "score": 0.008,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sterilizing",
+          "start": 21.836,
+          "end": 22.416,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 22.456,
+          "end": 22.816,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like",
+          "start": 22.836,
+          "end": 22.976,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 22.996,
+          "end": 23.076,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "measles",
+          "start": 23.116,
+          "end": 23.476,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 23.516,
+          "end": 23.977,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prevents",
+          "start": 24.297,
+          "end": 24.597,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 24.637,
+          "end": 24.717,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 24.777,
+          "end": 24.897,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 24.937,
+          "end": 25.177,
+          "score": 0.695,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "measles,",
+          "start": 25.237,
+          "end": 25.617,
+          "score": 0.787,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 25.677,
+          "end": 25.797,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 25.857,
+          "end": 26.117,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prevents",
+          "start": 26.177,
+          "end": 26.477,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 26.517,
+          "end": 26.637,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 26.697,
+          "end": 26.817,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 26.857,
+          "end": 27.037,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 27.077,
+          "end": 27.117,
+          "score": 0.494,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "low-level",
+          "start": 27.157,
+          "end": 27.617,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "infection",
+          "start": 27.657,
+          "end": 28.098,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 28.138,
+          "end": 28.258,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 28.298,
+          "end": 28.338,
+          "score": 0.499,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 28.358,
+          "end": 28.498,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "transmit",
+          "start": 28.558,
+          "end": 29.038,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 29.058,
+          "end": 29.098,
+          "score": 0.066,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "someone",
+          "start": 29.158,
+          "end": 29.438,
+          "score": 0.305,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "else.",
+          "start": 29.478,
+          "end": 29.618,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.058464616044493746,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 11.84,
-      "end": 13.48,
-      "text": " from getting grandma sick.",
-      "tokens": [
-        50956,
-        490,
-        1242,
-        15766,
-        4998,
-        13,
-        51038
+      "start": 30.198,
+      "end": 38.562,
+      "text": " We now know, and we knew pretty early on, certainly by the time I filed my lawsuit in August, that none of the COVID vaccines offer sterilizing immunity.",
+      "words": [
+        {
+          "word": "We",
+          "start": 30.198,
+          "end": 30.298,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now",
+          "start": 30.338,
+          "end": 30.498,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know,",
+          "start": 30.558,
+          "end": 30.778,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 30.878,
+          "end": 30.958,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 30.998,
+          "end": 31.078,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "knew",
+          "start": 31.098,
+          "end": 31.259,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pretty",
+          "start": 31.339,
+          "end": 31.619,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "early",
+          "start": 31.699,
+          "end": 31.959,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on,",
+          "start": 32.119,
+          "end": 32.239,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "certainly",
+          "start": 32.279,
+          "end": 32.539,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 32.579,
+          "end": 32.659,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 32.699,
+          "end": 32.779,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time",
+          "start": 32.819,
+          "end": 32.979,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 33.019,
+          "end": 33.079,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "filed",
+          "start": 33.119,
+          "end": 33.36,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 33.38,
+          "end": 33.48,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lawsuit",
+          "start": 33.54,
+          "end": 33.98,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 34.14,
+          "end": 34.24,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "August,",
+          "start": 34.4,
+          "end": 34.74,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 35.28,
+          "end": 35.44,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "none",
+          "start": 35.581,
+          "end": 35.721,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 35.741,
+          "end": 35.801,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 35.841,
+          "end": 35.901,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 35.941,
+          "end": 36.201,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 36.221,
+          "end": 36.721,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "offer",
+          "start": 36.921,
+          "end": 37.221,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sterilizing",
+          "start": 37.481,
+          "end": 38.062,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity.",
+          "start": 38.102,
+          "end": 38.562,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.02435980926923178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 13.48,
-      "end": 16.56,
-      "text": " It'll prevent, it'll protect other people, right?",
-      "tokens": [
-        51038,
-        467,
-        603,
-        4871,
-        11,
-        309,
-        603,
-        2371,
-        661,
-        561,
-        11,
-        558,
-        30,
-        51192
+      "start": 38.902,
+      "end": 40.023,
+      "text": "You can still get infected.",
+      "words": [
+        {
+          "word": "You",
+          "start": 38.902,
+          "end": 38.982,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 39.002,
+          "end": 39.122,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 39.162,
+          "end": 39.342,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 39.362,
+          "end": 39.462,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "infected.",
+          "start": 39.482,
+          "end": 40.023,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.02435980926923178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 16.56,
-      "end": 18.56,
-      "text": " That kind of argument would hold more force",
-      "tokens": [
-        51192,
-        663,
-        733,
-        295,
-        6770,
-        576,
-        1797,
-        544,
-        3464,
-        51292
+      "start": 40.103,
+      "end": 41.883,
+      "text": "You can still transmit the virus to others.",
+      "words": [
+        {
+          "word": "You",
+          "start": 40.103,
+          "end": 40.203,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 40.223,
+          "end": 40.343,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 40.383,
+          "end": 40.583,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "transmit",
+          "start": 40.623,
+          "end": 41.003,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 41.043,
+          "end": 41.103,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus",
+          "start": 41.143,
+          "end": 41.463,
+          "score": 0.709,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 41.483,
+          "end": 41.563,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "others.",
+          "start": 41.643,
+          "end": 41.883,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.02435980926923178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 18.56,
-      "end": 21.72,
-      "text": " if we had what's called a sterilizing vaccine for COVID.",
-      "tokens": [
-        51292,
-        498,
-        321,
-        632,
-        437,
-        311,
-        1219,
-        257,
-        41477,
-        3319,
-        7007,
-        337,
-        4566,
-        13,
-        51450
+      "start": 41.903,
+      "end": 49.047,
+      "text": "So the whole argument that you should do it for the sake of other people really falls apart when applied to these specific vaccines.",
+      "words": [
+        {
+          "word": "So",
+          "start": 41.903,
+          "end": 42.024,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 42.064,
+          "end": 42.164,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole",
+          "start": 42.224,
+          "end": 42.504,
+          "score": 0.61,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "argument",
+          "start": 42.664,
+          "end": 43.004,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 43.044,
+          "end": 43.124,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 43.144,
+          "end": 43.204,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "should",
+          "start": 43.224,
+          "end": 43.404,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 43.444,
+          "end": 43.604,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 43.644,
+          "end": 43.704,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 43.744,
+          "end": 43.824,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 43.864,
+          "end": 43.924,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sake",
+          "start": 43.964,
+          "end": 44.124,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 44.144,
+          "end": 44.205,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 44.245,
+          "end": 44.405,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 44.465,
+          "end": 44.805,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 45.345,
+          "end": 45.605,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "falls",
+          "start": 45.645,
+          "end": 45.885,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "apart",
+          "start": 45.945,
+          "end": 46.285,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 46.386,
+          "end": 46.526,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "applied",
+          "start": 46.566,
+          "end": 46.866,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 46.906,
+          "end": 47.006,
+          "score": 0.42,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 47.046,
+          "end": 47.306,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "specific",
+          "start": 47.366,
+          "end": 47.966,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines.",
+          "start": 48.446,
+          "end": 49.047,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.02435980926923178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 0,
-      "start": 21.72,
-      "end": 24.240000000000002,
-      "text": " A sterilizing vaccine like the measles vaccine",
-      "tokens": [
-        51450,
-        316,
-        41477,
-        3319,
-        7007,
-        411,
-        264,
-        5731,
-        904,
-        7007,
-        51576
+      "start": 49.107,
+      "end": 54.489,
+      "text": "So we fall back on, OK, you're assuming the risks of getting vaccinated or not getting vaccinated.",
+      "words": [
+        {
+          "word": "So",
+          "start": 49.107,
+          "end": 49.207,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 49.547,
+          "end": 49.687,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fall",
+          "start": 49.747,
+          "end": 50.007,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "back",
+          "start": 50.047,
+          "end": 50.287,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on,",
+          "start": 50.567,
+          "end": 50.687,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "OK,",
+          "start": 51.128,
+          "end": 51.328,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you're",
+          "start": 51.368,
+          "end": 51.568,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "assuming",
+          "start": 51.588,
+          "end": 51.928,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 51.948,
+          "end": 52.028,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risks",
+          "start": 52.068,
+          "end": 52.368,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 52.488,
+          "end": 52.548,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 52.608,
+          "end": 52.788,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 52.828,
+          "end": 53.309,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 53.429,
+          "end": 53.509,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 53.569,
+          "end": 53.709,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 53.749,
+          "end": 53.969,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated.",
+          "start": 53.989,
+          "end": 54.489,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.02435980926923178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 0,
-      "start": 24.240000000000002,
-      "end": 25.68,
-      "text": " prevents me from getting measles,",
-      "tokens": [
-        51576,
-        22367,
-        385,
-        490,
-        1242,
-        5731,
-        904,
-        11,
-        51648
+      "start": 54.729,
+      "end": 58.051,
+      "text": "You're assuming the benefits of getting vaccinated or not getting vaccinated.",
+      "words": [
+        {
+          "word": "You're",
+          "start": 54.729,
+          "end": 54.869,
+          "score": 0.512,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "assuming",
+          "start": 54.889,
+          "end": 55.19,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 55.23,
+          "end": 55.31,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "benefits",
+          "start": 55.39,
+          "end": 55.81,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 55.93,
+          "end": 55.97,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 56.03,
+          "end": 56.23,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 56.27,
+          "end": 56.77,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 56.87,
+          "end": 56.95,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 57.01,
+          "end": 57.17,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "getting",
+          "start": 57.291,
+          "end": 57.511,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated.",
+          "start": 57.551,
+          "end": 58.051,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
+      "avg_logprob": -0.02435980926923178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 0,
-      "start": 25.68,
-      "end": 28.16,
-      "text": " but also prevents me from getting a low-level infection",
-      "tokens": [
-        51648,
-        457,
-        611,
-        22367,
-        385,
-        490,
-        1242,
-        257,
-        2295,
-        12,
-        12418,
-        11764,
-        51772
+      "start": 58.532,
+      "end": 66.557,
+      "text": " So given that the risks and benefits accrue to you, you should have the right to decide which risks you want to assume and which risks you don't want to assume.",
+      "words": [
+        {
+          "word": "So",
+          "start": 58.532,
+          "end": 58.753,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "given",
+          "start": 58.874,
+          "end": 59.055,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 59.075,
+          "end": 59.196,
+          "score": 0.509,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 59.216,
+          "end": 59.296,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risks",
+          "start": 59.337,
+          "end": 59.518,
+          "score": 0.618,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 59.558,
+          "end": 59.839,
+          "score": 0.487,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "benefits",
+          "start": 59.9,
+          "end": 60.242,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "accrue",
+          "start": 60.282,
+          "end": 60.543,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 60.563,
+          "end": 60.644,
+          "score": 0.501,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you,",
+          "start": 60.724,
+          "end": 61.026,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 61.67,
+          "end": 61.81,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "should",
+          "start": 61.851,
+          "end": 62.012,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 62.052,
+          "end": 62.152,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 62.172,
+          "end": 62.253,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right",
+          "start": 62.293,
+          "end": 62.474,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 62.494,
+          "end": 62.575,
+          "score": 0.514,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "decide",
+          "start": 62.615,
+          "end": 62.997,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 63.098,
+          "end": 63.299,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risks",
+          "start": 63.359,
+          "end": 63.621,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 63.641,
+          "end": 63.741,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 63.761,
+          "end": 63.862,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 63.902,
+          "end": 63.983,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "assume",
+          "start": 64.023,
+          "end": 64.465,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 64.586,
+          "end": 64.687,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 64.747,
+          "end": 64.948,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risks",
+          "start": 65.008,
+          "end": 65.33,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 65.752,
+          "end": 65.853,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 65.873,
+          "end": 66.014,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 66.054,
+          "end": 66.135,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 66.175,
+          "end": 66.215,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "assume.",
+          "start": 66.275,
+          "end": 66.557,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1343344308279611,
-      "compression_ratio": 1.85,
-      "no_speech_prob": 0.03567025437951088
-    },
-    {
-      "id": 12,
-      "seek": 2816,
-      "start": 28.16,
-      "end": 30.2,
-      "text": " that I can transmit to someone else.",
-      "tokens": [
-        50364,
-        300,
-        286,
-        393,
-        17831,
-        281,
-        1580,
-        1646,
-        13,
-        50466
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 13,
-      "seek": 2816,
-      "start": 30.2,
-      "end": 32.28,
-      "text": " We now know, and we knew pretty early on,",
-      "tokens": [
-        50466,
-        492,
-        586,
-        458,
-        11,
-        293,
-        321,
-        2586,
-        1238,
-        2440,
-        322,
-        11,
-        50570
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 14,
-      "seek": 2816,
-      "start": 32.28,
-      "end": 35.24,
-      "text": " certainly by the time I filed my lawsuit in August,",
-      "tokens": [
-        50570,
-        3297,
-        538,
-        264,
-        565,
-        286,
-        18789,
-        452,
-        22504,
-        294,
-        6897,
-        11,
-        50718
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 15,
-      "seek": 2816,
-      "start": 35.24,
-      "end": 38.92,
-      "text": " that none of the COVID vaccines offer sterilizing immunity.",
-      "tokens": [
-        50718,
-        300,
-        6022,
-        295,
-        264,
-        4566,
-        12164,
-        2626,
-        41477,
-        3319,
-        22701,
-        13,
-        50902
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 16,
-      "seek": 2816,
-      "start": 38.92,
-      "end": 40.120000000000005,
-      "text": " You can still get infected,",
-      "tokens": [
-        50902,
-        509,
-        393,
-        920,
-        483,
-        15414,
-        11,
-        50962
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 17,
-      "seek": 2816,
-      "start": 40.120000000000005,
-      "end": 41.96,
-      "text": " you can still transmit the virus to others.",
-      "tokens": [
-        50962,
-        291,
-        393,
-        920,
-        17831,
-        264,
-        5752,
-        281,
-        2357,
-        13,
-        51054
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 18,
-      "seek": 2816,
-      "start": 41.96,
-      "end": 43.76,
-      "text": " So the whole argument that you should do it",
-      "tokens": [
-        51054,
-        407,
-        264,
-        1379,
-        6770,
-        300,
-        291,
-        820,
-        360,
-        309,
-        51144
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 19,
-      "seek": 2816,
-      "start": 43.76,
-      "end": 46.400000000000006,
-      "text": " for the sake of other people really falls apart",
-      "tokens": [
-        51144,
-        337,
-        264,
-        9717,
-        295,
-        661,
-        561,
-        534,
-        8804,
-        4936,
-        51276
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 20,
-      "seek": 2816,
-      "start": 46.400000000000006,
-      "end": 49.16,
-      "text": " when applied to these specific vaccines.",
-      "tokens": [
-        51276,
-        562,
-        6456,
-        281,
-        613,
-        2685,
-        12164,
-        13,
-        51414
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 21,
-      "seek": 2816,
-      "start": 49.16,
-      "end": 52.480000000000004,
-      "text": " So we fall back on, okay, you're assuming the risks",
-      "tokens": [
-        51414,
-        407,
-        321,
-        2100,
-        646,
-        322,
-        11,
-        1392,
-        11,
-        291,
-        434,
-        11926,
-        264,
-        10888,
-        51580
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 22,
-      "seek": 2816,
-      "start": 52.480000000000004,
-      "end": 54.74,
-      "text": " of getting vaccinated or not getting vaccinated.",
-      "tokens": [
-        51580,
-        295,
-        1242,
-        14686,
-        420,
-        406,
-        1242,
-        14686,
-        13,
-        51693
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 23,
-      "seek": 2816,
-      "start": 54.74,
-      "end": 56.879999999999995,
-      "text": " You're assuming the benefits of getting vaccinated",
-      "tokens": [
-        51693,
-        509,
-        434,
-        11926,
-        264,
-        5311,
-        295,
-        1242,
-        14686,
-        51800
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0923300771152272,
-      "compression_ratio": 1.7934426229508196,
-      "no_speech_prob": 0.002234657062217593
-    },
-    {
-      "id": 24,
-      "seek": 5688,
-      "start": 56.88,
-      "end": 58.440000000000005,
-      "text": " or not getting vaccinated.",
-      "tokens": [
-        50364,
-        420,
-        406,
-        1242,
-        14686,
-        13,
-        50442
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17906473197189032,
-      "compression_ratio": 1.5447154471544715,
-      "no_speech_prob": 0.0035795029252767563
-    },
-    {
-      "id": 25,
-      "seek": 5688,
-      "start": 58.440000000000005,
-      "end": 61.56,
-      "text": " So given that the risks and benefits are crude to you,",
-      "tokens": [
-        50442,
-        407,
-        2212,
-        300,
-        264,
-        10888,
-        293,
-        5311,
-        366,
-        30796,
-        281,
-        291,
-        11,
-        50598
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17906473197189032,
-      "compression_ratio": 1.5447154471544715,
-      "no_speech_prob": 0.0035795029252767563
-    },
-    {
-      "id": 26,
-      "seek": 5688,
-      "start": 61.56,
-      "end": 63.080000000000005,
-      "text": " you should have the right to decide",
-      "tokens": [
-        50598,
-        291,
-        820,
-        362,
-        264,
-        558,
-        281,
-        4536,
-        50674
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17906473197189032,
-      "compression_ratio": 1.5447154471544715,
-      "no_speech_prob": 0.0035795029252767563
-    },
-    {
-      "id": 27,
-      "seek": 5688,
-      "start": 63.080000000000005,
-      "end": 64.56,
-      "text": " which risks you want to assume",
-      "tokens": [
-        50674,
-        597,
-        10888,
-        291,
-        528,
-        281,
-        6552,
-        50748
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17906473197189032,
-      "compression_ratio": 1.5447154471544715,
-      "no_speech_prob": 0.0035795029252767563
-    },
-    {
-      "id": 28,
-      "seek": 5688,
-      "start": 64.56,
-      "end": 66.76,
-      "text": " and which risks you don't want to assume.",
-      "tokens": [
-        50748,
-        293,
-        597,
-        10888,
-        291,
-        500,
-        380,
-        528,
-        281,
-        6552,
-        13,
-        50858
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17906473197189032,
-      "compression_ratio": 1.5447154471544715,
-      "no_speech_prob": 0.0035795029252767563
+      "avg_logprob": -0.0477430545207527,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 0.031,
+      "end": 0.211,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 0.951,
+      "end": 1.031,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 1.071,
+      "end": 1.451,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 1.491,
+      "end": 1.611,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over-promised",
+      "start": 1.711,
+      "end": 2.352,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 2.472,
+      "end": 2.912,
+      "score": 0.63,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "under-delivered",
+      "start": 3.272,
+      "end": 3.832,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 3.872,
+      "end": 3.932,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "terms",
+      "start": 3.992,
+      "end": 4.212,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 4.272,
+      "end": 4.332,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 4.392,
+      "end": 4.512,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 4.532,
+      "end": 4.652,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "could",
+      "start": 4.672,
+      "end": 4.832,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "accomplish.",
+      "start": 4.872,
+      "end": 5.392,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You'll",
+      "start": 5.412,
+      "end": 5.592,
+      "score": 0.194,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "remember",
+      "start": 5.612,
+      "end": 5.932,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 5.952,
+      "end": 6.052,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 6.072,
+      "end": 6.152,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 6.192,
+      "end": 6.292,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 6.332,
+      "end": 6.553,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rolled",
+      "start": 6.613,
+      "end": 6.833,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out,",
+      "start": 6.893,
+      "end": 7.013,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 7.093,
+      "end": 7.333,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 7.373,
+      "end": 7.493,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "told,",
+      "start": 7.553,
+      "end": 7.873,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 8.153,
+      "end": 8.273,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 8.313,
+      "end": 8.453,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 8.493,
+      "end": 8.613,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "only",
+      "start": 8.653,
+      "end": 8.813,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prevent",
+      "start": 8.873,
+      "end": 9.153,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 9.213,
+      "end": 9.473,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 9.813,
+      "end": 9.953,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 9.993,
+      "end": 10.213,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sick,",
+      "start": 10.273,
+      "end": 10.553,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Tucker,",
+      "start": 10.613,
+      "end": 10.934,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 10.954,
+      "end": 11.054,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it'll",
+      "start": 11.074,
+      "end": 11.274,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prevent",
+      "start": 11.314,
+      "end": 11.614,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 11.654,
+      "end": 11.774,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 11.854,
+      "end": 11.974,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 12.014,
+      "end": 12.194,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "grandma",
+      "start": 12.234,
+      "end": 12.614,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sick.",
+      "start": 13.134,
+      "end": 13.414,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It'll",
+      "start": 13.494,
+      "end": 13.694,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protect",
+      "start": 13.714,
+      "end": 15.075,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 15.115,
+      "end": 15.295,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people.",
+      "start": 15.355,
+      "end": 15.715,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That",
+      "start": 16.575,
+      "end": 16.715,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kind",
+      "start": 16.735,
+      "end": 16.875,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 16.895,
+      "end": 16.955,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "argument",
+      "start": 17.035,
+      "end": 17.375,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 17.415,
+      "end": 17.555,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hold",
+      "start": 17.615,
+      "end": 17.835,
+      "score": 0.652,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 17.875,
+      "end": 18.075,
+      "score": 0.65,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "force",
+      "start": 18.135,
+      "end": 18.435,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 18.615,
+      "end": 18.675,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 18.715,
+      "end": 18.835,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 18.875,
+      "end": 19.015,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what's",
+      "start": 19.035,
+      "end": 19.175,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 19.195,
+      "end": 19.376,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 19.416,
+      "end": 19.436,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sterilizing",
+      "start": 19.496,
+      "end": 20.176,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 20.216,
+      "end": 20.656,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 21.216,
+      "end": 21.356,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID.",
+      "start": 21.396,
+      "end": 21.696,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "A",
+      "start": 21.716,
+      "end": 21.736,
+      "score": 0.008,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sterilizing",
+      "start": 21.836,
+      "end": 22.416,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 22.456,
+      "end": 22.816,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like",
+      "start": 22.836,
+      "end": 22.976,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 22.996,
+      "end": 23.076,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "measles",
+      "start": 23.116,
+      "end": 23.476,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 23.516,
+      "end": 23.977,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prevents",
+      "start": 24.297,
+      "end": 24.597,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 24.637,
+      "end": 24.717,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 24.777,
+      "end": 24.897,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 24.937,
+      "end": 25.177,
+      "score": 0.695,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "measles,",
+      "start": 25.237,
+      "end": 25.617,
+      "score": 0.787,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 25.677,
+      "end": 25.797,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 25.857,
+      "end": 26.117,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prevents",
+      "start": 26.177,
+      "end": 26.477,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 26.517,
+      "end": 26.637,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 26.697,
+      "end": 26.817,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 26.857,
+      "end": 27.037,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 27.077,
+      "end": 27.117,
+      "score": 0.494,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "low-level",
+      "start": 27.157,
+      "end": 27.617,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "infection",
+      "start": 27.657,
+      "end": 28.098,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 28.138,
+      "end": 28.258,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 28.298,
+      "end": 28.338,
+      "score": 0.499,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 28.358,
+      "end": 28.498,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "transmit",
+      "start": 28.558,
+      "end": 29.038,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 29.058,
+      "end": 29.098,
+      "score": 0.066,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "someone",
+      "start": 29.158,
+      "end": 29.438,
+      "score": 0.305,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "else.",
+      "start": 29.478,
+      "end": 29.618,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 30.198,
+      "end": 30.298,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now",
+      "start": 30.338,
+      "end": 30.498,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know,",
+      "start": 30.558,
+      "end": 30.778,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 30.878,
+      "end": 30.958,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 30.998,
+      "end": 31.078,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "knew",
+      "start": 31.098,
+      "end": 31.259,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pretty",
+      "start": 31.339,
+      "end": 31.619,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "early",
+      "start": 31.699,
+      "end": 31.959,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on,",
+      "start": 32.119,
+      "end": 32.239,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "certainly",
+      "start": 32.279,
+      "end": 32.539,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 32.579,
+      "end": 32.659,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 32.699,
+      "end": 32.779,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time",
+      "start": 32.819,
+      "end": 32.979,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 33.019,
+      "end": 33.079,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "filed",
+      "start": 33.119,
+      "end": 33.36,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 33.38,
+      "end": 33.48,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lawsuit",
+      "start": 33.54,
+      "end": 33.98,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 34.14,
+      "end": 34.24,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "August,",
+      "start": 34.4,
+      "end": 34.74,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 35.28,
+      "end": 35.44,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "none",
+      "start": 35.581,
+      "end": 35.721,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 35.741,
+      "end": 35.801,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 35.841,
+      "end": 35.901,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 35.941,
+      "end": 36.201,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 36.221,
+      "end": 36.721,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "offer",
+      "start": 36.921,
+      "end": 37.221,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sterilizing",
+      "start": 37.481,
+      "end": 38.062,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity.",
+      "start": 38.102,
+      "end": 38.562,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 38.902,
+      "end": 38.982,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 39.002,
+      "end": 39.122,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 39.162,
+      "end": 39.342,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 39.362,
+      "end": 39.462,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "infected.",
+      "start": 39.482,
+      "end": 40.023,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 40.103,
+      "end": 40.203,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 40.223,
+      "end": 40.343,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 40.383,
+      "end": 40.583,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "transmit",
+      "start": 40.623,
+      "end": 41.003,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 41.043,
+      "end": 41.103,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus",
+      "start": 41.143,
+      "end": 41.463,
+      "score": 0.709,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 41.483,
+      "end": 41.563,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "others.",
+      "start": 41.643,
+      "end": 41.883,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 41.903,
+      "end": 42.024,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 42.064,
+      "end": 42.164,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole",
+      "start": 42.224,
+      "end": 42.504,
+      "score": 0.61,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "argument",
+      "start": 42.664,
+      "end": 43.004,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 43.044,
+      "end": 43.124,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 43.144,
+      "end": 43.204,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "should",
+      "start": 43.224,
+      "end": 43.404,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 43.444,
+      "end": 43.604,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 43.644,
+      "end": 43.704,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 43.744,
+      "end": 43.824,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 43.864,
+      "end": 43.924,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sake",
+      "start": 43.964,
+      "end": 44.124,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 44.144,
+      "end": 44.205,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 44.245,
+      "end": 44.405,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 44.465,
+      "end": 44.805,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 45.345,
+      "end": 45.605,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "falls",
+      "start": 45.645,
+      "end": 45.885,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "apart",
+      "start": 45.945,
+      "end": 46.285,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 46.386,
+      "end": 46.526,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "applied",
+      "start": 46.566,
+      "end": 46.866,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 46.906,
+      "end": 47.006,
+      "score": 0.42,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 47.046,
+      "end": 47.306,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "specific",
+      "start": 47.366,
+      "end": 47.966,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines.",
+      "start": 48.446,
+      "end": 49.047,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 49.107,
+      "end": 49.207,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 49.547,
+      "end": 49.687,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fall",
+      "start": 49.747,
+      "end": 50.007,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "back",
+      "start": 50.047,
+      "end": 50.287,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on,",
+      "start": 50.567,
+      "end": 50.687,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "OK,",
+      "start": 51.128,
+      "end": 51.328,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you're",
+      "start": 51.368,
+      "end": 51.568,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "assuming",
+      "start": 51.588,
+      "end": 51.928,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 51.948,
+      "end": 52.028,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risks",
+      "start": 52.068,
+      "end": 52.368,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 52.488,
+      "end": 52.548,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 52.608,
+      "end": 52.788,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 52.828,
+      "end": 53.309,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 53.429,
+      "end": 53.509,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 53.569,
+      "end": 53.709,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 53.749,
+      "end": 53.969,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated.",
+      "start": 53.989,
+      "end": 54.489,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You're",
+      "start": 54.729,
+      "end": 54.869,
+      "score": 0.512,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "assuming",
+      "start": 54.889,
+      "end": 55.19,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 55.23,
+      "end": 55.31,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "benefits",
+      "start": 55.39,
+      "end": 55.81,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 55.93,
+      "end": 55.97,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 56.03,
+      "end": 56.23,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 56.27,
+      "end": 56.77,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 56.87,
+      "end": 56.95,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 57.01,
+      "end": 57.17,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "getting",
+      "start": 57.291,
+      "end": 57.511,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated.",
+      "start": 57.551,
+      "end": 58.051,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 58.532,
+      "end": 58.753,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "given",
+      "start": 58.874,
+      "end": 59.055,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 59.075,
+      "end": 59.196,
+      "score": 0.509,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 59.216,
+      "end": 59.296,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risks",
+      "start": 59.337,
+      "end": 59.518,
+      "score": 0.618,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 59.558,
+      "end": 59.839,
+      "score": 0.487,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "benefits",
+      "start": 59.9,
+      "end": 60.242,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "accrue",
+      "start": 60.282,
+      "end": 60.543,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 60.563,
+      "end": 60.644,
+      "score": 0.501,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you,",
+      "start": 60.724,
+      "end": 61.026,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 61.67,
+      "end": 61.81,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "should",
+      "start": 61.851,
+      "end": 62.012,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 62.052,
+      "end": 62.152,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 62.172,
+      "end": 62.253,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right",
+      "start": 62.293,
+      "end": 62.474,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 62.494,
+      "end": 62.575,
+      "score": 0.514,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "decide",
+      "start": 62.615,
+      "end": 62.997,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 63.098,
+      "end": 63.299,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risks",
+      "start": 63.359,
+      "end": 63.621,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 63.641,
+      "end": 63.741,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 63.761,
+      "end": 63.862,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 63.902,
+      "end": 63.983,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "assume",
+      "start": 64.023,
+      "end": 64.465,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 64.586,
+      "end": 64.687,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 64.747,
+      "end": 64.948,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risks",
+      "start": 65.008,
+      "end": 65.33,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 65.752,
+      "end": 65.853,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 65.873,
+      "end": 66.014,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 66.054,
+      "end": 66.135,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 66.175,
+      "end": 66.215,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "assume.",
+      "start": 66.275,
+      "end": 66.557,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

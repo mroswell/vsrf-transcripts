@@ -1,716 +1,2970 @@
 {
-  "text": " If you point out, for example, like the CDC, this is a fact, just for the YouTube sensors, that there was a Freedom of Information Act request and they requested the safety signal analysis in the VAERS system and it turns out that there were 770 safety signals that were triggered in VAERS, but the CDC never told anyone about it. And these are safety signals like death, for example, and that safety signal triggered in the first month after the vaccines rolled out. And of course, there are other safety signals. So what do you mean is, what do you, when you say safety signal, what is a signal? So the CDC has defined a formula. It's a three-part formula. It has something called PRR, Proportional Reporting Ratio. The second one is chi-squared and the third one is simply the number of events. And so it's a mathematical formula. And if the formula says, oh, you win the prize, all three of these, if this is greater than this, if PRR is greater than two, chi-squared is greater than four, and if there are more than, and I forget the number of events, then a safety signal is deemed to be triggered. Okay. And so the death,",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.84,
-      "text": " If you point out, for example, like the CDC,",
-      "tokens": [
-        50364,
-        759,
-        291,
-        935,
-        484,
-        11,
-        337,
-        1365,
-        11,
-        411,
-        264,
-        17133,
-        11,
-        50556
+      "start": 0.111,
+      "end": 17.635,
+      "text": " If you point out, for example, like the CDC, this is a fact, just for the YouTube sensors, that there was a Freedom of Information Act request, and they requested the safety signal analysis in the VAERS system.",
+      "words": [
+        {
+          "word": "If",
+          "start": 0.111,
+          "end": 0.191,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 0.211,
+          "end": 0.351,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "point",
+          "start": 0.391,
+          "end": 0.671,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out,",
+          "start": 0.811,
+          "end": 0.951,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 1.151,
+          "end": 1.331,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "example,",
+          "start": 1.391,
+          "end": 1.891,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like",
+          "start": 1.971,
+          "end": 2.171,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 2.212,
+          "end": 2.292,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "CDC,",
+          "start": 2.332,
+          "end": 3.832,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 3.872,
+          "end": 4.012,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 4.072,
+          "end": 4.132,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 4.192,
+          "end": 4.212,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fact,",
+          "start": 4.252,
+          "end": 4.572,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 5.452,
+          "end": 5.672,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 6.112,
+          "end": 6.372,
+          "score": 0.552,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.392,
+          "end": 6.533,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "YouTube",
+          "start": 6.573,
+          "end": 7.033,
+          "score": 0.636,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sensors,",
+          "start": 7.193,
+          "end": 8.573,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 8.973,
+          "end": 9.173,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 9.233,
+          "end": 9.373,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 9.393,
+          "end": 9.493,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 9.533,
+          "end": 9.573,
+          "score": 0.496,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Freedom",
+          "start": 9.593,
+          "end": 9.873,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 9.913,
+          "end": 9.973,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Information",
+          "start": 10.033,
+          "end": 10.593,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Act",
+          "start": 10.713,
+          "end": 10.894,
+          "score": 0.511,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "request,",
+          "start": 10.954,
+          "end": 11.434,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 12.394,
+          "end": 12.574,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 12.814,
+          "end": 13.054,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "requested",
+          "start": 13.154,
+          "end": 13.814,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 13.994,
+          "end": 14.174,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety",
+          "start": 14.274,
+          "end": 14.614,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "signal",
+          "start": 14.654,
+          "end": 15.095,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "analysis",
+          "start": 15.355,
+          "end": 15.975,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 16.935,
+          "end": 16.995,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 17.015,
+          "end": 17.075,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "VAERS",
+          "start": 17.115,
+          "end": 17.295,
+          "score": 0.552,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system.",
+          "start": 17.335,
+          "end": 17.635,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
+      "avg_logprob": -0.06854992477995593,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.84,
-      "end": 7.96,
-      "text": " this is a fact, just for the YouTube sensors,",
-      "tokens": [
-        50556,
-        341,
-        307,
-        257,
-        1186,
-        11,
-        445,
-        337,
-        264,
-        3088,
-        14840,
-        11,
-        50762
+      "start": 17.695,
+      "end": 26.497,
+      "text": "And it turns out that there were 770 safety signals that were triggered in VAERS, but the CDC never told anyone about it.",
+      "words": [
+        {
+          "word": "And",
+          "start": 17.695,
+          "end": 17.775,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 17.815,
+          "end": 17.855,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "turns",
+          "start": 17.895,
+          "end": 18.135,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 18.215,
+          "end": 18.335,
+          "score": 0.963,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 18.375,
+          "end": 18.495,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 18.515,
+          "end": 18.675,
+          "score": 0.716,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 18.715,
+          "end": 18.855,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "770",
+          "start": 18.875,
+          "end": 19.856,
+          "score": 0.449,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety",
+          "start": 20.616,
+          "end": 20.956,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "signals",
+          "start": 20.996,
+          "end": 21.296,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 21.336,
+          "end": 21.436,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 21.456,
+          "end": 21.556,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "triggered",
+          "start": 21.596,
+          "end": 21.896,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 21.936,
+          "end": 22.016,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "VAERS,",
+          "start": 22.036,
+          "end": 22.416,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 22.896,
+          "end": 23.136,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 23.216,
+          "end": 23.296,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "CDC",
+          "start": 23.336,
+          "end": 23.837,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 24.337,
+          "end": 24.637,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "told",
+          "start": 24.737,
+          "end": 25.177,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anyone",
+          "start": 25.877,
+          "end": 26.137,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 26.157,
+          "end": 26.397,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 26.437,
+          "end": 26.497,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
+      "avg_logprob": -0.06854992477995593,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.94,
-      "end": 12.08,
-      "text": " that there was a Freedom of Information Act request",
-      "tokens": [
-        50811,
-        300,
-        456,
-        390,
-        257,
-        22208,
-        295,
-        15357,
-        3251,
-        5308,
-        50968
+      "start": 26.977,
+      "end": 29.698,
+      "text": "And these are safety signals like death.",
+      "words": [
+        {
+          "word": "And",
+          "start": 26.977,
+          "end": 27.057,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 27.117,
+          "end": 27.297,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 27.377,
+          "end": 27.457,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety",
+          "start": 27.497,
+          "end": 27.817,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "signals",
+          "start": 27.878,
+          "end": 28.338,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like",
+          "start": 28.738,
+          "end": 28.958,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "death.",
+          "start": 29.378,
+          "end": 29.698,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
+      "avg_logprob": -0.06854992477995593,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 12.08,
-      "end": 16.64,
-      "text": " and they requested the safety signal analysis",
-      "tokens": [
-        50968,
-        293,
-        436,
-        16436,
-        264,
-        4514,
-        6358,
-        5215,
-        51196
+      "start": 30.439,
+      "end": 42.113,
+      "text": " For example and that safety signal triggered in the first month after the vaccines rolled out and of course there are other So what do you mean is what do you when you say safety signal?",
+      "words": [
+        {
+          "word": "For",
+          "start": 30.439,
+          "end": 30.559,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "example",
+          "start": 30.639,
+          "end": 31.059,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 31.44,
+          "end": 31.54,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 31.6,
+          "end": 31.86,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety",
+          "start": 31.9,
+          "end": 32.241,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "signal",
+          "start": 32.301,
+          "end": 32.661,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "triggered",
+          "start": 32.701,
+          "end": 33.082,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 33.322,
+          "end": 33.422,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 33.442,
+          "end": 33.543,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 33.583,
+          "end": 33.823,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "month",
+          "start": 33.903,
+          "end": 34.203,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 34.904,
+          "end": 35.305,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 35.825,
+          "end": 35.926,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 35.946,
+          "end": 36.466,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rolled",
+          "start": 36.546,
+          "end": 36.827,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 36.967,
+          "end": 37.087,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 37.808,
+          "end": 37.928,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 37.948,
+          "end": 37.988,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "course",
+          "start": 38.028,
+          "end": 38.168,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 38.188,
+          "end": 38.289,
+          "score": 0.694,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 38.309,
+          "end": 38.369,
+          "score": 0.03,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 38.389,
+          "end": 38.709,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "So",
+          "start": 38.789,
+          "end": 38.989,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 39.009,
+          "end": 39.09,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 39.11,
+          "end": 39.15,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 39.17,
+          "end": 39.29,
+          "score": 0.572,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mean",
+          "start": 39.31,
+          "end": 39.45,
+          "score": 0.841,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 39.47,
+          "end": 39.51,
+          "score": 0.233,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "what",
+          "start": 39.831,
+          "end": 39.971,
+          "score": 0.781,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "do",
+          "start": 39.991,
+          "end": 40.171,
+          "score": 0.336,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "you",
+          "start": 40.211,
+          "end": 40.311,
+          "score": 0.34,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "when",
+          "start": 40.511,
+          "end": 40.712,
+          "score": 0.669,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "you",
+          "start": 40.732,
+          "end": 40.832,
+          "score": 0.929,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "say",
+          "start": 40.872,
+          "end": 41.032,
+          "score": 0.87,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "safety",
+          "start": 41.112,
+          "end": 41.533,
+          "score": 0.863,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "signal?",
+          "start": 41.673,
+          "end": 42.113,
+          "score": 0.812,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
+      "avg_logprob": -0.17332848213439764,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 16.64,
-      "end": 18.400000000000002,
-      "text": " in the VAERS system and it turns out",
-      "tokens": [
-        51196,
-        294,
-        264,
-        18527,
-        14451,
-        1185,
-        293,
-        309,
-        4523,
-        484,
-        51284
+      "start": 42.194,
+      "end": 43.115,
+      "text": "What is a signal?",
+      "words": [
+        {
+          "word": "What",
+          "start": 42.194,
+          "end": 42.314,
+          "score": 0.947,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 42.374,
+          "end": 42.454,
+          "score": 0.678,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "a",
+          "start": 42.534,
+          "end": 42.574,
+          "score": 0.562,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "signal?",
+          "start": 42.734,
+          "end": 43.115,
+          "score": 0.884,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
+      "avg_logprob": -0.17332848213439764,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 18.400000000000002,
-      "end": 21.36,
-      "text": " that there were 770 safety signals",
-      "tokens": [
-        51284,
-        300,
-        456,
-        645,
-        1614,
-        5867,
-        4514,
-        12354,
-        51432
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 21.36,
-      "end": 22.88,
-      "text": " that were triggered in VAERS,",
-      "tokens": [
-        51432,
-        300,
-        645,
-        21710,
-        294,
-        18527,
-        14451,
-        11,
-        51508
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 22.88,
-      "end": 26.92,
-      "text": " but the CDC never told anyone about it.",
-      "tokens": [
-        51508,
-        457,
-        264,
-        17133,
-        1128,
-        1907,
-        2878,
-        466,
-        309,
-        13,
-        51710
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15329404895225268,
-      "compression_ratio": 1.5639810426540284,
-      "no_speech_prob": 0.004465506877750158
-    },
-    {
-      "id": 8,
-      "seek": 2692,
-      "start": 26.96,
-      "end": 31.44,
-      "text": " And these are safety signals like death, for example,",
-      "tokens": [
-        50366,
-        400,
-        613,
-        366,
-        4514,
-        12354,
-        411,
-        2966,
-        11,
-        337,
-        1365,
-        11,
-        50590
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
-    },
-    {
-      "id": 9,
-      "seek": 2692,
-      "start": 31.44,
-      "end": 34.760000000000005,
-      "text": " and that safety signal triggered in the first month",
-      "tokens": [
-        50590,
-        293,
-        300,
-        4514,
-        6358,
-        21710,
-        294,
-        264,
-        700,
-        1618,
-        50756
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
-    },
-    {
-      "id": 10,
-      "seek": 2692,
-      "start": 34.760000000000005,
-      "end": 37.72,
-      "text": " after the vaccines rolled out.",
-      "tokens": [
-        50756,
-        934,
-        264,
-        12164,
-        14306,
-        484,
-        13,
-        50904
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
-    },
-    {
-      "id": 11,
-      "seek": 2692,
-      "start": 37.72,
-      "end": 38.88,
-      "text": " And of course, there are other safety signals.",
-      "tokens": [
-        50904,
-        400,
-        295,
-        1164,
-        11,
-        456,
-        366,
-        661,
-        4514,
-        12354,
-        13,
-        50962
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
-    },
-    {
-      "id": 12,
-      "seek": 2692,
-      "start": 38.88,
-      "end": 40.44,
-      "text": " So what do you mean is, what do you,",
-      "tokens": [
-        50962,
-        407,
-        437,
-        360,
-        291,
-        914,
-        307,
-        11,
-        437,
-        360,
-        291,
-        11,
-        51040
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
-    },
-    {
-      "id": 13,
-      "seek": 2692,
-      "start": 40.44,
-      "end": 43.38,
-      "text": " when you say safety signal, what is a signal?",
-      "tokens": [
-        51040,
-        562,
-        291,
-        584,
-        4514,
-        6358,
-        11,
-        437,
-        307,
-        257,
-        6358,
-        30,
-        51187
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
-    },
-    {
-      "id": 14,
-      "seek": 2692,
-      "start": 44.400000000000006,
-      "end": 47.8,
+      "start": 44.405,
+      "end": 47.548,
       "text": " So the CDC has defined a formula.",
-      "tokens": [
-        51238,
-        407,
-        264,
-        17133,
-        575,
-        7642,
-        257,
-        8513,
-        13,
-        51408
+      "words": [
+        {
+          "word": "So",
+          "start": 44.405,
+          "end": 44.685,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 45.126,
+          "end": 45.226,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "CDC",
+          "start": 45.266,
+          "end": 45.926,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 46.006,
+          "end": 46.207,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "defined",
+          "start": 46.247,
+          "end": 46.787,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 46.867,
+          "end": 46.907,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "formula.",
+          "start": 47.007,
+          "end": 47.548,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
+      "avg_logprob": -0.08007812180689403,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 2692,
-      "start": 47.8,
-      "end": 50.760000000000005,
-      "text": " It's a three-part formula.",
-      "tokens": [
-        51408,
-        467,
-        311,
-        257,
-        1045,
-        12,
-        6971,
-        8513,
-        13,
-        51556
+      "start": 47.848,
+      "end": 50.05,
+      "text": "It's a three-part formula.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 47.848,
+          "end": 47.988,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 48.048,
+          "end": 48.108,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three-part",
+          "start": 48.308,
+          "end": 49.349,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "formula.",
+          "start": 49.529,
+          "end": 50.05,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
+      "avg_logprob": -0.08007812180689403,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 2692,
-      "start": 50.760000000000005,
-      "end": 53.0,
-      "text": " It has something called PRR,",
-      "tokens": [
-        51556,
-        467,
-        575,
-        746,
-        1219,
-        11568,
-        49,
-        11,
-        51668
+      "start": 50.79,
+      "end": 54.734,
+      "text": "It has something called PRR, proportional reporting ratio.",
+      "words": [
+        {
+          "word": "It",
+          "start": 50.79,
+          "end": 50.85,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 50.89,
+          "end": 51.151,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "something",
+          "start": 51.471,
+          "end": 51.731,
+          "score": 0.684,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 51.751,
+          "end": 51.931,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PRR,",
+          "start": 51.991,
+          "end": 52.932,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "proportional",
+          "start": 52.992,
+          "end": 53.513,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reporting",
+          "start": 53.573,
+          "end": 53.993,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ratio.",
+          "start": 54.073,
+          "end": 54.734,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
+      "avg_logprob": -0.08007812180689403,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 2692,
-      "start": 53.0,
-      "end": 55.24,
-      "text": " Proportional Reporting Ratio.",
-      "tokens": [
-        51668,
-        21944,
-        477,
-        1966,
-        44229,
-        24269,
-        1004,
-        13,
-        51780
+      "start": 55.214,
+      "end": 58.737,
+      "text": "The second one is chi-squared, and the third one is simply the number of events.",
+      "words": [
+        {
+          "word": "The",
+          "start": 55.214,
+          "end": 55.314,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "second",
+          "start": 55.354,
+          "end": 55.634,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 55.694,
+          "end": 55.794,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 55.834,
+          "end": 55.914,
+          "score": 0.673,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chi-squared,",
+          "start": 55.975,
+          "end": 56.735,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 56.775,
+          "end": 56.855,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 56.895,
+          "end": 56.975,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "third",
+          "start": 56.995,
+          "end": 57.216,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 57.276,
+          "end": 57.376,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 57.416,
+          "end": 57.476,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "simply",
+          "start": 57.516,
+          "end": 57.776,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 57.816,
+          "end": 57.896,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "number",
+          "start": 57.956,
+          "end": 58.196,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 58.236,
+          "end": 58.316,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "events.",
+          "start": 58.397,
+          "end": 58.737,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19064253026788885,
-      "compression_ratio": 1.7232142857142858,
-      "no_speech_prob": 6.938539445400238e-05
+      "avg_logprob": -0.08007812180689403,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 5524,
-      "start": 55.24,
-      "end": 56.800000000000004,
-      "text": " The second one is chi-squared",
-      "tokens": [
-        50364,
-        440,
-        1150,
-        472,
-        307,
-        13228,
-        12,
-        33292,
-        1642,
-        50442
+      "start": 58.797,
+      "end": 61.019,
+      "text": "And so it's a mathematical formula.",
+      "words": [
+        {
+          "word": "And",
+          "start": 58.797,
+          "end": 58.897,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 59.117,
+          "end": 59.297,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 59.417,
+          "end": 59.557,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 59.597,
+          "end": 59.618,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mathematical",
+          "start": 59.698,
+          "end": 60.398,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "formula.",
+          "start": 60.578,
+          "end": 61.019,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
+      "avg_logprob": -0.08007812180689403,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 5524,
-      "start": 56.800000000000004,
-      "end": 58.800000000000004,
-      "text": " and the third one is simply the number of events.",
-      "tokens": [
-        50442,
-        293,
-        264,
-        2636,
-        472,
-        307,
-        2935,
-        264,
-        1230,
-        295,
-        3931,
-        13,
-        50542
+      "start": 61.519,
+      "end": 80.617,
+      "text": " And if the formula says, oh, you win the prize, all three of these, if this is greater than this, so if PRR is greater than two, phi squared is greater than four, and if there are more than, and I forget the number of events, then a safety signal is deemed to be triggered.",
+      "words": [
+        {
+          "word": "And",
+          "start": 61.519,
+          "end": 61.599,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 61.659,
+          "end": 61.72,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 61.76,
+          "end": 61.86,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "formula",
+          "start": 61.98,
+          "end": 62.601,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "says,",
+          "start": 63.062,
+          "end": 63.423,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "oh,",
+          "start": 63.443,
+          "end": 64.004,
+          "score": 0.308,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 64.044,
+          "end": 64.144,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "win",
+          "start": 64.164,
+          "end": 64.285,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 64.305,
+          "end": 64.385,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prize,",
+          "start": 64.425,
+          "end": 64.806,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 65.006,
+          "end": 65.186,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three",
+          "start": 65.247,
+          "end": 65.507,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 65.527,
+          "end": 65.587,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these,",
+          "start": 65.627,
+          "end": 65.848,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 66.529,
+          "end": 66.609,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 66.729,
+          "end": 66.89,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 66.97,
+          "end": 67.05,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "greater",
+          "start": 67.11,
+          "end": 67.431,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 67.471,
+          "end": 67.611,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this,",
+          "start": 67.651,
+          "end": 67.892,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 69.234,
+          "end": 69.435,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 69.575,
+          "end": 69.655,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PRR",
+          "start": 69.735,
+          "end": 70.477,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 70.557,
+          "end": 70.657,
+          "score": 0.576,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "greater",
+          "start": 70.777,
+          "end": 71.158,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 71.198,
+          "end": 71.339,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two,",
+          "start": 71.399,
+          "end": 71.719,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "phi",
+          "start": 71.739,
+          "end": 72.12,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "squared",
+          "start": 72.16,
+          "end": 72.601,
+          "score": 0.763,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 72.681,
+          "end": 72.761,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "greater",
+          "start": 72.821,
+          "end": 73.082,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 73.102,
+          "end": 73.222,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "four,",
+          "start": 73.322,
+          "end": 73.643,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 74.184,
+          "end": 74.304,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 74.344,
+          "end": 74.385,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 74.445,
+          "end": 74.585,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 74.645,
+          "end": 74.745,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 74.765,
+          "end": 74.986,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than,",
+          "start": 75.066,
+          "end": 75.306,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 75.567,
+          "end": 75.647,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 75.687,
+          "end": 75.767,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forget",
+          "start": 75.787,
+          "end": 75.988,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 76.028,
+          "end": 76.088,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "number",
+          "start": 76.128,
+          "end": 76.348,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 76.388,
+          "end": 76.449,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "events,",
+          "start": 76.529,
+          "end": 76.889,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "then",
+          "start": 77.511,
+          "end": 77.791,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 77.811,
+          "end": 77.831,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety",
+          "start": 78.232,
+          "end": 78.573,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "signal",
+          "start": 78.633,
+          "end": 79.034,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 79.234,
+          "end": 79.334,
+          "score": 0.578,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "deemed",
+          "start": 79.434,
+          "end": 79.795,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 79.895,
+          "end": 79.996,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 80.036,
+          "end": 80.156,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "triggered.",
+          "start": 80.236,
+          "end": 80.617,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
+      "avg_logprob": -0.14175724205763443,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 20,
-      "seek": 5524,
-      "start": 58.800000000000004,
-      "end": 61.52,
-      "text": " And so it's a mathematical formula.",
-      "tokens": [
-        50542,
-        400,
-        370,
-        309,
-        311,
-        257,
-        18894,
-        8513,
-        13,
-        50678
+      "start": 81.058,
+      "end": 81.479,
+      "text": "Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 81.058,
+          "end": 81.479,
+          "score": 0.818,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 21,
-      "seek": 5524,
-      "start": 61.52,
-      "end": 64.88,
-      "text": " And if the formula says, oh, you win the prize,",
-      "tokens": [
-        50678,
-        400,
-        498,
-        264,
-        8513,
-        1619,
-        11,
-        1954,
-        11,
-        291,
-        1942,
-        264,
-        12818,
-        11,
-        50846
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 22,
-      "seek": 5524,
-      "start": 64.88,
-      "end": 68.28,
-      "text": " all three of these, if this is greater than this,",
-      "tokens": [
-        50846,
-        439,
-        1045,
-        295,
-        613,
-        11,
-        498,
-        341,
-        307,
-        5044,
-        813,
-        341,
-        11,
-        51016
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 23,
-      "seek": 5524,
-      "start": 68.28,
-      "end": 71.92,
-      "text": " if PRR is greater than two,",
-      "tokens": [
-        51016,
-        498,
-        11568,
-        49,
-        307,
-        5044,
-        813,
-        732,
-        11,
-        51198
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 24,
-      "seek": 5524,
-      "start": 71.92,
-      "end": 74.12,
-      "text": " chi-squared is greater than four,",
-      "tokens": [
-        51198,
-        13228,
-        12,
-        33292,
-        1642,
-        307,
-        5044,
-        813,
-        1451,
-        11,
-        51308
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 25,
-      "seek": 5524,
-      "start": 74.12,
-      "end": 75.56,
-      "text": " and if there are more than,",
-      "tokens": [
-        51308,
-        293,
-        498,
-        456,
-        366,
-        544,
-        813,
-        11,
-        51380
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 26,
-      "seek": 5524,
-      "start": 75.56,
-      "end": 77.44,
-      "text": " and I forget the number of events,",
-      "tokens": [
-        51380,
-        293,
-        286,
-        2870,
-        264,
-        1230,
-        295,
-        3931,
-        11,
-        51474
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 27,
-      "seek": 5524,
-      "start": 77.44,
-      "end": 80.88,
-      "text": " then a safety signal is deemed to be triggered.",
-      "tokens": [
-        51474,
-        550,
-        257,
-        4514,
-        6358,
-        307,
-        27637,
-        281,
-        312,
-        21710,
-        13,
-        51646
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 28,
-      "seek": 5524,
-      "start": 80.88,
-      "end": 81.72,
-      "text": " Okay.",
-      "tokens": [
-        51646,
-        1033,
-        13,
-        51688
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
-    },
-    {
-      "id": 29,
-      "seek": 5524,
-      "start": 81.72,
-      "end": 83.32000000000001,
-      "text": " And so the death,",
-      "tokens": [
-        51688,
-        400,
-        370,
-        264,
-        2966,
-        11,
-        51768
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16935683053637307,
-      "compression_ratio": 1.7903930131004366,
-      "no_speech_prob": 0.00020304936333559453
+      "avg_logprob": -0.14175724205763443,
+      "speaker": "SPEAKER_01"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "If",
+      "start": 0.111,
+      "end": 0.191,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 0.211,
+      "end": 0.351,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "point",
+      "start": 0.391,
+      "end": 0.671,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out,",
+      "start": 0.811,
+      "end": 0.951,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 1.151,
+      "end": 1.331,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "example,",
+      "start": 1.391,
+      "end": 1.891,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like",
+      "start": 1.971,
+      "end": 2.171,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 2.212,
+      "end": 2.292,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "CDC,",
+      "start": 2.332,
+      "end": 3.832,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 3.872,
+      "end": 4.012,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 4.072,
+      "end": 4.132,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 4.192,
+      "end": 4.212,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fact,",
+      "start": 4.252,
+      "end": 4.572,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 5.452,
+      "end": 5.672,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 6.112,
+      "end": 6.372,
+      "score": 0.552,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.392,
+      "end": 6.533,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "YouTube",
+      "start": 6.573,
+      "end": 7.033,
+      "score": 0.636,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sensors,",
+      "start": 7.193,
+      "end": 8.573,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 8.973,
+      "end": 9.173,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 9.233,
+      "end": 9.373,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 9.393,
+      "end": 9.493,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 9.533,
+      "end": 9.573,
+      "score": 0.496,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Freedom",
+      "start": 9.593,
+      "end": 9.873,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 9.913,
+      "end": 9.973,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Information",
+      "start": 10.033,
+      "end": 10.593,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Act",
+      "start": 10.713,
+      "end": 10.894,
+      "score": 0.511,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "request,",
+      "start": 10.954,
+      "end": 11.434,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 12.394,
+      "end": 12.574,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 12.814,
+      "end": 13.054,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "requested",
+      "start": 13.154,
+      "end": 13.814,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 13.994,
+      "end": 14.174,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety",
+      "start": 14.274,
+      "end": 14.614,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "signal",
+      "start": 14.654,
+      "end": 15.095,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "analysis",
+      "start": 15.355,
+      "end": 15.975,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 16.935,
+      "end": 16.995,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 17.015,
+      "end": 17.075,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "VAERS",
+      "start": 17.115,
+      "end": 17.295,
+      "score": 0.552,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system.",
+      "start": 17.335,
+      "end": 17.635,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 17.695,
+      "end": 17.775,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 17.815,
+      "end": 17.855,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "turns",
+      "start": 17.895,
+      "end": 18.135,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 18.215,
+      "end": 18.335,
+      "score": 0.963,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 18.375,
+      "end": 18.495,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 18.515,
+      "end": 18.675,
+      "score": 0.716,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 18.715,
+      "end": 18.855,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "770",
+      "start": 18.875,
+      "end": 19.856,
+      "score": 0.449,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety",
+      "start": 20.616,
+      "end": 20.956,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "signals",
+      "start": 20.996,
+      "end": 21.296,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 21.336,
+      "end": 21.436,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 21.456,
+      "end": 21.556,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "triggered",
+      "start": 21.596,
+      "end": 21.896,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 21.936,
+      "end": 22.016,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "VAERS,",
+      "start": 22.036,
+      "end": 22.416,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 22.896,
+      "end": 23.136,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 23.216,
+      "end": 23.296,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "CDC",
+      "start": 23.336,
+      "end": 23.837,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 24.337,
+      "end": 24.637,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "told",
+      "start": 24.737,
+      "end": 25.177,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anyone",
+      "start": 25.877,
+      "end": 26.137,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 26.157,
+      "end": 26.397,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 26.437,
+      "end": 26.497,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 26.977,
+      "end": 27.057,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 27.117,
+      "end": 27.297,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 27.377,
+      "end": 27.457,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety",
+      "start": 27.497,
+      "end": 27.817,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "signals",
+      "start": 27.878,
+      "end": 28.338,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like",
+      "start": 28.738,
+      "end": 28.958,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "death.",
+      "start": 29.378,
+      "end": 29.698,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "For",
+      "start": 30.439,
+      "end": 30.559,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "example",
+      "start": 30.639,
+      "end": 31.059,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 31.44,
+      "end": 31.54,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 31.6,
+      "end": 31.86,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety",
+      "start": 31.9,
+      "end": 32.241,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "signal",
+      "start": 32.301,
+      "end": 32.661,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "triggered",
+      "start": 32.701,
+      "end": 33.082,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 33.322,
+      "end": 33.422,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 33.442,
+      "end": 33.543,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 33.583,
+      "end": 33.823,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "month",
+      "start": 33.903,
+      "end": 34.203,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 34.904,
+      "end": 35.305,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 35.825,
+      "end": 35.926,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 35.946,
+      "end": 36.466,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rolled",
+      "start": 36.546,
+      "end": 36.827,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 36.967,
+      "end": 37.087,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 37.808,
+      "end": 37.928,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 37.948,
+      "end": 37.988,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "course",
+      "start": 38.028,
+      "end": 38.168,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 38.188,
+      "end": 38.289,
+      "score": 0.694,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 38.309,
+      "end": 38.369,
+      "score": 0.03,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 38.389,
+      "end": 38.709,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 38.789,
+      "end": 38.989,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 39.009,
+      "end": 39.09,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 39.11,
+      "end": 39.15,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 39.17,
+      "end": 39.29,
+      "score": 0.572,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mean",
+      "start": 39.31,
+      "end": 39.45,
+      "score": 0.841,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 39.47,
+      "end": 39.51,
+      "score": 0.233,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "what",
+      "start": 39.831,
+      "end": 39.971,
+      "score": 0.781,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "do",
+      "start": 39.991,
+      "end": 40.171,
+      "score": 0.336,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "you",
+      "start": 40.211,
+      "end": 40.311,
+      "score": 0.34,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "when",
+      "start": 40.511,
+      "end": 40.712,
+      "score": 0.669,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "you",
+      "start": 40.732,
+      "end": 40.832,
+      "score": 0.929,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "say",
+      "start": 40.872,
+      "end": 41.032,
+      "score": 0.87,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "safety",
+      "start": 41.112,
+      "end": 41.533,
+      "score": 0.863,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "signal?",
+      "start": 41.673,
+      "end": 42.113,
+      "score": 0.812,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "What",
+      "start": 42.194,
+      "end": 42.314,
+      "score": 0.947,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 42.374,
+      "end": 42.454,
+      "score": 0.678,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "a",
+      "start": 42.534,
+      "end": 42.574,
+      "score": 0.562,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "signal?",
+      "start": 42.734,
+      "end": 43.115,
+      "score": 0.884,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "So",
+      "start": 44.405,
+      "end": 44.685,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 45.126,
+      "end": 45.226,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "CDC",
+      "start": 45.266,
+      "end": 45.926,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 46.006,
+      "end": 46.207,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "defined",
+      "start": 46.247,
+      "end": 46.787,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 46.867,
+      "end": 46.907,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "formula.",
+      "start": 47.007,
+      "end": 47.548,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 47.848,
+      "end": 47.988,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 48.048,
+      "end": 48.108,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three-part",
+      "start": 48.308,
+      "end": 49.349,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "formula.",
+      "start": 49.529,
+      "end": 50.05,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 50.79,
+      "end": 50.85,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 50.89,
+      "end": 51.151,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "something",
+      "start": 51.471,
+      "end": 51.731,
+      "score": 0.684,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 51.751,
+      "end": 51.931,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PRR,",
+      "start": 51.991,
+      "end": 52.932,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "proportional",
+      "start": 52.992,
+      "end": 53.513,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reporting",
+      "start": 53.573,
+      "end": 53.993,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ratio.",
+      "start": 54.073,
+      "end": 54.734,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 55.214,
+      "end": 55.314,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "second",
+      "start": 55.354,
+      "end": 55.634,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 55.694,
+      "end": 55.794,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 55.834,
+      "end": 55.914,
+      "score": 0.673,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chi-squared,",
+      "start": 55.975,
+      "end": 56.735,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 56.775,
+      "end": 56.855,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 56.895,
+      "end": 56.975,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "third",
+      "start": 56.995,
+      "end": 57.216,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 57.276,
+      "end": 57.376,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 57.416,
+      "end": 57.476,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "simply",
+      "start": 57.516,
+      "end": 57.776,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 57.816,
+      "end": 57.896,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "number",
+      "start": 57.956,
+      "end": 58.196,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 58.236,
+      "end": 58.316,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "events.",
+      "start": 58.397,
+      "end": 58.737,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 58.797,
+      "end": 58.897,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 59.117,
+      "end": 59.297,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 59.417,
+      "end": 59.557,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 59.597,
+      "end": 59.618,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mathematical",
+      "start": 59.698,
+      "end": 60.398,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "formula.",
+      "start": 60.578,
+      "end": 61.019,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 61.519,
+      "end": 61.599,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 61.659,
+      "end": 61.72,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 61.76,
+      "end": 61.86,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "formula",
+      "start": 61.98,
+      "end": 62.601,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "says,",
+      "start": 63.062,
+      "end": 63.423,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "oh,",
+      "start": 63.443,
+      "end": 64.004,
+      "score": 0.308,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 64.044,
+      "end": 64.144,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "win",
+      "start": 64.164,
+      "end": 64.285,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 64.305,
+      "end": 64.385,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prize,",
+      "start": 64.425,
+      "end": 64.806,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 65.006,
+      "end": 65.186,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three",
+      "start": 65.247,
+      "end": 65.507,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 65.527,
+      "end": 65.587,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these,",
+      "start": 65.627,
+      "end": 65.848,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 66.529,
+      "end": 66.609,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 66.729,
+      "end": 66.89,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 66.97,
+      "end": 67.05,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "greater",
+      "start": 67.11,
+      "end": 67.431,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 67.471,
+      "end": 67.611,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this,",
+      "start": 67.651,
+      "end": 67.892,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 69.234,
+      "end": 69.435,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 69.575,
+      "end": 69.655,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PRR",
+      "start": 69.735,
+      "end": 70.477,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 70.557,
+      "end": 70.657,
+      "score": 0.576,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "greater",
+      "start": 70.777,
+      "end": 71.158,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 71.198,
+      "end": 71.339,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two,",
+      "start": 71.399,
+      "end": 71.719,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "phi",
+      "start": 71.739,
+      "end": 72.12,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "squared",
+      "start": 72.16,
+      "end": 72.601,
+      "score": 0.763,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 72.681,
+      "end": 72.761,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "greater",
+      "start": 72.821,
+      "end": 73.082,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 73.102,
+      "end": 73.222,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "four,",
+      "start": 73.322,
+      "end": 73.643,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 74.184,
+      "end": 74.304,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 74.344,
+      "end": 74.385,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 74.445,
+      "end": 74.585,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 74.645,
+      "end": 74.745,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 74.765,
+      "end": 74.986,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than,",
+      "start": 75.066,
+      "end": 75.306,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 75.567,
+      "end": 75.647,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 75.687,
+      "end": 75.767,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forget",
+      "start": 75.787,
+      "end": 75.988,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 76.028,
+      "end": 76.088,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "number",
+      "start": 76.128,
+      "end": 76.348,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 76.388,
+      "end": 76.449,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "events,",
+      "start": 76.529,
+      "end": 76.889,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "then",
+      "start": 77.511,
+      "end": 77.791,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 77.811,
+      "end": 77.831,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety",
+      "start": 78.232,
+      "end": 78.573,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "signal",
+      "start": 78.633,
+      "end": 79.034,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 79.234,
+      "end": 79.334,
+      "score": 0.578,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "deemed",
+      "start": 79.434,
+      "end": 79.795,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 79.895,
+      "end": 79.996,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 80.036,
+      "end": 80.156,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "triggered.",
+      "start": 80.236,
+      "end": 80.617,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Okay.",
+      "start": 81.058,
+      "end": 81.479,
+      "score": 0.818,
+      "speaker": "SPEAKER_01"
+    }
+  ]
 }

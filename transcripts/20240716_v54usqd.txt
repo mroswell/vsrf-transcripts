@@ -1,1 +1,1196 @@
-Hi, Steve Kirsch here from Vaccine Safety Research Foundation. A couple of weeks ago, I got a very interesting revelation from a scientist in the Czech Republic. And that was that four months ago, there was a Freedom of Information Act response that was posted to the internet. And nobody knew about this Freedom of Information Act response. But what was in that response is quite stunning. It's actually record level data from the Czech Republic of all people in the Czech Republic. There are about 11 million records in that database. And it's a record level database, which means that there's one record for each person in the Czech Republic. And that record has their year of birth. It has, if they died, their date of death. And it has all of the dates of each of their COVID vaccinations along with the vaccination type. And it turns out that in the Czech Republic, the vaccines were distributed more or less on a haphazard fashion. It wasn't strictly randomized where people would come in and they'd create a random number and say, well, you're going to get this vaccine. But just because of the nature of the haphazard way that it was distributed, which was basically on a convenience basis, meaning if they had the vaccine, they'd give it to you. And they'd give you whatever vaccines they had. And they had a mix of Pfizer, Moderna, AstraZeneca, Novavax, and the Janssen vaccine. And it turns out that most volumes were for Moderna and Pfizer. And so I thought it would be interesting to do a brand comparison because if both vaccines are safe and effective, then if you measured the one year mortality from the time that they got their vaccination, whether it's the first vaccination, second vaccination, or third vaccination, if you measured the all-cause mortality for one year from the time that they got their vaccination, then the mortality rates in every age group should be virtually identical. And that's because these COVID vaccines work by expressing an antigen, which then your body's immune system would use to presumably make you less likely to die from COVID. And so there's probably equal efficacy because once you've been exposed to an antigen like this, you have an immune response. And I actually don't think there's any benefit at all from these so-called vaccines. But if there is a benefit, there's probably, at most, a few percentage points difference in terms of the mortality. If one vaccine is not effective at all, and the other vaccine is very effective, we should see a mortality difference on the order of about one or two percent, especially in younger age groups. And that's because the COVID deaths within younger age groups is very, very small. So you're looking at, if you're saving a number of those, it's going to be a percentage of a percentage, because it's just not that big of a percent. So I expected these things to be pretty close. I expected to be them equally effective because in the clinical trials, they all were 95 percent effective against infection. And I don't believe that for a minute, but that's what they claimed. So they claim that they're equally effective, so we should see basically equal mortality rates after the shots. Now, I had a feeling that these vaccines are not safe, and I had a feeling that Moderna would be much more unsafe than Pfizer is. And so I had a feeling that this data might show that. So I looked. Now, nobody in the entire world has done this comparison before, because we've never had the data available to do the comparison. It's always been kept from public view. Now, this is odd because if the vaccines worked, you would think that all these vaccine manufacturers would be clamoring to get their data out. They would be demanding that the Congress, Paso O'Waugh, to make the public health data on these vaccines public, because they would then be able to show the public how many lives that were saved. And they would also be able to show that their brand saved more lives than the competing brand. Now, it's interesting that not a single vaccine company has called for data transparency. Now, I can't figure out why that is, because they're saving an enormous number of lives. Why would they not want to prove to the American public and to the world how many lives have been saved? Why would they want to keep that data confidential? Today, I'm going to answer that question for you. I'm going to show that the data that was finally revealed from one honest country, the Czech Republic. And by the way, Moderna has an operation in the Czech Republic. So this is home country for them. I'm going to show that the Czech data shows that Moderna has 50% higher mortality than Pfizer does for certain age groups. And I'm also going to show you that Pfizer is unsafe. And by the way, the other vaccines that I mentioned, AstraZeneca and Janssen, those are even worse. So today, I'm going to show you data that is unimpeachable. It is the official record level data from the Czech Republic that proves that these vaccines didn't save any lives at all. They increased all-cause mortality by a huge margin. In fact, Moderna, 50% more all-cause mortality than Pfizer. Now, we're not talking excess all-cause mortality. We're talking absolute all-cause mortality. And what that means is that if we assume that Pfizer is perfectly safe and doesn't increase all-cause mortality at all, then Moderna is a train wreck. Moderna is a 50% increase in all-cause mortality. That's more than double heart disease than number one killer in America. This means that Moderna is the easily one of the most dangerous drugs they've ever given to Americans. And Pfizer's not that much better. So let's go into the data. I'm going to switch and share my screen with you now. So you can take a look at this data for yourself. And all this data is publicly available. In fact, the data and the analysis is out and all the tools that I use to analyze this, including its health spreadsheets, including the Python code and all that, that's all publicly available. I'm hiding nothing from people. You can see every single record publicly available. You can see all the analysis tools and you can see all the results of the analysis. There is nothing to hide. There never should be anything to hide for any of these studies. I'd always see these studies saying that vaccines are saving lives, but the data is never available in any of those studies and it cannot be obtained. Why is that? Here, I'm making all the data publicly available for everyone to verify and show everybody that these so-called vaccines that they representative would save lives actually caused huge numbers of excess deaths. So the title of this article is Breaking Record Level Data from the Czech Republic Freedom of Information Act Request. This was done by some guy in the Czech Republic. He issued a Freedom of Information Act Request to the government. The government complied and the government preserved privacy because they changed instead of a date of birth, they just supplied the year of birth. And there's so many people born in 1956, for example, you can't tell whose vaccination records there are. So all the other dates are exact. And this means you can tell the exact number of days from the time of vaccination until the time of death if somebody died. So you can do all sorts of interesting analyses on these things, but of course the most interesting is the rank of person. So you see that up front. And by the way, this analysis technique that I'm using is really brain dead simple. You don't get any more simpler than this analysis. So what you do is you, if someone was vaccinated, you look out one year from when they were vaccinated and see whether they died within that one year or not. And it's as simple as that. Now this is called in this particular chart, we are looking at what's called Study 2. And Study 2 says you got your second shot sometime in 2021. And we had a year to follow them up because we had all the death data through the end of 2022. And it stopped there so we can't do further analysis, unfortunately. But this is enough to see what's going on. Now I computed a mortality ratio, which means let's look at the mortality rate of Moderna. And I see I spelled it wrong in the slide here, Madeira, but it's Moderna. So let's look at the mortality rate of Moderna. And the mortality rate is simply the number of people who died divided by the number of people who got the shot. And you multiply that by 100,000 because it's sort of mortality rate per 100,000 people. And you do that for every single individual age category. So there's no what's called age confounding. And what you find is the younger you are, the greater your mortality increased with respect to the Pfizer mortality rate. And so what we're doing is we're treating these things because these vaccines were sort of haphazardly distributed. It wasn't like the sicker people got Pfizer or the sicker people got Moderna. It was very randomly distributed. And so if the both vaccines are perfectly safe, these, this chart should be on the one line. It should be not elevated at all from one. They should be identical. They should be like a squiggly line. For one age it may be greater, the other age it might be less, but they should be almost like two racehorses. One of them they're jockeying for position and there's a photo finish at the end and they should all cross the finish line at the same time. And what this shows is that for the very elderly, there wasn't much of a difference. But as you got younger, as you got to 70, 70 years old, it was over a 40% difference in absolute all cause mortality. So even, and so I'm just comparing Pfizer with Moderna. So even if Pfizer was perfectly safe and didn't increase all cause mortality at all, Moderna is a train wreck. And it gets worse because I'll show you that Pfizer is actually not safe either. And it probably raises your mortality by some number, which we can't calculate because we have insufficient data. So if we had the Novavax data and Novavax was given in higher volumes and it was given earlier, we would be able to compare Pfizer with Novavax. That would be another train wreck. But there are countries where Novavax is given and we can make that calculation if they release the data. But they're probably not going to release the data so that we won't be able to tell people precisely how much Pfizer increases your all cause mortality. But it's probably at least 10 or 20% or probably even more. And I'll show you those numbers in comparison with Novavax. So the first one is to show you that Moderna, as compared to Pfizer's completely unsafe, Moderna should be totally off the market. Nobody should be taking the Moderna shots. And then I'll show you the same thing as true of Pfizer. Okay, so this is the data then. Now this is smooth for five year age bands, just so that the curves are a little bit nicer and they don't go all over the place. But I'll show you the raw data as well. And it basically says, hey, you know, you get about a 20% mortality increase at 80 year olds for 70 year olds, it bumps up to a 40% mortality increase for 60 year olds. And younger, it's over 1.5. And for 50, 52 year olds, and younger, it can exceed a 60% mortality increase. And unfortunately, we don't have it's the data is too noisy because there were too few Moderna vaccines that were given to young people to establish a mortality rate accurately. And so I stopped there. But as you can see, the trend is bad. Now this, by the way, also explains why, hey, if you're increasing mortality by 50%, the reason that we're not seeing it in the all cost mortality numbers is because the huge increases are happening to people who don't normally die. And so if you had a 50% increase in that the elderly, everybody would notice that. But you see these vaccines are not affecting people this way, the vaccines are affecting people and causing the younger people to die, but have less effect on the older people. So you're not seeing these huge numbers of elderly mortality, which then are increasing by 50%, which would be really obvious. You're seeing these subtle differences because the mortality, the huge mortality increases are happening in the young. Okay, so all this data is posted on my GitHub. The link to my GitHub is posted in the article. Anyone can clone the GitHub repo that I created a make file, you'd say make a return, and that's it. You go away and you come back a few hours later. All the files are made for you. Everybody can replicate what I did here. So that's the essence of it. The data is all posted, the methodology. What I did is I defined three different observational studies. Study one is you got shot one in 2021 of a COVID vaccine. Study two is you got shot number two in 2021 of a COVID vaccine. And study three is you got shot number three in 2021 of COVID vaccine. Now these studies are specially designed so it doesn't look forward because that would be cheating and we don't want to cheat. So you always have to define a study enrollment, a criteria that can happen at the time of enrollment and does not depend on what happens in the future. So you can't say let's enroll everybody who got a shot number two and didn't get any more shots. That's called unfair because you're looking into the future. So you have to define these fair studies where you define the study criteria which could be executed at the time of enrollment in the group. And there should be no time between enrollment and when you start counting that you discard. This would be called immortal time bias and it's a misfeature of a lot of studies where they ignore you're basically immortal during between the time you got the shot and when they start counting such as two weeks after the shot, for example. So there are no confounders here. It's very simple. And if all the vaccines are perfectly safe just like we've been assured then all the vaccines would all align on that one line like you saw above and they don't and that's the problem. So the results as I showed you earlier was this graph. Now this is smoothed. Let me show you the raw data and this is spectacular because this, you know, there's noise in this data. There's statistical noise because the numbers in each individual age bucket which is a one-year age bucket can vary and you know if we had larger numbers that would be great. We'd have less noise but you can see that even with all the statistical noise that Moderna is never safer than Pfizer. Not for, these are, there are 40 data points, 40 separate data points here and they're all, they're actually probably more than that but there are at least 40 and they're all above one. Now if Pfizer and Moderna were equally safe they'd be jockeying around position. They'd be winning each one would win half the ton. So this is like flipping a fair coin 40 times and getting heads on each one. It's probably not a fair coin. So what this means is that even if you looked at each end of, you gave Moderna 40 different opportunities to win, right? 40 different coin flips for Moderna to win. They didn't win a single one. Interesting. Okay. Now and these are the overall ratios and you can go in here. I did, I dumped the data, the summary data into Excel. I created a pivot table here and you can go in on the summary tab of the analysis.xlsx spreadsheet which is in the GitHub repo and you can change all the parameters. You can change what study you want to look at. You can change the year of birth. You can change the sex. You can compare male and female and you can look at the month of enrollment. So you can see, oh well how about if we just limited it to month three, year month four, month five? You know, could there be some sort of calendar effect? Turns out no. And then you can see what the overall ratios are. So Moderna to Pfizer was a two times overall mortality. That's when you added up for all ages. So there's a little bit of what's called the Simpson's Paradox here because the age distribution was different between the vaccines. And so this number is an unfair comparison but a 2.0 difference in mortality is for all the data that should set off alarm bells. Now this is Moderna, Pfizer overall. Some people got a Moderna shot and then it mixed it with a Pfizer shot. Some people got a Pfizer shot mixed with a Moderna shot. So it shows you that the overall ratio is 2.05 and if you just looked at the pure people, the pure Pfizer, people who got Pfizer, Pfizer or Moderna versus Moderna, Moderna, the ratio is also 2.05. But the reason for that is very few people mixed. I think people were instructed at the time, hey, if you got Moderna shot number two, you should always get the shot number one. You should always get the same shot of the same brand. Now this, so anyway, so this didn't vary. The AstraZeneca versus Pfizer ratio is 3.27 and the Janssen ratio is 1.18 and that varies depending on if we looked at different age groups, you'd see that number increase. And the interesting, it's also, you get a 1.82 ratio if you did Moderna and Pfizer when the person didn't get a second shot. So again, we're seeing just on people who got one shot, we're seeing a very similar ratio there as well. And so now we've gone over this, this is the smooth data, this is the unsmooth data and it's extremely troubling. And what I did here in these graphs is I looked at it on months three, four, five and six. Now this is when these months, three, four, five and six is when Moderna had the most distribution. So these were the best months for Moderna. And so you want to limit the time window so everybody's kind of comparing the same times in terms of the outcomes so there's no sort of Simpson's paradox or effect due to the difference is in the distribution volume. So I said, okay, let's just limit it to a pretty narrow time window here so everybody is starting at essentially the same time and they're all ramped up to speed, they're all set to go because after month six, things start to drop off. So these are when everybody has got their engines revved up, everybody's ready to go and everybody is distributing their vaccines to the public. And you can see, hey, you got the same numbers, in fact, it's worse for 49 year olds, it's almost a Pfizer, sorry, Moderna was twice as likely or increased your all-cost mortality, it doubled your more all-cost mortality. And now here's the raw data, you can see the raw data goes up to 2.5 here for Moderna versus Pfizer and it never goes below one for all of these data points, probably these individual data points, it never goes below one. So look, there's no doubt that Moderna is a, it should be immediately stopped. Now there's the time series data and time series is another way to analyze this. Now in a cohort time series analysis, which is another analysis technique that I used here, which I also use on the New Zealand data, what you do is you look at the mortality rate over time after you got the shot. Now this is the mortality rate by week after dose number two. So this is, this zero is T equals zero and it goes off to over 70 weeks and after 70 weeks, this data is just crap because you're running out of time to die. See, most people got shot too around the middle of 2021. So this gives them 18 months to die because our data stops recording deaths and that we got from the Czech Republic, we don't have any death data from 2023. So basically after 70 weeks, we can't record any deaths, which is why this data goes off on a tangent here. But the data here shows, oh, look at Pfizer, relatively safe. I say relatively safe because if you look at any of the other vaccines, so this is Moderna here and then these are the Janssen and AstraZeneca vaccines and a little bit of Novavax mixed in, but you can't tease it out. Actually, sorry, Novavax didn't come on the market in the Czech Republic until March of 2022. And so I'll show you that in analysis next. But this shows you what happens. You get the shot. Now the first three weeks is what's called a healthy vaccine effect, which means in societies, we do not vaccinate people in hospitals. We do not vaccinate people in hospice. Those people are very likely to die. And so excluding them means we've excluded people who normally would have been included and then would have died. But this just causes this bias for the first three weeks we have to ignore. Then after that, we see, wow, this kind of monotonically monotonic increase in mortality rate for people who got the Pfizer shot. Now, this is not supposed to happen. It's not supposed to slope up like this from mid-year because there is a seasonality effect which happens towards the end of the year, six months. Towards week 20 or so here, you're going to get a seasonal hump. So you can see that what's happening here is you get the shot and your mortality rate increases after you got the shot. And in fact, your mortality rate went up right after you got the shot because these people, and this, by the way, is restricted to 40 to 79 year olds. So it's a pretty large age range, which means there can be some age confounding in Simpson's paradox here. So you can't necessarily say that, oh, this difference here is due to the vaccine effect on day zero, which it could be, but it's hard to tease out because the ranges are so large. But in fact, when we analyze it for much narrower age ranges, we find that there is a difference on day zero. After you got the shot, your mortality is measurably increased on the day after the shot. Now, this explains totally why people like my friend Jay Bonner, he knows 15 people who died after they got the vaccine and four of them died on the same day as the shot. Within 24 hours of the shot, four of his 16 friends who died died on day zero. So this increase in mortality rate that we see at the very beginning makes perfect sense and is confirmed by this anecdotal data. Now, what's troubling, of course, is that your mortality rate increases for the next 20 weeks or so, 25, 20, 25 weeks or so, and it goes up. Now, this is because your body starts to clot and probably other things like your immune system gets attacked and a few other things. But look at the attack rate on Pfizer versus Moderna versus the other vaccines. The slopes are not the same. So it's interesting that you can look at this over time and see what happens. You get the shot. Here's what happens to your mortality rate over time. Now, if we were to look at a safe vaccine or relatively safe vaccine, like the pneumococcal vaccine that's given to people in Medicare, elderly people in Medicare, the line typically is pretty flat or sloping down. So when you see a line sloping up like this, and we could see that the slope of this line was different for the COVID vaccines versus other vaccines that are given to the same population. So the slope was a huge red flag for me, and I pointed that out to people early on, and they said, oh, no, that's just healthy vaccine effect extended off for 24 weeks. It doesn't work that way. The healthy vaccine effect exponentially decreases and it ends in three weeks. This is due to your injecting people with a dangerous vaccine. Now, I said we talk about Novavax. It's a little bit small here for you to see. And I don't, let me see. Let me see if I can go and make this zoom. Let's see. Let's go zoom here. Okay. So you can see this a little bit better. But I looked at Novavax, and unfortunately, there's so few deaths in Novavax. I wanted to do a fair comparison. And so I restricted this to month four, which is April of 2022 for people getting to Novavax shots versus the Pfizer shots. And as you can see here, from the, this is basically the, I haven't looked at this in a while. Sorry. So these are the deaths here for Novavax, the N, the deaths, and the various age groups. And this is the Pfizer deaths in the various age groups here. And this is the number of Novavax shots given here and the number of Pfizer shots. And you can see, look, the number of Novavax shots is actually greater than the number of Pfizer shots for this age group. And it's greater for this age group and it's less for this age group. So they're running kind of neck and neck in terms of distribution in this particular month. And so it's a fair comparison. It's, it's within a month. And then we looked out, we couldn't look out a year because it's happened in April. So we're only able to look out for the next eight months and say that got the shot and we counted the number of deaths. Five deaths here versus 27 deaths for Pfizer. So this suggests that Novavax is far, far safer than Pfizer. And in fact, if you recalculate the mortality ratios between Pfizer and Novavax, we find that Pfizer is double the mortality, 4.7 times the mortality, 2.5 times the mortality, 1.6 times the mortality, and overall was double the mortality of Novavax. So if Novavax is completely safe, and now maybe it's maybe Pfizer's just like a, I mean, if we wanted to be really conservative, we'd say Pfizer's got to be at least 20%, 30%, probably 50% higher mortality. Pfizer's a disaster. It should be halted immediately. Now, it would be nice if we had more data here and other countries have that data, but they keep it hidden. And I can't understand why they would want to keep this information from the public because it would save lives if they disclosed it. And there's no harm in disclosing it just like the Czech Republic showed. Okay. And if you do a Fisher exact test, by the way, on this data, which I did for the second shot in April 2022 for people born in 1940s, which I picked because I had the most data, you find that there with 80% confidence, the that you can prove with 80% or you can state that this data shows that we have 80% confidence that Pfizer is worse than the Novavax. And it could be a lot worse. And the odds ratio here was five, which means it's five times worse for this age group, but it could be as little as a little bit worse. Okay. So I suspect that if we got more data, you'd see a pretty interesting number there. So look, all of these, all these drug companies, Pfizer, Moderna, Novavax, especially, you know, like, Novavax should be really calling for data transparency. Pfizer, not so much. And Moderna basically says, no, no, no, no, it's important to keep this data from the public. We're going to have better health outcomes if the public doesn't know what's going on. So interpreting this data, there's no way you can enter. This is very straightforward analysis. This is not right at science. This is counting the number of vaccinations and counting the number of deaths from one year from vaccination. And that allows for calendar year, variants, in terms of seasonality and so forth. It's the fairest approach. It's brain dead simple. And there's no way you can misinterpret these results. And there's no way you can attack these results either because it's gold standard data. And the only difference between the groups was what brand vaccine they got. So yeah, but the, my recommendation for public health officials is that unless the drug makers are able to explain to the world how this new data from the Czech Republic actually proves that all the vaccines are equally safe, then Pfizer, Moderna, Janssen, and AstraZeneca vaccine should all be immediately halted as to unsafe to use. And Novavax will have to look closer at, but Novavax is the only vaccine maker left standing at the end of this analysis here. There were, now, I had Joe Freyman, who's extremely well respected. And Joe prides himself on finding errors in studies. And he said, well, the only possible thing that he's aware of that could have caused us is that if they systematically had a chart saying, oh, well, let me ask you about your number of comorbidities. Oh, if you have no comorbidities, then we'll give you Pfizer. And if you have one to three comorbidities, we're going to give you a Moderna. And if you have more than that, we're going to give you the other vaccines. Now, nobody's aware of any chart that triage people based on the number of comorbidities. And, you know, it's possible that some Pfizer doses could have gotten to an elderly care home, but it's equally possible that Moderna doses could have gotten to the elderly care home as well. And so you can't say that there is any kind of systematic bias in terms of comorbidities for any of these vaccines. They were basically distributed on a, hey, we've got the vaccine in stock, would you like to get one? And people were not given a choice as to what vaccine they got, they got whatever was available. So it's randomly distributed. And we have biological what's called biological plausibility as well. Because it turns out that in Pfizer, there's only 30 micrograms per dose of the Pfizer vaccine and Moderna is anywhere from 50 to 100 micrograms per dose. So that's essentially 1.5 times higher or more. And what do you know, you got a 50% increase in all cost mortality with the higher dose. So we have this consistency here, this biological plausibility that, hey, maybe if you give people more of an active ingredient that is going to kill them, you're going to kill more people. No, it doesn't take a rocket scientist to figure this out, although nobody in the medical community has seemed to be able to figure it out. But the more dose of a poison that you give someone, the more people you're going to kill. So it totally makes sense what we're observing that you're killing more people because you're giving people more of the active ingredient. Now, the gold standard clinical trials, these randomized controlled trials, the Frayman paper, this paper is published in the peer reviewed literature, he'd be analyzed the data. And what he found is that relative to their respective placebo's, the event rate for Moderna was like 15 per, I think it was like 10,000 shots. And for Pfizer, it was only 10 per the same number of shots, the ratio. Oh, so here it is right here. This is a direct screenshot from the paper. Pfizer, Moderna, mRNA, and vaccine are associated with X-ray physics, a serious adverse events of special interest of 10, which is for Pfizer and 15 for Moderna. So it's a 50% increase exactly like we saw in this check data. So that kind of makes sense. Now, the VAERS data also, and I just published an article on this shows that there's around a 30% plus or minus, and remember it was 50% for the younger age groups in Moderna and people are reporting in VAERS for all age groups. And so, and there it was a 30% more deaths reported into VAERS than Pfizer. And I just recently published that subject. Now, we also have the US insurance company data, which is also consistent with the check data. Because remember the check data showed, hey, big increases in mortality in younger people. What happened when the vaccine mandates were instituted in the United States in Q3 of 2021? We saw these mortality of these young people, you know, 64 and younger, were skyrocketing while the mortality of older people weren't totally consistent. Well, of course, older people weren't vaccinated at the time. It was the younger people that did. But, you know, these numbers are consistent with, hey, it's affecting the mortality of the younger people. And of course, then I verified from chat GPT, which is pretty much a, you know, BluePill, the AI system, a large language model, when did large employers in the US start mandating COVID vaccines? And the answer is large employers in the United States began mandating COVID-19 in November mid 2021. What do you know? What a coincidence. So the question I have is, look, if there wasn't a vaccine that did this, then what did? How do you get a 200% effectively 100% increase from baseline? How do you get that? That's unheard of. And we've had, they've had over two years to answer that question. And it's still a mystery. Because the vaccine could never be the cause. Now, there are five Bradford Hill tests for causality of vaccines I have a link to the five Bradford Hill criteria. This is a causality test. This is a very standard causality test. All five of these conditions are satisfied. And you can click the link and verify yourself that we have that I've demonstrated all of these things, including the, hey, it happens right after the mortality increase happens right after the shots. And now we can do p value calculations here to see if they're statistically significant. I did a Fisher exact test for ages 65 to 69 showing Moderna shots had a most likely 1.6 times higher. Let's fix that. Higher odds of dying compared to the Pfizer shot. So here it is. Pfizer versus Moderna study. This is study one. So people who got the first shot in 2021 ages 65 to 69. I chose that because it had a lot of data associated with it. I just wanted to show you that the value on these is like two times each of the minus 21. Now a p value of 0.05 is considered significant. And this is a value of 20 or so zeros followed by a one as opposed to 0.05. So that suggests that this did not happen by chance. And the odds ratio here of 1.59, 1.6 has a low bound of 1.45, which is essentially 1.5 and a high value of 1.75, which means with 95% confidence, we can tell you that for this particular age range 65 to 69, you're getting anywhere between a 1.4, a 45% increase to a 75% increase with 95% confidence. So what this means is in a nutshell, you should not get any of these vaccines and they should stop giving them. And also it's time for the medical community to face reality as they fucked up big time. And this is a huge, huge mortality signal that the medical community has been completely blind to for over two years. In fact, let's see 20, they were blind to it in 21, 22, 23, three and a half years. For three and a half years, nobody in the mainstream medical community said a peep. And they didn't want to look at the data and any data you showed them, they would do a hand waving response saying, I don't like that data, I don't want to look at it. They can't run away from this data. This is one of these moments where I have to bring out the first rule of holes, which is when you find yourself in one, stop digging. So the people in the medical community have an opportunity right now, they can make a choice. They can either accept this data or they can try to attack it. Now, if they can't attack the data, they need to accept it. And I don't think they're going to be able to attack this data because I've shown this to dozens of people and nobody's been able to find a plausible explanation for this other than the Moderna vaccine is much, much more dangerous than the Pfizer vaccine. So the next question people will ask is why aren't you, you have data from the unvaccinated in this group? Why aren't you comparing it with the unvaccinated? And the answer to that is simple. The unvaccinated are very hard for a country to track. You know, this is why we have censuses in the United States because we don't know who's really here because people come and go all the time. Now, the same thing is true in any country. It's true in the UK. And so what they do is they undercount the unvaccinated. So if they undercount the unvaccinated, it looks like the unvaccinated people are dying at a higher rate. And in fact, the thing is so ridiculous that the vaccinated people are dying at half the rate of the unvaccinated because the undercounting is so bad, which means that people could do these studies and they could say, look, compared to the unvaccinated are vaccinated people are dying less. Of course they're dying less because you undercounted the unvaccinated. So this is why all these studies that use the unvaccinated is the comparison group. And then they also don't account for this, the healthy vaccine effect. It makes it look like the vaccines are saving millions of lives when it's really doing the opposite. So this is why I don't use the unvaccinated as a comparison group because it's an unfair comparison group. Instead, what I do is I compare each brand of the vaccine with the other brands because everything about the people who went to be vaccinated is the same. The only difference is the vaccine they got. So using this new technique, we can see what's really going on. So like any piece of science, this thing will be attacked by attacking the data. They'll say that the data is not legit. I've looked at data before. I've looked at data from the US. I've looked at it from New Zealand. I've looked at it from the Czech Republic. I've looked at it from other countries as well. And I can tell you that this thing smacks of legitimacy. We checked the numbers against the Czech Republic official stats numbers. We looked at everything. We looked at mortality rates over time, mortality rates versus age groups, the curves for the deaths of the unvaccinated. Everything checks out. Now either the most brilliant mind in the world figured out, oh, this guy's making this request. Let's go and take about two or three months to massage the data to make Moderna look bad or this data is legit. And I think the data is legit because it matches everything I've seen from legit data that wasn't supposed to be disclosed. The second thing to do is brand it simple. Count the number of shots. Count the number of deaths in one year from the shot. It's that simple, folks. You don't have to go into all of these adjustments that they make. Let's do the adjusted thing. Let's equalize for comorbidities. You don't have to do anything like this. These are the full population. There's just no way that you can explain a huge difference in odds ratio like this. Now you can say, oh, maybe there was an error in the code. Well, I wrote the code three different times, three different ways. I verified it in Excel manually without writing any code. The results were the same. So, hey, if you can find a code error, great. But there was nothing in the code that would systematically bias Moderna. So I don't think they're going to be able to do that one. And then, of course, the interpretation of the results of the methodology. It's straightforward. There's no way out for this. And I go into some other arguments here. And even Google's AI. Now Google's AI, these guys, Google's AI, Gemini, is your definition of a blue-pilled person. In other words, these people go along with whatever the mainstream says. And so, yeah, suppose two different vaccine brands are distributing country based on availability from the manufacturer. If we measure the all-cause mortality from the time of the shot to one year later, both vaccines are safe, should the mortality rate for each brand be about the same? Here you have an objective, well, sort of objective, but, you know, as objective as it gets on their side. And they're saying, yep, da-da-da-da-da. In conclusion, observing similar all-cause mortality rates for both vaccines in a well-designed study would be strong evidence that both vaccines are safe if they were the same. However, slight differences might exist due to the factors mentioned above. Totally agree. Slight differences, 1%, 2%, at worst, 10%, 12%. I'm not going to get a 2x increase like we saw here if the vaccines are safe. So, you know, that pretty much sums it up. There's a lot, we've gone through most of this article, but I think that Moderna will ignore this data and tell everyone else to ignore it as well. And I think that the FDA and the CDC will also say, they will tell people that, you know, we're at the CDC and we're the FDA and we don't comment on studies that we haven't done. We don't comment on third-party studies. So, the CDC and the FDA will ignore this gold standard evidence. And by the way, the CDC and the FDA, they don't have this data from anybody. I went to CDC headquarters with Livio and he'll vouch for this. He was there and we asked the head of media relations at the CDC. I said, do you have this vaccine record level data? He says, no, we don't have it. I said, why not? He said, Congress doesn't give us the authority to ask the states for it. And I said, have you asked them nicely to ask for the data? I'll bet you Gavin Newsom would give you the data if you said please. And he said, we don't have the authority to do that. So, the CDC is flying the line. They do not have data that shows these vaccines are safe. And if you want to show them data that shows that they're wrong, they will say, we don't comment on other people's data. And that's the way it works. And that's exactly what they're going to do. How do the other brands do, by the way? So, here's some of the numbers for the other brands. This is for study one. And this is for study two. This is born in the 1960s. So, you can see that Janssen's horrible AstraZeneca is worse than Moderna and Moderna is worse than Pfizer. So, and then I'll go in the article, I talk about why Pfizer, I go into like four different ways to show that Pfizer isn't safe either. And of course, the Novavax data that I showed you earlier. And then it's like, well, Steve, can you be really confident that you're right? And the answer is, of course, because the anecdotes align with the large data. So, here we have large data from the Czech Republic. There was no tampering done. There was no time for them to do tampering. They had no idea that this data would be used by someone who understood how to analyze it. And so, there is no incentive to try to muck with the data at all. So, you've got this gold standard data. This is as good as it gets. You can't get any better than record level data. It's gold standard. This is like the data that you want. You can't get any more pure than this data. So, the data shows that I was right. But the anecdotes show that I'm right too. Now, it's interesting for Jay Bonner's anecdote. He has 15 friends. Four of them died on the same day as they got to shot. And three of them were aged 30 or younger. And two of them were aged 30 and one was 28. So, it appeared to cause higher mortality in people who are younger, just like the Czech data showed. So, I got a lot of quotes from people who are aware of this data and have commented on it from Tomas I in the Czech Republic who made me aware of this data. Thank you very much to Paul Merrick, who you all know, former member of the British Parliament, Andrew Bridgen, Dr. C. Mulhotra, a famous cardiologist in the UK. One of my favorites, Dr. Chris Martinson, said it doesn't get any more clear than this and so on. So, you can read all of the quotes and I'll end with Claire Craig's quote. I don't see any possible way for them to explain this data. It's devastating. And the methodologies novel in brilliant. It's not been used before, for some reason. I can't figure out why. So, I wanted to acknowledge all the people that helped on this. And if you think your public health epidemiologist is telling you the truth, I think again, I just did an episode where I talked to a former epidemiologist slash virologist for Hawaii and she said that when she started blowing the whistle, they fired her. Like, this is why public health officials don't look at the data because if you expose the truth, you'll lose your job. So, nobody looks, you know, documented in this great interview I did. And so, that's it. I'm going to stop my sharing and open it up for questions. Fantastic presentation, Steve. Thanks for having me back. I have a question about like... By the way, you want to vouch for the, before we get... You were there. I was there. Yeah, it was astounding because you tried to get them to ask nicely. For example, Governor Newsom or the state of California and they just refused. They blamed Congress. They're not allowed. And like you said, they don't want to look at it. And although there was at one point during one of the phone conversations you had with the media gentleman at the CDC, that he might have offered to look at it, but then you never heard from him again. No. So, no, they don't want to look at anything. No, none of these public health officials want to talk to me. I can't even talk to the public health officials in Santa Clara County where I live. I asked them for comment on their own data showed that people who got the shots were more likely to get COVID. It was like 85% vaccination rate, 85%. But when they did their COVID testing, 98% of the people who were tested positive for COVID were vaccinated. That can't happen if the vaccines are making it less likely for you to get COVID. So, I asked them for... Why didn't they tell the public that the stuff is stuff backfired, that you were wrong? And they said no comment. And when my supervisor asked, they said no comment. And when their boss, the county executive asked, they said no comment. And then the county executive said, see, they said no comment. So, go away. We don't want to look into it. Right? So, in Santa Clara County, they're not interested in data transparency, and they're not interested in holding the public health officials accountable, which is why these people get away with it. They're not being held accountable by the people they report to. It's horrible. And anyone that does speak up, as Jennifer Smith will attest, gets fired. So, they... Yeah. And she was charged with the crime too. Right. They concocted criminal charges against her. They know. They're basically onboarded and told, stay in your lane. Don't talk to anybody about any of this stuff. I am curious, since this is record level data, about have you or will you be contacting the Ministry of Health of the Czech Republic with their own data? That's an interesting question. I'll ask my check contacts that. I mean, you'd think that since it's their data that they would actually perhaps look at it the way you've broken it down. Yep. They should. If anyone should, they should. But remember, this was not something that the Czech Republic Public Health Department provided. This was provided under a Freedom of Information Act request. And the thing about these requests is you're not allowed to require them to do any work to create the data. So, if you have to do a simple database join, which is pretty typical for something like this, they're not required to do it. And so, they can say, well, we're not going to do your request because of privacy issues or because we're not required to do the join, although they'll come up with some excuse for not doing. This time that they apparently already had it, this data assembled and they gave it to them because that's what the law requires. So, we'll see. This would be pretty interesting, right? Because the Czech Republic has an opportunity here to completely change the world and show the world that there's one honest health authority in the entire world. We'll see whether they do it. But that's all it takes is that first domino. All it takes is the first domino, right? Because then everybody says, geez, I'm in a hole. Do I keep digging or do I stop digging? And sooner or later, everybody in the medical community is going to face that question. And it's going to happen pretty soon. Yeah, we should also try to contact some media outlets in the Czech Republic and see if they would be interested in actually talking to you and breaking down the data. Absolutely. Once the people start to ask for this, then other governments. Czech Republic's bans these vaccines, that'll cost people to pay attention. Absolutely. Well, I think. And it's their own data. And how it, you know, look, either the Czech Republic bans the data or they need to explain how I got it wrong. Exactly. Well, and how can they ban the data now? They can't. They can't. They can't say that it's wrong because then there's a criminal prosecution for, you know, manipulating data that should have been disclosed. I mean, this is, the genie is out of the bottle. Yeah, I'm excited for this to get spread far and wide. I've got some questions from our attendees, our fantastic attendees who are here watching this with us. The first one comes from Tim Williams. Does the observation that Moderna always loses in safety relative to Pfizer help to establish a dose response relationship with mRNA in general? It's definitely correlated, right? I mean, I don't see how you can get. It's the same fundamental technology, mRNA technology. And unless there's some huge differences in the lipid nanoparticles or something in the formulation, right? Maybe they put cyanide in the Moderna vaccine. And, you know, that was one of the ingredients that was not disclosed. You know, it certainly appears that way, that the higher the dose, the higher the mortality. I mean, you know, to the Occam's raisers, like, you know, that's the most obvious thing if it's not that, then it could be something else. But that's probably with 99% confidence, I would say that if I was to bet on this, I would give it 99 to one odds that that's it. This question came from a lot of people. I just want to answer it real quick. When will the paper be available? Steve, when will your sub-stack be coming out? Well, when you told me, which was tomorrow at 4 p.m. Right. So we're having a special VSRF live episode tomorrow where we'll have a little chat before for the general public on Rumble. And right at 7 p.m. Steve will release the sub-stack. We'll have a VSRF live tomorrow. We're going to replay this recording. And then after the recording, we're going to have a little chat with Jessica Rose and possibly some other doctors that are going to come in, ask some questions, talk to you about it, as well as our traditional additional Q&A. So tomorrow night, 7 p.m. Steve, sub-stack, VSRF live replay of this recording that you can watch. I'll have to make a note so I can attend that. Yeah, yeah, make sure you're there tomorrow night, at least for the beginning and the end, since you want to watch yourself present this again, which is really good. From Rachel Kalman, is data like this available from any other country? Oh, yeah, they'll have it. They'll have it. They don't want to make it available. Oh, it's a FOIA request? Or what would it take to get it? No, no, no. You can't get it via FOIA. I've been there too many times. They'll deny the request. They'll say, oh, it violates privacy, which it doesn't. Look, if it violated privacy, like, okay, take this challenge. Person born in 1956, you got all the records. Identify one individual from the records in 1956. You got, you got, you know, 10 million records of people. And if everybody, if it was evenly divided between the age groups, that would mean that there are 100,000 records of people born in 1956. 100,000 records. And you just have the vaccination date. So you tell me, you match the people with their vaccination dates using publicly available information. Yeah, pretty hard. Yeah, would not be easy. Question from Nate Itkin. I wonder how much of the carnage is attributable to lack of good manufacturing practices with these EUA counter measures versus the underlying technology itself. I realize you can't tease that from the data. Interesting proposition, since they were coming out so fast. No, you can't. Well, you know, and the thing is that Pfizer, you know, they switch the manufacturing process from the process that they used for the trials was, and the one that was approved was not the one that you're given. They did a little bait and switch. So they use process A for the trials to show a safe and they use process B. Now, process B might involve a basically having mRNA that's not intact. Now, mRNA that's not intact means you're not going to get any efficacy on this. He's measuring the efficacy. It's already approved. So what you want to do is make sure that this mRNA is not intact, just like the EMA discovered that they had like 49% where these mRNAs were broken. Not that it matters because 49% is still a huge number. But they discovered a lot of breakage. Now, so if they raise the temperature or whatever, they can create, even with the same dopes, right, 30 micrograms by manufacturing process, they can render it ineffective, which means it's less likely to cause side effects. So, you know, the horse race ought to be in which vaccine causes the lowest all-cause mortality in every age group. That's the thing that you can't get away from. And, you know, so if they say, hey, let's make our vaccine safe, then it's never going to be effective. Right? Let's make it a sale. Let's replace the active ingredient with saline. Of course, then they'd run into all sorts of problems if they did that because eventually, they'd be found out and then people would go to jail. So they're not going to do that. They're not going to put in fake, they can't risk putting in saline shots to improve their safety. But see, even if they did that, they wouldn't have any effectiveness. And so, you know, I think these vaccines, these vaccines are killing people. These vaccines are horribly injuring people. So I don't think these things are being neutered by the manufacturing process, but could there be other things that are in the vaccine that are causing contamination? Well, they're DNA fragments, but, you know, we don't know enough about that. But I don't have to say it's the... I'd go with the simplest solution, which is that it's the mRNA folks. Question from Morris Jeffers. Do you plan to submit this data to Moderna for comment? Oh, yeah, I already have. You already did. Yeah, I called their number this morning. I said, hey, you guys did 50% better in this new study that's about to come out. You did 50% better. Can we talk about it? Can I get a comment from you on your 50% better performance? Of course, I didn't tell them it was a 50% better mortality or, sorry, 50% higher mortality. I just said, baby, you guys beat you guys smoked Pfizer. You're 50% more effective. You are... But I didn't say you were 50% more effective than killing people because otherwise they probably wouldn't call me back. I just said they were 50% more effective. So they haven't called you back yet? No, they haven't called... Let me just check my... Check your messages. Check my phone real quick just to make sure. Oh, wait, two calls. One from Palo Alto and one from Brian Hooker. Oh, but nothing Cambridge yet. No, let's see. So... Well, that'll be interesting. They call you back because they like to win prizes probably in awards for being better than others. Yeah, and I called into NOVAVACs as well. I said, I'd like to speak to your CEO. I think he ought to know about this study because he should be... NOVAVACs should be jumping up and down saying, check a lot. Look at this folks. NOVAVAC should be talking to all the regulators in all the countries. And see, now I have these guys fighting among themselves. And I'm just a guy in California who knows how to analyze data, but if I can go and cause these drug companies to fight against each other, man, it's almost like having all the criminals taking guns and shooting at each other and nobody's left standing at the end of the day. So essentially, it's that I want to put these people into the crossfire. Right, it's like a Quentin Tarantino film. They're all in the same room together, staring at each other or aiming at each other. I got another question here from Mark Travis. And I also want to say a little bit about yesterday's event involving Trump that it... We're at VSRAP are incredibly saddened by just the whole episode, an assassination attempt and the greater divide. So just wanted to say that before we ask this question. Is there any any negotiating between RFK Jr. and Trump, such as appointing health freedom advocates into the agencies like FDA, NIH in return for dropping out and endorsing Robert Malone as head of NIH, Steve Kersh as nerd master general, stuff like that. Yeah, not that I'm aware of. That'd be an interesting thing. We'll see. I think this data is going to do wonders for Biden's campaign, right? Because Biden now has to make this really interesting choice. He either doubles down on vaccines are safe and effective folks, everybody should get their shots and trust the authorities or he says, oh, shit, I fucked up royally. I apologize. We will hold these people accountable. Now, on the other hand, President Trump has an opportunity to take the high road here. He could say, boy, if I was in power, I would hold these people accountable for what they did. And President Trump could say, hey, I was fooled and I'm not happy about that. I will have these people who fooled me and I will hold them accountable. So Trump has an opportunity now to say, hey, the data's out there. They were wrong. I was fooled. When I get back into office, I will lean up the, what is he called, drain the swamp. He could use this as a drain the swamp opportunity to say, if I'm elected, I will drain the swamp of these people that Joe Biden put in at the FDA and the CDC. And now that he realizes that he was fooled. And if I were Trump, that's what I would do. And then what we're talking about here now becomes front and center, mainstream America issue. And that's how it goes from the pages of sub-stack to making a huge difference and putting pressure on these people. And now the Democrats especially need to come to grips with, whoa, am I going to dodge this bullet or am I going to accept this and start to tow the line? Because what they need to do is they need to stop these shots, first of all, and they need to end this horrible exemption from liability for the vaccine manufacturers. Because if drug manufacturers don't have liability protection, why should vaccine makers have liability protection? See, that makes no sense because they say vaccines are the safest of all drugs. They're the safest of all drugs. So if they're the safest of all drugs, why are they the ones that have liability protection? You see, it doesn't make any sense to anyone who's a critical thinker. Well, we'll have to see who is actually beholden to the money, which one of these, the president, the current or the former or a new president, is beholden before they actually look at this data and present it to the public in a way that something can be done. Question from Tim Williams. Does the fact that the clinical trial data compare on the same order of magnitude, 30% versus 60% on VAERS, established that it's at least in part the mRNA platform itself since the clinical trial was run with the cleaner process one product? I don't think that it's the process that made the difference here. The process might have made a slight difference, but the main difference here is that the Moderna has anywhere from 50 to 100 micrograms per dose and Pfizer's only 30 micrograms per dose. That is fundamentally why these two vaccines are different because other than that on the surface, in terms of the way they work and all that, they're pretty identical. They're like two different brands of cars. One has just more gas in the gas tank than the other one, and that's the big difference. That's why you're seeing this big mortality difference. The check data is just confirming this. They're not going to be able to get around this because people are going to ask questions like, why are you hiding the data from us? Why can't we have data transparency? Why isn't every country doing what the Czech Republic did? You can't fudge the data. You can't go and fake the data because if you fake the data, your data is going to look different than everybody else's data. If your data looks different than anyone else's data, there's going to be criminal prosecutions for people who are manipulating this data. That's deliberately obscuring the truth for people. Yeah. Here's a question from Morris Jeffers. Have you submitted for publication? If so, where? If not, where will you submit first? If you have been denied publication and by home? So I have submitted one earlier paper to Jama that pointed out that Jama published an article that showed that there was no hospitalization benefit whatsoever from the COVID vaccine or the flu vaccine. Now, most people didn't notice this. So I said, this is pretty important. These vaccines that people have been given that claim that they're effective against hospitalization study that showed the opposite. Jama declined to publish the article. So I'll be submitting it to another journal. But yes, this will be written up and submitted to a peer review journal. And I'll probably submit it to Jama or BMJ or one of the top journals at top tier journals. And I want to get the rejection. So I can see, look how corrupt these medical journals are. But I'll put it on a pre-print server in the meantime so everybody can see it. And an FLCCC now has a new journal, I believe. So maybe that's a... No, there's no question. I'll get into the peer review. But see, I have to start with the big journals first because I want to get their rejection. So I can show people, look, one of the most important papers I've ever written, and it's rejected by these journals, how honest are these journals? They're not. They're all narrative controlled. Absolutely. Well, they're funded by Big Pharma. So there's... Well, yeah, it'll be good either way. If they publish it, great. And if they don't, you have the letter of rejection. Another question from Tim Williams, off topic. But do you have any comments on Plotkin's recent admission that childhood vac shots were not sufficiently tested for safety or efficacy? Yeah, I mean, it's... It's sort of... There are two ways to interpret it. One, which is Aaron's series way of interpreting, which is an admission that they have inadequate safety monitoring and safety testing. Or you could say that, oh, he's just saying that we have some great tools and we could always use more. That's the other way. So it all depends on how you want to spin that statement. But look, there's no debate anymore. A 50% relative mortality increase in vaccine A versus vaccine B is a train wreck. And it has been three and a half years and nobody has been able to detect a 50% mortality increase. That is game changing. Or it should be game changing. It shows that the medical community is completely inept at measuring any safety problems. They're completely inept. They not only said that it was safe, but they said it saved lives when it was the opposite. Now, if you can show me in this story, this shows that people save lives, I'm all ears. I'm all in. And we don't... You don't have to hide the data on this one, folks, because it's available for everyone to see. Now, you have a problem because everybody can see the data. So you can't budge the analysis or everybody will know. Like you could before because you always hid the data. So I'm telling you, this is freaking game changing. And you're not going to find any epidemiologist who raises their hand and says, hey, I know how to analyze this data to show it's safe. And that tells you everything. And I saw all the people you mentioned at the end who commented on your paper. How many total experts did you send this out to? Between a dozen and two dozen. And how many errors did they find along the way that helped you get it towards that? Oh, people pointed out, hey, you need to check into the distribution. Like Joe Framon, he said, hey, you need to make sure that there wasn't any kind of bias that could have been biased towards people with higher comorbidities, other than that, I don't see an error in your stuff. And Claire Craig's been analyzing it with me all along the way. The Czech Republic authors who wrote these papers on the healthy vaccine effect, they've been with me all the way. Is that going through them? I'm sharing the spreadsheets. I'm sharing the arguments. And they're saying, well, people could argue that one vaccine is safer than the other. And that accounts for the differences. And then I'll go back and say, there's no way you can do that. Let me see your number. So I'm playing, we're both trying to play devil's advocate. I'm not playing devil's advocate. They're trying to play devil's advocate in order to make sure that I've covered all of the possible attacks. So they're trying to attack it the way that they think other people will falsely attack it. One guy I gave it to, and he's totally on the other side. And he said, oh, yeah, the age distributions were not the same between the two groups. Therefore, it wasn't random. And I said, yeah, it's not random in terms of the age distribution, because they were distributed at different times, it's going to be pretty random, as to whether group A, one age group, but it doesn't matter because I analyze it on a single age basis. We were born in 56. Here's the number, born in 57. So it doesn't matter that Pfizer was over-distributed or under-distributed for that particular age group with respect to the other vaccine. What matters is the mortality rates, and you can't run from that. So people are throwing these grenades, trying to explode it. But the problem is that making these arguments is like, that's a nonsensical argument because it doesn't affect the outcome. Now, he also pointed out that, well, if you look at month 12, then the numbers are closer. And it's like, yeah, if you look at month 12, there are hardly any vaccines distributed for either brand. It's like zero divided by zero. You're going to get random numbers. You're just looking at noise at that point. And so they're not able to come up with any kind of explanation that fits the data and explains all the data. See, because this does. And by the way, the reason it has a higher mortality impact in the young is because the mortality is kind of shot-based. In other words, if I gave you a dose, let's say I gave you some poison, and that poison had a one in 10 chance of killing you. What you would see is, well, mortality rate went up really high for young people, but it went up really low for older people because old people died at a much higher rate. So if you increase their mortality by an absolute number, it's going to be small relative to the overall mortality. So it'll increase their overall mortality in a very small amount, whereas people who have a very low overall all-cause mortality to begin with when you give them something that increases it by an absolute amount at a relative difference, it's much greater. And so that's why this, these mRNAs affect the young more than the old because it's more sort of shot per shot, you know, 100 chance of killing you. It's almost like shooting someone with a revolver, right? Playing Russian roulette. You play Russian roulette with an old people, their mortality rate doesn't go up by very much, but for younger people, it goes up by a huge amount because young people won't die. Right. Although that's been happening since these rolled out and it continues to happen. Yeah. And it's horrible. I mean, we have so many young people who are being killed by these shots. And you also can't make the assertion that, oh, Pfizer's perfectly safe and Moderna's just 50% greater than safe, which is unsafe, but Pfizer's perfectly safe. No, Pfizer's not perfectly safe because I know more people who have died, including kids from Pfizer than I do from Moderna. Kids aren't supposed to die and they're not supposed to die and they're sleeping, they're not supposed to die within 24 hours after shot. I mean, this is unheard of. It is unbelievable that the medical community just averts their eyes from all of this stuff. It's willful blindness, they're doing it to keep their jobs, they're doing it so they don't lose their license, they don't, they're doing it so they don't lose their board certifications. And it's the wrong thing to do. It is not what they signed up for in their hypocritic oath. Not at all. They're just going along with the narrative and just keeping their head down. That's been my experience. I want to bring on Nurse Angela before we sign off. I want to welcome back Nurse Angela. Hi, how are you guys? I was curious if you thought that this presentation would help with some of your former colleagues convince them that it's time to speak up and do something about this. Absolutely. Every time Steve does one of these data drops, I just hope and pray that he's proven wrong. And I've seen him. I've known about this data for a while as he's been investigating it. And there's nothing more that we want than to be proven wrong, because it's catastrophic. And I do want to recognize somebody who is on this call. And I don't think he's available because I see him watching, but he's probably working. But Ernest is here with us listening. And you know, he paid the ultimate price. He lost his son. And so this, this data is just horrible. And it's one of the reasons why we fight here at VSRF, because these are real human beings. These are people that we love and we care about and we cherish. And we just, we won't stop. And I just, I hope this is what is going to make the change. And I, and I'm really looking forward to sharing this with as many people we're going to do a press release on this tomorrow. And one day we will get there because it's, it's, if this was your child that this happened to, we would hope that there'd be other people fighting for our kids too. So Steve, I just want to thank you so much, you know, the world thanks to the parents of these kids. Thank you. And we'll keep on going. Yeah. And I don't know if you can hear us, feel free to jump on. We, we made you as a panelist, but I, I don't think you're available because I can't get through. So we just, we love you so much. And we're so sorry that this, this data is accurate and correct and that you had to suffer that price that you paid for trusting them when they told you that it was safe and effective and it wasn't. Yeah, it just keeps reinforcing the tragedy of Ernest's loss of his son. And again, I want to acknowledge Ernest, he keep, he inspires us to keep going. And so many people out there that I've seen suffering the same fate and it's really tragic. So many other kids when I was in Michigan, I met another, you know, Shan, I met her who lost her daughter and I've just met so many parents along the way, even here in Sonoma County where I live, we've lost so much, you know, there's been five kids that I know that have died. We've not lost one kid to COVID. And that is completely unacceptable, completely unacceptable. So we, we have to do something about this. This has gone on way too long. And sometimes I feel like we're being our head against the wall, but I'll share a little personal anecdote. I was in the ER and visiting a pharmacist over the weekend because one of my family members, I'm not going to identify who or what, but had a an ACL surgery and developed a blood clot post operation. So we had to go to the ER to have him checked out and verify that and get the ultrasound. And I started asking the nurses and the doctor, are they seeing just in general more blood clots and across the board and the pharmacist, where I went to get the the eloquence and across the board, I asked them all the question, the same question, and they all said, Oh, yeah, oh, yeah. I'm like, well, how recently, a couple years before, after, oh, yeah, like since, since 2021, yeah, a lot, a lot more. And I asked them the follow up, what do you attribute this to without saying anything about the V word? And they're like, I'm not sure maybe COVID that that was pretty much the standard, like just general no one mentioned the V word. And I didn't bring it up, because I was just there in the middle of first, first someone else not necessarily to make a point. And it was that they're just they're trying to help people, but they don't they don't have time to look into this stuff. They're too busy treating the vaccine injured. Oh, who I really Yeah, I mean, I who I really want to share this with as the dog, you know, locally here as the doctors at Stanford, because they have a clinic there that's full of vaccine injured and they're seeing it. And they they respect me and they respect other doctors that used to work at UCSF, like Dr. Jan Meisel, who's a patient there. And behind the scenes, they talk to us about this, how these vaccines are farming people. And it just blows me away that they are not coming forward, because they're taking care of these people. And same thing with Yale, you know, I'm part of the Yale study, where they're looking at the vaccine injured. And why are these people not screaming at the top of their lungs? Like we have all these young, healthy, previously healthy people who are injured, people who have died. And we're studying them and we see them on a regular basis. And they're not telling that they're not speaking out in the public, they talked about it to us, you know, behind closed doors. And in medicine, that's wrong. I mean, it's completely wrong. Should we transparent this affects people's lives, this is killing people. So I really I do look forward Steve to when we get this and we can release it tomorrow at 4pm to you know, the first people that I plan on sending it to is Dr. Aikiko Owasaki over at Yale, the cardiologist over at Yale, and the doctors at Stanford and the Neurology Department that are taking care of all of the vaccine injured because they need to see this, and they need to be held accountable. And I did I did see Dr. Mahaltra on Twitter, he and I think he reposted that Steve on acts that he's calling out for all doctors to have data transparency. And I think that will be the catalyst that moves this is if we get medical personnel to speak out. I think that's what it's going to take. So thank you Steve for doing this. You're just a bad ass hero. I love your passion. I love your everything that you're doing is just couldn't have asked for a better person and a kinder person and and a smarter person to do the dirty job that you're doing. So thank you. Thank you. All right, I'm going to end this with that note. Thank you, Steve, so much for this information and the work you're doing. And Nurse Angela for being here again. It's always great to have both of you on. And I want to thank everyone who showed up for this special webinar. And for your support and your donations, it really means the world to us. We can't do this work without your support. And and it's fantastic to have you here. All right. Thank you, everyone. Have a great rest of your day.
+[SPEAKER_01]
+Hi, Steve Kirsch here from Vaccine Safety Research Foundation.
+A couple of weeks ago, I got a very interesting revelation from a scientist in the Czech Republic.
+And that was that four months ago, there was a Freedom of Information Act response that was posted to the internet.
+And nobody knew about this Freedom of Information Act response.
+But what was in that response is quite stunning.
+It's actually record level data from the Czech Republic of all people in the Czech Republic.
+There are about 11 million records in that database.
+And it's a record level database, which means that there's one record for each person.
+in the Czech Republic.
+And that record has their year of birth.
+It has, if they died, their date of death.
+And it has all of the dates of each of their COVID vaccinations along with the vaccination type.
+And it turns out that in the Czech Republic, the vaccines were distributed more or less on a haphazard fashion.
+It wasn't strictly randomized where people would come in and they'd create a random number and say, well, you're going to get this vaccine.
+But just because of the nature of the haphazard way that it was distributed, which was basically on a convenience basis, meaning if they had the vaccine, they'd give it to you.
+And they'd give you whatever vaccines they had.
+And they had a mix of Pfizer, Moderna, AstraZeneca, Novavax, and the Janssen vaccine.
+And it turns out that most volumes were for Moderna and Pfizer.
+And so I thought it would be interesting to do a brand comparison.
+Because if both vaccines are safe and effective, then if you measured the one-year mortality from the time that they got their vaccination, whether it's the first vaccination, second vaccination, or third vaccination, if you measured the all-cause mortality for one year from the time that they got their vaccination,
+then the mortality rates in every age group should be virtually identical.
+And that's because these COVID vaccines work by expressing an antigen, which then your body's immune system would use to presumably make you less likely to die from COVID.
+And so there's probably equal efficacy because once you've been exposed to an antigen like this, you have
+an immune response.
+And I actually don't think there's any benefit at all from these so-called vaccines.
+But if there is a benefit, there's probably at most
+a few percentage points difference in terms of the mortality.
+If one vaccine is not effective at all and the other vaccine is very effective, we should see a mortality difference on the order of about 1% or 2%, especially in younger age groups.
+And that's because the COVID
+deaths within younger age groups is very, very small.
+So you're looking at, if you're saving a number of those, it's going to be a percentage of a percentage, right?
+Because it's just not that big of a percent.
+So I expected these things to be pretty close, right?
+I expected to be them equally effective because in the clinical trials, they all were 95% effective against infection.
+I don't believe that for a minute, but that's what they claimed.
+So they claim they're equally effective.
+So we should see basically equal mortality rates after the shots.
+Now, I had a feeling that these vaccines are not safe.
+And I had a feeling that Moderna would be much more unsafe than Pfizer is.
+And so I had a feeling that this data might show that.
+So I looked.
+Now, nobody in the entire world has done this comparison before because we've never had the data available to do the comparison.
+It's always been kept from public view.
+Now, this is odd because if the vaccines worked, you would think that all these vaccine manufacturers would be clamoring
+to get their data out.
+They would be demanding that the Congress pass a law to make the public health data on these vaccines public, because they would then be able to show the public how many lives that were saved.
+And they would also be able to show that their brand saved more lives than the competing brand.
+Now, it's interesting that not a single vaccine company
+has called for data transparency.
+Now, I can't figure out why that is.
+Because they're saving an enormous number of lives, why would they not want to prove to the American public and to the world how many lives have been saved?
+Why would they want to keep that data confidential?
+Today, I'm going to answer that question for you.
+I'm going to show that the data that was finally revealed from one honest country, the Czech Republic.
+And by the way, Moderna has an operation in the Czech Republic.
+So this is home country for them.
+I'm going to show that the Czech data shows that Moderna
+is 50% higher mortality than Pfizer does for certain age groups.
+And I'm also going to show you that Pfizer is unsafe.
+And by the way, the other vaccines that I mentioned, AstraZeneca and Janssen, those are even worse.
+So today I'm going to show you data that is unimpeachable.
+It is the official record level data from the Czech Republic.
+that proves that these vaccines didn't save any lives at all.
+They increased all-cause mortality by a huge margin.
+In fact, Moderna, 50% more all-cause mortality
+than Pfizer.
+Now, we're not talking excess all-cause mortality.
+We're talking absolute all-cause mortality.
+And what that means is that if we assume that Pfizer is perfectly safe and doesn't increase all-cause mortality at all, then Moderna is a train wreck.
+Moderna is a 50% increase in all-cause mortality.
+That's more than double.
+heart disease, the number one killer in America.
+This means that Moderna is easily one of the most dangerous drugs they've ever given to Americans, and Pfizer's not that much better.
+So let's go into the data.
+I'm going to switch and share my screen with you now so you can take a look at this data for yourself.
+And all this data is publicly available.
+In fact, the data and the analysis and all the tools that I use to analyze this, including spreadsheets, including the Python code and all that, that's all publicly available.
+I'm hiding nothing.
+from people.
+You can see every single record publicly available.
+You can see all the analysis tools, and you can see all the results of the analysis.
+There is nothing to hide.
+There never should be anything to hide for any of these studies.
+I'd always see these studies saying that vaccines are saving lives, but the data is never available in any of those studies, and it cannot be obtained.
+Why is that?
+Here I'm making all the data publicly available for everyone to verify and show everybody that these so-called vaccines that they representative would save lives actually caused huge numbers of excess deaths.
+So the title
+of this article.
+This is breaking record-level data from the Czech Republic Freedom of Information Act request.
+This was done by some guy in the Czech Republic.
+He issued a Freedom of Information Act request to the government.
+The government complied.
+And the government preserved privacy because they changed, instead of a date of birth, they just supplied the year of birth.
+And there's so many people born in 1956, for example, you can't tell whose vaccination records there are.
+So all the other dates are exact.
+And this means you can tell the exact number of days from the time of vaccination until the time of death, if somebody died.
+So you can do all sorts of interesting analyses on these things.
+But of course, the most interesting is the brain comparison.
+So you see that upfront.
+And by the way, this analysis technique that I'm using is really brain dead simple.
+You don't get any more simpler than this analysis.
+So what you do is if someone was vaccinated, you look out one year from when they were vaccinated and see whether they died within that one year or not.
+And it's as simple as that.
+Now this is called
+In this particular chart, we are looking at what's called study two.
+And study two says you got your second shot sometime in 2021.
+And we had a year to follow them up because we had all the death data through the end of 2022.
+And it stopped there.
+So we can't do further analysis, unfortunately.
+But this is enough.
+to see what's going on.
+Now, I computed a mortality ratio, which means let's look at the mortality rate of Moderna.
+And I see I spelled it wrong in the slide here, Modera, but it's Moderna.
+So let's look at the mortality rate of Moderna.
+And the mortality rate is simply the number of people who died divided by the number of people who got the shot.
+And you multiply that by 100,000 because it's sort of mortality rate per 100,000 people.
+And you do that for every single individual age category.
+So there's no what's called age confounding.
+And what you find is the younger you are,
+the greater your mortality increased with respect to the Pfizer mortality rate.
+What we're doing is we're treating these things because these vaccines were haphazardly distributed.
+It wasn't like the sicker people got Pfizer or the sicker people got Moderna.
+It was very randomly distributed.
+If both vaccines are perfectly safe, this chart should be on the one line.
+It should be not elevated at all from one.
+They should be identical.
+They should be like a squiggly line.
+For one age, it may be greater.
+The other age, it might be less.
+But they should be almost like two race horses.
+They're jockeying for position, and there's a photo finish at the end.
+And they should all cross the finish line at the same time.
+And what this shows is that for the very elderly, there wasn't much of a difference.
+But as you got younger, as you got to 70 years old, it was over a 40% difference in absolute all-cause mortality.
+And so I'm just comparing Pfizer with Moderna.
+So even if Pfizer was perfectly safe and didn't increase all-cause mortality at all,
+Moderna is a train wreck.
+And it gets worse because I'll show you that Pfizer is actually not safe either.
+And it probably raises your mortality by some number, which we can't calculate because we have insufficient data.
+So if we had the Novavax data and Novavax was given in higher volumes than it was given earlier, we would be able to compare Pfizer with Novavax.
+That would be another train wreck.
+But there are countries where Novavax is given, and we can make that calculation if they release the data.
+But they're probably not going to release the data so that we won't be able to tell people precisely how much Pfizer increases your all-cause mortality.
+But it's probably at least 10% or 20%.
+probably even more.
+And I'll show you those numbers in comparison with Novavac.
+So the first one is to show you that Moderna, as compared to Pfizer, is completely unsafe.
+Moderna should be totally off the market.
+Nobody should be taking the Moderna shots.
+And then I'll show you the same thing as true of Pfizer.
+Okay, so this is the data.
+Now, this is smooth for five-year age bands, just so that the curves are a little bit nicer and they don't go all over the place.
+But I'll show you the raw data as well.
+And it basically says, hey, you get about a 20% mortality increase at 80-year-olds.
+For 70-year-olds, it bumps up to a 40% mortality increase.
+For 60-year-olds,
+And younger, it's over 1.5.
+And for 52-year-olds and younger, it can exceed a 60% mortality increase.
+And unfortunately, the data is too noisy because there were too few Moderna vaccines that were given to young people.
+establish a mortality rate accurately, and so I stopped there.
+But as you can see, the trend is bad.
+Now, this, by the way, also explains why, hey, if you're increasing mortality by 50%, the reason that we're not seeing it in the all-cause mortality numbers is because the huge increases are happening to people who don't normally die.
+And so if you had a 50% increase in the elderly, everybody would notice that.
+But you see these vaccines are not affecting people this way.
+The vaccines are affecting people and causing the younger people to die, but have less effect on the older people.
+So you're not seeing these huge numbers of elderly mortality, which then are increasing by 50%, which would be really obvious.
+You're seeing these subtle differences because the huge mortality increases are happening in the young.
+OK, so all this data is posted on my GitHub.
+The link to my GitHub is posted in the article.
+Anyone can clone the GitHub repo.
+I created a make file.
+You'd say make.
+I return and that's it.
+You go away and you come back a few hours later.
+All the files are made for you.
+Everybody can replicate what I did here.
+So that's the essence of it.
+The data is all posted, the methodology.
+What I did is I defined
+three different observational studies.
+Study one is you got shot one in 2021 of a COVID vaccine.
+Study two is you got shot number two in 2021 of a COVID vaccine.
+And study three is you got shot number three in 2021 of a COVID vaccine.
+Now these studies are specially designed so it doesn't look forward because that would be
+cheating, and we don't want to cheat.
+So you always have to define a study enrollment criteria that can happen at the time of enrollment and does not depend on what happens in the future.
+So you can't say, let's enroll everybody who got a shot number two and didn't get any more shots.
+That's called unfair because you're looking into the future.
+So you have to define these fair studies where you define the study criteria which could be executed at the time of enrollment in the
+in the group, and there should be no time between enrollment and when you start counting that you discard.
+This would be called immortal time bias, and it's a misfeature of a lot of studies where they basically are immortal between the time you got the shot and when they start counting, such as two weeks after the shot, for example.
+So there are no confounders here.
+It's very simple.
+And if all the vaccines are perfectly safe, just like we've been assured, then all the vaccines would all align on that one line like you saw above.
+And they don't.
+And that's the problem.
+So the results, as I showed you earlier, was this
+this graph.
+Now, this is smooth.
+Let me show you the raw data.
+And this is spectacular because there's noise in this data.
+There's statistical noise because the numbers in each individual age bucket, which is a one-year age bucket, can vary.
+And if we had larger numbers, that would be great.
+We'd have less noise.
+But you can see that even with all the statistical noise,
+that Moderna is never safer than Pfizer.
+There are 40 data points, 40 separate data points here, and they're actually probably more than that.
+But there are at least 40, and they're all above one.
+Now, if Pfizer and Moderna were equally safe, they'd be jockeying around position.
+Each one would win half the time.
+So this is like flipping a fair coin.
+40 times and getting heads on each one.
+It's probably not a fair coin.
+So what this means is that even if you looked at each end of, you gave Moderna 40 different opportunities to win, right?
+40 different coin flips for Moderna to win.
+They didn't win a single one.
+Hmm.
+Interesting.
+OK. And these are the overall ratios.
+And you can go in here.
+I dumped the summary data into Excel.
+I created a pivot table here.
+And you can go in on the Summary tab of the analysis.xlsx spreadsheet, which is in the GitHub repo.
+And you can change all the parameters.
+You can change what study you want to look at.
+You can change the year of birth.
+You can change the sex, you can compare male and female, and you can look at the month of enrollment.
+So you can see, oh, well, how about if we just limited it to month three or month four, month five?
+You know, could there be some sort of calendar effect?
+It turns out no.
+And then you can see what the overall ratios are.
+So Moderna to Pfizer was a two times overall mortality.
+That's when you add it up for all ages.
+So there's a little bit of what's called the Simpson's paradox here because the age distribution was different between the vaccines.
+And so this number is an unfair comparison.
+But a 2.0 difference in mortality is for all the data that should set off alarm bells.
+Now, this is Moderna-Pfizer overall.
+So some people got a Moderna shot, and then they mixed it with a Pfizer shot.
+Some people got a Pfizer shot, mixed it with a Moderna shot.
+And so it shows you that the overall ratio is 2.05.
+And if you just looked at the pure people, the pure Pfizer people who got Pfizer-Pfizer or Moderna versus Moderna-Moderna, the ratio is also 2.05.
+But the reason for that is very few people mixed.
+I think people were instructed at the time, hey, if you got Moderna shot number one, you should always get the same shot of the same brand.
+Now, anyway, so this didn't vary.
+The AstraZeneca versus Pfizer ratio is 3.27, and the Janssen ratio is 1.18.
+And that varies depending on if we looked at different age groups, you'd see that number increase.
+And the interesting, it's also you get a 1.82 ratio if you did Moderna and Pfizer when the person didn't get a second shot.
+So again, we're seeing just on people who got one shot, we're seeing a very similar ratio there as well.
+And so now we've gone over this.
+This is the smooth data.
+This is the unsmooth data.
+And it's extremely troubling.
+And what I did here in these graphs is I looked at it on months three, four, five, and six.
+Now this is when these months, three, four, five, and six, is when Moderna
+had the most distribution.
+So these were the best months for Moderna.
+And so you want to limit the time window so everybody's kind of comparing the same times in terms of the outcomes so there's no
+sort of Simpson's paradox or effect due to the differences in the distribution volume.
+So I said, okay, let's just limit it to a pretty narrow time window here.
+So everybody is starting at essentially the same time and they're all ramped up to speed.
+They're all set to go because after month six,
+things start to drop off.
+So these are when everybody has got their engines revved up, everybody's ready to go, and everybody is distributing their vaccines to the public.
+And you can see, hey, you got the same numbers.
+In fact, it's worse.
+For 49-year-olds, it's almost a Pfizer, or sorry, Moderna was twice as likely, or it increased your all-cause mortality.
+It doubled your all-cause mortality.
+And now here's the raw data.
+You can see the raw data goes up to 2.5 here for Moderna versus Pfizer.
+And it never goes below 1 for all of these data points.
+For all these individual data points, it never goes below 1.
+So look, there's no doubt that Moderna should be immediately stopped.
+Now there's the time series data.
+And time series is another way to analyze this.
+Now, in a cohort time series analysis, which is another analysis technique that I used here, which I also use on the New Zealand data, what you do is you look at the mortality rate over time after you got the shot.
+Now, this is the mortality rate by week after dose number two.
+So this zero is t equals zero.
+And it goes off to over 70 weeks.
+And after 70 weeks, this data is just crap because you're running out of time to die.
+See, most people got shot too around the middle of 2021.
+So this gives them 18 months to die because our data stops recording deaths that we got from the Czech Republic.
+We don't have any death data from 2023.
+So basically, after 70 weeks, we can't record any deaths, which is why this data goes off on a tangent here.
+But the data here shows, oh, look at Pfizer, relatively safe.
+I say relatively safe because if you look at any of the other vaccines, so this is Moderna here, and then these are the Janssen and AstraZeneca vaccines,
+and a little bit of Novavax mixed in, but you can't tease it out.
+Actually, sorry, Novavax didn't come on the market in...
+in the Czech Republic until March of 2022.
+And so I'll show you that analysis next.
+But this shows you what happens.
+You get the shot.
+Now, the first three weeks is what's called a healthy vaccine effect, which means in societies, we do not vaccinate people in hospitals.
+We do not vaccinate people in hospice.
+Those people are very likely to die.
+And so
+Excluding them means we've excluded people who normally would have been included and then would have died, but this just causes this bias for the first three weeks we have to ignore.
+Then after that, we see, wow, this kind of monotonic increase in mortality rate for people who got the Pfizer shot.
+Now, this is not supposed to happen.
+It's not supposed to slope up like this.
+from mid-year because there is a seasonality effect, which happens towards the end of the year, six months.
+Towards week 20 or so here, you're going to get a seasonal hump.
+So you can see that what's happening here is you get the shot and your mortality rate increases after you got the shot.
+And in fact, your mortality rate went up right after you got the shot because these people
+And this, by the way, is restricted to 40 to 79 year olds.
+So it's a pretty large age range, which means there can be some age confounding in Simpson's paradox here.
+So you can't necessarily say that, oh, this difference here is due to the vaccine effect on day zero, which it could be, but it's hard to tease out because the
+the ranges are so large.
+But in fact, when we analyze it for much narrower age ranges, we find that there is a difference on day zero.
+After you got the shot, your mortality is measurably increased on the day after the shot.
+Now, this explains totally why people like my friend Jay Bonner, he knows 15 people who died after they got the vaccine and four of them died on the same day as the shot.
+Within 24 hours of the shot, four of his 16 friends who died, died on day zero.
+So this increase in mortality rate that we see at the very beginning makes perfect sense since confirmed by this anecdotal data.
+Now what's troubling of course is that your mortality rate increases for the next 20 weeks or so, 20-25 weeks or so, and it goes up.
+Now this is because your body starts to clot and
+Probably other things like your immune system gets attacked and a few other things.
+But look at the attack rate on Pfizer versus Moderna versus the other vaccines.
+The slopes are not the same.
+So it's interesting that you can look at this over time and see what happens.
+You get the shot.
+Here's what happens to your mortality rate over time.
+Now, if we were to look at a safe vaccine or relatively safe vaccine,
+like the pneumococcal vaccine that's given to people in Medicare, elderly people in Medicare, the line typically is pretty flat or sloping down.
+So when you see a line sloping up like this, and we could see that the slope of this line was different for the COVID vaccines versus other vaccines that are given to the same population.
+So the slope was a huge red flag for me and I pointed that out to people early on and they said, oh no, that's just healthy vaccine effect extended off for 24 weeks.
+It doesn't work that way.
+The healthy vaccine effect, it exponentially decreases and it ends in three weeks.
+This is due to your injecting people with a dangerous vaccine.
+Now I said we talk about Novavax.
+It's a little bit small here for you to see.
+And I don't, let me see.
+Let me see if I can go and make this zoom.
+Let's see.
+Let's go to zoom here.
+Okay.
+So you can see this a little bit better, but I looked at Novavax and unfortunately there's so few deaths
+So in Novavax, I wanted to do a fair comparison.
+And so I restricted this to month four, which is April of 2022 for people getting the Novavax shots versus the Pfizer shots.
+And as you can see here,
+from the, this is basically the, I haven't looked at this in a while, sorry.
+So these are the deaths here for Novavax, the N, the deaths.
+in the various age groups.
+And this is the Pfizer deaths in the various age groups here.
+And this is the number of Novavax shots given here and the number of Pfizer shots.
+And you can see, look, the number of Novavax shots is actually greater than the number of Pfizer shots for this age group, but it's greater for this age group and it's less for this age group.
+So they're running kind of neck and neck in terms of distribution in this particular month.
+And
+So it's a fair comparison.
+It's within a month.
+And then we looked out, we couldn't look out a year because it happened in April.
+So we're only able to look out for the next eight months and say that got the shot and we counted the number of deaths.
+Five deaths here versus 27 deaths for Pfizer.
+So this suggests that Novavax is far, far safer than Pfizer.
+And in fact, if we calculate the mortality ratios between Pfizer and Novavax, we find that Pfizer is
+double the mortality, 4.7 times the mortality, 2.5 times the mortality, 1.6 times the mortality, and overall was double the mortality of Novavax.
+So if Novavax is completely safe,
+And maybe if we wanted to be really conservative, we'd say Pfizer's got to be at least 20%, 30%, probably 50% higher mortality.
+Pfizer's a disaster.
+It should be halted immediately.
+Now, it would be nice if we had more data here.
+And other countries have that data, but they keep it hidden.
+And I can't understand why they would want to keep this information from the public, because it would save lives if they disclosed it.
+And there's no harm in disclosing it, just like the Czech Republic should.
+Okay.
+And if you do a Fisher exact test, by the way, on this data, which I did for the second shot in April 2022, for people born in the 1940s, which I picked because I had the most data, you find that with 80% confidence that you can prove or you can state that this data shows that we have 80% confidence that Pfizer is worse than
+than Novavax.
+And it could be a lot worse.
+And the odds ratio here was five, which means it's five times worse for this age group, but it could be as little as a little bit worse.
+Okay.
+So I suspect that if we got more data, you'd see a pretty interesting number there.
+So look, all these drug companies
+Pfizer, Moderna, Novavax, especially Novavax should be really calling for data transparency.
+Pfizer, not so much.
+And Moderna basically says, no, no, no, it's important to keep this data from the public.
+We're going to have better health outcomes if the public doesn't know what's going on.
+So interpreting this data, there's no way you can.
+This is very straightforward analysis.
+This is not rocket science.
+This is counting the number of vaccinations and counting the number of deaths from one year from vaccination.
+And that allows for calendar year variances in terms of seasonality and so forth.
+It's the fairest approach.
+It's brain dead simple.
+And there's no way you can misinterpret these results.
+And there's no way you can attack these results either because it's gold standard data.
+The only difference between the groups was what brand vaccine they got.
+My recommendation for public health officials is that unless the drug makers are able to explain to the world how this new data from the Czech Republic actually proves that all the vaccines are equally safe,
+then Pfizer, Moderna, Janssen, and AstraZeneca vaccines should all be immediately halted as too unsafe to use.
+And Novavax, we'll have to look closer at.
+But Novavax is the only vaccine maker left standing at the end of this analysis here.
+Now, I had Joe Framon, who's extremely well-respected.
+And Joe prides himself on finding errors in studies.
+And he said, well, the only possible thing that he's aware of that could have caused this is that if they systematically had a chart saying, oh, well, let me ask you about your number of comorbidities.
+Oh, if you have no comorbidities, then we'll give you Pfizer.
+And if you have one to three comorbidities, we're going to give you Moderna.
+And if you have more than that, we're going to give you the other vaccines.
+Nobody's aware of any chart that triaged people based on the number of comorbidities.
+And it's possible that some Pfizer doses could have gotten to an elderly care home, but it's equally possible that Moderna doses could have gotten to the elderly care home as well.
+And so you can't say that there is any kind of systematic bias in terms of comorbidities for any of these vaccines.
+They were basically distributed
+on a, hey, we've got the vaccine in stock.
+Would you like to get one?
+And people were not given a choice as to what vaccine they got.
+They got whatever was available.
+So it's randomly distributed.
+And we have what's called biological plausibility as well, because it turns out that in Pfizer, there's only 30 micrograms per dose of the Pfizer vaccine, and Moderna is anywhere from 50 to 100 micrograms per dose.
+So that's essentially 1.5 times higher or more
+And what do you know?
+You got a 50% increase in all-cause mortality with the higher dose.
+So we have this consistency here, this biological plausibility that, hey, maybe if you give people more of an active ingredient that is going to kill them, you're going to kill more people.
+No, it doesn't take a rocket scientist to figure this out, although nobody in the medical community has seemed to be able to figure it out.
+But the more dose of a poison that you give someone, the more people you're going to kill.
+So it totally makes sense what we're observing that you're killing more people because you're giving people more of the active ingredient.
+Now, the
+The gold standard clinical trials, these randomized controlled trials, the Freeman paper, this paper is published in the peer reviewed literature, he analyzed the data.
+And what he found is that relative to their respective placebos, the event rate
+For Moderna, it was like 15 per, I think it was like 10,000 shots.
+And for Pfizer, it was only 10 per the same number of shots.
+So the ratio... Oh, so here it is right here.
+This is a direct screenshot from the paper.
+Pfizer-Moderna mRNA vaccines are associated with exophysic...
+Seriously, adverse events of special interest of 10, which is for Pfizer, and 15 for Moderna.
+So it's a 50% increase exactly like we saw in this check data.
+So that kind of makes sense.
+Now, the VAERS data also, and I just published an article on this, shows that there's around a 30%, plus or minus.
+And remember, it was 50% for the younger age groups and people are reporting in VAERS for all age groups.
+And there, it was a 30% more deaths reported into VAERS
+than Pfizer.
+And I just recently published that substack.
+Now, we also have the US insurance company data, which is also consistent with the check data.
+Because remember, the check data showed big increases in mortality in younger people.
+What happened when the vaccine mandates were instituted in the United States?
+In Q3 of 2021, we saw these mortality of these young people, you know, 64 and younger, were skyrocketing while the mortality of older people weren't.
+totally consistent.
+Well, of course, older people weren't vaccinated at the time.
+It was the younger people that did.
+But, you know, these numbers are consistent with, A, it's affecting the mortality of the younger people.
+And, of course, then I verified from CHAT GPT, which is pretty much a, you know, blue-pilled AI system.
+a large language model.
+When did large employers in the US start mandating COVID vaccines?
+And the answer is large employers in the United States began mandating COVID-19 Venera mid-2021.
+What do you know?
+What a coincidence.
+So the question I have is, look, if there wasn't a vaccine that did this, then what did?
+How do you get a effectively 100% increase from baseline?
+How do you get that?
+That's unheard of.
+And they've had over two years to answer that question, and it's still a mystery.
+because the vaccine could never be the cause.
+Now there are five Bradford-Hill tests for causality of vaccines.
+I have a link to the five Bradford-Hill criteria.
+This is a causality test.
+This is a very standard causality test.
+All five of these conditions are satisfied.
+And you can click the link and verify yourself that I've demonstrated all of these things, including the, hey, it happens right after the mortality increase happens right after the shots.
+And now we can do p-value calculations here to see if they're statistically significant.
+I did a Fisher exact test for ages 65 to 69, showing Moderna shots had a most likely 1.6 times higher.
+Let's fix that.
+Higher odds of dying compared to the Pfizer shot.
+So here it is.
+Pfizer versus Moderna study.
+This is study one.
+So people who got the first shot in 2021, ages 65 to 69.
+I chose that because it had a lot of data associated with it.
+And I just wanted to show you that the E value on these is like 2 times e to the minus 21.
+Now a p-value of 0.05 is considered significant, and this is a p-value of 20 or so zeros followed by a one as opposed to 0.05.
+So that suggests that this did not happen by chance.
+And the odds ratio here of 1.59, 1.6, has a low bound of 1.45, which is essentially 1.5, and a high value of 1.75, which means
+With 95% confidence, we can tell you that for this particular age range, 65 to 69, you're getting anywhere between a 45% increase to a 75% increase with 95% confidence.
+So what this means in a nutshell is you should not get any of these vaccines and they should stop giving them.
+And also it's time for the medical community to face reality as they fucked up big time.
+And this is a huge, huge mortality signal that the medical community has been completely blind to for over two years.
+In fact, let's see, 20, they were blind to it in 21, 22, 23, now three and a half years.
+For three and a half years, nobody in the mainstream medical community said a peep and they didn't want to look at the data and any data you showed them, they would do a hand waving response saying, I don't like that data, I don't wanna look at it.
+They can't run away from this data.
+This is one of these moments where I have to bring out the first rule of holes, which is when you find yourself in one, stop digging.
+So the people in the medical community have an opportunity right now.
+They can make a choice.
+They can either accept this data or they can try to attack it.
+Now, if they can't attack the data, they need to accept it.
+And I don't think they're going to be able to attack this data because I've shown this to dozens of people and nobody's been able to find a plausible explanation for this other than the Moderna vaccine is much, much more dangerous than the Pfizer vaccine.
+So the next question people will ask is, why aren't you, you have data from the unvaccinated in this group, why aren't you comparing it with the unvaccinated?
+And the answer to that is simple.
+The unvaccinated are very hard for a country to track.
+This is why we have censuses in the United States, because we don't know who's really here, because people come and go all the time.
+Now, the same thing is true in any country.
+It's true in the UK.
+And so what they do is they undercount the unvaccinated.
+So if they undercount the unvaccinated, it looks like the unvaccinated people are dying at a higher rate.
+And in fact, the thing is so ridiculous that the vaccinated people are dying at half the rate of the unvaccinated because the undercounting is so bad.
+Which means that people could do these studies and they could say, look, compared to the unvaccinated, our vaccinated people are dying less.
+Well, of course, they're dying less because you undercounted the unvaccinated.
+So this is why all these studies that use the unvaccinated as the comparison group, and then they also don't account for the healthy vaccine effect, it makes it look like the vaccines are saving millions of lives when it's really doing the opposite.
+So this is why I don't use the unvaccinated as a comparison group because it's an unfair comparison group.
+Instead, what I do is I compare each brand of the vaccine with the other brands because everything about the people who went to be vaccinated is the same.
+The only difference is the vaccine they got.
+So using this new technique, we can see what's really going on.
+So like any piece of science, this thing will be attacked by attacking the data.
+They'll say that the data is not legit.
+I've looked at data before.
+I've looked at data from the US.
+I've looked at it from New Zealand.
+I've looked at it from the Czech Republic.
+I've looked at it from other countries as well.
+And I can tell you that this thing smacks.
+of legitimacy.
+We checked the numbers against the Czech Republic official stats numbers.
+We looked at everything.
+We looked at mortality rates over time, mortality rates versus age groups, the curves for the deaths of the unvaccinated.
+Everything checks out.
+Now, either the most brilliant mind in the world figured out, oh, this guy's making this request, let's go and take about two or three months to massage the data to make Moderna look bad, or this data's legit.
+And I think the data's legit because it matches everything I've seen from legit data that wasn't supposed to be disclosed.
+The second thing the methodologist's brain did is simple.
+count the number of shots, count the number of deaths in one year from the shot.
+It's that simple, folks.
+You don't have to go into all of these fancy adjustments that they make.
+Oh, let's do the adjusted thing.
+Let's equalize for comorbidities.
+You don't have to do anything like this.
+These are the full population.
+There's just no way that you can explain a huge difference in odds ratio like this.
+Now, you can say, oh, maybe there was an error in the code.
+Well, I wrote the code three different times, three different ways.
+I verified it in Excel manually without writing any code, and the results were the same.
+So hey, if you can find a code error, great.
+But there was nothing in the code that would systematically bias Moderna.
+So I don't think they're going to be able to do that one.
+And then, of course, the interpretation of the results of the methodology.
+It's straightforward.
+There's no way out for this.
+And I go into some other arguments here.
+And even Google's AI, Gemini is your definition of a blue-pilled person.
+In other words, these people go along with whatever the mainstream says.
+And so I ask, suppose two different vaccine brands are distributing country based on availability from the manufacturer.
+If we measure the all-cause mortality from the time of the shunt to one year later, both vaccines are safe.
+Should the mortality rate for each brand be about the same?
+Here you have an objective, well, sort of objective, but as objective as it gets, on their side.
+And they're saying, yep, da-da-da-da-da, da-da-da-da.
+In conclusion, observing similar all-cause mortality rates for both vaccines in a well-designed study would be strong evidence that both vaccines are safe.
+if they were the same.
+However, slight differences might exist due to the factors mentioned above.
+Totally agree.
+Slight differences, 1%, 2%, at worst 10%, 12%.
+I'm not going to get a 2X increase like we saw here if the vaccines are safe.
+That pretty much sums it up.
+We've gone through most of this article, but I think that Moderna will ignore this data and tell everyone else to ignore it as well.
+And I think that the FDA and the CDC will also say, they will tell people that
+You know, we're the CDC and we're the FDA and we don't comment on studies that we haven't done.
+We don't comment on third party studies.
+So the CDC and the FDA will ignore this gold standard evidence
+And by the way, the CDC and the FDA, they don't have this data from anybody.
+I went to CDC headquarters with Livio and he'll vouch for this.
+He was there.
+And we asked the head of media relations at the CDC.
+I said, do you have this vaccine record level data?
+He says, no, we don't have it.
+I said, why not?
+He said, Congress doesn't give us the authority to ask the states for it.
+And I said,
+Have you asked them nicely to ask for the data?
+I'll bet you Gavin Newsom would give you the data if you said please.
+And he said, we don't have the authority to do that.
+So the CDC is flying blind.
+They do not have data that shows these vaccines are safe.
+And if you want to show them data that shows that they're wrong, they will say, we don't comment on other people's data.
+And that's the way it works.
+And that's exactly what they're going to do.
+How did the other brands do, by the way?
+So here are some of the numbers for the other brands.
+This is for study one, and this is for study two.
+This is born in the 1960s.
+So you can see that Janssen's horrible, AstraZeneca is worse than Moderna, and Moderna is worse than Pfizer.
+In the article, I talk about why I go into four different ways to show that Pfizer isn't safe either.
+And of course, the Novavax data that I showed you earlier.
+And then it's like, well, Steve, can you be really confident that you're right?
+And the answer is, of course, because the anecdotes align with the large data.
+So here we have large data from the Czech Republic.
+There was no tampering done.
+There was no time for them to do tampering.
+They had no idea that this data would be used by someone who understood how to analyze it.
+And so there is no incentive to try to muck with the data at all.
+So you've got this gold standard data.
+This is as good as it gets.
+You can't get any better than record level data.
+It's gold standard.
+This is like the data that you want.
+You can't get any more pure than this data.
+So the data shows that I was right, but the anecdotes show that I'm right too.
+Now, it's interesting for Jay Bonner's anecdote, his 15 friends, four of them died on the same day as they got to shot, and three of them were age 30 or younger.
+And two of them were age 30 and one was 28.
+So it appeared to cause higher mortality in people who are younger, just like the Czech data showed.
+So I got a lot of quotes from people who are aware of this data and have commented on it from Tomas First in the Czech Republic, who made me aware of this data.
+Thank you very much to Paul Merrick, who you all know, former
+member of the British Parliament, Andrew Bridgen, Dr. C. Mulhatra, a famous cardiologist in the UK.
+One of my favorites, Dr. Chris Martinson said it doesn't get any more clear than this and so on.
+So you can read all of the quotes and I'll end with Claire Craig's quote.
+I don't see any possible way for them to explain this data.
+It's devastating.
+And the methodology is novel and brilliant.
+It's not been used before.
+some reason I can't figure out why.
+So I wanted to acknowledge all the people that helped on this.
+And if you think your public health epidemiologist is telling you the truth, think again.
+I just did an episode where I talked to a former epidemiologist slash virologist for Hawaii, and she said that when she started blowing the whistle, they fired her.
+Like this is why public health officials don't look at the data because if you expose the truth, you'll lose your job.
+So nobody looks, you know, documented in this great interview I did.
+And so that's it.
+I'm gonna stop my sharing and open it up for questions.
+
+[SPEAKER_02]
+Fantastic presentation, Steve.
+Thanks for having me back.
+I have a question about like by the way, you want to vouch for the before we get you are there.
+I was there.
+Yeah, it was astounding because you tried to get them to ask nicely.
+For example, Governor Newsom or the state of California, and they just refused.
+They blamed Congress.
+They're not allowed.
+And like you said, they don't want to look at it.
+Although there was at one point during one of the phone conversations you had with the media, a gentleman at the CDC, that he might have offered to look at it, but then you never heard from him again.
+So no, they don't want to look at anything.
+
+[SPEAKER_01]
+Now, none of these public health officials want to talk to me.
+I can't even talk to the public health officials in Santa Clara County where I live.
+I asked them for comment on their own data showed that people who got the shots were more likely to get COVID.
+It was like 85% vaccination rate, 85%.
+But when they did their COVID testing, 98% of the people who were tested positive for COVID were vaccinated.
+That can't happen if the vaccines are making it less likely for you to get COVID.
+So I asked them for, why don't they tell the public that the stuff backfires, that you were wrong?
+And they said, no comment.
+And when my supervisor asked, they said, no comment.
+And when their boss, the county executive asked, they said, no comment.
+And then the county executive said, see, they said, no comment, so go away.
+We don't want to look into it, right?
+So in Santa Clara County, they're not interested in data transparency, and they're not interested in holding the public health officials accountable, which is why these people get away with it.
+They're not being held accountable by the people they report to.
+It's horrible.
+
+[SPEAKER_02]
+And anyone that does speak up, as Jennifer Smith will attest, gets fired.
+Yeah, and she was charged with it.
+
+[SPEAKER_01]
+She was charged with a crime too.
+Right.
+They concocted criminal charges against her.
+
+[SPEAKER_02]
+They know.
+They're basically onboarded and told
+Stay in your lane.
+Don't talk to anybody about any of this stuff.
+I am curious, since this is record level data, about have you or will you be contacting the Ministry of Health of the Czech Republic with their own data?
+
+[SPEAKER_01]
+That's an interesting question.
+I'll ask my Czech contacts that.
+
+[SPEAKER_02]
+I mean, do you think that since it's their data that they would actually perhaps look at it the way you've broken it down?
+
+[SPEAKER_01]
+Um, yup.
+Uh, they should, you know, if anyone should, they, they, they should, but you know, remember this was not something that the Czech Republic public health department provided.
+This was provided under a freedom of information act request and
+The thing about these requests is you're not allowed to require them to do any work to create the data.
+So if you have to do a simple database join, which is pretty typical for something like this, they're not required to do it.
+And so they can say, well, we're not going to do your request because of privacy issues or because we're not required to do the join, although they'll come up with some excuse for not doing.
+This time, they apparently already had this data assembled, and they gave it to them because that's what the law requires.
+So we'll see.
+This will be pretty interesting, right?
+Because the Czech Republic has an opportunity here to completely change the world and show the world that there is one honest health authority in the entire world.
+
+[SPEAKER_02]
+We'll see whether they do it, but that's all it takes is that first domino.
+
+[SPEAKER_01]
+All it takes is the first domino, right?
+Because then everybody says, geez, I'm in a hole.
+Do I keep digging or do I stop digging?
+And sooner or later, everybody in the medical community is going to face that question and it's going to happen pretty soon.
+
+[SPEAKER_02]
+Yeah, we should also try to contact some media outlets in the Czech Republic and see if they would be interested in actually talking to you and breaking down the data.
+
+[SPEAKER_01]
+Oh, that's great.
+Absolutely.
+Great, great ideas.
+
+[SPEAKER_02]
+Because once the people start to ask for this, then other governments... Czech Republic bans these vaccines.
+
+[SPEAKER_01]
+That'll cost people to pay attention.
+Absolutely.
+Well, it's their own data and how it, you know, look, either the Czech Republic bans the data or they need to explain how I got it wrong.
+
+[SPEAKER_02]
+Exactly.
+Well, and how can they ban the data now?
+
+[SPEAKER_01]
+They can't say that it's wrong because then there's a criminal prosecution for manipulating data that should have been disclosed.
+I mean, the genie is out of the bottle.
+
+[SPEAKER_02]
+I'm excited for this to get spread far and wide.
+I've got some questions from our fantastic attendees who are here watching this with us.
+The first one comes from Tim Williams.
+Does the observation that Moderna always loses in safety relative to Pfizer help to establish a dose-response relationship with mRNA in general?
+
+[SPEAKER_01]
+It's definitely correlated.
+I mean, I don't see how you can get.
+It's the same fundamental technology, mRNA technology.
+And unless there's some huge differences in the lipid nanoparticles or something in the formulation, maybe they put cyanide in the Moderna vaccine.
+And that was one of the ingredients that was not disclosed.
+it certainly appears that way, that the higher the dose,
+the higher the mortality.
+So the Occam's razor is like, that's the most obvious thing.
+If it's not that, then it could be something else.
+But that's probably with 99% confidence, I would say that if I was to bet on this, I would give it 99 to 1 odds that that's it.
+
+[SPEAKER_02]
+This question came from a lot of people and I just want to answer it real quick.
+When will the paper be available?
+Steve, when will your substack be coming out?
+
+[SPEAKER_01]
+Well, when you told me, which was tomorrow at 4 p.m.
+
+[SPEAKER_02]
+Right.
+So we're having a special VSRF Live episode tomorrow where we'll have a little chat before for the general public.
+on Rumble and right at 7 p.m. Steve will release the Substack.
+We'll have a VSRF Live tomorrow.
+We're going to replay this recording and then after the recording we're going to have a little chat with Jessica Rose and possibly some other doctors that are going to come and ask some questions to talk to you about it as well as our traditional additional Q&A.
+So tomorrow night 7 p.m. Steve Substack VSRF Live replay of this recording that you can watch.
+
+[SPEAKER_01]
+I'll have to make a note to it so I can attend that.
+
+[SPEAKER_02]
+Yeah, yeah, make sure you're there tomorrow.
+At least for the beginning in the end, since you want to watch yourself present this again, which is really good.
+From Rachel Kalman, is data like this available from any other country?
+
+[SPEAKER_01]
+Oh, yeah, they'll have it.
+They'll have it.
+
+[SPEAKER_02]
+They don't want to make it available.
+Request or what would it take?
+
+[SPEAKER_01]
+No, no, no, you can't get it via FOIA.
+I've been there too many times.
+They'll deny the request.
+They'll say, oh, it violates privacy, which it doesn't.
+Look, if it violated privacy, take this challenge.
+Person born in 1956, you got all the records.
+Identify one individual from the records in 1956.
+You got 10 million records of people.
+And if everybody, if it was evenly divided between the age groups, that would mean that there are 100,000 records of people born in 1956, 100,000 records.
+And you just have the vaccination date.
+So you tell me, you match the people with their vaccination dates using publicly available information.
+Yeah, pretty hard.
+
+[SPEAKER_02]
+Yeah, it would not be easy.
+Question from Nate Itkin.
+I wonder how much of the carnage is attributable to lack of good manufacturing practices with these EUA countermeasures versus the underlying technology itself.
+I realize you can't tease that from the data.
+Interesting proposition since they were coming out so fast.
+
+[SPEAKER_01]
+No, you can't.
+Well, and the thing is that Pfizer, they switched the manufacturing process from the process that they used for the trials and the one that was approved was not the one that you're given.
+They did a little bait and switch.
+So they used process A for the trials to show it's safe, and they used process B.
+Now, process B
+might involve basically having mRNA that's not intact.
+Now, mRNA that's not intact means you're not going to get any efficacy on this.
+Nobody's measuring the efficacy.
+It's already approved.
+So what you want to do is make sure that this mRNA is not intact.
+Just like the EMA discovered that they had like 49% where these mRNAs were broken.
+Not that it matters because 49% is still a huge number, but they discovered a lot of breakage.
+So if they raise the temperature or whatever, they can create, even with the same dose, 30 micrograms,
+by manufacturing process, they can render it ineffective, which means it's less likely to cause side effects.
+So the horse race ought to be in which vaccine causes the lowest all-cause mortality in every age group.
+That's the thing that you can't get away from.
+And so if they say, hey, let's make our vaccine safe, then it's never going to be effective.
+Let's make it a sale.
+Let's replace the active ingredient with saline.
+Of course, then they'd run into all sorts of problems if they did that, because eventually they'd be found out, and then people would go to jail.
+So they're not going to do that.
+They're not going to put in fake.
+They can't risk putting in saline shots to improve their safety.
+But see, even if they did that, they wouldn't have any effectiveness.
+I, I, I think these, uh, these vaccines, these vaccines are killing people.
+These vaccines are horribly injuring people.
+So I don't think these things are being neutered by the manufacturing process, but could there be other things that are in the vaccine that are causing contamination?
+Well, they're, they're DNA fragments.
+Uh, but, um, you know, we don't know enough, uh, about that.
+Um, but I have to say it's the, it's the, um,
+I'd go with the simplest solution, which is that it's the mRNA, folks.
+
+[SPEAKER_02]
+Question from Morris Jeffers.
+Do you plan to submit this data to Moderna for comment?
+
+[SPEAKER_01]
+Oh, yeah, I already have.
+
+[SPEAKER_02]
+You already did.
+
+[SPEAKER_01]
+Yeah, I called their number this morning.
+I said, hey, you guys did 50% better.
+in this new study that's about to come out, you're 50% better.
+Can we talk about it?
+Can I get a comment from you on your 50% better performance?
+Of course, I didn't tell them it was a 50% higher mortality.
+I just said, baby, you guys smoked Pfizer.
+You're 50% more effective.
+You were, but I didn't say you were 50% more effective than killing people because otherwise they probably wouldn't call me back.
+I just said they were 50% more effective.
+
+[SPEAKER_02]
+So they haven't called you back yet.
+
+[SPEAKER_01]
+No, they haven't called.
+Let me, let me just check my, um, check your messages.
+Check my phone real quick, just to make sure.
+Uh, no.
+Oh wait, two, two calls.
+Uh, one from Palo Alto and one from Brian Hooker.
+
+[SPEAKER_02]
+Oh, but not from Cambridge yet.
+
+[SPEAKER_01]
+Yeah.
+Um, let's see.
+So, um,
+
+[SPEAKER_02]
+That'll be interesting if they call you back because they like to win prizes probably and awards for being better than others.
+
+[SPEAKER_01]
+I called into Novavax as well.
+I said, I'd like to speak to your CEO.
+I think he ought to know about this study because he should be Novavax.
+should be jumping up and down saying, look at this, folks.
+Novavax should be talking to all the regulators in all the countries.
+And see, now I have these guys fighting among themselves.
+And I'm just a guy in California who knows how to analyze data.
+But if I can go and cause these drug companies to fight against each other,
+man you know it's almost like having that all the criminals taking guns and shooting at each other and nobody's left standing at the end of the day so essentially it's the i want to put these people into the the crossfire right it's like a quentin tarantino film they'll all be in the same room together staring at each other or aiming at each other
+Yep.
+
+[SPEAKER_02]
+I got another question here from Mark Travis.
+And I also want to say a little bit about yesterday's event involving Trump that it, you know, we're at VS Rep are incredibly saddened by just the whole episode, an assassination attempt and the greater divide.
+I just wanted to say that before we ask this question.
+Is there any negotiation, any negotiating between RFK Jr. and Trump, such as appointing health freedom advocates into the agencies like FDA, NIH, in return for dropping out and endorsing Robert Malone as head of NIH, Steve Kersh as nerd master general, stuff like that?
+
+[SPEAKER_01]
+Yeah, not that I'm aware of.
+That'd be an interesting thing.
+You know, we'll see.
+We'll see.
+I think this data is going to do wonders for Biden's campaign, right?
+Because Biden now has to make this really interesting choice.
+He either doubles down on vaccines are safe and effective, folks.
+Everybody should get their shots and trust the authorities.
+Or he says, oh, shit.
+I fucked up royally.
+I apologize.
+We will hold these people accountable.
+Now, on the other hand, President Trump has an opportunity to take the high road here.
+He could say, boy, if I was in power, I would hold these people accountable for what they did.
+And President Trump could say, hey, I was fooled, and I'm not happy about that.
+I will have these people who fooled me, and I will hold them accountable.
+So Trump has an opportunity now to say, hey, the data's out there.
+They were wrong.
+I was fooled.
+when I get back into office, I will lean up the, what does he call it?
+Drain the swamp.
+He could use this as a drain the swamp opportunity to say, if I'm elected, I will drain the swamp of these people that Joe Biden put in at the FDA and the CDC.
+And now that he realizes that he was fooled.
+And
+If I were Trump, that's what I would do.
+And then what we're talking about here now becomes front and center mainstream America issue.
+And that's how it goes from the pages of Substack to making a huge difference and putting pressure on these people.
+And now the Democrats, especially,
+need to come to grips with, whoa, am I going to dodge this bullet or am I going to accept this and start to toe the line?
+Because what they need to do is they need to stop these shots, first of all, and they need to end
+this horrible exemption from liability for the vaccine manufacturers.
+Because if drug manufacturers don't have liability protection, why should vaccine makers have liability protection?
+See, that makes no sense because they say vaccines are the safest of all drugs.
+They're the safest of all drugs.
+So they're the safest of all drugs.
+Why are they the ones that need the liability protection?
+You see, it doesn't make any sense to anyone who's a critical thinker.
+
+[SPEAKER_02]
+Well, we'll have to see who is actually beholden to the money, which one of these, the president, the current or the former or a new president is beholden before they actually look at this data and present it to the public in a way that something can be done.
+Question from Tim Williams.
+Does the fact that the clinical trial data compare
+on the same order of magnitude, 30% versus 60% on VAERS, established that it's at least in part the mRNA platform itself, since the clinical trial was run with the cleaner process, one product.
+
+[SPEAKER_01]
+I don't think that it's the process that made the difference here.
+Now, the process might have made a slight difference, but the main difference here is that the Moderna has anywhere from 50 to 100 micrograms per dose and Pfizer's only 30 micrograms per dose.
+That is fundamentally why these two vaccines are different, because other than that, on the surface, in terms of the way they work and all that, they're pretty identical.
+They're like two different brands of cars.
+And one has just more gas in the gas tank than the other one.
+And that's the big difference.
+And that's why you're seeing this big mortality difference.
+And the check data is just confirming this.
+And they're not going to be able to get around this because people are going to ask questions like, why are you hiding the data from us?
+Why can't we have data transparency?
+Why isn't every country doing what the Czech Republic did?
+And you can't fudge the data.
+You can't go and fake the data because if you fake the data, your data is going to look different than everybody else's data.
+And if your data looks different than anyone else's data, there's going to be criminal prosecutions for people who are manipulating this data that's deliberately obscuring the truth for people.
+
+[SPEAKER_02]
+Yeah.
+Here's a question from Morris Jeffers.
+Have you submitted for publication?
+If so, where?
+If not, where will you submit first?
+And if you have been denied publication and by whom?
+
+[SPEAKER_01]
+So I have submitted one earlier paper to JAMA that pointed out that JAMA published an article that showed that there was no hospitalization benefit whatsoever from the COVID vaccine or the flu vaccine.
+Now, most people didn't notice this.
+So I said, you know,
+This is pretty important.
+These vaccines that people have been given that claim that they're effective against hospitalization study to show the opposite.
+JAMA declined to publish the article.
+I'll be submitting it to another journal.
+But yes, this will be written up and submitted to a peer-reviewed journal.
+And I'll probably submit it to JAMA or BMJ or one of the top journals, the top tier journals.
+And I want to get the rejection so I can see, look how corrupt these medical journals are.
+But I'll put it on a preprint server in the meantime so everybody can see it.
+
+[SPEAKER_02]
+And FLCCC now has a new journal, I believe.
+
+[SPEAKER_01]
+No, there's no question.
+I'll get into the peer reviewed.
+But see, I have to start with the big journals first because I want to get their rejection.
+So I can show people, look, one of the most important papers ever written, and it's rejected by these journals.
+How honest are these journals?
+They're not, they're all narrative controlled.
+
+[SPEAKER_02]
+Absolutely.
+Well, they're funded by Big Pharma.
+Well, yeah, it'll be good either way.
+If they publish it, great.
+And if they don't, you have the letter of rejection.
+Another question from Tim Williams, off topic, but do you have any comments on Plotkin's recent admission that childhood vac shots were not sufficiently tested for safety or efficacy?
+
+[SPEAKER_01]
+Yeah, I mean, there are two ways to interpret it, one which is Aaron Seary's way of interpreting, which is an admission that they have inadequate safety monitoring and safety testing.
+Or you could say that, oh, he's just saying that we have some great tools and we could always use more.
+That's the other way.
+So it all depends on how you want to spin that statement.
+But look,
+There's no debate anymore.
+A 50% relative mortality increase in vaccine A versus vaccine B is a train wreck.
+And it has been three and a half years and nobody has been able to detect a 50% mortality increase.
+That is
+game changing, or it should be game changing.
+It shows that the medical community is completely inept at measuring any safety problems.
+They're completely inept.
+They not only said that it was safe, but they said it saved lives when it was the opposite.
+Now, if you can show me in this study, this shows that people save lives.
+Ha, I'm all ears, I'm all in.
+And you don't have to hide the data on this one, folks, because it's available for everyone to see.
+Now, you have a problem because everybody can see the data.
+So you can't fudge the analysis or everybody will know, like you could before because you always hid the data.
+So I'm telling you, this is freaking game changing.
+And you're not going to find any epidemiologist who raises their hand and says, Hey, I know how to analyze this data to show it's safe.
+And that tells you everything.
+
+[SPEAKER_02]
+And I saw all the people you mentioned at the end who commented on your paper.
+How many total experts did you send this out to?
+
+[SPEAKER_01]
+Between a dozen and two dozen.
+
+[SPEAKER_02]
+And how many errors did they find along the way that helped you get it to where it's at?
+
+[SPEAKER_01]
+Oh, you know, people pointed out, hey, you need to, you know, check into the distribution.
+Joe Framon, he said, hey, you need to make sure that there wasn't any kind of bias that could have been biased towards people with higher comorbidities, other than I don't see an error in your stuff.
+And I pointed, Claire Craig's been analyzing it with me all along the way.
+The check
+Republic authors who wrote these papers on the healthy vaccine effect.
+They've been with me all the way.
+As I'm going through them, I'm sharing the spreadsheets, I'm sharing the arguments, and they're saying, well, people could argue that one vaccine's safer than the other and that it counts for the differences.
+And then I'll go back and say, there's no way you can do that.
+Let me see your number.
+So we're both trying to play devil's advocate.
+I'm not playing devil's advocate.
+They're trying to play devil's advocate in order to make sure that I've covered all of the possible attacks.
+So they're trying to attack it the way that they think other people will falsely attack it.
+You know, one guy gave it to you, and he's totally on the other side.
+And he said, oh, the age distributions were not the same between the two groups, therefore it wasn't random.
+And I said, yeah, it's not random in terms of the age distribution because they were distributed at different times.
+It's going to be pretty random as to whether group A, one age group.
+But it doesn't matter because I analyze it on a single age basis.
+You're born in 56.
+Here's the number born in 57.
+So it doesn't matter that Pfizer was over distributed or under distributed for that particular age group with respect to the other vaccine.
+What matters is the mortality rates and you can't run from that.
+So people are throwing these grenades, trying to explode it.
+But the problem is that making these arguments is like
+That's a nonsensical argument because it doesn't affect the outcome.
+Now, he also pointed out that, well, if you look at month 12, then the numbers are closer.
+And it's like, yeah, if you look at month 12, there are hardly any vaccines distributed for either brand.
+And so it's like 0 divided by 0.
+You're not going to get random numbers.
+You're just looking at noise at that point.
+And so they're not able to come up with any kind of explanation that fits the data and explains all the data.
+See, because this does.
+And by the way, the reason it has a higher mortality impact in the young is because the mortality is kind of shot-based.
+In other words, if I gave you a dose, let's say I gave you some poison.
+and that poison had a 1 in 10 chance of killing you.
+What you would see is, wow, mortality rate went up really high for young people, but it went up really low for older people because old people die at a much higher rate.
+So if you increase their mortality by an absolute number, it's going to be small relative to their overall mortality.
+So it'll increase their overall mortality
+in a very small amount, whereas people who have a very low overall all-cause mortality to begin with, when you give them something that increases it by an absolute amount, at a relative difference, it's much greater.
+And so that's why these mRNAs affect the young more than the old because it's more sort of shot-per-shot
+you know, 100 chance of killing you.
+It's almost like shooting someone with a revolver, right?
+Playing Russian roulette, right?
+You play Russian roulette with old people, their mortality rate doesn't go up by very much.
+But for younger people, it goes up by a huge amount because young people don't die.
+
+[SPEAKER_02]
+Right.
+Although that's been happening since these rolled out and it continues to happen.
+
+[SPEAKER_01]
+Yeah.
+And it's horrible.
+I mean, we have so many young people who are being killed by these shots.
+And you also can't make the assertion that, oh, fires are perfectly safe and Moderna is just 50% greater than safe.
+which is unsafe, but Pfizer's perfectly safe.
+No, Pfizer's not perfectly safe because I know more people who have died, including kids, from Pfizer than I do from Moderna.
+Kids aren't supposed to die, and they're not supposed to die, and they're sleeping.
+They're not supposed to die within 24 hours after shot.
+I mean, this is unheard of.
+It is unbelievable that the medical community just averts their eyes
+from all of this stuff.
+It's willful blindness.
+They're doing it to keep their jobs.
+They're doing it so they don't lose their license.
+They're doing it so they don't lose their board certifications.
+And it's the wrong thing to do.
+It is not what they signed up for in their Hippocratic oath.
+Not at all.
+
+[SPEAKER_02]
+They're just going along with the narrative and just keeping their head down.
+That's been my experience.
+I want to bring on Nurse Angela before we sign off.
+I want to welcome her back.
+Welcome back, Nurse Angela.
+
+[SPEAKER_00]
+Hi, how are you guys?
+
+[SPEAKER_02]
+I was curious if you thought that this presentation would help with some of your former colleagues, convince them that it's time to speak up and do something about this.
+
+[SPEAKER_00]
+Absolutely.
+You know, every time Steve does one of these data drops, I just hope and pray that he's proven wrong.
+And I've seen him, you know, I've known about this data for a while as he's been investigating it.
+And, you know, there's nothing more that we want than to be proven wrong.
+because it's catastrophic.
+And I do want to recognize somebody who is on this call.
+And I don't think he's available because I see him watching, but he's probably working.
+But Ernest is here with us listening.
+And he paid the ultimate price.
+He lost his son.
+And so this data is just horrible.
+And it's one of the reasons why we fight here at VSRF, because these are real human beings.
+These are people that we love and we care about and we cherish.
+We just, we, we won't stop.
+And I just, I hope this is what is going to make the change.
+And I, and I'm really looking forward to sharing this with as many people.
+We're going to do a press release on this tomorrow.
+Um, and one day we will get there because, uh, it's, it's, if this was your child that this happened to, we would hope that there'd be other people fighting for our kids too.
+So Steve, I just want to thank you so much.
+You know, the world, thanks to the parents of these kids.
+Thank you.
+And,
+We'll keep on going.
+If you can hear us, feel free to jump on.
+We made you as a panelist, but I don't think you're available because I can't get through.
+We love you so much and we're so sorry that this data is accurate and correct and that you had to suffer that price that you paid for trusting them when they told you that it was safe and effective and it wasn't.
+
+[SPEAKER_02]
+Yeah, it just keeps reinforcing the tragedy of Ernest's loss of his son.
+And again, I want to acknowledge Ernest.
+He inspires us to keep going.
+And so many people out there that I've seen suffering the same fate.
+And it's really tragic.
+
+[SPEAKER_00]
+so many other kids.
+When I was in Michigan, I met another, you know, Shanna, I met her who lost her daughter.
+And I've just met so many parents along the way, even here in Sonoma County, where I live, we've lost so many, you know, there's been five kids that I know of that have died.
+We've not lost one kid to COVID.
+And that is completely unacceptable, completely unacceptable.
+So we have to do something about this.
+This has gone on way too long.
+And sometimes I feel like we're being our head against the wall, but, um,
+
+[SPEAKER_02]
+I'll share a little personal anecdote.
+I was in the ER and visiting a pharmacist over the weekend because one of my family members, I'm not going to identify who or what, but had an ACL surgery and developed a blood clot post operation.
+So we had to go to the ER to have him checked out and verify that and get the ultrasound.
+And I started asking the nurses and the doctor, are they seeing just in general more blood clots and across the board and the pharmacist where I went to get the the eloquence and across the board, I asked them all the question, the same question.
+And they all said, oh, yeah.
+Oh, yeah.
+I'm like, well, how recently?
+A couple of years before after.
+Oh, yeah.
+Like since since 2021.
+Yeah.
+A lot, a lot more.
+And I asked them the follow-up, what do you attribute this to without saying anything about the V word?
+And they're like, I'm not sure.
+Maybe COVID.
+That was pretty much the stand.
+Like just general, no one mentioned the V word.
+And I didn't bring it up because I was just there in the middle of first someone else, not necessarily to make a point.
+And it was that they're just
+They're trying to help people, but they don't, they don't have time to look into this stuff.
+They're too busy treating the vaccine injured.
+Yeah.
+
+[SPEAKER_00]
+I mean, I, I, who I really want to share this with as the doc, you know, locally here as the doctors at Stanford, because they have a clinic there that is full of vaccine injured and they're seeing it.
+And they, they respect me and they respect other doctors that used to work at UCSF, like Dr. Jan Mizal, who's a patient there.
+And behind the scenes, they talk to us about this, how,
+These vaccines are harming people.
+And it just blows me away that they are not coming forward because they're taking care of these people.
+Same thing with Yale.
+I'm part of the Yale study where they're looking at the vaccine injured.
+And why are these people not screaming at the top of their lungs?
+We have all these young, healthy, previously healthy people who are injured, people who have died,
+Um, and we're studying them and we see them on a regular basis and they're not telling that they're not speaking out in the public.
+They talked about it to us, you know, behind closed doors and in medicine, that's wrong.
+I mean, it's, it's completely wrong.
+It should be transparent.
+This affects people's lives.
+This is killing people.
+So, um, I really, I do look forward, Steve, to
+when we get this and we can release it tomorrow at 4 p.m. to actually, you know, the first people that I plan on sending it to is Dr. Akiko Iwasaki over at Yale, the cardiologist over at Yale, and the doctors at Stanford and the neurology department that are taking care of all of the vaccine injured because they need to see this and they need to be held accountable.
+And I did see Dr. Mulhotra on Twitter, and I think he reposted that, Steve, on X, that he's calling out for all doctors to have data transparency.
+And I think that will be the catalyst that moves this is if we get medical personnel to speak out.
+I think that's what it's going to take.
+So thank you, Steve, for doing this.
+You're just a badass hero.
+I love your passion.
+I love your everything that you're doing is just couldn't have asked for a better person and a kinder person and a smarter person to do
+the dirty job that you're doing.
+So thank you.
+
+[SPEAKER_02]
+Thank you.
+All right, I'm gonna end this with that note.
+Thank you, Steve, so much for this information and the work you're doing and Nurse Angela for being here again.
+It's always great to have both of you on and I wanna thank everyone who showed up for this special webinar and for your support and your donations.
+It really means the world to us.
+We can't do this work without your support and it's fantastic to have you here.
+All right, thank you everyone.
+Have a great rest of your day.

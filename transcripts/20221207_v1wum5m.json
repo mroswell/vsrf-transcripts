@@ -1,227 +1,1282 @@
 {
-  "text": " David, do you have the exact definition where it went from to where it became? We have the inventor of mRNA vaccines sitting right here. Robert, is this vaccine or is it a gene therapy? As I've said repeatedly, it came out of a gene therapy research program. These and the adenoviral vectors are absolutely gene therapy technology applied for the purpose of eliciting an immune response. I don't care what the FDA says. There's your answer right there. Okay, thanks.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.6,
-      "text": " David, do you have the exact definition where it went from to where it became?",
-      "tokens": [
-        50364,
-        4389,
-        11,
-        360,
-        291,
-        362,
-        264,
-        1900,
-        7123,
-        689,
-        309,
-        1437,
-        490,
-        281,
-        689,
-        309,
-        3062,
-        30,
-        50544
+      "start": 0.091,
+      "end": 3.293,
+      "text": " David, do you have the exact definition of where it went from to what it became?",
+      "words": [
+        {
+          "word": "David,",
+          "start": 0.091,
+          "end": 0.251,
+          "score": 0.446,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 0.271,
+          "end": 0.311,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 0.331,
+          "end": 0.451,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 0.471,
+          "end": 0.551,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 0.571,
+          "end": 0.631,
+          "score": 0.493,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "exact",
+          "start": 0.671,
+          "end": 1.012,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "definition",
+          "start": 1.052,
+          "end": 1.392,
+          "score": 0.516,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 1.452,
+          "end": 1.512,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 1.552,
+          "end": 1.652,
+          "score": 0.535,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 1.672,
+          "end": 1.712,
+          "score": 0.042,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went",
+          "start": 1.732,
+          "end": 1.912,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 1.932,
+          "end": 2.133,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 2.193,
+          "end": 2.353,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 2.773,
+          "end": 2.893,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 2.913,
+          "end": 2.953,
+          "score": 0.617,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "became?",
+          "start": 2.993,
+          "end": 3.293,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1860687255859375,
-      "compression_ratio": 1.5925925925925926,
-      "no_speech_prob": 0.15268748998641968
+      "avg_logprob": -0.06784302989641826,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.6,
-      "end": 9.040000000000001,
-      "text": " We have the inventor of mRNA vaccines sitting right here.",
-      "tokens": [
-        50544,
-        492,
-        362,
-        264,
-        41593,
-        295,
-        50103,
-        12164,
-        3798,
-        558,
-        510,
-        13,
-        50816
+      "start": 3.674,
+      "end": 8.297,
+      "text": "We have the inventor of mRNA vaccines sitting right to my right here.",
+      "words": [
+        {
+          "word": "We",
+          "start": 3.674,
+          "end": 3.774,
+          "score": 0.964,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 3.814,
+          "end": 3.914,
+          "score": 0.888,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 3.934,
+          "end": 4.014,
+          "score": 0.742,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "inventor",
+          "start": 4.054,
+          "end": 4.574,
+          "score": 0.632,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 4.634,
+          "end": 4.695,
+          "score": 0.534,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mRNA",
+          "start": 5.235,
+          "end": 5.695,
+          "score": 0.665,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccines",
+          "start": 5.735,
+          "end": 6.836,
+          "score": 0.728,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "sitting",
+          "start": 7.096,
+          "end": 7.357,
+          "score": 0.916,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "right",
+          "start": 7.397,
+          "end": 7.577,
+          "score": 0.906,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 7.597,
+          "end": 7.657,
+          "score": 0.622,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "my",
+          "start": 7.717,
+          "end": 7.837,
+          "score": 0.835,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "right",
+          "start": 7.877,
+          "end": 8.057,
+          "score": 0.798,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "here.",
+          "start": 8.117,
+          "end": 8.297,
+          "score": 0.741,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1860687255859375,
-      "compression_ratio": 1.5925925925925926,
-      "no_speech_prob": 0.15268748998641968
+      "avg_logprob": -0.06784302989641826,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 9.040000000000001,
-      "end": 14.56,
-      "text": " Robert, is this vaccine or is it a gene therapy?",
-      "tokens": [
-        50816,
-        7977,
-        11,
-        307,
-        341,
-        7007,
-        420,
-        307,
-        309,
-        257,
-        12186,
-        9492,
-        30,
-        51092
+      "start": 9.158,
+      "end": 13.021,
+      "text": "Robert, is this a vaccine or is it a gene therapy?",
+      "words": [
+        {
+          "word": "Robert,",
+          "start": 9.158,
+          "end": 9.478,
+          "score": 0.842,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 10.699,
+          "end": 10.799,
+          "score": 0.816,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "this",
+          "start": 10.839,
+          "end": 10.999,
+          "score": 0.723,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "a",
+          "start": 11.039,
+          "end": 11.059,
+          "score": 0.425,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccine",
+          "start": 11.119,
+          "end": 11.68,
+          "score": 0.731,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "or",
+          "start": 11.82,
+          "end": 11.9,
+          "score": 0.966,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 11.96,
+          "end": 12.04,
+          "score": 0.741,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "it",
+          "start": 12.1,
+          "end": 12.14,
+          "score": 0.54,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "a",
+          "start": 12.22,
+          "end": 12.26,
+          "score": 0.624,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "gene",
+          "start": 12.3,
+          "end": 12.5,
+          "score": 0.749,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "therapy?",
+          "start": 12.56,
+          "end": 13.021,
+          "score": 0.715,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1860687255859375,
-      "compression_ratio": 1.5925925925925926,
-      "no_speech_prob": 0.15268748998641968
+      "avg_logprob": -0.06784302989641826,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 14.56,
-      "end": 19.2,
-      "text": " As I've said repeatedly, it came out of a gene therapy research program.",
-      "tokens": [
-        51092,
-        1018,
-        286,
-        600,
-        848,
-        18227,
-        11,
-        309,
-        1361,
-        484,
-        295,
-        257,
-        12186,
-        9492,
-        2132,
-        1461,
-        13,
-        51324
+      "start": 14.722,
+      "end": 18.785,
+      "text": "As I've said repeatedly, it came out of a gene therapy research program.",
+      "words": [
+        {
+          "word": "As",
+          "start": 14.722,
+          "end": 14.802,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 14.862,
+          "end": 14.942,
+          "score": 0.255,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "said",
+          "start": 14.982,
+          "end": 15.162,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "repeatedly,",
+          "start": 15.223,
+          "end": 15.883,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 16.003,
+          "end": 16.063,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "came",
+          "start": 16.123,
+          "end": 16.323,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 16.383,
+          "end": 16.463,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 16.483,
+          "end": 16.544,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 16.604,
+          "end": 16.624,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gene",
+          "start": 16.664,
+          "end": 16.924,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "therapy",
+          "start": 16.964,
+          "end": 17.504,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "research",
+          "start": 17.684,
+          "end": 18.145,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "program.",
+          "start": 18.185,
+          "end": 18.785,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1860687255859375,
-      "compression_ratio": 1.5925925925925926,
-      "no_speech_prob": 0.15268748998641968
+      "avg_logprob": -0.06784302989641826,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 19.2,
-      "end": 25.04,
-      "text": " These and the adenoviral vectors are absolutely gene therapy technology",
-      "tokens": [
-        51324,
-        1981,
-        293,
-        264,
-        614,
-        268,
-        5179,
-        35083,
-        18875,
-        366,
-        3122,
-        12186,
-        9492,
-        2899,
-        51616
+      "start": 19.326,
+      "end": 28.793,
+      "text": "These and the adenoviral vectors are absolutely gene therapy technology applied for the purpose of eliciting an immune response.",
+      "words": [
+        {
+          "word": "These",
+          "start": 19.326,
+          "end": 19.646,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 19.666,
+          "end": 19.726,
+          "score": 0.005,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.106,
+          "end": 20.226,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "adenoviral",
+          "start": 20.366,
+          "end": 21.067,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vectors",
+          "start": 21.147,
+          "end": 21.707,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 22.008,
+          "end": 22.148,
+          "score": 0.368,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "absolutely",
+          "start": 22.388,
+          "end": 23.088,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gene",
+          "start": 23.149,
+          "end": 23.389,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "therapy",
+          "start": 23.449,
+          "end": 23.849,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "technology",
+          "start": 23.889,
+          "end": 24.71,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "applied",
+          "start": 25.15,
+          "end": 25.891,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 26.011,
+          "end": 26.191,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.251,
+          "end": 26.331,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "purpose",
+          "start": 26.391,
+          "end": 26.911,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 27.212,
+          "end": 27.292,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "eliciting",
+          "start": 27.332,
+          "end": 27.812,
+          "score": 0.65,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 27.852,
+          "end": 27.932,
+          "score": 0.318,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune",
+          "start": 27.972,
+          "end": 28.272,
+          "score": 0.467,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "response.",
+          "start": 28.312,
+          "end": 28.793,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1860687255859375,
-      "compression_ratio": 1.5925925925925926,
-      "no_speech_prob": 0.15268748998641968
+      "avg_logprob": -0.06784302989641826,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 25.04,
-      "end": 29.28,
-      "text": " applied for the purpose of eliciting an immune response.",
-      "tokens": [
-        51616,
-        6456,
-        337,
-        264,
-        4334,
-        295,
-        806,
-        299,
-        1748,
-        364,
-        11992,
-        4134,
-        13,
-        51828
+      "start": 29.407,
+      "end": 30.879,
+      "text": " I don't care what the FDA says.",
+      "words": [
+        {
+          "word": "I",
+          "start": 29.407,
+          "end": 29.467,
+          "score": 0.686,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "don't",
+          "start": 29.487,
+          "end": 29.649,
+          "score": 0.887,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "care",
+          "start": 29.709,
+          "end": 29.911,
+          "score": 0.761,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "what",
+          "start": 29.931,
+          "end": 30.072,
+          "score": 0.819,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 30.092,
+          "end": 30.173,
+          "score": 0.421,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "FDA",
+          "start": 30.254,
+          "end": 30.637,
+          "score": 0.713,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "says.",
+          "start": 30.677,
+          "end": 30.879,
+          "score": 0.895,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1860687255859375,
-      "compression_ratio": 1.5925925925925926,
-      "no_speech_prob": 0.15268748998641968
+      "avg_logprob": -0.10546875141915821,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 6,
-      "seek": 2928,
-      "start": 29.28,
-      "end": 32.4,
-      "text": " I don't care what the FDA says. There's your answer right there.",
-      "tokens": [
-        50364,
-        286,
-        500,
-        380,
-        1127,
-        437,
-        264,
-        18933,
-        1619,
-        13,
-        821,
-        311,
-        428,
-        1867,
-        558,
-        456,
-        13,
-        50520
+      "start": 31.201,
+      "end": 32.351,
+      "text": "There's your answer right there.",
+      "words": [
+        {
+          "word": "There's",
+          "start": 31.201,
+          "end": 31.443,
+          "score": 0.909,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "your",
+          "start": 31.463,
+          "end": 31.605,
+          "score": 0.775,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "answer",
+          "start": 31.665,
+          "end": 31.947,
+          "score": 0.778,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "right",
+          "start": 31.988,
+          "end": 32.149,
+          "score": 0.735,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "there.",
+          "start": 32.169,
+          "end": 32.351,
+          "score": 0.903,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.34779762268066405,
-      "compression_ratio": 0.9629629629629629,
-      "no_speech_prob": 0.057726338505744934
+      "avg_logprob": -0.10546875141915821,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 7,
-      "seek": 2928,
-      "start": 32.4,
-      "end": 35.04,
-      "text": " Okay, thanks.",
-      "tokens": [
-        50520,
-        1033,
-        11,
-        3231,
-        13,
-        50652
+      "start": 32.532,
+      "end": 33.157,
+      "text": "Okay, thanks.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 32.532,
+          "end": 32.754,
+          "score": 0.366,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "thanks.",
+          "start": 32.794,
+          "end": 33.157,
+          "score": 0.501,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.34779762268066405,
-      "compression_ratio": 0.9629629629629629,
-      "no_speech_prob": 0.057726338505744934
+      "avg_logprob": -0.10546875141915821,
+      "speaker": "SPEAKER_01"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "David,",
+      "start": 0.091,
+      "end": 0.251,
+      "score": 0.446,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 0.271,
+      "end": 0.311,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 0.331,
+      "end": 0.451,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 0.471,
+      "end": 0.551,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 0.571,
+      "end": 0.631,
+      "score": 0.493,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "exact",
+      "start": 0.671,
+      "end": 1.012,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "definition",
+      "start": 1.052,
+      "end": 1.392,
+      "score": 0.516,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 1.452,
+      "end": 1.512,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 1.552,
+      "end": 1.652,
+      "score": 0.535,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 1.672,
+      "end": 1.712,
+      "score": 0.042,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went",
+      "start": 1.732,
+      "end": 1.912,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 1.932,
+      "end": 2.133,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 2.193,
+      "end": 2.353,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 2.773,
+      "end": 2.893,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 2.913,
+      "end": 2.953,
+      "score": 0.617,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "became?",
+      "start": 2.993,
+      "end": 3.293,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 3.674,
+      "end": 3.774,
+      "score": 0.964,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 3.814,
+      "end": 3.914,
+      "score": 0.888,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 3.934,
+      "end": 4.014,
+      "score": 0.742,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "inventor",
+      "start": 4.054,
+      "end": 4.574,
+      "score": 0.632,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 4.634,
+      "end": 4.695,
+      "score": 0.534,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mRNA",
+      "start": 5.235,
+      "end": 5.695,
+      "score": 0.665,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccines",
+      "start": 5.735,
+      "end": 6.836,
+      "score": 0.728,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "sitting",
+      "start": 7.096,
+      "end": 7.357,
+      "score": 0.916,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "right",
+      "start": 7.397,
+      "end": 7.577,
+      "score": 0.906,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 7.597,
+      "end": 7.657,
+      "score": 0.622,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "my",
+      "start": 7.717,
+      "end": 7.837,
+      "score": 0.835,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "right",
+      "start": 7.877,
+      "end": 8.057,
+      "score": 0.798,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "here.",
+      "start": 8.117,
+      "end": 8.297,
+      "score": 0.741,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Robert,",
+      "start": 9.158,
+      "end": 9.478,
+      "score": 0.842,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 10.699,
+      "end": 10.799,
+      "score": 0.816,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "this",
+      "start": 10.839,
+      "end": 10.999,
+      "score": 0.723,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "a",
+      "start": 11.039,
+      "end": 11.059,
+      "score": 0.425,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccine",
+      "start": 11.119,
+      "end": 11.68,
+      "score": 0.731,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "or",
+      "start": 11.82,
+      "end": 11.9,
+      "score": 0.966,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 11.96,
+      "end": 12.04,
+      "score": 0.741,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "it",
+      "start": 12.1,
+      "end": 12.14,
+      "score": 0.54,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "a",
+      "start": 12.22,
+      "end": 12.26,
+      "score": 0.624,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "gene",
+      "start": 12.3,
+      "end": 12.5,
+      "score": 0.749,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "therapy?",
+      "start": 12.56,
+      "end": 13.021,
+      "score": 0.715,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "As",
+      "start": 14.722,
+      "end": 14.802,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 14.862,
+      "end": 14.942,
+      "score": 0.255,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "said",
+      "start": 14.982,
+      "end": 15.162,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "repeatedly,",
+      "start": 15.223,
+      "end": 15.883,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 16.003,
+      "end": 16.063,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "came",
+      "start": 16.123,
+      "end": 16.323,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 16.383,
+      "end": 16.463,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 16.483,
+      "end": 16.544,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 16.604,
+      "end": 16.624,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gene",
+      "start": 16.664,
+      "end": 16.924,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "therapy",
+      "start": 16.964,
+      "end": 17.504,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "research",
+      "start": 17.684,
+      "end": 18.145,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "program.",
+      "start": 18.185,
+      "end": 18.785,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "These",
+      "start": 19.326,
+      "end": 19.646,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 19.666,
+      "end": 19.726,
+      "score": 0.005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.106,
+      "end": 20.226,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "adenoviral",
+      "start": 20.366,
+      "end": 21.067,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vectors",
+      "start": 21.147,
+      "end": 21.707,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 22.008,
+      "end": 22.148,
+      "score": 0.368,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "absolutely",
+      "start": 22.388,
+      "end": 23.088,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gene",
+      "start": 23.149,
+      "end": 23.389,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "therapy",
+      "start": 23.449,
+      "end": 23.849,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "technology",
+      "start": 23.889,
+      "end": 24.71,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "applied",
+      "start": 25.15,
+      "end": 25.891,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 26.011,
+      "end": 26.191,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.251,
+      "end": 26.331,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "purpose",
+      "start": 26.391,
+      "end": 26.911,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 27.212,
+      "end": 27.292,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "eliciting",
+      "start": 27.332,
+      "end": 27.812,
+      "score": 0.65,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 27.852,
+      "end": 27.932,
+      "score": 0.318,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune",
+      "start": 27.972,
+      "end": 28.272,
+      "score": 0.467,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "response.",
+      "start": 28.312,
+      "end": 28.793,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 29.407,
+      "end": 29.467,
+      "score": 0.686,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "don't",
+      "start": 29.487,
+      "end": 29.649,
+      "score": 0.887,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "care",
+      "start": 29.709,
+      "end": 29.911,
+      "score": 0.761,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "what",
+      "start": 29.931,
+      "end": 30.072,
+      "score": 0.819,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 30.092,
+      "end": 30.173,
+      "score": 0.421,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "FDA",
+      "start": 30.254,
+      "end": 30.637,
+      "score": 0.713,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "says.",
+      "start": 30.677,
+      "end": 30.879,
+      "score": 0.895,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "There's",
+      "start": 31.201,
+      "end": 31.443,
+      "score": 0.909,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "your",
+      "start": 31.463,
+      "end": 31.605,
+      "score": 0.775,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "answer",
+      "start": 31.665,
+      "end": 31.947,
+      "score": 0.778,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "right",
+      "start": 31.988,
+      "end": 32.149,
+      "score": 0.735,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "there.",
+      "start": 32.169,
+      "end": 32.351,
+      "score": 0.903,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Okay,",
+      "start": 32.532,
+      "end": 32.754,
+      "score": 0.366,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "thanks.",
+      "start": 32.794,
+      "end": 33.157,
+      "score": 0.501,
+      "speaker": "SPEAKER_01"
+    }
+  ]
 }

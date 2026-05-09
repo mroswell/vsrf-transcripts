@@ -1,194 +1,1554 @@
 {
-  "text": " vaccinated individuals studies out of Vietnam out of Wisconsin out of California show that somebody who has the vaccine doesn't make a special antibody in their eyes, tears, nose, and throat called Secretory IGA. Someone who has a vaccine and this is why we've seen Omicron breakthrough in everybody because the Secretory IGA those little mops that the vaccinated don't make the vaccinated carry equal or higher volumes of virus in their sinuses, their tears, their throat as anybody who has not been vaccinated. So a vaccine does not prevent these leaking vaccines don't prevent transmission or spread or disease or death in studies from around the world.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 6.96,
-      "text": " vaccinated individuals studies out of Vietnam out of Wisconsin out of California show that somebody who has the vaccine doesn't make a special",
-      "tokens": [
-        50364,
-        14686,
-        5346,
-        5313,
-        484,
-        295,
-        11013,
-        484,
-        295,
-        17977,
-        484,
-        295,
-        5384,
-        855,
-        300,
-        2618,
-        567,
-        575,
-        264,
-        7007,
-        1177,
-        380,
-        652,
-        257,
-        2121,
-        50712
+      "start": 0.331,
+      "end": 10.606,
+      "text": " Vaccinated individual studies out of Vietnam, out of Wisconsin, out of California, show that somebody who has the vaccine doesn't make a special antibody in their eyes, tears, nose, and throat called secretory IgA.",
+      "words": [
+        {
+          "word": "Vaccinated",
+          "start": 0.331,
+          "end": 0.992,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individual",
+          "start": 1.032,
+          "end": 1.633,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies",
+          "start": 1.673,
+          "end": 1.974,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 2.054,
+          "end": 2.154,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 2.174,
+          "end": 2.214,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Vietnam,",
+          "start": 2.254,
+          "end": 2.715,
+          "score": 0.63,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 2.755,
+          "end": 2.835,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 2.855,
+          "end": 2.915,
+          "score": 0.632,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Wisconsin,",
+          "start": 2.955,
+          "end": 3.456,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 3.476,
+          "end": 3.576,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 3.616,
+          "end": 3.656,
+          "score": 0.638,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "California,",
+          "start": 3.676,
+          "end": 4.277,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "show",
+          "start": 4.297,
+          "end": 4.437,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 4.457,
+          "end": 4.557,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "somebody",
+          "start": 4.617,
+          "end": 4.898,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 4.938,
+          "end": 5.038,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 5.098,
+          "end": 5.238,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 5.278,
+          "end": 5.338,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 5.378,
+          "end": 5.879,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doesn't",
+          "start": 5.959,
+          "end": 6.26,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 6.32,
+          "end": 6.5,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 6.54,
+          "end": 6.56,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "special",
+          "start": 6.6,
+          "end": 6.961,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibody",
+          "start": 7.081,
+          "end": 7.541,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 7.561,
+          "end": 7.621,
+          "score": 0.362,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 7.661,
+          "end": 7.802,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "eyes,",
+          "start": 7.942,
+          "end": 8.082,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tears,",
+          "start": 8.142,
+          "end": 8.423,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nose,",
+          "start": 8.463,
+          "end": 8.683,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 8.723,
+          "end": 8.783,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "throat",
+          "start": 8.823,
+          "end": 9.144,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 9.224,
+          "end": 9.464,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "secretory",
+          "start": 9.524,
+          "end": 10.045,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "IgA.",
+          "start": 10.145,
+          "end": 10.606,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2808058995466966,
-      "compression_ratio": 1.75,
-      "no_speech_prob": 0.33279329538345337
+      "avg_logprob": -0.12784091247753662,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 6.96,
-      "end": 16.4,
-      "text": " antibody in their eyes, tears, nose, and throat called Secretory IGA. Someone who has a vaccine and this is why we've seen Omicron breakthrough in everybody because",
-      "tokens": [
-        50712,
-        34507,
-        294,
-        641,
-        2575,
-        11,
-        10462,
-        11,
-        6690,
-        11,
-        293,
-        12394,
-        1219,
-        7400,
-        827,
-        286,
-        12570,
-        13,
-        8734,
-        567,
-        575,
-        257,
-        7007,
-        293,
-        341,
-        307,
-        983,
-        321,
-        600,
-        1612,
-        9757,
-        299,
-        2044,
-        22397,
-        294,
-        2201,
-        570,
-        51184
+      "start": 11.086,
+      "end": 16.233,
+      "text": "Someone who has a vaccine, and this is why we've seen Omicron breakthrough in everybody because",
+      "words": [
+        {
+          "word": "Someone",
+          "start": 11.086,
+          "end": 11.407,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 11.467,
+          "end": 11.627,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 11.727,
+          "end": 12.007,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 12.068,
+          "end": 12.108,
+          "score": 0.505,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine,",
+          "start": 12.148,
+          "end": 12.648,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 12.668,
+          "end": 12.748,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 12.789,
+          "end": 12.909,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 12.969,
+          "end": 13.029,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "why",
+          "start": 13.089,
+          "end": 13.249,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we've",
+          "start": 13.289,
+          "end": 13.469,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seen",
+          "start": 13.49,
+          "end": 13.67,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Omicron",
+          "start": 13.77,
+          "end": 14.19,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "breakthrough",
+          "start": 14.211,
+          "end": 14.731,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 15.172,
+          "end": 15.232,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "everybody",
+          "start": 15.312,
+          "end": 15.813,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 15.873,
+          "end": 16.233,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2808058995466966,
-      "compression_ratio": 1.75,
-      "no_speech_prob": 0.33279329538345337
+      "avg_logprob": -0.12784091247753662,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 17.6,
-      "end": 28.72,
-      "text": " the Secretory IGA those little mops that the vaccinated don't make the vaccinated carry equal or higher volumes of virus in their sinuses, their tears, their throat as anybody",
-      "tokens": [
-        51244,
-        264,
-        7400,
-        827,
-        286,
-        12570,
-        729,
-        707,
-        275,
-        3370,
-        300,
-        264,
-        14686,
-        500,
-        380,
-        652,
-        264,
-        14686,
-        3985,
-        2681,
-        420,
-        2946,
-        22219,
-        295,
-        5752,
-        294,
-        641,
-        3343,
-        8355,
-        11,
-        641,
-        10462,
-        11,
-        641,
-        12394,
-        382,
-        4472,
-        51800
+      "start": 17.856,
+      "end": 31.296,
+      "text": " Those secretory IGA, those little mops that the vaccinated don't make, the vaccinated carry equal or higher volumes of virus in their sinuses, their tears, their throat, as anybody who has not been vaccinated.",
+      "words": [
+        {
+          "word": "Those",
+          "start": 17.856,
+          "end": 18.056,
+          "score": 0.609,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "secretory",
+          "start": 18.097,
+          "end": 18.617,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "IGA,",
+          "start": 18.697,
+          "end": 19.038,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 19.058,
+          "end": 19.258,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "little",
+          "start": 19.338,
+          "end": 19.539,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mops",
+          "start": 19.619,
+          "end": 20.019,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 20.28,
+          "end": 20.42,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.44,
+          "end": 20.52,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 20.54,
+          "end": 21.181,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 21.281,
+          "end": 21.521,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make,",
+          "start": 21.662,
+          "end": 22.022,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 22.403,
+          "end": 22.523,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 22.563,
+          "end": 23.164,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "carry",
+          "start": 23.204,
+          "end": 23.464,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "equal",
+          "start": 23.584,
+          "end": 23.805,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 23.865,
+          "end": 23.925,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "higher",
+          "start": 23.965,
+          "end": 24.265,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "volumes",
+          "start": 24.305,
+          "end": 24.846,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 25.006,
+          "end": 25.087,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus",
+          "start": 25.187,
+          "end": 25.627,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 25.788,
+          "end": 25.868,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 25.908,
+          "end": 26.048,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sinuses,",
+          "start": 26.108,
+          "end": 26.649,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 26.689,
+          "end": 26.849,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tears,",
+          "start": 26.869,
+          "end": 27.15,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 27.19,
+          "end": 27.35,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "throat,",
+          "start": 27.41,
+          "end": 27.73,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 27.911,
+          "end": 27.991,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anybody",
+          "start": 28.171,
+          "end": 28.632,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 29.693,
+          "end": 29.833,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 29.894,
+          "end": 30.054,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 30.114,
+          "end": 30.314,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 30.354,
+          "end": 30.514,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated.",
+          "start": 30.575,
+          "end": 31.296,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2808058995466966,
-      "compression_ratio": 1.75,
-      "no_speech_prob": 0.33279329538345337
+      "avg_logprob": -0.08609802755590988,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 2872,
-      "start": 28.72,
-      "end": 40.4,
-      "text": " who has not been vaccinated. So a vaccine does not prevent these leaking vaccines don't prevent transmission or spread or disease or death in studies from around the world.",
-      "tokens": [
-        50404,
-        567,
-        575,
-        406,
-        668,
-        14686,
-        13,
-        407,
-        257,
-        7007,
-        775,
-        406,
-        4871,
-        613,
-        32856,
-        12164,
-        500,
-        380,
-        4871,
-        11574,
-        420,
-        3974,
-        420,
-        4752,
-        420,
-        2966,
-        294,
-        5313,
-        490,
-        926,
-        264,
-        1002,
-        13,
-        50948
+      "start": 31.977,
+      "end": 40.389,
+      "text": "So a vaccine does not prevent, these leaking vaccines don't prevent transmission or spread or disease or death in studies from around the world.",
+      "words": [
+        {
+          "word": "So",
+          "start": 31.977,
+          "end": 32.237,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 32.658,
+          "end": 32.718,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 32.798,
+          "end": 33.318,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "does",
+          "start": 33.359,
+          "end": 33.539,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 33.599,
+          "end": 33.799,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prevent,",
+          "start": 33.859,
+          "end": 34.22,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 34.26,
+          "end": 34.42,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "leaking",
+          "start": 34.48,
+          "end": 34.821,
+          "score": 0.617,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 34.861,
+          "end": 35.462,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 35.522,
+          "end": 35.722,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prevent",
+          "start": 35.762,
+          "end": 36.062,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "transmission",
+          "start": 36.122,
+          "end": 36.763,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 37.004,
+          "end": 37.104,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spread",
+          "start": 37.164,
+          "end": 37.545,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 37.765,
+          "end": 37.845,
+          "score": 0.676,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease",
+          "start": 37.905,
+          "end": 38.306,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 38.506,
+          "end": 38.606,
+          "score": 0.5,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "death",
+          "start": 38.646,
+          "end": 38.927,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 39.087,
+          "end": 39.167,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies",
+          "start": 39.227,
+          "end": 39.547,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 39.567,
+          "end": 39.688,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "around",
+          "start": 39.728,
+          "end": 39.948,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 39.988,
+          "end": 40.068,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world.",
+          "start": 40.108,
+          "end": 40.389,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18318755286080496,
-      "compression_ratio": 1.4576271186440677,
-      "no_speech_prob": 0.036199986934661865
+      "avg_logprob": -0.08609802755590988,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Vaccinated",
+      "start": 0.331,
+      "end": 0.992,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individual",
+      "start": 1.032,
+      "end": 1.633,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies",
+      "start": 1.673,
+      "end": 1.974,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 2.054,
+      "end": 2.154,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 2.174,
+      "end": 2.214,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Vietnam,",
+      "start": 2.254,
+      "end": 2.715,
+      "score": 0.63,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 2.755,
+      "end": 2.835,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 2.855,
+      "end": 2.915,
+      "score": 0.632,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wisconsin,",
+      "start": 2.955,
+      "end": 3.456,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 3.476,
+      "end": 3.576,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 3.616,
+      "end": 3.656,
+      "score": 0.638,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "California,",
+      "start": 3.676,
+      "end": 4.277,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "show",
+      "start": 4.297,
+      "end": 4.437,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 4.457,
+      "end": 4.557,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "somebody",
+      "start": 4.617,
+      "end": 4.898,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 4.938,
+      "end": 5.038,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 5.098,
+      "end": 5.238,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 5.278,
+      "end": 5.338,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 5.378,
+      "end": 5.879,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doesn't",
+      "start": 5.959,
+      "end": 6.26,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 6.32,
+      "end": 6.5,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 6.54,
+      "end": 6.56,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "special",
+      "start": 6.6,
+      "end": 6.961,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibody",
+      "start": 7.081,
+      "end": 7.541,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 7.561,
+      "end": 7.621,
+      "score": 0.362,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 7.661,
+      "end": 7.802,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "eyes,",
+      "start": 7.942,
+      "end": 8.082,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tears,",
+      "start": 8.142,
+      "end": 8.423,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nose,",
+      "start": 8.463,
+      "end": 8.683,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 8.723,
+      "end": 8.783,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "throat",
+      "start": 8.823,
+      "end": 9.144,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 9.224,
+      "end": 9.464,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "secretory",
+      "start": 9.524,
+      "end": 10.045,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "IgA.",
+      "start": 10.145,
+      "end": 10.606,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Someone",
+      "start": 11.086,
+      "end": 11.407,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 11.467,
+      "end": 11.627,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 11.727,
+      "end": 12.007,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 12.068,
+      "end": 12.108,
+      "score": 0.505,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine,",
+      "start": 12.148,
+      "end": 12.648,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 12.668,
+      "end": 12.748,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 12.789,
+      "end": 12.909,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 12.969,
+      "end": 13.029,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "why",
+      "start": 13.089,
+      "end": 13.249,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we've",
+      "start": 13.289,
+      "end": 13.469,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seen",
+      "start": 13.49,
+      "end": 13.67,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Omicron",
+      "start": 13.77,
+      "end": 14.19,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "breakthrough",
+      "start": 14.211,
+      "end": 14.731,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 15.172,
+      "end": 15.232,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "everybody",
+      "start": 15.312,
+      "end": 15.813,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 15.873,
+      "end": 16.233,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Those",
+      "start": 17.856,
+      "end": 18.056,
+      "score": 0.609,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "secretory",
+      "start": 18.097,
+      "end": 18.617,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "IGA,",
+      "start": 18.697,
+      "end": 19.038,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 19.058,
+      "end": 19.258,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "little",
+      "start": 19.338,
+      "end": 19.539,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mops",
+      "start": 19.619,
+      "end": 20.019,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 20.28,
+      "end": 20.42,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.44,
+      "end": 20.52,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 20.54,
+      "end": 21.181,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 21.281,
+      "end": 21.521,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make,",
+      "start": 21.662,
+      "end": 22.022,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 22.403,
+      "end": 22.523,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 22.563,
+      "end": 23.164,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "carry",
+      "start": 23.204,
+      "end": 23.464,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "equal",
+      "start": 23.584,
+      "end": 23.805,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 23.865,
+      "end": 23.925,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "higher",
+      "start": 23.965,
+      "end": 24.265,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "volumes",
+      "start": 24.305,
+      "end": 24.846,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 25.006,
+      "end": 25.087,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus",
+      "start": 25.187,
+      "end": 25.627,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 25.788,
+      "end": 25.868,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 25.908,
+      "end": 26.048,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sinuses,",
+      "start": 26.108,
+      "end": 26.649,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 26.689,
+      "end": 26.849,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tears,",
+      "start": 26.869,
+      "end": 27.15,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 27.19,
+      "end": 27.35,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "throat,",
+      "start": 27.41,
+      "end": 27.73,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 27.911,
+      "end": 27.991,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anybody",
+      "start": 28.171,
+      "end": 28.632,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 29.693,
+      "end": 29.833,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 29.894,
+      "end": 30.054,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 30.114,
+      "end": 30.314,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 30.354,
+      "end": 30.514,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated.",
+      "start": 30.575,
+      "end": 31.296,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 31.977,
+      "end": 32.237,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 32.658,
+      "end": 32.718,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 32.798,
+      "end": 33.318,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "does",
+      "start": 33.359,
+      "end": 33.539,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 33.599,
+      "end": 33.799,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prevent,",
+      "start": 33.859,
+      "end": 34.22,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 34.26,
+      "end": 34.42,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "leaking",
+      "start": 34.48,
+      "end": 34.821,
+      "score": 0.617,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 34.861,
+      "end": 35.462,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 35.522,
+      "end": 35.722,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prevent",
+      "start": 35.762,
+      "end": 36.062,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "transmission",
+      "start": 36.122,
+      "end": 36.763,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 37.004,
+      "end": 37.104,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spread",
+      "start": 37.164,
+      "end": 37.545,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 37.765,
+      "end": 37.845,
+      "score": 0.676,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease",
+      "start": 37.905,
+      "end": 38.306,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 38.506,
+      "end": 38.606,
+      "score": 0.5,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "death",
+      "start": 38.646,
+      "end": 38.927,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 39.087,
+      "end": 39.167,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies",
+      "start": 39.227,
+      "end": 39.547,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 39.567,
+      "end": 39.688,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "around",
+      "start": 39.728,
+      "end": 39.948,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 39.988,
+      "end": 40.068,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world.",
+      "start": 40.108,
+      "end": 40.389,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

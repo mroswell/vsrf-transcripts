@@ -1,483 +1,2745 @@
 {
-  "text": " As opposed to the Walgreens pharmacist who I called the other day to get a life-saving medication for a patient who was in danger of having a miscarriage, she needed her progesterone. I called it in that morning and she went in to get the medication to save her unborn child and an hour went and they still hadn't listened to the voicemail. Two hours went. At 10 o'clock I called the pharmacist. I said, why have you not listened to the voicemail? This woman needs this baby needs this medication to save this baby. Oh, I'm sorry, Dr. Littell. We've been swamped giving COVID vaccines all morning. I don't have time to listen to the voicemails and that's not the first time I've heard that. All right, but what this other pharmacist who's in the audience today gave me was what is received by the pharmacist when they get the COVID vaccines is this educational piece which says intentionally blank you open it up and it's an entirely blank piece of paper. This is what they call informed consent for the COVID vaccine in 2021.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 6.8,
-      "text": " As opposed to the Walgreens pharmacist who I called the other day to get a life-saving medication for a patient who was in danger of having a",
-      "tokens": [
-        50364,
-        1018,
-        8851,
-        281,
-        264,
-        9707,
-        70,
-        9098,
-        31818,
-        468,
-        567,
-        286,
-        1219,
-        264,
-        661,
-        786,
-        281,
-        483,
-        257,
-        993,
-        12,
-        82,
-        6152,
-        13851,
-        337,
-        257,
-        4537,
-        567,
-        390,
-        294,
-        4330,
-        295,
-        1419,
-        257,
-        50704
+      "start": 0.513,
+      "end": 9.111,
+      "text": " As opposed to the Walgreens pharmacist who I called the other day to get a life-saving medication for a patient who was in danger of having a miscarriage, she needed her progesterone.",
+      "words": [
+        {
+          "word": "As",
+          "start": 0.513,
+          "end": 0.573,
+          "score": 0.655,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "opposed",
+          "start": 0.653,
+          "end": 0.974,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 0.994,
+          "end": 1.094,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 1.114,
+          "end": 1.175,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Walgreens",
+          "start": 1.215,
+          "end": 1.736,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmacist",
+          "start": 1.756,
+          "end": 2.417,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 2.557,
+          "end": 2.698,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 2.778,
+          "end": 2.858,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 2.918,
+          "end": 3.159,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 3.179,
+          "end": 3.239,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 3.259,
+          "end": 3.419,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day",
+          "start": 3.459,
+          "end": 3.62,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 3.68,
+          "end": 3.76,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 3.78,
+          "end": 3.9,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 3.94,
+          "end": 3.96,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "life-saving",
+          "start": 4.021,
+          "end": 4.582,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medication",
+          "start": 4.602,
+          "end": 5.203,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 5.223,
+          "end": 5.343,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 5.384,
+          "end": 5.404,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patient",
+          "start": 5.464,
+          "end": 5.824,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 5.865,
+          "end": 5.965,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 5.985,
+          "end": 6.105,
+          "score": 0.636,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 6.145,
+          "end": 6.185,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "danger",
+          "start": 6.225,
+          "end": 6.466,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 6.486,
+          "end": 6.546,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "having",
+          "start": 6.566,
+          "end": 6.787,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 6.827,
+          "end": 6.867,
+          "score": 0.497,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "miscarriage,",
+          "start": 6.907,
+          "end": 7.528,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "she",
+          "start": 8.109,
+          "end": 8.21,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "needed",
+          "start": 8.23,
+          "end": 8.41,
+          "score": 0.267,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "her",
+          "start": 8.45,
+          "end": 8.53,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "progesterone.",
+          "start": 8.57,
+          "end": 9.111,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2418912310119069,
-      "compression_ratio": 1.6932773109243697,
-      "no_speech_prob": 0.28851205110549927
+      "avg_logprob": -0.11711379435827148,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 6.8,
-      "end": 10.56,
-      "text": " miscarriage, she needed her progesterone. I called it in that morning and",
-      "tokens": [
-        50704,
-        3346,
-        6166,
-        6200,
-        11,
-        750,
-        2978,
-        720,
-        447,
-        2629,
-        260,
-        546,
-        13,
-        286,
-        1219,
-        309,
-        294,
-        300,
-        2446,
-        293,
-        50892
+      "start": 9.132,
+      "end": 10.354,
+      "text": "I called it in that morning.",
+      "words": [
+        {
+          "word": "I",
+          "start": 9.132,
+          "end": 9.192,
+          "score": 0.588,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 9.252,
+          "end": 9.512,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 9.552,
+          "end": 9.592,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 9.653,
+          "end": 9.733,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 9.773,
+          "end": 9.933,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "morning.",
+          "start": 9.993,
+          "end": 10.354,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2418912310119069,
-      "compression_ratio": 1.6932773109243697,
-      "no_speech_prob": 0.28851205110549927
+      "avg_logprob": -0.11711379435827148,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 11.36,
-      "end": 17.84,
-      "text": " she went in to get the medication to save her unborn child and an hour went and they still hadn't listened to the voicemail.",
-      "tokens": [
-        50932,
-        750,
-        1437,
-        294,
-        281,
-        483,
-        264,
-        13851,
-        281,
-        3155,
-        720,
-        517,
-        10324,
-        1440,
-        293,
-        364,
-        1773,
-        1437,
-        293,
-        436,
-        920,
-        8782,
-        380,
-        13207,
-        281,
-        264,
-        1650,
-        46343,
-        864,
-        13,
-        51256
+      "start": 11.643,
+      "end": 14.625,
+      "text": " And she went in to get the medication to save her unborn child.",
+      "words": [
+        {
+          "word": "And",
+          "start": 11.643,
+          "end": 11.723,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "she",
+          "start": 11.783,
+          "end": 11.903,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went",
+          "start": 11.943,
+          "end": 12.083,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 12.123,
+          "end": 12.183,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 12.223,
+          "end": 12.283,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 12.323,
+          "end": 12.464,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 12.484,
+          "end": 12.544,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medication",
+          "start": 12.584,
+          "end": 13.224,
+          "score": 0.963,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 13.244,
+          "end": 13.344,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "save",
+          "start": 13.384,
+          "end": 13.624,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "her",
+          "start": 13.644,
+          "end": 13.744,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unborn",
+          "start": 13.824,
+          "end": 14.144,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "child.",
+          "start": 14.184,
+          "end": 14.625,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2418912310119069,
-      "compression_ratio": 1.6932773109243697,
-      "no_speech_prob": 0.28851205110549927
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 17.92,
-      "end": 22.72,
-      "text": " Two hours went. At 10 o'clock I called the pharmacist. I said,",
-      "tokens": [
-        51260,
-        4453,
-        2496,
-        1437,
-        13,
-        1711,
-        1266,
-        277,
-        6,
-        9023,
-        286,
-        1219,
-        264,
-        31818,
-        468,
-        13,
-        286,
-        848,
-        11,
-        51500
+      "start": 15.245,
+      "end": 18.227,
+      "text": "And an hour went, and they still hadn't listened to the voicemail.",
+      "words": [
+        {
+          "word": "And",
+          "start": 15.245,
+          "end": 15.365,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 15.405,
+          "end": 15.465,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hour",
+          "start": 15.505,
+          "end": 15.765,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went,",
+          "start": 15.845,
+          "end": 16.065,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 16.125,
+          "end": 16.185,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 16.226,
+          "end": 16.306,
+          "score": 0.663,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 16.366,
+          "end": 16.586,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hadn't",
+          "start": 16.626,
+          "end": 16.906,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "listened",
+          "start": 17.286,
+          "end": 17.526,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 17.546,
+          "end": 17.586,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 17.626,
+          "end": 17.686,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "voicemail.",
+          "start": 17.726,
+          "end": 18.227,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2418912310119069,
-      "compression_ratio": 1.6932773109243697,
-      "no_speech_prob": 0.28851205110549927
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 2272,
-      "start": 23.52,
-      "end": 29.119999999999997,
-      "text": " why have you not listened to the voicemail? This woman needs this baby needs this medication to save this baby.",
-      "tokens": [
-        50404,
-        983,
-        362,
-        291,
-        406,
-        13207,
-        281,
-        264,
-        1650,
-        46343,
-        864,
-        30,
-        639,
-        3059,
-        2203,
-        341,
-        3186,
-        2203,
-        341,
-        13851,
-        281,
-        3155,
-        341,
-        3186,
-        13,
-        50684
+      "start": 18.307,
+      "end": 19.427,
+      "text": "Two hours went.",
+      "words": [
+        {
+          "word": "Two",
+          "start": 18.307,
+          "end": 18.467,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hours",
+          "start": 18.507,
+          "end": 18.807,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went.",
+          "start": 19.187,
+          "end": 19.427,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2272,
-      "start": 29.2,
-      "end": 34.48,
-      "text": " Oh, I'm sorry, Dr. Littell. We've been swamped giving COVID vaccines all morning. I don't have time",
-      "tokens": [
-        50688,
-        876,
-        11,
-        286,
-        478,
-        2597,
-        11,
-        2491,
-        13,
-        441,
-        593,
-        898,
-        13,
-        492,
-        600,
-        668,
-        31724,
-        292,
-        2902,
-        4566,
-        12164,
-        439,
-        2446,
-        13,
-        286,
-        500,
-        380,
-        362,
-        565,
-        50952
+      "start": 19.968,
+      "end": 21.668,
+      "text": "At 10 o'clock, I called the pharmacist.",
+      "words": [
+        {
+          "word": "At",
+          "start": 19.968,
+          "end": 20.028,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "10",
+          "start": 20.068,
+          "end": 20.208,
+          "score": 0.573,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "o'clock,",
+          "start": 20.248,
+          "end": 20.528,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 20.548,
+          "end": 20.628,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 20.648,
+          "end": 20.848,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.868,
+          "end": 20.928,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmacist.",
+          "start": 20.968,
+          "end": 21.668,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2272,
-      "start": 34.96,
-      "end": 38.879999999999995,
-      "text": " to listen to the voicemails and that's not the first time I've heard that.",
-      "tokens": [
-        50976,
-        281,
-        2140,
-        281,
-        264,
-        1650,
-        46343,
-        6227,
-        293,
-        300,
-        311,
-        406,
-        264,
-        700,
-        565,
-        286,
-        600,
-        2198,
-        300,
-        13,
-        51172
+      "start": 22.429,
+      "end": 25.43,
+      "text": "I said, why have you not listened to the voicemail?",
+      "words": [
+        {
+          "word": "I",
+          "start": 22.429,
+          "end": 22.489,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "said,",
+          "start": 22.569,
+          "end": 22.789,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "why",
+          "start": 23.67,
+          "end": 23.91,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 23.95,
+          "end": 24.07,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 24.11,
+          "end": 24.21,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 24.25,
+          "end": 24.35,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "listened",
+          "start": 24.39,
+          "end": 24.65,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 24.69,
+          "end": 24.77,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.79,
+          "end": 24.87,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "voicemail?",
+          "start": 24.91,
+          "end": 25.43,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2272,
-      "start": 39.519999999999996,
-      "end": 44.879999999999995,
-      "text": " All right, but what this other pharmacist who's in the audience today gave me was what is received by the pharmacist when they get the",
-      "tokens": [
-        51204,
-        1057,
-        558,
-        11,
-        457,
-        437,
-        341,
-        661,
-        31818,
-        468,
-        567,
-        311,
-        294,
-        264,
-        4034,
-        965,
-        2729,
-        385,
-        390,
-        437,
-        307,
-        4613,
-        538,
-        264,
-        31818,
-        468,
-        562,
-        436,
-        483,
-        264,
-        51472
+      "start": 25.45,
+      "end": 28.972,
+      "text": "This woman needs this baby, needs this medication to save this baby.",
+      "words": [
+        {
+          "word": "This",
+          "start": 25.45,
+          "end": 25.591,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "woman",
+          "start": 25.671,
+          "end": 25.951,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "needs",
+          "start": 26.011,
+          "end": 26.271,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 26.311,
+          "end": 26.471,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "baby,",
+          "start": 26.551,
+          "end": 26.971,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "needs",
+          "start": 27.151,
+          "end": 27.331,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 27.371,
+          "end": 27.512,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medication",
+          "start": 27.572,
+          "end": 28.072,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 28.112,
+          "end": 28.192,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "save",
+          "start": 28.212,
+          "end": 28.432,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 28.452,
+          "end": 28.592,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "baby.",
+          "start": 28.632,
+          "end": 28.972,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2272,
-      "start": 44.879999999999995,
-      "end": 45.84,
-      "text": " COVID vaccines",
-      "tokens": [
-        51472,
-        4566,
-        12164,
-        51520
+      "start": 29.433,
+      "end": 30.693,
+      "text": "Oh, I'm sorry, Dr. Lattell.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 29.433,
+          "end": 29.513,
+          "score": 0.604,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I'm",
+          "start": 29.533,
+          "end": 29.653,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sorry,",
+          "start": 29.693,
+          "end": 29.973,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Dr.",
+          "start": 29.993,
+          "end": 30.153,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Lattell.",
+          "start": 30.253,
+          "end": 30.693,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2272,
-      "start": 46.56,
-      "end": 47.76,
-      "text": " is this",
-      "tokens": [
-        51556,
-        307,
-        341,
-        51616
+      "start": 30.733,
+      "end": 33.755,
+      "text": "We've been swamped giving COVID vaccines all morning.",
+      "words": [
+        {
+          "word": "We've",
+          "start": 30.733,
+          "end": 30.913,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 30.933,
+          "end": 31.093,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "swamped",
+          "start": 31.294,
+          "end": 31.854,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "giving",
+          "start": 31.934,
+          "end": 32.194,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 32.294,
+          "end": 32.674,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 32.694,
+          "end": 33.235,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 33.295,
+          "end": 33.415,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "morning.",
+          "start": 33.455,
+          "end": 33.755,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 2272,
-      "start": 47.76,
-      "end": 49.76,
-      "text": " educational piece which says",
-      "tokens": [
-        51616,
-        10189,
-        2522,
-        597,
-        1619,
-        51716
+      "start": 33.795,
+      "end": 36.456,
+      "text": "I don't have time to listen to the voicemails.",
+      "words": [
+        {
+          "word": "I",
+          "start": 33.795,
+          "end": 33.835,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 33.855,
+          "end": 33.975,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 34.015,
+          "end": 34.115,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time",
+          "start": 34.195,
+          "end": 34.595,
+          "score": 0.683,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 35.116,
+          "end": 35.216,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "listen",
+          "start": 35.256,
+          "end": 35.576,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 35.616,
+          "end": 35.716,
+          "score": 0.682,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 35.736,
+          "end": 35.816,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "voicemails.",
+          "start": 35.856,
+          "end": 36.456,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 2272,
-      "start": 49.84,
-      "end": 51.84,
-      "text": " intentionally blank",
-      "tokens": [
-        51720,
-        22062,
-        8247,
-        51820
+      "start": 36.857,
+      "end": 38.938,
+      "text": "And that's not the first time I've heard that.",
+      "words": [
+        {
+          "word": "And",
+          "start": 36.857,
+          "end": 36.937,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 36.957,
+          "end": 37.157,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 37.217,
+          "end": 37.357,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 37.397,
+          "end": 37.477,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 37.517,
+          "end": 37.777,
+          "score": 0.719,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time",
+          "start": 37.837,
+          "end": 38.137,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 38.337,
+          "end": 38.497,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heard",
+          "start": 38.517,
+          "end": 38.718,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that.",
+          "start": 38.758,
+          "end": 38.938,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18565966188907623,
-      "compression_ratio": 1.7359154929577465,
-      "no_speech_prob": 0.18143677711486816
+      "avg_logprob": -0.058437501549720765,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 5184,
-      "start": 51.84,
-      "end": 53.84,
-      "text": " you open it up",
-      "tokens": [
-        50364,
-        291,
-        1269,
-        309,
-        493,
-        50464
+      "start": 39.638,
+      "end": 50.929,
+      "text": " All right, but what this other pharmacist who's in the audience today gave me was what is received by the pharmacist when they get the COVID vaccines is this educational piece which says intentionally blank.",
+      "words": [
+        {
+          "word": "All",
+          "start": 39.638,
+          "end": 39.718,
+          "score": 0.303,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right,",
+          "start": 39.738,
+          "end": 39.898,
+          "score": 0.646,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 40.099,
+          "end": 40.219,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 40.259,
+          "end": 40.419,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 40.439,
+          "end": 40.579,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 40.639,
+          "end": 40.799,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmacist",
+          "start": 40.839,
+          "end": 41.32,
+          "score": 0.64,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who's",
+          "start": 41.34,
+          "end": 41.52,
+          "score": 0.331,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 41.56,
+          "end": 41.62,
+          "score": 0.649,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 41.64,
+          "end": 41.7,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "audience",
+          "start": 41.78,
+          "end": 42.06,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "today",
+          "start": 42.08,
+          "end": 42.301,
+          "score": 0.535,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gave",
+          "start": 42.341,
+          "end": 42.541,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 42.561,
+          "end": 42.661,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 42.701,
+          "end": 42.801,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 42.841,
+          "end": 43.021,
+          "score": 0.597,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 43.141,
+          "end": 43.221,
+          "score": 0.514,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "received",
+          "start": 43.261,
+          "end": 43.682,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 43.722,
+          "end": 43.822,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 43.842,
+          "end": 43.922,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmacist",
+          "start": 43.942,
+          "end": 44.383,
+          "score": 0.627,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 44.423,
+          "end": 44.523,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 44.563,
+          "end": 44.663,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 44.683,
+          "end": 44.863,
+          "score": 0.369,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 44.883,
+          "end": 44.943,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 45.003,
+          "end": 45.303,
+          "score": 0.725,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 45.323,
+          "end": 45.904,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 46.725,
+          "end": 46.825,
+          "score": 0.718,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 46.865,
+          "end": 47.145,
+          "score": 0.727,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "educational",
+          "start": 47.926,
+          "end": 48.506,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "piece",
+          "start": 48.546,
+          "end": 48.767,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 48.807,
+          "end": 48.967,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "says",
+          "start": 49.027,
+          "end": 49.367,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "intentionally",
+          "start": 49.948,
+          "end": 50.528,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "blank.",
+          "start": 50.588,
+          "end": 50.929,
+          "score": 0.787,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3097603514387801,
-      "compression_ratio": 1.1228070175438596,
-      "no_speech_prob": 0.00255205063149333
+      "avg_logprob": -0.07574727958527164,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 5184,
-      "start": 53.92,
-      "end": 55.92,
-      "text": " and it's an entirely blank",
-      "tokens": [
-        50468,
-        293,
-        309,
-        311,
-        364,
-        7696,
-        8247,
-        50568
+      "start": 51.97,
+      "end": 57.154,
+      "text": "You open it up and it's an entirely blank piece of paper.",
+      "words": [
+        {
+          "word": "You",
+          "start": 51.97,
+          "end": 52.09,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "open",
+          "start": 52.15,
+          "end": 52.37,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 52.41,
+          "end": 52.47,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 52.61,
+          "end": 52.69,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 53.591,
+          "end": 53.671,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 53.691,
+          "end": 53.811,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 53.831,
+          "end": 53.871,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "entirely",
+          "start": 54.052,
+          "end": 54.652,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "blank",
+          "start": 54.792,
+          "end": 55.153,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "piece",
+          "start": 55.813,
+          "end": 56.114,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 56.614,
+          "end": 56.694,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "paper.",
+          "start": 56.754,
+          "end": 57.154,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3097603514387801,
-      "compression_ratio": 1.1228070175438596,
-      "no_speech_prob": 0.00255205063149333
+      "avg_logprob": -0.07574727958527164,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 5184,
-      "start": 56.0,
-      "end": 58.0,
-      "text": " piece of paper.",
-      "tokens": [
-        50572,
-        2522,
-        295,
-        3035,
-        13,
-        50672
+      "start": 58.736,
+      "end": 63.681,
+      "text": "This is what they call informed consent for the COVID vaccine in 2021.",
+      "words": [
+        {
+          "word": "This",
+          "start": 58.736,
+          "end": 58.936,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 59.016,
+          "end": 59.076,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 59.156,
+          "end": 59.397,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 59.977,
+          "end": 60.117,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "call",
+          "start": 60.157,
+          "end": 60.377,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "informed",
+          "start": 60.438,
+          "end": 60.838,
+          "score": 0.656,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "consent",
+          "start": 60.878,
+          "end": 61.418,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 61.879,
+          "end": 61.999,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 62.019,
+          "end": 62.079,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 62.119,
+          "end": 62.439,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 62.459,
+          "end": 63.06,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 63.4,
+          "end": 63.48,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2021.",
+          "start": 63.52,
+          "end": 63.681,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3097603514387801,
-      "compression_ratio": 1.1228070175438596,
-      "no_speech_prob": 0.00255205063149333
-    },
-    {
-      "id": 15,
-      "seek": 5184,
-      "start": 58.64,
-      "end": 64.64,
-      "text": " This is what they call informed consent for the COVID vaccine in 2021.",
-      "tokens": [
-        50704,
-        639,
-        307,
-        437,
-        436,
-        818,
-        11740,
-        14546,
-        337,
-        264,
-        4566,
-        7007,
-        294,
-        7201,
-        13,
-        51004
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3097603514387801,
-      "compression_ratio": 1.1228070175438596,
-      "no_speech_prob": 0.00255205063149333
+      "avg_logprob": -0.07574727958527164,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "As",
+      "start": 0.513,
+      "end": 0.573,
+      "score": 0.655,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "opposed",
+      "start": 0.653,
+      "end": 0.974,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 0.994,
+      "end": 1.094,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 1.114,
+      "end": 1.175,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Walgreens",
+      "start": 1.215,
+      "end": 1.736,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmacist",
+      "start": 1.756,
+      "end": 2.417,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 2.557,
+      "end": 2.698,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 2.778,
+      "end": 2.858,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 2.918,
+      "end": 3.159,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 3.179,
+      "end": 3.239,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 3.259,
+      "end": 3.419,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day",
+      "start": 3.459,
+      "end": 3.62,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 3.68,
+      "end": 3.76,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 3.78,
+      "end": 3.9,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 3.94,
+      "end": 3.96,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "life-saving",
+      "start": 4.021,
+      "end": 4.582,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medication",
+      "start": 4.602,
+      "end": 5.203,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 5.223,
+      "end": 5.343,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 5.384,
+      "end": 5.404,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patient",
+      "start": 5.464,
+      "end": 5.824,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 5.865,
+      "end": 5.965,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 5.985,
+      "end": 6.105,
+      "score": 0.636,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 6.145,
+      "end": 6.185,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "danger",
+      "start": 6.225,
+      "end": 6.466,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 6.486,
+      "end": 6.546,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "having",
+      "start": 6.566,
+      "end": 6.787,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 6.827,
+      "end": 6.867,
+      "score": 0.497,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "miscarriage,",
+      "start": 6.907,
+      "end": 7.528,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "she",
+      "start": 8.109,
+      "end": 8.21,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "needed",
+      "start": 8.23,
+      "end": 8.41,
+      "score": 0.267,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "her",
+      "start": 8.45,
+      "end": 8.53,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "progesterone.",
+      "start": 8.57,
+      "end": 9.111,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 9.132,
+      "end": 9.192,
+      "score": 0.588,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 9.252,
+      "end": 9.512,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 9.552,
+      "end": 9.592,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 9.653,
+      "end": 9.733,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 9.773,
+      "end": 9.933,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "morning.",
+      "start": 9.993,
+      "end": 10.354,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 11.643,
+      "end": 11.723,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "she",
+      "start": 11.783,
+      "end": 11.903,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went",
+      "start": 11.943,
+      "end": 12.083,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 12.123,
+      "end": 12.183,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 12.223,
+      "end": 12.283,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 12.323,
+      "end": 12.464,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 12.484,
+      "end": 12.544,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medication",
+      "start": 12.584,
+      "end": 13.224,
+      "score": 0.963,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 13.244,
+      "end": 13.344,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "save",
+      "start": 13.384,
+      "end": 13.624,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "her",
+      "start": 13.644,
+      "end": 13.744,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unborn",
+      "start": 13.824,
+      "end": 14.144,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "child.",
+      "start": 14.184,
+      "end": 14.625,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 15.245,
+      "end": 15.365,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 15.405,
+      "end": 15.465,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hour",
+      "start": 15.505,
+      "end": 15.765,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went,",
+      "start": 15.845,
+      "end": 16.065,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 16.125,
+      "end": 16.185,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 16.226,
+      "end": 16.306,
+      "score": 0.663,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 16.366,
+      "end": 16.586,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hadn't",
+      "start": 16.626,
+      "end": 16.906,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "listened",
+      "start": 17.286,
+      "end": 17.526,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 17.546,
+      "end": 17.586,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 17.626,
+      "end": 17.686,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "voicemail.",
+      "start": 17.726,
+      "end": 18.227,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Two",
+      "start": 18.307,
+      "end": 18.467,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hours",
+      "start": 18.507,
+      "end": 18.807,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went.",
+      "start": 19.187,
+      "end": 19.427,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "At",
+      "start": 19.968,
+      "end": 20.028,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "10",
+      "start": 20.068,
+      "end": 20.208,
+      "score": 0.573,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "o'clock,",
+      "start": 20.248,
+      "end": 20.528,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 20.548,
+      "end": 20.628,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 20.648,
+      "end": 20.848,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.868,
+      "end": 20.928,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmacist.",
+      "start": 20.968,
+      "end": 21.668,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 22.429,
+      "end": 22.489,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "said,",
+      "start": 22.569,
+      "end": 22.789,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "why",
+      "start": 23.67,
+      "end": 23.91,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 23.95,
+      "end": 24.07,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 24.11,
+      "end": 24.21,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 24.25,
+      "end": 24.35,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "listened",
+      "start": 24.39,
+      "end": 24.65,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 24.69,
+      "end": 24.77,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.79,
+      "end": 24.87,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "voicemail?",
+      "start": 24.91,
+      "end": 25.43,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 25.45,
+      "end": 25.591,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "woman",
+      "start": 25.671,
+      "end": 25.951,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "needs",
+      "start": 26.011,
+      "end": 26.271,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 26.311,
+      "end": 26.471,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "baby,",
+      "start": 26.551,
+      "end": 26.971,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "needs",
+      "start": 27.151,
+      "end": 27.331,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 27.371,
+      "end": 27.512,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medication",
+      "start": 27.572,
+      "end": 28.072,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 28.112,
+      "end": 28.192,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "save",
+      "start": 28.212,
+      "end": 28.432,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 28.452,
+      "end": 28.592,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "baby.",
+      "start": 28.632,
+      "end": 28.972,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Oh,",
+      "start": 29.433,
+      "end": 29.513,
+      "score": 0.604,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 29.533,
+      "end": 29.653,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sorry,",
+      "start": 29.693,
+      "end": 29.973,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Dr.",
+      "start": 29.993,
+      "end": 30.153,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Lattell.",
+      "start": 30.253,
+      "end": 30.693,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We've",
+      "start": 30.733,
+      "end": 30.913,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 30.933,
+      "end": 31.093,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "swamped",
+      "start": 31.294,
+      "end": 31.854,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "giving",
+      "start": 31.934,
+      "end": 32.194,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 32.294,
+      "end": 32.674,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 32.694,
+      "end": 33.235,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 33.295,
+      "end": 33.415,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "morning.",
+      "start": 33.455,
+      "end": 33.755,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 33.795,
+      "end": 33.835,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 33.855,
+      "end": 33.975,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 34.015,
+      "end": 34.115,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time",
+      "start": 34.195,
+      "end": 34.595,
+      "score": 0.683,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 35.116,
+      "end": 35.216,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "listen",
+      "start": 35.256,
+      "end": 35.576,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 35.616,
+      "end": 35.716,
+      "score": 0.682,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 35.736,
+      "end": 35.816,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "voicemails.",
+      "start": 35.856,
+      "end": 36.456,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 36.857,
+      "end": 36.937,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 36.957,
+      "end": 37.157,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 37.217,
+      "end": 37.357,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 37.397,
+      "end": 37.477,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 37.517,
+      "end": 37.777,
+      "score": 0.719,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time",
+      "start": 37.837,
+      "end": 38.137,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 38.337,
+      "end": 38.497,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heard",
+      "start": 38.517,
+      "end": 38.718,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that.",
+      "start": 38.758,
+      "end": 38.938,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "All",
+      "start": 39.638,
+      "end": 39.718,
+      "score": 0.303,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right,",
+      "start": 39.738,
+      "end": 39.898,
+      "score": 0.646,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 40.099,
+      "end": 40.219,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 40.259,
+      "end": 40.419,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 40.439,
+      "end": 40.579,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 40.639,
+      "end": 40.799,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmacist",
+      "start": 40.839,
+      "end": 41.32,
+      "score": 0.64,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who's",
+      "start": 41.34,
+      "end": 41.52,
+      "score": 0.331,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 41.56,
+      "end": 41.62,
+      "score": 0.649,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 41.64,
+      "end": 41.7,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "audience",
+      "start": 41.78,
+      "end": 42.06,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "today",
+      "start": 42.08,
+      "end": 42.301,
+      "score": 0.535,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gave",
+      "start": 42.341,
+      "end": 42.541,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 42.561,
+      "end": 42.661,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 42.701,
+      "end": 42.801,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 42.841,
+      "end": 43.021,
+      "score": 0.597,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 43.141,
+      "end": 43.221,
+      "score": 0.514,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "received",
+      "start": 43.261,
+      "end": 43.682,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 43.722,
+      "end": 43.822,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 43.842,
+      "end": 43.922,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmacist",
+      "start": 43.942,
+      "end": 44.383,
+      "score": 0.627,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 44.423,
+      "end": 44.523,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 44.563,
+      "end": 44.663,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 44.683,
+      "end": 44.863,
+      "score": 0.369,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 44.883,
+      "end": 44.943,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 45.003,
+      "end": 45.303,
+      "score": 0.725,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 45.323,
+      "end": 45.904,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 46.725,
+      "end": 46.825,
+      "score": 0.718,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 46.865,
+      "end": 47.145,
+      "score": 0.727,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "educational",
+      "start": 47.926,
+      "end": 48.506,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "piece",
+      "start": 48.546,
+      "end": 48.767,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 48.807,
+      "end": 48.967,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "says",
+      "start": 49.027,
+      "end": 49.367,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "intentionally",
+      "start": 49.948,
+      "end": 50.528,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "blank.",
+      "start": 50.588,
+      "end": 50.929,
+      "score": 0.787,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 51.97,
+      "end": 52.09,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "open",
+      "start": 52.15,
+      "end": 52.37,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 52.41,
+      "end": 52.47,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 52.61,
+      "end": 52.69,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 53.591,
+      "end": 53.671,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 53.691,
+      "end": 53.811,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 53.831,
+      "end": 53.871,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "entirely",
+      "start": 54.052,
+      "end": 54.652,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "blank",
+      "start": 54.792,
+      "end": 55.153,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "piece",
+      "start": 55.813,
+      "end": 56.114,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 56.614,
+      "end": 56.694,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "paper.",
+      "start": 56.754,
+      "end": 57.154,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 58.736,
+      "end": 58.936,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 59.016,
+      "end": 59.076,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 59.156,
+      "end": 59.397,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 59.977,
+      "end": 60.117,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "call",
+      "start": 60.157,
+      "end": 60.377,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "informed",
+      "start": 60.438,
+      "end": 60.838,
+      "score": 0.656,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "consent",
+      "start": 60.878,
+      "end": 61.418,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 61.879,
+      "end": 61.999,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 62.019,
+      "end": 62.079,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 62.119,
+      "end": 62.439,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 62.459,
+      "end": 63.06,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 63.4,
+      "end": 63.48,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2021.",
+      "start": 63.52,
+      "end": 63.681,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

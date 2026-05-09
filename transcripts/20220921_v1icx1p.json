@@ -1,729 +1,3336 @@
 {
-  "text": " Tony Bittner, I came before you guys a year ago. I'm a nurse, or at least I was, at Rady Children's in the cardiovascular intensive care unit until Nathan and his misinformation pandemic caused me to lose my job. I took care of those children who came in with myocarditis after the vaccine. And I talked to the doctors because I was a charge nurse saying, why aren't we reporting these taveres? Who is going to report these taveres? It was an unspoken thing that we were not allowed to talk about openly on the unit. I've worked for 13 years in this community, taking care of some of the sickest patients. The day before I was taken away from my position, I was actively giving compressions to a child, pushing Abby, pushing calcium into his veins to keep him alive. And we did, and he went home. And yet, I was ridiculed by those who are sick and supposed to be my colleagues and my friends. I am the face of your misinformation campaign, Nathan. I am the one who lost my career in pediatric, cardiovascular ICU care. I took care of children who had COVID. I never got COVID in the hospital. I tested twice a week. I wore my PPE because I left my job and I left this community. Thank you.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 5.0,
+      "start": 0.203,
+      "end": 4.644,
       "text": " Tony Bittner, I came before you guys a year ago.",
-      "tokens": [
-        50364,
-        10902,
-        363,
-        593,
-        1193,
-        11,
-        286,
-        1361,
-        949,
-        291,
-        1074,
-        257,
-        1064,
-        2057,
-        13,
-        50614
+      "words": [
+        {
+          "word": "Tony",
+          "start": 0.203,
+          "end": 0.463,
+          "score": 0.696,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Bittner,",
+          "start": 0.483,
+          "end": 0.863,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 1.343,
+          "end": 1.403,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "came",
+          "start": 1.463,
+          "end": 1.763,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "before",
+          "start": 1.963,
+          "end": 2.224,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 2.264,
+          "end": 2.384,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "guys",
+          "start": 2.424,
+          "end": 2.844,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 4.064,
+          "end": 4.104,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "year",
+          "start": 4.144,
+          "end": 4.324,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ago.",
+          "start": 4.404,
+          "end": 4.644,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31778687166880415,
-      "compression_ratio": 1.45,
-      "no_speech_prob": 0.12035411596298218
+      "avg_logprob": -0.09369169464751856,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 6.2,
-      "end": 10.16,
-      "text": " I'm a nurse, or at least I was, at Rady Children's",
-      "tokens": [
-        50674,
-        286,
-        478,
-        257,
-        14012,
-        11,
-        420,
-        412,
-        1935,
-        286,
-        390,
-        11,
-        412,
-        497,
-        880,
-        13354,
-        311,
-        50872
+      "start": 4.664,
+      "end": 20.148,
+      "text": "I'm a nurse, or at least I was at Rady Children's in the cardiovascular intensive care unit until Nathan and his misinformation pandemic caused me to lose my job.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 4.664,
+          "end": 6.365,
+          "score": 0.467,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 6.445,
+          "end": 6.485,
+          "score": 0.221,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nurse,",
+          "start": 6.505,
+          "end": 6.825,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 7.145,
+          "end": 7.265,
+          "score": 0.418,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 7.305,
+          "end": 7.385,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "least",
+          "start": 7.425,
+          "end": 7.645,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 7.705,
+          "end": 7.805,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 7.845,
+          "end": 8.125,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 8.545,
+          "end": 8.625,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Rady",
+          "start": 8.665,
+          "end": 8.905,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Children's",
+          "start": 8.945,
+          "end": 9.445,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 10.266,
+          "end": 10.366,
+          "score": 0.418,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 10.386,
+          "end": 10.446,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cardiovascular",
+          "start": 10.486,
+          "end": 11.326,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "intensive",
+          "start": 11.346,
+          "end": 11.766,
+          "score": 0.554,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 11.826,
+          "end": 12.106,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unit",
+          "start": 12.146,
+          "end": 12.386,
+          "score": 0.521,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "until",
+          "start": 13.306,
+          "end": 13.606,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Nathan",
+          "start": 13.646,
+          "end": 14.087,
+          "score": 0.642,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 14.987,
+          "end": 15.107,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "his",
+          "start": 15.187,
+          "end": 15.487,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "misinformation",
+          "start": 16.567,
+          "end": 17.487,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pandemic",
+          "start": 17.707,
+          "end": 18.328,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "caused",
+          "start": 18.708,
+          "end": 18.988,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 19.028,
+          "end": 19.128,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 19.168,
+          "end": 19.268,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lose",
+          "start": 19.328,
+          "end": 19.608,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 19.668,
+          "end": 19.788,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "job.",
+          "start": 19.848,
+          "end": 20.148,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31778687166880415,
-      "compression_ratio": 1.45,
-      "no_speech_prob": 0.12035411596298218
+      "avg_logprob": -0.09369169464751856,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 10.16,
-      "end": 13.16,
-      "text": " in the cardiovascular intensive care unit",
-      "tokens": [
-        50872,
-        294,
-        264,
-        31786,
-        18957,
-        1127,
-        4985,
-        51022
+      "start": 22.909,
+      "end": 27.27,
+      "text": "I took care of those children who came in with myocarditis after the vaccine.",
+      "words": [
+        {
+          "word": "I",
+          "start": 22.909,
+          "end": 22.969,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "took",
+          "start": 23.009,
+          "end": 23.189,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 23.249,
+          "end": 23.429,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 23.469,
+          "end": 23.529,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 23.589,
+          "end": 23.789,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 23.869,
+          "end": 24.269,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 24.349,
+          "end": 24.469,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "came",
+          "start": 24.509,
+          "end": 24.689,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 24.749,
+          "end": 24.809,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 24.849,
+          "end": 24.969,
+          "score": 0.963,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "myocarditis",
+          "start": 25.029,
+          "end": 25.85,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 26.37,
+          "end": 26.57,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.63,
+          "end": 26.71,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine.",
+          "start": 26.75,
+          "end": 27.27,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31778687166880415,
-      "compression_ratio": 1.45,
-      "no_speech_prob": 0.12035411596298218
+      "avg_logprob": -0.09369169464751856,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 13.16,
-      "end": 18.16,
-      "text": " until Nathan and his misinformation pandemic",
-      "tokens": [
-        51022,
-        1826,
-        20634,
-        293,
-        702,
-        34238,
-        5388,
-        51272
+      "start": 28.576,
+      "end": 34.458,
+      "text": " And I talked to the doctors because I was a charge nurse saying, why aren't we reporting these to bears?",
+      "words": [
+        {
+          "word": "And",
+          "start": 28.576,
+          "end": 28.676,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 28.736,
+          "end": 28.796,
+          "score": 0.654,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talked",
+          "start": 28.856,
+          "end": 29.136,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 29.156,
+          "end": 29.196,
+          "score": 0.583,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 29.256,
+          "end": 29.336,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors",
+          "start": 29.376,
+          "end": 29.736,
+          "score": 0.675,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 29.776,
+          "end": 29.996,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 30.036,
+          "end": 30.096,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 30.137,
+          "end": 30.257,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 30.297,
+          "end": 30.317,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "charge",
+          "start": 30.357,
+          "end": 30.677,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nurse",
+          "start": 30.777,
+          "end": 31.057,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "saying,",
+          "start": 31.517,
+          "end": 31.837,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "why",
+          "start": 32.337,
+          "end": 32.677,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "aren't",
+          "start": 32.937,
+          "end": 33.097,
+          "score": 0.619,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 33.117,
+          "end": 33.217,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reporting",
+          "start": 33.297,
+          "end": 33.678,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 33.718,
+          "end": 33.898,
+          "score": 0.727,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 33.958,
+          "end": 34.058,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bears?",
+          "start": 34.098,
+          "end": 34.458,
+          "score": 0.745,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31778687166880415,
-      "compression_ratio": 1.45,
-      "no_speech_prob": 0.12035411596298218
+      "avg_logprob": -0.061108731243708365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 18.6,
-      "end": 20.42,
-      "text": " caused me to lose my job.",
-      "tokens": [
-        51294,
-        7008,
-        385,
-        281,
-        3624,
-        452,
-        1691,
-        13,
-        51385
+      "start": 35.018,
+      "end": 37.439,
+      "text": "Who is going to report these to bears?",
+      "words": [
+        {
+          "word": "Who",
+          "start": 35.018,
+          "end": 35.298,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 35.738,
+          "end": 35.838,
+          "score": 0.682,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 35.878,
+          "end": 36.098,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 36.138,
+          "end": 36.198,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "report",
+          "start": 36.258,
+          "end": 36.619,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 36.659,
+          "end": 36.839,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 36.899,
+          "end": 36.999,
+          "score": 0.465,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bears?",
+          "start": 37.059,
+          "end": 37.439,
+          "score": 0.632,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31778687166880415,
-      "compression_ratio": 1.45,
-      "no_speech_prob": 0.12035411596298218
+      "avg_logprob": -0.061108731243708365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 22.76,
-      "end": 24.78,
-      "text": " I took care of those children who came in",
-      "tokens": [
-        51502,
-        286,
-        1890,
-        1127,
-        295,
-        729,
-        2227,
-        567,
-        1361,
-        294,
-        51603
+      "start": 39.92,
+      "end": 44.381,
+      "text": "It was an unspoken thing that we were not allowed to talk about openly on the unit.",
+      "words": [
+        {
+          "word": "It",
+          "start": 39.92,
+          "end": 39.98,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 40.02,
+          "end": 40.16,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 40.2,
+          "end": 40.3,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unspoken",
+          "start": 40.46,
+          "end": 41.04,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "thing",
+          "start": 41.1,
+          "end": 41.34,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 41.4,
+          "end": 41.56,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 41.64,
+          "end": 41.76,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 41.8,
+          "end": 41.96,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 42.02,
+          "end": 42.2,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "allowed",
+          "start": 42.24,
+          "end": 42.5,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 42.54,
+          "end": 42.62,
+          "score": 0.502,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talk",
+          "start": 42.68,
+          "end": 42.92,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 42.98,
+          "end": 43.221,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "openly",
+          "start": 43.341,
+          "end": 43.721,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 43.801,
+          "end": 43.881,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 43.901,
+          "end": 44.001,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unit.",
+          "start": 44.101,
+          "end": 44.381,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31778687166880415,
-      "compression_ratio": 1.45,
-      "no_speech_prob": 0.12035411596298218
+      "avg_logprob": -0.061108731243708365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 24.78,
-      "end": 27.54,
-      "text": " with myocarditis after the vaccine.",
-      "tokens": [
-        51603,
-        365,
-        452,
-        905,
-        515,
-        16074,
-        934,
-        264,
-        7007,
-        13,
-        51741
+      "start": 48.162,
+      "end": 53.964,
+      "text": "I've worked for 13 years in this community, taking care of some of the sickest patients.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 48.162,
+          "end": 48.262,
+          "score": 0.416,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "worked",
+          "start": 48.302,
+          "end": 48.502,
+          "score": 0.608,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 48.522,
+          "end": 48.682,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "13",
+          "start": 48.862,
+          "end": 49.282,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years",
+          "start": 49.382,
+          "end": 49.763,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 49.923,
+          "end": 50.003,
+          "score": 0.3,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 50.043,
+          "end": 50.203,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "community,",
+          "start": 50.283,
+          "end": 50.923,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taking",
+          "start": 51.523,
+          "end": 51.843,
+          "score": 0.663,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 51.883,
+          "end": 52.063,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 52.103,
+          "end": 52.163,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "some",
+          "start": 52.203,
+          "end": 52.363,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 52.423,
+          "end": 52.503,
+          "score": 0.585,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 52.543,
+          "end": 52.684,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sickest",
+          "start": 52.844,
+          "end": 53.244,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients.",
+          "start": 53.344,
+          "end": 53.964,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31778687166880415,
-      "compression_ratio": 1.45,
-      "no_speech_prob": 0.12035411596298218
+      "avg_logprob": -0.061108731243708365,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2754,
-      "start": 28.54,
-      "end": 31.46,
-      "text": " And I talked to the doctors because I was a charge nurse",
-      "tokens": [
-        50414,
-        400,
-        286,
-        2825,
-        281,
-        264,
-        8778,
-        570,
-        286,
-        390,
-        257,
-        4602,
-        14012,
-        50560
+      "start": 55.826,
+      "end": 72.017,
+      "text": " The day before I was taken away from my position, I was actively giving compressions to a child, pushing Abby, pushing calcium into his veins to keep him alive.",
+      "words": [
+        {
+          "word": "The",
+          "start": 55.826,
+          "end": 55.946,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day",
+          "start": 55.986,
+          "end": 56.146,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "before",
+          "start": 56.206,
+          "end": 56.627,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 56.647,
+          "end": 56.667,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 56.927,
+          "end": 57.087,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taken",
+          "start": 57.167,
+          "end": 57.627,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away",
+          "start": 57.787,
+          "end": 57.987,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 58.048,
+          "end": 58.208,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 58.268,
+          "end": 58.408,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "position,",
+          "start": 58.488,
+          "end": 59.148,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 59.629,
+          "end": 59.689,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 59.729,
+          "end": 59.889,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actively",
+          "start": 60.129,
+          "end": 60.649,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "giving",
+          "start": 60.709,
+          "end": 60.989,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "compressions",
+          "start": 61.07,
+          "end": 61.87,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 61.99,
+          "end": 62.15,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 62.21,
+          "end": 62.25,
+          "score": 0.493,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "child,",
+          "start": 62.39,
+          "end": 62.891,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pushing",
+          "start": 63.431,
+          "end": 63.831,
+          "score": 0.471,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Abby,",
+          "start": 64.052,
+          "end": 64.432,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pushing",
+          "start": 66.153,
+          "end": 66.493,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "calcium",
+          "start": 66.593,
+          "end": 67.314,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "into",
+          "start": 67.854,
+          "end": 68.274,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "his",
+          "start": 68.334,
+          "end": 68.535,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "veins",
+          "start": 68.715,
+          "end": 69.275,
+          "score": 0.624,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 70.816,
+          "end": 70.916,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "keep",
+          "start": 70.996,
+          "end": 71.256,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "him",
+          "start": 71.316,
+          "end": 71.476,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "alive.",
+          "start": 71.557,
+          "end": 72.017,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17188626395331488,
-      "compression_ratio": 1.5544554455445545,
-      "no_speech_prob": 5.132888691150583e-05
+      "avg_logprob": -0.09408244807669457,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2754,
-      "start": 31.46,
-      "end": 34.94,
-      "text": " saying, why aren't we reporting these taveres?",
-      "tokens": [
-        50560,
-        1566,
-        11,
-        983,
-        3212,
-        380,
-        321,
-        10031,
-        613,
-        1846,
-        331,
-        279,
-        30,
-        50734
+      "start": 73.698,
+      "end": 74.278,
+      "text": "And we did.",
+      "words": [
+        {
+          "word": "And",
+          "start": 73.698,
+          "end": 73.818,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 73.858,
+          "end": 73.998,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "did.",
+          "start": 74.038,
+          "end": 74.278,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17188626395331488,
-      "compression_ratio": 1.5544554455445545,
-      "no_speech_prob": 5.132888691150583e-05
+      "avg_logprob": -0.09408244807669457,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2754,
-      "start": 34.94,
-      "end": 37.86,
-      "text": " Who is going to report these taveres?",
-      "tokens": [
-        50734,
-        2102,
-        307,
-        516,
-        281,
-        2275,
-        613,
-        1846,
-        331,
-        279,
-        30,
-        50880
+      "start": 75.299,
+      "end": 76.22,
+      "text": "And he went home.",
+      "words": [
+        {
+          "word": "And",
+          "start": 75.299,
+          "end": 75.419,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 75.459,
+          "end": 75.579,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went",
+          "start": 75.639,
+          "end": 75.859,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "home.",
+          "start": 75.919,
+          "end": 76.22,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17188626395331488,
-      "compression_ratio": 1.5544554455445545,
-      "no_speech_prob": 5.132888691150583e-05
+      "avg_logprob": -0.09408244807669457,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 2754,
-      "start": 39.9,
-      "end": 42.54,
-      "text": " It was an unspoken thing that we were not allowed",
-      "tokens": [
-        50982,
-        467,
-        390,
-        364,
-        2693,
-        79,
-        8406,
-        551,
-        300,
-        321,
-        645,
-        406,
-        4350,
-        51114
+      "start": 78.921,
+      "end": 79.402,
+      "text": "And yet,",
+      "words": [
+        {
+          "word": "And",
+          "start": 78.921,
+          "end": 79.001,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "yet,",
+          "start": 79.062,
+          "end": 79.402,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17188626395331488,
-      "compression_ratio": 1.5544554455445545,
-      "no_speech_prob": 5.132888691150583e-05
+      "avg_logprob": -0.09408244807669457,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 2754,
-      "start": 42.54,
-      "end": 44.620000000000005,
-      "text": " to talk about openly on the unit.",
-      "tokens": [
-        51114,
-        281,
-        751,
-        466,
-        23109,
-        322,
-        264,
-        4985,
-        13,
-        51218
+      "start": 81.843,
+      "end": 87.146,
+      "text": " I was ridiculed by those who were supposed to be my colleagues and my friends.",
+      "words": [
+        {
+          "word": "I",
+          "start": 81.843,
+          "end": 81.903,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 81.943,
+          "end": 82.103,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ridiculed",
+          "start": 82.223,
+          "end": 82.944,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 83.044,
+          "end": 83.244,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 83.324,
+          "end": 83.684,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 84.044,
+          "end": 84.144,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 84.184,
+          "end": 84.344,
+          "score": 0.568,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "supposed",
+          "start": 84.384,
+          "end": 84.885,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 84.925,
+          "end": 85.005,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 85.065,
+          "end": 85.205,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 85.265,
+          "end": 85.405,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "colleagues",
+          "start": 85.485,
+          "end": 86.125,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 86.266,
+          "end": 86.346,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 86.386,
+          "end": 86.546,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "friends.",
+          "start": 86.646,
+          "end": 87.146,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17188626395331488,
-      "compression_ratio": 1.5544554455445545,
-      "no_speech_prob": 5.132888691150583e-05
+      "avg_logprob": -0.032019982974116616,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 2754,
-      "start": 48.14,
-      "end": 51.5,
-      "text": " I've worked for 13 years in this community,",
-      "tokens": [
-        51394,
-        286,
-        600,
-        2732,
-        337,
-        3705,
-        924,
-        294,
-        341,
-        1768,
-        11,
-        51562
+      "start": 91.148,
+      "end": 94.63,
+      "text": "I am the face of your misinformation campaign, Nathan.",
+      "words": [
+        {
+          "word": "I",
+          "start": 91.148,
+          "end": 91.228,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "am",
+          "start": 91.428,
+          "end": 91.568,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 91.648,
+          "end": 91.769,
+          "score": 0.727,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "face",
+          "start": 91.829,
+          "end": 92.169,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 92.329,
+          "end": 92.409,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 92.449,
+          "end": 92.609,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "misinformation",
+          "start": 92.629,
+          "end": 93.509,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "campaign,",
+          "start": 93.59,
+          "end": 94.15,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Nathan.",
+          "start": 94.17,
+          "end": 94.63,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17188626395331488,
-      "compression_ratio": 1.5544554455445545,
-      "no_speech_prob": 5.132888691150583e-05
+      "avg_logprob": -0.032019982974116616,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 2754,
-      "start": 51.5,
-      "end": 54.34,
-      "text": " taking care of some of the sickest patients.",
-      "tokens": [
-        51562,
-        1940,
-        1127,
-        295,
-        512,
-        295,
-        264,
-        4998,
-        377,
-        4209,
-        13,
-        51704
+      "start": 95.371,
+      "end": 101.274,
+      "text": "I am the one who lost my career in pediatric cardiovascular ICU care.",
+      "words": [
+        {
+          "word": "I",
+          "start": 95.371,
+          "end": 95.431,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "am",
+          "start": 95.491,
+          "end": 95.591,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 95.631,
+          "end": 95.691,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 95.851,
+          "end": 95.971,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 96.051,
+          "end": 96.191,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lost",
+          "start": 96.271,
+          "end": 96.551,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 96.611,
+          "end": 96.751,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "career",
+          "start": 96.811,
+          "end": 97.192,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 97.212,
+          "end": 97.252,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pediatric",
+          "start": 98.072,
+          "end": 98.852,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cardiovascular",
+          "start": 99.473,
+          "end": 100.393,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ICU",
+          "start": 100.453,
+          "end": 100.914,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care.",
+          "start": 100.974,
+          "end": 101.274,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17188626395331488,
-      "compression_ratio": 1.5544554455445545,
-      "no_speech_prob": 5.132888691150583e-05
+      "avg_logprob": -0.032019982974116616,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 5434,
-      "start": 55.34,
-      "end": 59.540000000000006,
-      "text": " The day before I was taken away from my position,",
-      "tokens": [
-        50414,
-        440,
-        786,
-        949,
-        286,
-        390,
-        2726,
-        1314,
-        490,
-        452,
-        2535,
-        11,
-        50624
+      "start": 102.514,
+      "end": 106.717,
+      "text": "I took care of children who had COVID.",
+      "words": [
+        {
+          "word": "I",
+          "start": 102.514,
+          "end": 102.554,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "took",
+          "start": 102.615,
+          "end": 102.815,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 102.835,
+          "end": 103.095,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 103.135,
+          "end": 103.215,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 103.355,
+          "end": 103.855,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 105.776,
+          "end": 105.936,
+          "score": 0.532,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 105.976,
+          "end": 106.196,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID.",
+          "start": 106.277,
+          "end": 106.717,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24114765840418198,
-      "compression_ratio": 1.4539877300613497,
-      "no_speech_prob": 0.00010386048961663619
+      "avg_logprob": -0.032019982974116616,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 5434,
-      "start": 59.540000000000006,
-      "end": 63.42,
-      "text": " I was actively giving compressions to a child,",
-      "tokens": [
-        50624,
-        286,
-        390,
-        13022,
-        2902,
-        14778,
-        626,
-        281,
-        257,
-        1440,
-        11,
-        50818
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24114765840418198,
-      "compression_ratio": 1.4539877300613497,
-      "no_speech_prob": 0.00010386048961663619
-    },
-    {
-      "id": 16,
-      "seek": 5434,
-      "start": 63.42,
-      "end": 68.42,
-      "text": " pushing Abby, pushing calcium into his veins",
-      "tokens": [
-        50818,
-        7380,
-        27726,
-        11,
-        7380,
-        20918,
-        666,
-        702,
-        29390,
-        51068
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24114765840418198,
-      "compression_ratio": 1.4539877300613497,
-      "no_speech_prob": 0.00010386048961663619
-    },
-    {
-      "id": 17,
-      "seek": 5434,
-      "start": 70.78,
-      "end": 72.34,
-      "text": " to keep him alive.",
-      "tokens": [
-        51186,
-        281,
-        1066,
-        796,
-        5465,
-        13,
-        51264
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24114765840418198,
-      "compression_ratio": 1.4539877300613497,
-      "no_speech_prob": 0.00010386048961663619
-    },
-    {
-      "id": 18,
-      "seek": 5434,
-      "start": 73.66,
-      "end": 76.5,
-      "text": " And we did, and he went home.",
-      "tokens": [
-        51330,
-        400,
-        321,
-        630,
-        11,
-        293,
-        415,
-        1437,
-        1280,
-        13,
-        51472
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24114765840418198,
-      "compression_ratio": 1.4539877300613497,
-      "no_speech_prob": 0.00010386048961663619
-    },
-    {
-      "id": 19,
-      "seek": 5434,
-      "start": 78.78,
-      "end": 83.78,
-      "text": " And yet, I was ridiculed by those who are sick",
-      "tokens": [
-        51586,
-        400,
-        1939,
-        11,
-        286,
-        390,
-        9276,
-        45893,
-        538,
-        729,
-        567,
-        366,
-        4998,
-        51836
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24114765840418198,
-      "compression_ratio": 1.4539877300613497,
-      "no_speech_prob": 0.00010386048961663619
-    },
-    {
-      "id": 20,
-      "seek": 8434,
-      "start": 84.34,
-      "end": 87.62,
-      "text": " and supposed to be my colleagues and my friends.",
-      "tokens": [
-        50364,
-        293,
-        3442,
-        281,
-        312,
-        452,
-        7734,
-        293,
-        452,
-        1855,
-        13,
-        50528
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21350865681966147,
-      "compression_ratio": 1.4728260869565217,
-      "no_speech_prob": 0.0001342315663350746
-    },
-    {
-      "id": 21,
-      "seek": 8434,
-      "start": 90.98,
-      "end": 95.30000000000001,
-      "text": " I am the face of your misinformation campaign, Nathan.",
-      "tokens": [
-        50696,
-        286,
-        669,
-        264,
-        1851,
-        295,
-        428,
-        34238,
-        5129,
-        11,
-        20634,
-        13,
-        50912
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21350865681966147,
-      "compression_ratio": 1.4728260869565217,
-      "no_speech_prob": 0.0001342315663350746
-    },
-    {
-      "id": 22,
-      "seek": 8434,
-      "start": 95.30000000000001,
-      "end": 99.42,
-      "text": " I am the one who lost my career in pediatric,",
-      "tokens": [
-        50912,
-        286,
-        669,
-        264,
-        472,
-        567,
-        2731,
-        452,
-        3988,
-        294,
-        27477,
-        11,
-        51118
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21350865681966147,
-      "compression_ratio": 1.4728260869565217,
-      "no_speech_prob": 0.0001342315663350746
-    },
-    {
-      "id": 23,
-      "seek": 8434,
-      "start": 99.42,
-      "end": 101.58000000000001,
-      "text": " cardiovascular ICU care.",
-      "tokens": [
-        51118,
-        31786,
-        38123,
-        1127,
-        13,
-        51226
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21350865681966147,
-      "compression_ratio": 1.4728260869565217,
-      "no_speech_prob": 0.0001342315663350746
-    },
-    {
-      "id": 24,
-      "seek": 8434,
-      "start": 102.46000000000001,
-      "end": 106.98,
-      "text": " I took care of children who had COVID.",
-      "tokens": [
-        51270,
-        286,
-        1890,
-        1127,
-        295,
-        2227,
-        567,
-        632,
-        4566,
-        13,
-        51496
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21350865681966147,
-      "compression_ratio": 1.4728260869565217,
-      "no_speech_prob": 0.0001342315663350746
-    },
-    {
-      "id": 25,
-      "seek": 8434,
-      "start": 108.30000000000001,
-      "end": 111.10000000000001,
+      "start": 108.384,
+      "end": 110.186,
       "text": " I never got COVID in the hospital.",
-      "tokens": [
-        51562,
-        286,
-        1128,
-        658,
-        4566,
-        294,
-        264,
-        4530,
-        13,
-        51702
+      "words": [
+        {
+          "word": "I",
+          "start": 108.384,
+          "end": 108.424,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 108.484,
+          "end": 108.704,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 108.784,
+          "end": 108.985,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 109.025,
+          "end": 109.345,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 109.385,
+          "end": 109.465,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 109.485,
+          "end": 109.605,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital.",
+          "start": 109.645,
+          "end": 110.186,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21350865681966147,
-      "compression_ratio": 1.4728260869565217,
-      "no_speech_prob": 0.0001342315663350746
+      "avg_logprob": -0.11035156030865277,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 26,
-      "seek": 8434,
-      "start": 111.10000000000001,
-      "end": 113.66,
-      "text": " I tested twice a week.",
-      "tokens": [
-        51702,
-        286,
-        8246,
-        6091,
-        257,
-        1243,
-        13,
-        51830
+      "start": 111.167,
+      "end": 113.809,
+      "text": "I tested twice a week.",
+      "words": [
+        {
+          "word": "I",
+          "start": 111.167,
+          "end": 111.227,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tested",
+          "start": 111.347,
+          "end": 111.947,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "twice",
+          "start": 112.027,
+          "end": 112.348,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 112.408,
+          "end": 112.448,
+          "score": 0.499,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "week.",
+          "start": 112.508,
+          "end": 113.809,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21350865681966147,
-      "compression_ratio": 1.4728260869565217,
-      "no_speech_prob": 0.0001342315663350746
+      "avg_logprob": -0.11035156030865277,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 27,
-      "seek": 11366,
-      "start": 113.66,
-      "end": 117.06,
-      "text": " I wore my PPE because I left my job",
-      "tokens": [
-        50364,
-        286,
-        13857,
-        452,
-        38589,
-        570,
-        286,
-        1411,
-        452,
-        1691,
-        50534
+      "start": 113.829,
+      "end": 116.932,
+      "text": "I wore my PPE because I loved my job.",
+      "words": [
+        {
+          "word": "I",
+          "start": 113.829,
+          "end": 113.849,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wore",
+          "start": 113.909,
+          "end": 114.149,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 114.189,
+          "end": 114.349,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PPE",
+          "start": 114.409,
+          "end": 115.15,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 115.25,
+          "end": 115.59,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 115.751,
+          "end": 115.831,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "loved",
+          "start": 115.931,
+          "end": 116.191,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 116.291,
+          "end": 116.451,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "job.",
+          "start": 116.551,
+          "end": 116.932,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25935007095336915,
-      "compression_ratio": 1.0138888888888888,
-      "no_speech_prob": 3.591545100789517e-05
+      "avg_logprob": -0.11035156030865277,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 28,
-      "seek": 11366,
-      "start": 118.3,
-      "end": 120.17999999999999,
-      "text": " and I left this community.",
-      "tokens": [
-        50596,
-        293,
-        286,
-        1411,
-        341,
-        1768,
-        13,
-        50690
+      "start": 118.393,
+      "end": 120.014,
+      "text": "And I love this community.",
+      "words": [
+        {
+          "word": "And",
+          "start": 118.393,
+          "end": 118.593,
+          "score": 0.695,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 118.613,
+          "end": 118.633,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "love",
+          "start": 118.733,
+          "end": 119.013,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 119.093,
+          "end": 119.274,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "community.",
+          "start": 119.354,
+          "end": 120.014,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25935007095336915,
-      "compression_ratio": 1.0138888888888888,
-      "no_speech_prob": 3.591545100789517e-05
+      "avg_logprob": -0.11035156030865277,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 29,
-      "seek": 11366,
-      "start": 122.5,
-      "end": 123.34,
-      "text": " Thank you.",
-      "tokens": [
-        50806,
-        1044,
-        291,
-        13,
-        50848
+      "start": 122.557,
+      "end": 122.997,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 122.557,
+          "end": 122.817,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you.",
+          "start": 122.837,
+          "end": 122.997,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25935007095336915,
-      "compression_ratio": 1.0138888888888888,
-      "no_speech_prob": 3.591545100789517e-05
+      "avg_logprob": -0.11035156030865277,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Tony",
+      "start": 0.203,
+      "end": 0.463,
+      "score": 0.696,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Bittner,",
+      "start": 0.483,
+      "end": 0.863,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 1.343,
+      "end": 1.403,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "came",
+      "start": 1.463,
+      "end": 1.763,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "before",
+      "start": 1.963,
+      "end": 2.224,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 2.264,
+      "end": 2.384,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "guys",
+      "start": 2.424,
+      "end": 2.844,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 4.064,
+      "end": 4.104,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "year",
+      "start": 4.144,
+      "end": 4.324,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ago.",
+      "start": 4.404,
+      "end": 4.644,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 4.664,
+      "end": 6.365,
+      "score": 0.467,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 6.445,
+      "end": 6.485,
+      "score": 0.221,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nurse,",
+      "start": 6.505,
+      "end": 6.825,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 7.145,
+      "end": 7.265,
+      "score": 0.418,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 7.305,
+      "end": 7.385,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "least",
+      "start": 7.425,
+      "end": 7.645,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 7.705,
+      "end": 7.805,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 7.845,
+      "end": 8.125,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 8.545,
+      "end": 8.625,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Rady",
+      "start": 8.665,
+      "end": 8.905,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Children's",
+      "start": 8.945,
+      "end": 9.445,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 10.266,
+      "end": 10.366,
+      "score": 0.418,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 10.386,
+      "end": 10.446,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cardiovascular",
+      "start": 10.486,
+      "end": 11.326,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "intensive",
+      "start": 11.346,
+      "end": 11.766,
+      "score": 0.554,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 11.826,
+      "end": 12.106,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unit",
+      "start": 12.146,
+      "end": 12.386,
+      "score": 0.521,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "until",
+      "start": 13.306,
+      "end": 13.606,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nathan",
+      "start": 13.646,
+      "end": 14.087,
+      "score": 0.642,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 14.987,
+      "end": 15.107,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "his",
+      "start": 15.187,
+      "end": 15.487,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "misinformation",
+      "start": 16.567,
+      "end": 17.487,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pandemic",
+      "start": 17.707,
+      "end": 18.328,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "caused",
+      "start": 18.708,
+      "end": 18.988,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 19.028,
+      "end": 19.128,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 19.168,
+      "end": 19.268,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lose",
+      "start": 19.328,
+      "end": 19.608,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 19.668,
+      "end": 19.788,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "job.",
+      "start": 19.848,
+      "end": 20.148,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 22.909,
+      "end": 22.969,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "took",
+      "start": 23.009,
+      "end": 23.189,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 23.249,
+      "end": 23.429,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 23.469,
+      "end": 23.529,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 23.589,
+      "end": 23.789,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 23.869,
+      "end": 24.269,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 24.349,
+      "end": 24.469,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "came",
+      "start": 24.509,
+      "end": 24.689,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 24.749,
+      "end": 24.809,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 24.849,
+      "end": 24.969,
+      "score": 0.963,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "myocarditis",
+      "start": 25.029,
+      "end": 25.85,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 26.37,
+      "end": 26.57,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.63,
+      "end": 26.71,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine.",
+      "start": 26.75,
+      "end": 27.27,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 28.576,
+      "end": 28.676,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 28.736,
+      "end": 28.796,
+      "score": 0.654,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talked",
+      "start": 28.856,
+      "end": 29.136,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 29.156,
+      "end": 29.196,
+      "score": 0.583,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 29.256,
+      "end": 29.336,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors",
+      "start": 29.376,
+      "end": 29.736,
+      "score": 0.675,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 29.776,
+      "end": 29.996,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 30.036,
+      "end": 30.096,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 30.137,
+      "end": 30.257,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 30.297,
+      "end": 30.317,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "charge",
+      "start": 30.357,
+      "end": 30.677,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nurse",
+      "start": 30.777,
+      "end": 31.057,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "saying,",
+      "start": 31.517,
+      "end": 31.837,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "why",
+      "start": 32.337,
+      "end": 32.677,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "aren't",
+      "start": 32.937,
+      "end": 33.097,
+      "score": 0.619,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 33.117,
+      "end": 33.217,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reporting",
+      "start": 33.297,
+      "end": 33.678,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 33.718,
+      "end": 33.898,
+      "score": 0.727,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 33.958,
+      "end": 34.058,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bears?",
+      "start": 34.098,
+      "end": 34.458,
+      "score": 0.745,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Who",
+      "start": 35.018,
+      "end": 35.298,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 35.738,
+      "end": 35.838,
+      "score": 0.682,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 35.878,
+      "end": 36.098,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 36.138,
+      "end": 36.198,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "report",
+      "start": 36.258,
+      "end": 36.619,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 36.659,
+      "end": 36.839,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 36.899,
+      "end": 36.999,
+      "score": 0.465,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bears?",
+      "start": 37.059,
+      "end": 37.439,
+      "score": 0.632,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 39.92,
+      "end": 39.98,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 40.02,
+      "end": 40.16,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 40.2,
+      "end": 40.3,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unspoken",
+      "start": 40.46,
+      "end": 41.04,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "thing",
+      "start": 41.1,
+      "end": 41.34,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 41.4,
+      "end": 41.56,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 41.64,
+      "end": 41.76,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 41.8,
+      "end": 41.96,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 42.02,
+      "end": 42.2,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "allowed",
+      "start": 42.24,
+      "end": 42.5,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 42.54,
+      "end": 42.62,
+      "score": 0.502,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talk",
+      "start": 42.68,
+      "end": 42.92,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 42.98,
+      "end": 43.221,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "openly",
+      "start": 43.341,
+      "end": 43.721,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 43.801,
+      "end": 43.881,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 43.901,
+      "end": 44.001,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unit.",
+      "start": 44.101,
+      "end": 44.381,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 48.162,
+      "end": 48.262,
+      "score": 0.416,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "worked",
+      "start": 48.302,
+      "end": 48.502,
+      "score": 0.608,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 48.522,
+      "end": 48.682,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "13",
+      "start": 48.862,
+      "end": 49.282,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years",
+      "start": 49.382,
+      "end": 49.763,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 49.923,
+      "end": 50.003,
+      "score": 0.3,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 50.043,
+      "end": 50.203,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "community,",
+      "start": 50.283,
+      "end": 50.923,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taking",
+      "start": 51.523,
+      "end": 51.843,
+      "score": 0.663,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 51.883,
+      "end": 52.063,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 52.103,
+      "end": 52.163,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "some",
+      "start": 52.203,
+      "end": 52.363,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 52.423,
+      "end": 52.503,
+      "score": 0.585,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 52.543,
+      "end": 52.684,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sickest",
+      "start": 52.844,
+      "end": 53.244,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients.",
+      "start": 53.344,
+      "end": 53.964,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 55.826,
+      "end": 55.946,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day",
+      "start": 55.986,
+      "end": 56.146,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "before",
+      "start": 56.206,
+      "end": 56.627,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 56.647,
+      "end": 56.667,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 56.927,
+      "end": 57.087,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taken",
+      "start": 57.167,
+      "end": 57.627,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away",
+      "start": 57.787,
+      "end": 57.987,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 58.048,
+      "end": 58.208,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 58.268,
+      "end": 58.408,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "position,",
+      "start": 58.488,
+      "end": 59.148,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 59.629,
+      "end": 59.689,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 59.729,
+      "end": 59.889,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actively",
+      "start": 60.129,
+      "end": 60.649,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "giving",
+      "start": 60.709,
+      "end": 60.989,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "compressions",
+      "start": 61.07,
+      "end": 61.87,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 61.99,
+      "end": 62.15,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 62.21,
+      "end": 62.25,
+      "score": 0.493,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "child,",
+      "start": 62.39,
+      "end": 62.891,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pushing",
+      "start": 63.431,
+      "end": 63.831,
+      "score": 0.471,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Abby,",
+      "start": 64.052,
+      "end": 64.432,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pushing",
+      "start": 66.153,
+      "end": 66.493,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "calcium",
+      "start": 66.593,
+      "end": 67.314,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 67.854,
+      "end": 68.274,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "his",
+      "start": 68.334,
+      "end": 68.535,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "veins",
+      "start": 68.715,
+      "end": 69.275,
+      "score": 0.624,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 70.816,
+      "end": 70.916,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "keep",
+      "start": 70.996,
+      "end": 71.256,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "him",
+      "start": 71.316,
+      "end": 71.476,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "alive.",
+      "start": 71.557,
+      "end": 72.017,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 73.698,
+      "end": 73.818,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 73.858,
+      "end": 73.998,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "did.",
+      "start": 74.038,
+      "end": 74.278,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 75.299,
+      "end": 75.419,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 75.459,
+      "end": 75.579,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went",
+      "start": 75.639,
+      "end": 75.859,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "home.",
+      "start": 75.919,
+      "end": 76.22,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 78.921,
+      "end": 79.001,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "yet,",
+      "start": 79.062,
+      "end": 79.402,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 81.843,
+      "end": 81.903,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 81.943,
+      "end": 82.103,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ridiculed",
+      "start": 82.223,
+      "end": 82.944,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 83.044,
+      "end": 83.244,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 83.324,
+      "end": 83.684,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 84.044,
+      "end": 84.144,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 84.184,
+      "end": 84.344,
+      "score": 0.568,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "supposed",
+      "start": 84.384,
+      "end": 84.885,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 84.925,
+      "end": 85.005,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 85.065,
+      "end": 85.205,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 85.265,
+      "end": 85.405,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "colleagues",
+      "start": 85.485,
+      "end": 86.125,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 86.266,
+      "end": 86.346,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 86.386,
+      "end": 86.546,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "friends.",
+      "start": 86.646,
+      "end": 87.146,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 91.148,
+      "end": 91.228,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "am",
+      "start": 91.428,
+      "end": 91.568,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 91.648,
+      "end": 91.769,
+      "score": 0.727,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "face",
+      "start": 91.829,
+      "end": 92.169,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 92.329,
+      "end": 92.409,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 92.449,
+      "end": 92.609,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "misinformation",
+      "start": 92.629,
+      "end": 93.509,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "campaign,",
+      "start": 93.59,
+      "end": 94.15,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nathan.",
+      "start": 94.17,
+      "end": 94.63,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 95.371,
+      "end": 95.431,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "am",
+      "start": 95.491,
+      "end": 95.591,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 95.631,
+      "end": 95.691,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 95.851,
+      "end": 95.971,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 96.051,
+      "end": 96.191,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lost",
+      "start": 96.271,
+      "end": 96.551,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 96.611,
+      "end": 96.751,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "career",
+      "start": 96.811,
+      "end": 97.192,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 97.212,
+      "end": 97.252,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pediatric",
+      "start": 98.072,
+      "end": 98.852,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cardiovascular",
+      "start": 99.473,
+      "end": 100.393,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ICU",
+      "start": 100.453,
+      "end": 100.914,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care.",
+      "start": 100.974,
+      "end": 101.274,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 102.514,
+      "end": 102.554,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "took",
+      "start": 102.615,
+      "end": 102.815,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 102.835,
+      "end": 103.095,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 103.135,
+      "end": 103.215,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 103.355,
+      "end": 103.855,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 105.776,
+      "end": 105.936,
+      "score": 0.532,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 105.976,
+      "end": 106.196,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID.",
+      "start": 106.277,
+      "end": 106.717,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 108.384,
+      "end": 108.424,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 108.484,
+      "end": 108.704,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 108.784,
+      "end": 108.985,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 109.025,
+      "end": 109.345,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 109.385,
+      "end": 109.465,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 109.485,
+      "end": 109.605,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital.",
+      "start": 109.645,
+      "end": 110.186,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 111.167,
+      "end": 111.227,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tested",
+      "start": 111.347,
+      "end": 111.947,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "twice",
+      "start": 112.027,
+      "end": 112.348,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 112.408,
+      "end": 112.448,
+      "score": 0.499,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "week.",
+      "start": 112.508,
+      "end": 113.809,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 113.829,
+      "end": 113.849,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wore",
+      "start": 113.909,
+      "end": 114.149,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 114.189,
+      "end": 114.349,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PPE",
+      "start": 114.409,
+      "end": 115.15,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 115.25,
+      "end": 115.59,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 115.751,
+      "end": 115.831,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "loved",
+      "start": 115.931,
+      "end": 116.191,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 116.291,
+      "end": 116.451,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "job.",
+      "start": 116.551,
+      "end": 116.932,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 118.393,
+      "end": 118.593,
+      "score": 0.695,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 118.613,
+      "end": 118.633,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "love",
+      "start": 118.733,
+      "end": 119.013,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 119.093,
+      "end": 119.274,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "community.",
+      "start": 119.354,
+      "end": 120.014,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Thank",
+      "start": 122.557,
+      "end": 122.817,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you.",
+      "start": 122.837,
+      "end": 122.997,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

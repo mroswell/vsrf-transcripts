@@ -1,93 +1,551 @@
 {
-  "text": " number one do not inject the children with this shot number two do not inject the COVID recovered and number three do not let governments or pharmacies or agencies block doctors and providers from giving life-saving treatments.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 13.200000000000001,
-      "text": " number one do not inject the children with this shot number two do not inject",
-      "tokens": [
-        50364,
-        1230,
-        472,
-        360,
-        406,
-        10711,
-        264,
-        2227,
-        365,
-        341,
-        3347,
-        1230,
-        732,
-        360,
-        406,
-        10711,
-        51024
+      "start": 0.411,
+      "end": 7.117,
+      "text": " Number one, do not inject the children with this shot.",
+      "words": [
+        {
+          "word": "Number",
+          "start": 0.411,
+          "end": 0.632,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one,",
+          "start": 0.772,
+          "end": 0.932,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 2.053,
+          "end": 2.313,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 2.833,
+          "end": 3.154,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inject",
+          "start": 3.554,
+          "end": 4.094,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.255,
+          "end": 4.415,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 4.535,
+          "end": 5.055,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 5.756,
+          "end": 6.016,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 6.216,
+          "end": 6.476,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shot.",
+          "start": 6.737,
+          "end": 7.117,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.29121660505022323,
-      "compression_ratio": 1.4528301886792452,
-      "no_speech_prob": 0.12041808664798737
+      "avg_logprob": -0.04333496101511022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 13.200000000000001,
-      "end": 21.6,
-      "text": " the COVID recovered and number three do not let governments or pharmacies or",
-      "tokens": [
-        51024,
-        264,
-        4566,
-        19542,
-        293,
-        1230,
-        1045,
-        360,
-        406,
-        718,
-        11280,
-        420,
-        13105,
-        20330,
-        420,
-        51444
+      "start": 9.919,
+      "end": 14.523,
+      "text": "Number two, do not inject the COVID recovered.",
+      "words": [
+        {
+          "word": "Number",
+          "start": 9.919,
+          "end": 10.179,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two,",
+          "start": 10.26,
+          "end": 10.6,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 11.901,
+          "end": 12.141,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 12.321,
+          "end": 12.602,
+          "score": 0.696,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inject",
+          "start": 12.822,
+          "end": 13.282,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 13.362,
+          "end": 13.462,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 13.522,
+          "end": 13.883,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recovered.",
+          "start": 13.943,
+          "end": 14.523,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.29121660505022323,
-      "compression_ratio": 1.4528301886792452,
-      "no_speech_prob": 0.12041808664798737
+      "avg_logprob": -0.04333496101511022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 2160,
-      "start": 21.6,
-      "end": 30.32,
-      "text": " agencies block doctors and providers from giving life-saving treatments.",
-      "tokens": [
-        50364,
-        9504,
-        3461,
-        8778,
-        293,
-        11330,
-        490,
-        2902,
-        993,
-        12,
-        82,
-        6152,
-        15795,
-        13,
-        50800
+      "start": 15.824,
+      "end": 28.415,
+      "text": "And number three, do not let governments or pharmacies or agencies block doctors and providers from giving life-saving treatments.",
+      "words": [
+        {
+          "word": "And",
+          "start": 15.824,
+          "end": 15.904,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "number",
+          "start": 15.944,
+          "end": 16.225,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three,",
+          "start": 16.385,
+          "end": 16.765,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 18.246,
+          "end": 18.466,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 18.687,
+          "end": 18.967,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "let",
+          "start": 19.087,
+          "end": 19.307,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "governments",
+          "start": 19.447,
+          "end": 19.948,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 20.408,
+          "end": 20.508,
+          "score": 0.582,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmacies",
+          "start": 20.628,
+          "end": 21.349,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 21.929,
+          "end": 22.009,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "agencies",
+          "start": 22.25,
+          "end": 22.87,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "block",
+          "start": 23.23,
+          "end": 23.631,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors",
+          "start": 23.831,
+          "end": 24.271,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 24.331,
+          "end": 24.411,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "providers",
+          "start": 24.471,
+          "end": 25.152,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 25.753,
+          "end": 25.973,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "giving",
+          "start": 26.133,
+          "end": 26.513,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "life-saving",
+          "start": 26.713,
+          "end": 27.714,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treatments.",
+          "start": 27.834,
+          "end": 28.415,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.336239218711853,
-      "compression_ratio": 1.0588235294117647,
-      "no_speech_prob": 0.10737914592027664
+      "avg_logprob": -0.04333496101511022,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Number",
+      "start": 0.411,
+      "end": 0.632,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one,",
+      "start": 0.772,
+      "end": 0.932,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 2.053,
+      "end": 2.313,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 2.833,
+      "end": 3.154,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inject",
+      "start": 3.554,
+      "end": 4.094,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.255,
+      "end": 4.415,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 4.535,
+      "end": 5.055,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 5.756,
+      "end": 6.016,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 6.216,
+      "end": 6.476,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shot.",
+      "start": 6.737,
+      "end": 7.117,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Number",
+      "start": 9.919,
+      "end": 10.179,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two,",
+      "start": 10.26,
+      "end": 10.6,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 11.901,
+      "end": 12.141,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 12.321,
+      "end": 12.602,
+      "score": 0.696,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inject",
+      "start": 12.822,
+      "end": 13.282,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 13.362,
+      "end": 13.462,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 13.522,
+      "end": 13.883,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recovered.",
+      "start": 13.943,
+      "end": 14.523,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 15.824,
+      "end": 15.904,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "number",
+      "start": 15.944,
+      "end": 16.225,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three,",
+      "start": 16.385,
+      "end": 16.765,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 18.246,
+      "end": 18.466,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 18.687,
+      "end": 18.967,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "let",
+      "start": 19.087,
+      "end": 19.307,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "governments",
+      "start": 19.447,
+      "end": 19.948,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 20.408,
+      "end": 20.508,
+      "score": 0.582,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmacies",
+      "start": 20.628,
+      "end": 21.349,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 21.929,
+      "end": 22.009,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "agencies",
+      "start": 22.25,
+      "end": 22.87,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "block",
+      "start": 23.23,
+      "end": 23.631,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors",
+      "start": 23.831,
+      "end": 24.271,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 24.331,
+      "end": 24.411,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "providers",
+      "start": 24.471,
+      "end": 25.152,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 25.753,
+      "end": 25.973,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "giving",
+      "start": 26.133,
+      "end": 26.513,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "life-saving",
+      "start": 26.713,
+      "end": 27.714,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatments.",
+      "start": 27.834,
+      "end": 28.415,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

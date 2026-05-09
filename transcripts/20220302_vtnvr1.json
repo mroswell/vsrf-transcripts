@@ -1,511 +1,2266 @@
 {
-  "text": " We know in studies and solid data out of other countries, as we've seen last week, the CDC has withheld data from the United States citizens in other countries where we have solid data, 96% of children in the UK as of January already had had COVID. We're putting policies on people that have gone through the rough course of having this disease, and we need to recognize the plain and simple fact that we're segregating people. We are violating Title VII of the United States federal code, and we're treating people separately, under separate but equal, we're violating civil rights of individuals. If you've had COVID, you are recovered. The science shows it. And we're asking people to get a test to maintain employment, even though they've had COVID, when we know that the vaccinated can carry equal volumes of virus. And we're saying they don't need to be tested. We are segregating our society unnecessarily.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.24,
-      "text": " We know in studies and solid data out of other countries,",
-      "tokens": [
-        50364,
-        492,
-        458,
-        294,
-        5313,
-        293,
-        5100,
-        1412,
-        484,
-        295,
-        661,
-        3517,
-        11,
-        50576
+      "start": 0.531,
+      "end": 9.977,
+      "text": " We know in studies and solid data out of other countries, we've seen last week the CDC has withheld data from the United States citizens.",
+      "words": [
+        {
+          "word": "We",
+          "start": 0.531,
+          "end": 0.631,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 0.671,
+          "end": 0.872,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 1.192,
+          "end": 1.292,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies",
+          "start": 1.392,
+          "end": 1.792,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 1.892,
+          "end": 1.992,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "solid",
+          "start": 2.452,
+          "end": 2.833,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data",
+          "start": 2.853,
+          "end": 3.153,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 3.193,
+          "end": 3.293,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 3.333,
+          "end": 3.393,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 3.453,
+          "end": 3.613,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "countries,",
+          "start": 3.673,
+          "end": 4.114,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we've",
+          "start": 4.774,
+          "end": 5.014,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seen",
+          "start": 5.234,
+          "end": 5.514,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "last",
+          "start": 5.594,
+          "end": 5.855,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "week",
+          "start": 5.915,
+          "end": 6.115,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.155,
+          "end": 6.235,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "CDC",
+          "start": 6.255,
+          "end": 6.775,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 6.815,
+          "end": 6.935,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "withheld",
+          "start": 7.736,
+          "end": 8.216,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data",
+          "start": 8.276,
+          "end": 8.536,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 8.556,
+          "end": 8.676,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 8.696,
+          "end": 8.756,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "United",
+          "start": 8.796,
+          "end": 9.117,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "States",
+          "start": 9.157,
+          "end": 9.437,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "citizens.",
+          "start": 9.497,
+          "end": 9.977,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.0883969930862939,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.24,
-      "end": 8.56,
-      "text": " as we've seen last week, the CDC has withheld data",
-      "tokens": [
-        50576,
-        382,
-        321,
-        600,
-        1612,
-        1036,
-        1243,
-        11,
-        264,
-        17133,
-        575,
-        365,
-        23504,
-        1412,
-        50792
+      "start": 10.738,
+      "end": 17.642,
+      "text": "In other countries where we have solid data, 96% of children in the UK as of January already had had COVID.",
+      "words": [
+        {
+          "word": "In",
+          "start": 10.738,
+          "end": 10.818,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 10.858,
+          "end": 11.038,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "countries",
+          "start": 11.078,
+          "end": 11.478,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 11.518,
+          "end": 11.678,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 11.718,
+          "end": 11.818,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 11.858,
+          "end": 12.038,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "solid",
+          "start": 12.078,
+          "end": 12.439,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data,",
+          "start": 12.459,
+          "end": 13.079,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "96%",
+          "start": 13.239,
+          "end": 13.719,
+          "score": 0.698,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 13.739,
+          "end": 13.799,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 13.88,
+          "end": 14.34,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 14.58,
+          "end": 14.66,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 14.68,
+          "end": 14.74,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "UK",
+          "start": 14.9,
+          "end": 15.36,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 15.38,
+          "end": 15.42,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 15.781,
+          "end": 15.841,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "January",
+          "start": 15.881,
+          "end": 16.441,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "already",
+          "start": 16.501,
+          "end": 16.741,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 16.761,
+          "end": 16.841,
+          "score": 0.277,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 16.901,
+          "end": 17.122,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID.",
+          "start": 17.202,
+          "end": 17.642,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.0883969930862939,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.56,
-      "end": 11.540000000000001,
-      "text": " from the United States citizens in other countries",
-      "tokens": [
-        50792,
-        490,
-        264,
-        2824,
-        3040,
-        7180,
-        294,
-        661,
-        3517,
-        50941
+      "start": 18.082,
+      "end": 27.467,
+      "text": " We're putting policies on people that have gone through the rough course of having this disease, and we need to recognize the plain and simple fact that we're segregating people.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 18.082,
+          "end": 18.242,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "putting",
+          "start": 18.282,
+          "end": 18.522,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "policies",
+          "start": 18.602,
+          "end": 19.123,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 19.203,
+          "end": 19.303,
+          "score": 0.584,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 19.383,
+          "end": 19.743,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 19.803,
+          "end": 19.923,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 19.963,
+          "end": 20.103,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gone",
+          "start": 20.663,
+          "end": 20.864,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 20.904,
+          "end": 21.184,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 21.244,
+          "end": 21.464,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rough",
+          "start": 21.604,
+          "end": 21.824,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "course",
+          "start": 22.004,
+          "end": 22.304,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 22.324,
+          "end": 22.404,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "having",
+          "start": 22.464,
+          "end": 22.745,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 22.785,
+          "end": 22.945,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease,",
+          "start": 22.985,
+          "end": 23.425,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 23.865,
+          "end": 23.965,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 24.005,
+          "end": 24.105,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 24.145,
+          "end": 24.285,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 24.305,
+          "end": 24.345,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recognize",
+          "start": 24.425,
+          "end": 24.906,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.946,
+          "end": 25.026,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plain",
+          "start": 25.066,
+          "end": 25.286,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 25.306,
+          "end": 25.386,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "simple",
+          "start": 25.426,
+          "end": 25.706,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fact",
+          "start": 25.786,
+          "end": 26.086,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 26.146,
+          "end": 26.246,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 26.286,
+          "end": 26.446,
+          "score": 0.633,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "segregating",
+          "start": 26.527,
+          "end": 27.127,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people.",
+          "start": 27.207,
+          "end": 27.467,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.05531442754062606,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 11.540000000000001,
-      "end": 15.52,
-      "text": " where we have solid data, 96% of children in the UK",
-      "tokens": [
-        50941,
-        689,
-        321,
-        362,
-        5100,
-        1412,
-        11,
-        24124,
-        4,
-        295,
-        2227,
-        294,
-        264,
-        7051,
-        51140
+      "start": 27.507,
+      "end": 36.292,
+      "text": "We are violating Title VII of the United States Federal Code, and we're treating people under separate but equal.",
+      "words": [
+        {
+          "word": "We",
+          "start": 27.507,
+          "end": 27.587,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 27.627,
+          "end": 27.747,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "violating",
+          "start": 27.807,
+          "end": 28.307,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Title",
+          "start": 28.367,
+          "end": 28.708,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "VII",
+          "start": 28.908,
+          "end": 29.088,
+          "score": 0.448,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 29.728,
+          "end": 29.808,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 29.848,
+          "end": 30.048,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "United",
+          "start": 30.709,
+          "end": 31.069,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "States",
+          "start": 31.149,
+          "end": 31.489,
+          "score": 0.694,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Federal",
+          "start": 31.589,
+          "end": 31.909,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Code,",
+          "start": 32.009,
+          "end": 32.43,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 33.07,
+          "end": 33.17,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 33.21,
+          "end": 33.39,
+          "score": 0.637,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treating",
+          "start": 33.43,
+          "end": 33.73,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 33.81,
+          "end": 34.09,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "under",
+          "start": 34.11,
+          "end": 34.211,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "separate",
+          "start": 34.351,
+          "end": 34.851,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 34.871,
+          "end": 35.971,
+          "score": 0.64,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "equal.",
+          "start": 36.071,
+          "end": 36.292,
+          "score": 0.554,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.05531442754062606,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 15.52,
-      "end": 18.080000000000002,
-      "text": " as of January already had had COVID.",
-      "tokens": [
-        51140,
-        382,
-        295,
-        7061,
-        1217,
-        632,
-        632,
-        4566,
-        13,
-        51268
+      "start": 36.332,
+      "end": 38.473,
+      "text": "We're violating civil rights of individuals.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 36.332,
+          "end": 36.472,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "violating",
+          "start": 36.512,
+          "end": 37.032,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "civil",
+          "start": 37.072,
+          "end": 37.312,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights",
+          "start": 37.332,
+          "end": 37.552,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 37.592,
+          "end": 37.692,
+          "score": 0.629,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individuals.",
+          "start": 37.752,
+          "end": 38.473,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.05531442754062606,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 18.080000000000002,
-      "end": 21.2,
-      "text": " We're putting policies on people that have gone through",
-      "tokens": [
-        51268,
-        492,
-        434,
-        3372,
-        7657,
-        322,
-        561,
-        300,
-        362,
-        2780,
-        807,
-        51424
+      "start": 38.893,
+      "end": 40.874,
+      "text": "If you've had COVID, you are recovered.",
+      "words": [
+        {
+          "word": "If",
+          "start": 38.893,
+          "end": 38.933,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you've",
+          "start": 38.973,
+          "end": 39.133,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 39.213,
+          "end": 39.413,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID,",
+          "start": 39.473,
+          "end": 39.833,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 39.853,
+          "end": 39.954,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 40.014,
+          "end": 40.134,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recovered.",
+          "start": 40.194,
+          "end": 40.874,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.05531442754062606,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 21.2,
-      "end": 23.64,
-      "text": " the rough course of having this disease,",
-      "tokens": [
-        51424,
-        264,
-        5903,
-        1164,
-        295,
-        1419,
-        341,
-        4752,
-        11,
-        51546
+      "start": 40.914,
+      "end": 42.355,
+      "text": "The science shows it.",
+      "words": [
+        {
+          "word": "The",
+          "start": 40.914,
+          "end": 41.034,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "science",
+          "start": 41.094,
+          "end": 41.514,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shows",
+          "start": 41.814,
+          "end": 42.155,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 42.275,
+          "end": 42.355,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.05531442754062606,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 23.64,
-      "end": 26.16,
-      "text": " and we need to recognize the plain and simple fact",
-      "tokens": [
-        51546,
-        293,
-        321,
-        643,
-        281,
-        5521,
-        264,
-        11121,
-        293,
-        2199,
-        1186,
-        51672
+      "start": 43.036,
+      "end": 50.914,
+      "text": " And we're asking people to get a test to maintain employment, even though they've had COVID, when we know that the vaccinated can carry equal volumes of virus.",
+      "words": [
+        {
+          "word": "And",
+          "start": 43.036,
+          "end": 43.116,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 43.156,
+          "end": 43.336,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "asking",
+          "start": 43.497,
+          "end": 43.797,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 43.837,
+          "end": 44.098,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 44.138,
+          "end": 44.198,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 44.238,
+          "end": 44.399,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 44.439,
+          "end": 44.459,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 44.539,
+          "end": 44.84,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 44.88,
+          "end": 44.96,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "maintain",
+          "start": 45.0,
+          "end": 45.421,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "employment,",
+          "start": 45.481,
+          "end": 46.003,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "even",
+          "start": 46.123,
+          "end": 46.263,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "though",
+          "start": 46.303,
+          "end": 46.444,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they've",
+          "start": 46.464,
+          "end": 46.664,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 46.724,
+          "end": 46.905,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID,",
+          "start": 46.965,
+          "end": 47.346,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 47.386,
+          "end": 47.546,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 47.586,
+          "end": 47.747,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 47.807,
+          "end": 47.987,
+          "score": 0.711,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 48.047,
+          "end": 48.168,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 48.208,
+          "end": 48.308,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 48.368,
+          "end": 49.01,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 49.03,
+          "end": 49.19,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "carry",
+          "start": 49.23,
+          "end": 49.531,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "equal",
+          "start": 49.711,
+          "end": 49.932,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "volumes",
+          "start": 49.992,
+          "end": 50.373,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 50.433,
+          "end": 50.493,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus.",
+          "start": 50.513,
+          "end": 50.914,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.04794034090909091,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 26.16,
-      "end": 27.48,
-      "text": " that we're segregating people.",
-      "tokens": [
-        51672,
-        300,
-        321,
-        434,
-        37630,
-        990,
-        561,
-        13,
-        51738
+      "start": 51.395,
+      "end": 53.159,
+      "text": "And we're saying they don't need to be tested.",
+      "words": [
+        {
+          "word": "And",
+          "start": 51.395,
+          "end": 51.475,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 51.515,
+          "end": 51.676,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "saying",
+          "start": 51.696,
+          "end": 51.896,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 51.957,
+          "end": 52.097,
+          "score": 0.649,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 52.117,
+          "end": 52.277,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 52.317,
+          "end": 52.478,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 52.498,
+          "end": 52.538,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 52.578,
+          "end": 52.678,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tested.",
+          "start": 52.738,
+          "end": 53.159,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19750948564721904,
-      "compression_ratio": 1.6174242424242424,
-      "no_speech_prob": 0.10211512446403503
+      "avg_logprob": -0.04794034090909091,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2748,
-      "start": 27.48,
-      "end": 32.480000000000004,
-      "text": " We are violating Title VII of the United States federal code,",
-      "tokens": [
-        50364,
-        492,
-        366,
-        42201,
-        26768,
-        48087,
-        295,
-        264,
-        2824,
-        3040,
-        6019,
-        3089,
-        11,
-        50614
+      "start": 53.24,
+      "end": 56.146,
+      "text": "We are segregating our society unnecessarily.",
+      "words": [
+        {
+          "word": "We",
+          "start": 53.24,
+          "end": 53.36,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 53.42,
+          "end": 53.54,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "segregating",
+          "start": 53.681,
+          "end": 54.262,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 54.302,
+          "end": 54.402,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "society",
+          "start": 54.462,
+          "end": 54.984,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unnecessarily.",
+          "start": 55.144,
+          "end": 56.146,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 10,
-      "seek": 2748,
-      "start": 32.96,
-      "end": 35.2,
-      "text": " and we're treating people separately,",
-      "tokens": [
-        50638,
-        293,
-        321,
-        434,
-        15083,
-        561,
-        14759,
-        11,
-        50750
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 11,
-      "seek": 2748,
-      "start": 35.2,
-      "end": 36.32,
-      "text": " under separate but equal,",
-      "tokens": [
-        50750,
-        833,
-        4994,
-        457,
-        2681,
-        11,
-        50806
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 12,
-      "seek": 2748,
-      "start": 36.32,
-      "end": 38.8,
-      "text": " we're violating civil rights of individuals.",
-      "tokens": [
-        50806,
-        321,
-        434,
-        42201,
-        5605,
-        4601,
-        295,
-        5346,
-        13,
-        50930
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 13,
-      "seek": 2748,
-      "start": 38.8,
-      "end": 40.92,
-      "text": " If you've had COVID, you are recovered.",
-      "tokens": [
-        50930,
-        759,
-        291,
-        600,
-        632,
-        4566,
-        11,
-        291,
-        366,
-        19542,
-        13,
-        51036
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 14,
-      "seek": 2748,
-      "start": 40.92,
-      "end": 42.6,
-      "text": " The science shows it.",
-      "tokens": [
-        51036,
-        440,
-        3497,
-        3110,
-        309,
-        13,
-        51120
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 15,
-      "seek": 2748,
-      "start": 42.6,
-      "end": 44.88,
-      "text": " And we're asking people to get a test",
-      "tokens": [
-        51120,
-        400,
-        321,
-        434,
-        3365,
-        561,
-        281,
-        483,
-        257,
-        1500,
-        51234
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 16,
-      "seek": 2748,
-      "start": 44.88,
-      "end": 47.36,
-      "text": " to maintain employment, even though they've had COVID,",
-      "tokens": [
-        51234,
-        281,
-        6909,
-        11949,
-        11,
-        754,
-        1673,
-        436,
-        600,
-        632,
-        4566,
-        11,
-        51358
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 17,
-      "seek": 2748,
-      "start": 47.36,
-      "end": 49.04,
-      "text": " when we know that the vaccinated",
-      "tokens": [
-        51358,
-        562,
-        321,
-        458,
-        300,
-        264,
-        14686,
-        51442
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 18,
-      "seek": 2748,
-      "start": 49.04,
-      "end": 51.08,
-      "text": " can carry equal volumes of virus.",
-      "tokens": [
-        51442,
-        393,
-        3985,
-        2681,
-        22219,
-        295,
-        5752,
-        13,
-        51544
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 19,
-      "seek": 2748,
-      "start": 51.08,
-      "end": 53.18,
-      "text": " And we're saying they don't need to be tested.",
-      "tokens": [
-        51544,
-        400,
-        321,
-        434,
-        1566,
-        436,
-        500,
-        380,
-        643,
-        281,
-        312,
-        8246,
-        13,
-        51649
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
-    },
-    {
-      "id": 20,
-      "seek": 2748,
-      "start": 53.18,
-      "end": 56.400000000000006,
-      "text": " We are segregating our society unnecessarily.",
-      "tokens": [
-        51649,
-        492,
-        366,
-        37630,
-        990,
-        527,
-        4086,
-        16799,
-        3289,
-        13,
-        51810
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16160497211274646,
-      "compression_ratio": 1.6552901023890785,
-      "no_speech_prob": 0.0027077998965978622
+      "avg_logprob": -0.04794034090909091,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "We",
+      "start": 0.531,
+      "end": 0.631,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 0.671,
+      "end": 0.872,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 1.192,
+      "end": 1.292,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies",
+      "start": 1.392,
+      "end": 1.792,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 1.892,
+      "end": 1.992,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "solid",
+      "start": 2.452,
+      "end": 2.833,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data",
+      "start": 2.853,
+      "end": 3.153,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 3.193,
+      "end": 3.293,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 3.333,
+      "end": 3.393,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 3.453,
+      "end": 3.613,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "countries,",
+      "start": 3.673,
+      "end": 4.114,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we've",
+      "start": 4.774,
+      "end": 5.014,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seen",
+      "start": 5.234,
+      "end": 5.514,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "last",
+      "start": 5.594,
+      "end": 5.855,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "week",
+      "start": 5.915,
+      "end": 6.115,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.155,
+      "end": 6.235,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "CDC",
+      "start": 6.255,
+      "end": 6.775,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 6.815,
+      "end": 6.935,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "withheld",
+      "start": 7.736,
+      "end": 8.216,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data",
+      "start": 8.276,
+      "end": 8.536,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 8.556,
+      "end": 8.676,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 8.696,
+      "end": 8.756,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "United",
+      "start": 8.796,
+      "end": 9.117,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "States",
+      "start": 9.157,
+      "end": 9.437,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "citizens.",
+      "start": 9.497,
+      "end": 9.977,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "In",
+      "start": 10.738,
+      "end": 10.818,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 10.858,
+      "end": 11.038,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "countries",
+      "start": 11.078,
+      "end": 11.478,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 11.518,
+      "end": 11.678,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 11.718,
+      "end": 11.818,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 11.858,
+      "end": 12.038,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "solid",
+      "start": 12.078,
+      "end": 12.439,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data,",
+      "start": 12.459,
+      "end": 13.079,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "96%",
+      "start": 13.239,
+      "end": 13.719,
+      "score": 0.698,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 13.739,
+      "end": 13.799,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 13.88,
+      "end": 14.34,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 14.58,
+      "end": 14.66,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 14.68,
+      "end": 14.74,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "UK",
+      "start": 14.9,
+      "end": 15.36,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 15.38,
+      "end": 15.42,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 15.781,
+      "end": 15.841,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "January",
+      "start": 15.881,
+      "end": 16.441,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "already",
+      "start": 16.501,
+      "end": 16.741,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 16.761,
+      "end": 16.841,
+      "score": 0.277,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 16.901,
+      "end": 17.122,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID.",
+      "start": 17.202,
+      "end": 17.642,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We're",
+      "start": 18.082,
+      "end": 18.242,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "putting",
+      "start": 18.282,
+      "end": 18.522,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "policies",
+      "start": 18.602,
+      "end": 19.123,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 19.203,
+      "end": 19.303,
+      "score": 0.584,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 19.383,
+      "end": 19.743,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 19.803,
+      "end": 19.923,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 19.963,
+      "end": 20.103,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gone",
+      "start": 20.663,
+      "end": 20.864,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 20.904,
+      "end": 21.184,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 21.244,
+      "end": 21.464,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rough",
+      "start": 21.604,
+      "end": 21.824,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "course",
+      "start": 22.004,
+      "end": 22.304,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 22.324,
+      "end": 22.404,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "having",
+      "start": 22.464,
+      "end": 22.745,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 22.785,
+      "end": 22.945,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease,",
+      "start": 22.985,
+      "end": 23.425,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 23.865,
+      "end": 23.965,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 24.005,
+      "end": 24.105,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 24.145,
+      "end": 24.285,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 24.305,
+      "end": 24.345,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recognize",
+      "start": 24.425,
+      "end": 24.906,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.946,
+      "end": 25.026,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plain",
+      "start": 25.066,
+      "end": 25.286,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 25.306,
+      "end": 25.386,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "simple",
+      "start": 25.426,
+      "end": 25.706,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fact",
+      "start": 25.786,
+      "end": 26.086,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 26.146,
+      "end": 26.246,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 26.286,
+      "end": 26.446,
+      "score": 0.633,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "segregating",
+      "start": 26.527,
+      "end": 27.127,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people.",
+      "start": 27.207,
+      "end": 27.467,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 27.507,
+      "end": 27.587,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 27.627,
+      "end": 27.747,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "violating",
+      "start": 27.807,
+      "end": 28.307,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Title",
+      "start": 28.367,
+      "end": 28.708,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "VII",
+      "start": 28.908,
+      "end": 29.088,
+      "score": 0.448,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 29.728,
+      "end": 29.808,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 29.848,
+      "end": 30.048,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "United",
+      "start": 30.709,
+      "end": 31.069,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "States",
+      "start": 31.149,
+      "end": 31.489,
+      "score": 0.694,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Federal",
+      "start": 31.589,
+      "end": 31.909,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Code,",
+      "start": 32.009,
+      "end": 32.43,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 33.07,
+      "end": 33.17,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 33.21,
+      "end": 33.39,
+      "score": 0.637,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treating",
+      "start": 33.43,
+      "end": 33.73,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 33.81,
+      "end": 34.09,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "under",
+      "start": 34.11,
+      "end": 34.211,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "separate",
+      "start": 34.351,
+      "end": 34.851,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 34.871,
+      "end": 35.971,
+      "score": 0.64,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "equal.",
+      "start": 36.071,
+      "end": 36.292,
+      "score": 0.554,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We're",
+      "start": 36.332,
+      "end": 36.472,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "violating",
+      "start": 36.512,
+      "end": 37.032,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "civil",
+      "start": 37.072,
+      "end": 37.312,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights",
+      "start": 37.332,
+      "end": 37.552,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 37.592,
+      "end": 37.692,
+      "score": 0.629,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individuals.",
+      "start": 37.752,
+      "end": 38.473,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 38.893,
+      "end": 38.933,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you've",
+      "start": 38.973,
+      "end": 39.133,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 39.213,
+      "end": 39.413,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID,",
+      "start": 39.473,
+      "end": 39.833,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 39.853,
+      "end": 39.954,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 40.014,
+      "end": 40.134,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recovered.",
+      "start": 40.194,
+      "end": 40.874,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 40.914,
+      "end": 41.034,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "science",
+      "start": 41.094,
+      "end": 41.514,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shows",
+      "start": 41.814,
+      "end": 42.155,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 42.275,
+      "end": 42.355,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 43.036,
+      "end": 43.116,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 43.156,
+      "end": 43.336,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "asking",
+      "start": 43.497,
+      "end": 43.797,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 43.837,
+      "end": 44.098,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 44.138,
+      "end": 44.198,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 44.238,
+      "end": 44.399,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 44.439,
+      "end": 44.459,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 44.539,
+      "end": 44.84,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 44.88,
+      "end": 44.96,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "maintain",
+      "start": 45.0,
+      "end": 45.421,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "employment,",
+      "start": 45.481,
+      "end": 46.003,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "even",
+      "start": 46.123,
+      "end": 46.263,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "though",
+      "start": 46.303,
+      "end": 46.444,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they've",
+      "start": 46.464,
+      "end": 46.664,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 46.724,
+      "end": 46.905,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID,",
+      "start": 46.965,
+      "end": 47.346,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 47.386,
+      "end": 47.546,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 47.586,
+      "end": 47.747,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 47.807,
+      "end": 47.987,
+      "score": 0.711,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 48.047,
+      "end": 48.168,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 48.208,
+      "end": 48.308,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 48.368,
+      "end": 49.01,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 49.03,
+      "end": 49.19,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "carry",
+      "start": 49.23,
+      "end": 49.531,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "equal",
+      "start": 49.711,
+      "end": 49.932,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "volumes",
+      "start": 49.992,
+      "end": 50.373,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 50.433,
+      "end": 50.493,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus.",
+      "start": 50.513,
+      "end": 50.914,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 51.395,
+      "end": 51.475,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 51.515,
+      "end": 51.676,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "saying",
+      "start": 51.696,
+      "end": 51.896,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 51.957,
+      "end": 52.097,
+      "score": 0.649,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 52.117,
+      "end": 52.277,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 52.317,
+      "end": 52.478,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 52.498,
+      "end": 52.538,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 52.578,
+      "end": 52.678,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tested.",
+      "start": 52.738,
+      "end": 53.159,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 53.24,
+      "end": 53.36,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 53.42,
+      "end": 53.54,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "segregating",
+      "start": 53.681,
+      "end": 54.262,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 54.302,
+      "end": 54.402,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "society",
+      "start": 54.462,
+      "end": 54.984,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unnecessarily.",
+      "start": 55.144,
+      "end": 56.146,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

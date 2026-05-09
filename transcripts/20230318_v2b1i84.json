@@ -1,449 +1,3157 @@
 {
-  "text": " Hi, my name is Sujata Gibson. I am a civil rights attorney in Ithaca, New York, the principal attorney at the Gibson law firm, and I teach part-time at Cornell Law School in the area of civil rights and movement law. I will be presenting on the civil rights panel and also presenting a keynote speech at the conference on the role of movement lawyers in this pandemic litigation. This pandemic has been used to grab unprecedented powers and has resulted in widespread erosion of our most basic civil rights, human rights, and constitutional freedoms. It is vital that all of us movement lawyers, all of us lawyers who care and see what's going on communicate with one another and get together to really understand what we're doing here to support this movement and to take back our democracy and ensure that our most basic rights are not run roughshod and do not get lost forever. We need more attorneys. There's a lot of cases out there and we need help. So if you are considering doing this kind of litigation and it's vital that you come and that we get to meet you and you get to meet us, I think there's some great presenters at this conference and I'm really looking forward to meeting you all.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.96,
-      "text": " Hi, my name is Sujata Gibson. I am a civil rights attorney in Ithaca, New York,",
-      "tokens": [
-        50364,
-        2421,
-        11,
-        452,
-        1315,
-        307,
-        2746,
-        73,
-        3274,
-        42250,
-        13,
-        286,
-        669,
-        257,
-        5605,
-        4601,
-        13469,
-        294,
-        286,
-        392,
-        6628,
-        11,
-        1873,
-        3609,
-        11,
-        50612
+      "start": 0.471,
+      "end": 1.832,
+      "text": " Hi, my name is Sujata Gibson.",
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.471,
+          "end": 0.531,
+          "score": 0.328,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 0.571,
+          "end": 0.671,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "name",
+          "start": 0.712,
+          "end": 0.832,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 0.872,
+          "end": 0.912,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Sujata",
+          "start": 0.952,
+          "end": 1.352,
+          "score": 0.647,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Gibson.",
+          "start": 1.372,
+          "end": 1.832,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10034232366652716,
-      "compression_ratio": 1.7549407114624507,
-      "no_speech_prob": 0.00911678746342659
+      "avg_logprob": -0.07887414056960851,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.96,
-      "end": 10.24,
-      "text": " the principal attorney at the Gibson law firm, and I teach part-time at Cornell Law School",
-      "tokens": [
-        50612,
-        264,
-        9716,
-        13469,
-        412,
-        264,
-        42250,
-        2101,
-        6174,
-        11,
-        293,
-        286,
-        2924,
-        644,
-        12,
-        3766,
-        412,
-        43257,
-        7744,
-        5070,
-        50876
+      "start": 2.113,
+      "end": 12.76,
+      "text": "I am a civil rights attorney in Ithaca, New York, the principal attorney at the Gibson law firm, and I teach part-time at Cornell Law School in the area of civil rights and movement law.",
+      "words": [
+        {
+          "word": "I",
+          "start": 2.113,
+          "end": 2.173,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "am",
+          "start": 2.353,
+          "end": 2.433,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 2.453,
+          "end": 2.473,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "civil",
+          "start": 2.653,
+          "end": 2.913,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights",
+          "start": 2.973,
+          "end": 3.193,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attorney",
+          "start": 3.273,
+          "end": 3.654,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 3.714,
+          "end": 3.814,
+          "score": 0.558,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Ithaca,",
+          "start": 3.854,
+          "end": 4.174,
+          "score": 0.595,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "New",
+          "start": 4.214,
+          "end": 4.314,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "York,",
+          "start": 4.334,
+          "end": 4.634,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 5.115,
+          "end": 5.235,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "principal",
+          "start": 5.255,
+          "end": 5.735,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attorney",
+          "start": 5.795,
+          "end": 6.156,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 6.276,
+          "end": 6.376,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.416,
+          "end": 6.496,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Gibson",
+          "start": 6.516,
+          "end": 6.896,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "law",
+          "start": 6.916,
+          "end": 7.116,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "firm,",
+          "start": 7.156,
+          "end": 7.477,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 7.637,
+          "end": 7.757,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 7.817,
+          "end": 7.877,
+          "score": 0.663,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "teach",
+          "start": 7.917,
+          "end": 8.177,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "part-time",
+          "start": 8.217,
+          "end": 8.697,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 8.758,
+          "end": 8.838,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Cornell",
+          "start": 8.878,
+          "end": 9.238,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Law",
+          "start": 9.258,
+          "end": 9.498,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "School",
+          "start": 9.558,
+          "end": 9.898,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 10.439,
+          "end": 10.519,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 10.539,
+          "end": 10.619,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "area",
+          "start": 10.699,
+          "end": 10.979,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 11.019,
+          "end": 11.079,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "civil",
+          "start": 11.119,
+          "end": 11.379,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights",
+          "start": 11.44,
+          "end": 11.7,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 11.9,
+          "end": 12.0,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "movement",
+          "start": 12.1,
+          "end": 12.46,
+          "score": 0.511,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "law.",
+          "start": 12.5,
+          "end": 12.76,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10034232366652716,
-      "compression_ratio": 1.7549407114624507,
-      "no_speech_prob": 0.00911678746342659
+      "avg_logprob": -0.07887414056960851,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 10.24,
-      "end": 16.4,
-      "text": " in the area of civil rights and movement law. I will be presenting on the civil rights panel",
-      "tokens": [
-        50876,
-        294,
-        264,
-        1859,
-        295,
-        5605,
-        4601,
-        293,
-        3963,
-        2101,
-        13,
-        286,
-        486,
-        312,
-        15578,
-        322,
-        264,
-        5605,
-        4601,
-        4831,
-        51184
+      "start": 13.501,
+      "end": 19.986,
+      "text": "I will be presenting on the civil rights panel and also presenting a keynote speech at the conference.",
+      "words": [
+        {
+          "word": "I",
+          "start": 13.501,
+          "end": 13.581,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 13.641,
+          "end": 13.821,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 13.861,
+          "end": 14.061,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "presenting",
+          "start": 14.162,
+          "end": 14.762,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 15.302,
+          "end": 15.362,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 15.402,
+          "end": 15.483,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "civil",
+          "start": 15.523,
+          "end": 15.783,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights",
+          "start": 15.843,
+          "end": 16.043,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "panel",
+          "start": 16.103,
+          "end": 16.463,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 16.583,
+          "end": 16.703,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 16.743,
+          "end": 16.984,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "presenting",
+          "start": 17.024,
+          "end": 17.424,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 17.464,
+          "end": 17.484,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "keynote",
+          "start": 17.544,
+          "end": 18.044,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "speech",
+          "start": 18.124,
+          "end": 18.505,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 19.225,
+          "end": 19.305,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 19.325,
+          "end": 19.425,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conference.",
+          "start": 19.445,
+          "end": 19.986,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10034232366652716,
-      "compression_ratio": 1.7549407114624507,
-      "no_speech_prob": 0.00911678746342659
+      "avg_logprob": -0.07887414056960851,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 16.4,
-      "end": 22.48,
-      "text": " and also presenting a keynote speech at the conference on the role of movement lawyers",
-      "tokens": [
-        51184,
-        293,
-        611,
-        15578,
-        257,
-        33896,
-        6218,
-        412,
-        264,
-        7586,
-        322,
-        264,
-        3090,
-        295,
-        3963,
-        16219,
-        51488
+      "start": 20.758,
+      "end": 24.502,
+      "text": " on the role of movement lawyers in this pandemic litigation.",
+      "words": [
+        {
+          "word": "on",
+          "start": 20.758,
+          "end": 20.878,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.898,
+          "end": 20.958,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "role",
+          "start": 20.998,
+          "end": 21.259,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 21.279,
+          "end": 21.339,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "movement",
+          "start": 21.399,
+          "end": 21.719,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lawyers",
+          "start": 21.759,
+          "end": 22.239,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 22.64,
+          "end": 22.74,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 22.82,
+          "end": 23.06,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pandemic",
+          "start": 23.361,
+          "end": 23.841,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "litigation.",
+          "start": 23.881,
+          "end": 24.502,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10034232366652716,
-      "compression_ratio": 1.7549407114624507,
-      "no_speech_prob": 0.00911678746342659
+      "avg_logprob": -0.029830932500772178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 22.48,
-      "end": 29.6,
-      "text": " in this pandemic litigation. This pandemic has been used to grab unprecedented powers and has",
-      "tokens": [
-        51488,
-        294,
-        341,
-        5388,
-        33359,
-        13,
-        639,
-        5388,
-        575,
-        668,
-        1143,
-        281,
-        4444,
-        21555,
-        8674,
-        293,
-        575,
-        51844
+      "start": 24.802,
+      "end": 36.032,
+      "text": "This pandemic has been used to grab unprecedented powers and has resulted in widespread erosion of our most basic civil rights, human rights, and constitutional freedoms.",
+      "words": [
+        {
+          "word": "This",
+          "start": 24.802,
+          "end": 24.962,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pandemic",
+          "start": 25.002,
+          "end": 25.402,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 25.422,
+          "end": 25.563,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 25.603,
+          "end": 25.783,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "used",
+          "start": 25.983,
+          "end": 26.263,
+          "score": 0.632,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 26.283,
+          "end": 26.323,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "grab",
+          "start": 26.543,
+          "end": 26.864,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unprecedented",
+          "start": 26.884,
+          "end": 27.825,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "powers",
+          "start": 27.865,
+          "end": 28.405,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 28.846,
+          "end": 29.006,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 29.286,
+          "end": 29.506,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "resulted",
+          "start": 29.766,
+          "end": 30.207,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 30.267,
+          "end": 30.347,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "widespread",
+          "start": 30.567,
+          "end": 31.208,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "erosion",
+          "start": 31.248,
+          "end": 31.728,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 31.768,
+          "end": 31.828,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 31.888,
+          "end": 31.968,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 32.008,
+          "end": 32.189,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "basic",
+          "start": 32.309,
+          "end": 32.749,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "civil",
+          "start": 32.849,
+          "end": 33.23,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights,",
+          "start": 33.43,
+          "end": 33.77,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "human",
+          "start": 33.95,
+          "end": 34.23,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights,",
+          "start": 34.291,
+          "end": 34.591,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 34.671,
+          "end": 34.771,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "constitutional",
+          "start": 34.811,
+          "end": 35.572,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freedoms.",
+          "start": 35.612,
+          "end": 36.032,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10034232366652716,
-      "compression_ratio": 1.7549407114624507,
-      "no_speech_prob": 0.00911678746342659
+      "avg_logprob": -0.029830932500772178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2960,
-      "start": 29.68,
-      "end": 35.52,
-      "text": " resulted in widespread erosion of our most basic civil rights, human rights, and constitutional",
-      "tokens": [
-        50368,
-        18753,
-        294,
-        22679,
-        32173,
-        295,
-        527,
-        881,
-        3875,
-        5605,
-        4601,
-        11,
-        1952,
-        4601,
-        11,
-        293,
-        20176,
-        50660
+      "start": 37.013,
+      "end": 42.338,
+      "text": "It is vital that all of us movement lawyers, all of us lawyers who care and see what's going on,",
+      "words": [
+        {
+          "word": "It",
+          "start": 37.013,
+          "end": 37.093,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 37.173,
+          "end": 37.253,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vital",
+          "start": 37.373,
+          "end": 37.794,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 38.154,
+          "end": 38.294,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 38.374,
+          "end": 38.574,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 38.594,
+          "end": 38.655,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 38.755,
+          "end": 38.875,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "movement",
+          "start": 38.955,
+          "end": 39.335,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lawyers,",
+          "start": 39.375,
+          "end": 39.675,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 39.756,
+          "end": 39.916,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 39.936,
+          "end": 39.976,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 40.056,
+          "end": 40.136,
+          "score": 0.511,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lawyers",
+          "start": 40.176,
+          "end": 40.436,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 40.476,
+          "end": 40.596,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 40.656,
+          "end": 40.997,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 41.097,
+          "end": 41.197,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "see",
+          "start": 41.257,
+          "end": 41.437,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what's",
+          "start": 41.477,
+          "end": 41.697,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 41.737,
+          "end": 42.038,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on,",
+          "start": 42.238,
+          "end": 42.338,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.056260002983940974,
-      "compression_ratio": 1.6981981981981982,
-      "no_speech_prob": 0.0022473365534096956
+      "avg_logprob": -0.029830932500772178,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2960,
-      "start": 35.52,
-      "end": 41.68,
-      "text": " freedoms. It is vital that all of us movement lawyers, all of us lawyers who care and see what's",
-      "tokens": [
-        50660,
-        40671,
-        13,
-        467,
-        307,
-        11707,
-        300,
-        439,
-        295,
-        505,
-        3963,
-        16219,
-        11,
-        439,
-        295,
-        505,
-        16219,
-        567,
-        1127,
-        293,
-        536,
-        437,
-        311,
-        50968
+      "start": 43.085,
+      "end": 57.259,
+      "text": " communicate with one another and get together to really understand what we're doing here to support this movement and to take back our democracy and ensure that our most basic rights are not run roughshod and do not get lost forever.",
+      "words": [
+        {
+          "word": "communicate",
+          "start": 43.085,
+          "end": 43.606,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 43.626,
+          "end": 43.746,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 43.826,
+          "end": 43.926,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "another",
+          "start": 43.986,
+          "end": 44.346,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 44.787,
+          "end": 44.947,
+          "score": 0.472,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 45.027,
+          "end": 45.167,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "together",
+          "start": 45.227,
+          "end": 45.608,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 45.648,
+          "end": 45.768,
+          "score": 0.684,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 45.848,
+          "end": 46.168,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "understand",
+          "start": 46.248,
+          "end": 46.889,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 46.989,
+          "end": 47.149,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 47.189,
+          "end": 47.369,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doing",
+          "start": 47.389,
+          "end": 47.67,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "here",
+          "start": 47.71,
+          "end": 47.89,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 47.95,
+          "end": 48.03,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "support",
+          "start": 48.07,
+          "end": 48.43,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 48.49,
+          "end": 48.651,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "movement",
+          "start": 48.731,
+          "end": 49.171,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 49.271,
+          "end": 49.371,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 49.391,
+          "end": 49.451,
+          "score": 0.626,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "take",
+          "start": 49.511,
+          "end": 49.692,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "back",
+          "start": 49.732,
+          "end": 49.952,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 50.012,
+          "end": 50.112,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "democracy",
+          "start": 50.172,
+          "end": 50.833,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 50.973,
+          "end": 51.073,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ensure",
+          "start": 51.113,
+          "end": 51.533,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 51.553,
+          "end": 51.634,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 52.414,
+          "end": 52.514,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 52.554,
+          "end": 52.715,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "basic",
+          "start": 52.775,
+          "end": 53.135,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rights",
+          "start": 53.215,
+          "end": 53.515,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 53.796,
+          "end": 53.916,
+          "score": 0.652,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 53.956,
+          "end": 54.216,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "run",
+          "start": 54.536,
+          "end": 54.737,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "roughshod",
+          "start": 54.797,
+          "end": 55.357,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 55.557,
+          "end": 55.698,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 56.058,
+          "end": 56.178,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 56.218,
+          "end": 56.338,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 56.378,
+          "end": 56.518,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lost",
+          "start": 56.558,
+          "end": 56.819,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forever.",
+          "start": 56.879,
+          "end": 57.259,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.056260002983940974,
-      "compression_ratio": 1.6981981981981982,
-      "no_speech_prob": 0.0022473365534096956
+      "avg_logprob": -0.04164062522351742,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2960,
-      "start": 41.68,
-      "end": 47.6,
-      "text": " going on communicate with one another and get together to really understand what we're doing",
-      "tokens": [
-        50968,
-        516,
-        322,
-        7890,
-        365,
-        472,
-        1071,
-        293,
-        483,
-        1214,
-        281,
-        534,
-        1223,
-        437,
-        321,
-        434,
-        884,
-        51264
+      "start": 57.72,
+      "end": 59.081,
+      "text": "We need more attorneys",
+      "words": [
+        {
+          "word": "We",
+          "start": 57.72,
+          "end": 57.94,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 58.04,
+          "end": 58.28,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 58.34,
+          "end": 58.6,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attorneys",
+          "start": 58.64,
+          "end": 59.081,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.056260002983940974,
-      "compression_ratio": 1.6981981981981982,
-      "no_speech_prob": 0.0022473365534096956
+      "avg_logprob": -0.04164062522351742,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2960,
-      "start": 47.6,
-      "end": 53.120000000000005,
-      "text": " here to support this movement and to take back our democracy and ensure that our most basic",
-      "tokens": [
-        51264,
-        510,
-        281,
-        1406,
-        341,
-        3963,
-        293,
-        281,
-        747,
-        646,
-        527,
-        10528,
-        293,
-        5586,
-        300,
-        527,
-        881,
-        3875,
-        51540
+      "start": 59.482,
+      "end": 62.123,
+      "text": " There's a lot of cases out there and we need help.",
+      "words": [
+        {
+          "word": "There's",
+          "start": 59.482,
+          "end": 59.682,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 59.722,
+          "end": 59.762,
+          "score": 0.499,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 59.882,
+          "end": 60.142,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 60.162,
+          "end": 60.222,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cases",
+          "start": 60.282,
+          "end": 60.662,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 60.763,
+          "end": 60.883,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 60.943,
+          "end": 61.183,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 61.383,
+          "end": 61.503,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 61.523,
+          "end": 61.583,
+          "score": 0.016,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 61.643,
+          "end": 61.843,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "help.",
+          "start": 61.903,
+          "end": 62.123,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.056260002983940974,
-      "compression_ratio": 1.6981981981981982,
-      "no_speech_prob": 0.0022473365534096956
+      "avg_logprob": -0.05377012276739785,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 5312,
-      "start": 53.12,
-      "end": 60.16,
-      "text": " rights are not run roughshod and do not get lost forever. We need more attorneys. There's a lot of",
-      "tokens": [
-        50364,
-        4601,
-        366,
-        406,
-        1190,
-        5903,
-        2716,
-        378,
-        293,
-        360,
-        406,
-        483,
-        2731,
-        5680,
-        13,
-        492,
-        643,
-        544,
-        30019,
-        13,
-        821,
-        311,
-        257,
-        688,
-        295,
-        50716
+      "start": 62.423,
+      "end": 70.487,
+      "text": "So if you are considering doing this kind of litigation, it is vital that you come and that we get to meet you and you get to meet us.",
+      "words": [
+        {
+          "word": "So",
+          "start": 62.423,
+          "end": 62.663,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 63.224,
+          "end": 63.284,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 63.344,
+          "end": 63.464,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 63.524,
+          "end": 63.624,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "considering",
+          "start": 63.664,
+          "end": 64.344,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doing",
+          "start": 64.564,
+          "end": 64.824,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 64.844,
+          "end": 64.984,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kind",
+          "start": 65.024,
+          "end": 65.204,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 65.224,
+          "end": 65.284,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "litigation,",
+          "start": 65.324,
+          "end": 66.025,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 66.045,
+          "end": 66.125,
+          "score": 0.25,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 66.185,
+          "end": 66.265,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vital",
+          "start": 66.365,
+          "end": 66.685,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 66.725,
+          "end": 66.845,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 66.865,
+          "end": 67.005,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "come",
+          "start": 67.045,
+          "end": 67.305,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 68.026,
+          "end": 68.126,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 68.186,
+          "end": 68.326,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 68.826,
+          "end": 68.946,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 68.986,
+          "end": 69.086,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 69.126,
+          "end": 69.166,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "meet",
+          "start": 69.206,
+          "end": 69.346,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 69.386,
+          "end": 69.546,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 69.586,
+          "end": 69.646,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 69.666,
+          "end": 69.786,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 69.806,
+          "end": 69.966,
+          "score": 0.516,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 70.026,
+          "end": 70.066,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "meet",
+          "start": 70.106,
+          "end": 70.266,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us.",
+          "start": 70.367,
+          "end": 70.487,
+          "score": 0.787,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12175952747303953,
-      "compression_ratio": 1.668141592920354,
-      "no_speech_prob": 0.062073975801467896
+      "avg_logprob": -0.05377012276739785,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 5312,
-      "start": 60.16,
-      "end": 66.08,
-      "text": " cases out there and we need help. So if you are considering doing this kind of litigation and",
-      "tokens": [
-        50716,
-        3331,
-        484,
-        456,
-        293,
-        321,
-        643,
-        854,
-        13,
-        407,
-        498,
-        291,
-        366,
-        8079,
-        884,
-        341,
-        733,
-        295,
-        33359,
-        293,
-        51012
+      "start": 70.707,
+      "end": 75.869,
+      "text": "I think there's some great presenters at this conference and I'm really looking forward to meeting you all.",
+      "words": [
+        {
+          "word": "I",
+          "start": 70.707,
+          "end": 70.787,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 70.827,
+          "end": 71.007,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there's",
+          "start": 71.047,
+          "end": 71.287,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "some",
+          "start": 71.327,
+          "end": 71.467,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "great",
+          "start": 71.607,
+          "end": 71.867,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "presenters",
+          "start": 71.907,
+          "end": 72.407,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 72.447,
+          "end": 72.527,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 72.567,
+          "end": 72.748,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conference",
+          "start": 72.888,
+          "end": 73.368,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 73.428,
+          "end": 73.508,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I'm",
+          "start": 73.568,
+          "end": 73.648,
+          "score": 0.203,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 73.668,
+          "end": 73.888,
+          "score": 0.617,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "looking",
+          "start": 73.908,
+          "end": 74.168,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forward",
+          "start": 74.248,
+          "end": 74.668,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 74.768,
+          "end": 74.948,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "meeting",
+          "start": 74.968,
+          "end": 75.109,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 75.369,
+          "end": 75.549,
+          "score": 0.622,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all.",
+          "start": 75.629,
+          "end": 75.869,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12175952747303953,
-      "compression_ratio": 1.668141592920354,
-      "no_speech_prob": 0.062073975801467896
-    },
-    {
-      "id": 11,
-      "seek": 5312,
-      "start": 66.08,
-      "end": 71.52,
-      "text": " it's vital that you come and that we get to meet you and you get to meet us, I think there's some",
-      "tokens": [
-        51012,
-        309,
-        311,
-        11707,
-        300,
-        291,
-        808,
-        293,
-        300,
-        321,
-        483,
-        281,
-        1677,
-        291,
-        293,
-        291,
-        483,
-        281,
-        1677,
-        505,
-        11,
-        286,
-        519,
-        456,
-        311,
-        512,
-        51284
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12175952747303953,
-      "compression_ratio": 1.668141592920354,
-      "no_speech_prob": 0.062073975801467896
-    },
-    {
-      "id": 12,
-      "seek": 5312,
-      "start": 71.52,
-      "end": 76.47999999999999,
-      "text": " great presenters at this conference and I'm really looking forward to meeting you all.",
-      "tokens": [
-        51284,
-        869,
-        36987,
-        412,
-        341,
-        7586,
-        293,
-        286,
-        478,
-        534,
-        1237,
-        2128,
-        281,
-        3440,
-        291,
-        439,
-        13,
-        51532
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12175952747303953,
-      "compression_ratio": 1.668141592920354,
-      "no_speech_prob": 0.062073975801467896
+      "avg_logprob": -0.05377012276739785,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Hi,",
+      "start": 0.471,
+      "end": 0.531,
+      "score": 0.328,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 0.571,
+      "end": 0.671,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "name",
+      "start": 0.712,
+      "end": 0.832,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 0.872,
+      "end": 0.912,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Sujata",
+      "start": 0.952,
+      "end": 1.352,
+      "score": 0.647,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Gibson.",
+      "start": 1.372,
+      "end": 1.832,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 2.113,
+      "end": 2.173,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "am",
+      "start": 2.353,
+      "end": 2.433,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 2.453,
+      "end": 2.473,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "civil",
+      "start": 2.653,
+      "end": 2.913,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights",
+      "start": 2.973,
+      "end": 3.193,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attorney",
+      "start": 3.273,
+      "end": 3.654,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 3.714,
+      "end": 3.814,
+      "score": 0.558,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Ithaca,",
+      "start": 3.854,
+      "end": 4.174,
+      "score": 0.595,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "New",
+      "start": 4.214,
+      "end": 4.314,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "York,",
+      "start": 4.334,
+      "end": 4.634,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 5.115,
+      "end": 5.235,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "principal",
+      "start": 5.255,
+      "end": 5.735,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attorney",
+      "start": 5.795,
+      "end": 6.156,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 6.276,
+      "end": 6.376,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.416,
+      "end": 6.496,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Gibson",
+      "start": 6.516,
+      "end": 6.896,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "law",
+      "start": 6.916,
+      "end": 7.116,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "firm,",
+      "start": 7.156,
+      "end": 7.477,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 7.637,
+      "end": 7.757,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 7.817,
+      "end": 7.877,
+      "score": 0.663,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "teach",
+      "start": 7.917,
+      "end": 8.177,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "part-time",
+      "start": 8.217,
+      "end": 8.697,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 8.758,
+      "end": 8.838,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Cornell",
+      "start": 8.878,
+      "end": 9.238,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Law",
+      "start": 9.258,
+      "end": 9.498,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "School",
+      "start": 9.558,
+      "end": 9.898,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 10.439,
+      "end": 10.519,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 10.539,
+      "end": 10.619,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "area",
+      "start": 10.699,
+      "end": 10.979,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 11.019,
+      "end": 11.079,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "civil",
+      "start": 11.119,
+      "end": 11.379,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights",
+      "start": 11.44,
+      "end": 11.7,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 11.9,
+      "end": 12.0,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "movement",
+      "start": 12.1,
+      "end": 12.46,
+      "score": 0.511,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "law.",
+      "start": 12.5,
+      "end": 12.76,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 13.501,
+      "end": 13.581,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 13.641,
+      "end": 13.821,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 13.861,
+      "end": 14.061,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "presenting",
+      "start": 14.162,
+      "end": 14.762,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 15.302,
+      "end": 15.362,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 15.402,
+      "end": 15.483,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "civil",
+      "start": 15.523,
+      "end": 15.783,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights",
+      "start": 15.843,
+      "end": 16.043,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "panel",
+      "start": 16.103,
+      "end": 16.463,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 16.583,
+      "end": 16.703,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 16.743,
+      "end": 16.984,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "presenting",
+      "start": 17.024,
+      "end": 17.424,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 17.464,
+      "end": 17.484,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "keynote",
+      "start": 17.544,
+      "end": 18.044,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "speech",
+      "start": 18.124,
+      "end": 18.505,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 19.225,
+      "end": 19.305,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 19.325,
+      "end": 19.425,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conference.",
+      "start": 19.445,
+      "end": 19.986,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 20.758,
+      "end": 20.878,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.898,
+      "end": 20.958,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "role",
+      "start": 20.998,
+      "end": 21.259,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 21.279,
+      "end": 21.339,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "movement",
+      "start": 21.399,
+      "end": 21.719,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lawyers",
+      "start": 21.759,
+      "end": 22.239,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 22.64,
+      "end": 22.74,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 22.82,
+      "end": 23.06,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pandemic",
+      "start": 23.361,
+      "end": 23.841,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "litigation.",
+      "start": 23.881,
+      "end": 24.502,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 24.802,
+      "end": 24.962,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pandemic",
+      "start": 25.002,
+      "end": 25.402,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 25.422,
+      "end": 25.563,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 25.603,
+      "end": 25.783,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "used",
+      "start": 25.983,
+      "end": 26.263,
+      "score": 0.632,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 26.283,
+      "end": 26.323,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "grab",
+      "start": 26.543,
+      "end": 26.864,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unprecedented",
+      "start": 26.884,
+      "end": 27.825,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "powers",
+      "start": 27.865,
+      "end": 28.405,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 28.846,
+      "end": 29.006,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 29.286,
+      "end": 29.506,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "resulted",
+      "start": 29.766,
+      "end": 30.207,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 30.267,
+      "end": 30.347,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "widespread",
+      "start": 30.567,
+      "end": 31.208,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "erosion",
+      "start": 31.248,
+      "end": 31.728,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 31.768,
+      "end": 31.828,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 31.888,
+      "end": 31.968,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 32.008,
+      "end": 32.189,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "basic",
+      "start": 32.309,
+      "end": 32.749,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "civil",
+      "start": 32.849,
+      "end": 33.23,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights,",
+      "start": 33.43,
+      "end": 33.77,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "human",
+      "start": 33.95,
+      "end": 34.23,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights,",
+      "start": 34.291,
+      "end": 34.591,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 34.671,
+      "end": 34.771,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "constitutional",
+      "start": 34.811,
+      "end": 35.572,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freedoms.",
+      "start": 35.612,
+      "end": 36.032,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 37.013,
+      "end": 37.093,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 37.173,
+      "end": 37.253,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vital",
+      "start": 37.373,
+      "end": 37.794,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 38.154,
+      "end": 38.294,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 38.374,
+      "end": 38.574,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 38.594,
+      "end": 38.655,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 38.755,
+      "end": 38.875,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "movement",
+      "start": 38.955,
+      "end": 39.335,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lawyers,",
+      "start": 39.375,
+      "end": 39.675,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 39.756,
+      "end": 39.916,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 39.936,
+      "end": 39.976,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 40.056,
+      "end": 40.136,
+      "score": 0.511,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lawyers",
+      "start": 40.176,
+      "end": 40.436,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 40.476,
+      "end": 40.596,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 40.656,
+      "end": 40.997,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 41.097,
+      "end": 41.197,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "see",
+      "start": 41.257,
+      "end": 41.437,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what's",
+      "start": 41.477,
+      "end": 41.697,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 41.737,
+      "end": 42.038,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on,",
+      "start": 42.238,
+      "end": 42.338,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "communicate",
+      "start": 43.085,
+      "end": 43.606,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 43.626,
+      "end": 43.746,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 43.826,
+      "end": 43.926,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "another",
+      "start": 43.986,
+      "end": 44.346,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 44.787,
+      "end": 44.947,
+      "score": 0.472,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 45.027,
+      "end": 45.167,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "together",
+      "start": 45.227,
+      "end": 45.608,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 45.648,
+      "end": 45.768,
+      "score": 0.684,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 45.848,
+      "end": 46.168,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "understand",
+      "start": 46.248,
+      "end": 46.889,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 46.989,
+      "end": 47.149,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 47.189,
+      "end": 47.369,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doing",
+      "start": 47.389,
+      "end": 47.67,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "here",
+      "start": 47.71,
+      "end": 47.89,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 47.95,
+      "end": 48.03,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "support",
+      "start": 48.07,
+      "end": 48.43,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 48.49,
+      "end": 48.651,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "movement",
+      "start": 48.731,
+      "end": 49.171,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 49.271,
+      "end": 49.371,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 49.391,
+      "end": 49.451,
+      "score": 0.626,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "take",
+      "start": 49.511,
+      "end": 49.692,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "back",
+      "start": 49.732,
+      "end": 49.952,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 50.012,
+      "end": 50.112,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "democracy",
+      "start": 50.172,
+      "end": 50.833,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 50.973,
+      "end": 51.073,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ensure",
+      "start": 51.113,
+      "end": 51.533,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 51.553,
+      "end": 51.634,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 52.414,
+      "end": 52.514,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 52.554,
+      "end": 52.715,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "basic",
+      "start": 52.775,
+      "end": 53.135,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rights",
+      "start": 53.215,
+      "end": 53.515,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 53.796,
+      "end": 53.916,
+      "score": 0.652,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 53.956,
+      "end": 54.216,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "run",
+      "start": 54.536,
+      "end": 54.737,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "roughshod",
+      "start": 54.797,
+      "end": 55.357,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 55.557,
+      "end": 55.698,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 56.058,
+      "end": 56.178,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 56.218,
+      "end": 56.338,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 56.378,
+      "end": 56.518,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lost",
+      "start": 56.558,
+      "end": 56.819,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forever.",
+      "start": 56.879,
+      "end": 57.259,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 57.72,
+      "end": 57.94,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 58.04,
+      "end": 58.28,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 58.34,
+      "end": 58.6,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attorneys",
+      "start": 58.64,
+      "end": 59.081,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "There's",
+      "start": 59.482,
+      "end": 59.682,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 59.722,
+      "end": 59.762,
+      "score": 0.499,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 59.882,
+      "end": 60.142,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 60.162,
+      "end": 60.222,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cases",
+      "start": 60.282,
+      "end": 60.662,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 60.763,
+      "end": 60.883,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 60.943,
+      "end": 61.183,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 61.383,
+      "end": 61.503,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 61.523,
+      "end": 61.583,
+      "score": 0.016,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 61.643,
+      "end": 61.843,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "help.",
+      "start": 61.903,
+      "end": 62.123,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 62.423,
+      "end": 62.663,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 63.224,
+      "end": 63.284,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 63.344,
+      "end": 63.464,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 63.524,
+      "end": 63.624,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "considering",
+      "start": 63.664,
+      "end": 64.344,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doing",
+      "start": 64.564,
+      "end": 64.824,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 64.844,
+      "end": 64.984,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kind",
+      "start": 65.024,
+      "end": 65.204,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 65.224,
+      "end": 65.284,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "litigation,",
+      "start": 65.324,
+      "end": 66.025,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 66.045,
+      "end": 66.125,
+      "score": 0.25,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 66.185,
+      "end": 66.265,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vital",
+      "start": 66.365,
+      "end": 66.685,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 66.725,
+      "end": 66.845,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 66.865,
+      "end": 67.005,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "come",
+      "start": 67.045,
+      "end": 67.305,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 68.026,
+      "end": 68.126,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 68.186,
+      "end": 68.326,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 68.826,
+      "end": 68.946,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 68.986,
+      "end": 69.086,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 69.126,
+      "end": 69.166,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "meet",
+      "start": 69.206,
+      "end": 69.346,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 69.386,
+      "end": 69.546,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 69.586,
+      "end": 69.646,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 69.666,
+      "end": 69.786,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 69.806,
+      "end": 69.966,
+      "score": 0.516,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 70.026,
+      "end": 70.066,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "meet",
+      "start": 70.106,
+      "end": 70.266,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us.",
+      "start": 70.367,
+      "end": 70.487,
+      "score": 0.787,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 70.707,
+      "end": 70.787,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 70.827,
+      "end": 71.007,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there's",
+      "start": 71.047,
+      "end": 71.287,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "some",
+      "start": 71.327,
+      "end": 71.467,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "great",
+      "start": 71.607,
+      "end": 71.867,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "presenters",
+      "start": 71.907,
+      "end": 72.407,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 72.447,
+      "end": 72.527,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 72.567,
+      "end": 72.748,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conference",
+      "start": 72.888,
+      "end": 73.368,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 73.428,
+      "end": 73.508,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 73.568,
+      "end": 73.648,
+      "score": 0.203,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 73.668,
+      "end": 73.888,
+      "score": 0.617,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "looking",
+      "start": 73.908,
+      "end": 74.168,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forward",
+      "start": 74.248,
+      "end": 74.668,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 74.768,
+      "end": 74.948,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "meeting",
+      "start": 74.968,
+      "end": 75.109,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 75.369,
+      "end": 75.549,
+      "score": 0.622,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all.",
+      "start": 75.629,
+      "end": 75.869,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

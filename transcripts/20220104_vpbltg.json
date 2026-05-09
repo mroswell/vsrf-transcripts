@@ -1,280 +1,1394 @@
 {
-  "text": " This is, this medicine is being destroyed globally. People are losing faith in the whole system. They're losing faith in the scientific enterprise. They're losing faith in our government. They're losing faith in the vaccine enterprise. I mean, what is going to be the long-term consequences of public health when you have a large fraction of the population who was an anti-vaxxer, that pejorative, before that are now saying, oh my God. If this is how these people make decisions, I don't want anything to do with it. I certainly don't want to jab into my kid.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 5.2,
-      "text": " This is, this medicine is being destroyed globally.",
-      "tokens": [
-        50364,
-        639,
-        307,
-        11,
-        341,
-        7195,
-        307,
-        885,
-        8937,
-        18958,
-        13,
-        50624
+      "start": 0.251,
+      "end": 4.353,
+      "text": " This medicine is being destroyed globally.",
+      "words": [
+        {
+          "word": "This",
+          "start": 0.251,
+          "end": 0.591,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine",
+          "start": 1.712,
+          "end": 2.112,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 2.152,
+          "end": 2.232,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 2.272,
+          "end": 2.452,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "destroyed",
+          "start": 2.492,
+          "end": 2.972,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "globally.",
+          "start": 3.953,
+          "end": 4.353,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
+      "avg_logprob": -0.08640968455718114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 5.2,
-      "end": 8.84,
-      "text": " People are losing faith in the whole system.",
-      "tokens": [
-        50624,
-        3432,
-        366,
-        7027,
-        4522,
-        294,
-        264,
-        1379,
-        1185,
-        13,
-        50806
+      "start": 4.933,
+      "end": 7.334,
+      "text": "People are losing faith in the whole system.",
+      "words": [
+        {
+          "word": "People",
+          "start": 4.933,
+          "end": 5.253,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 5.473,
+          "end": 5.594,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "losing",
+          "start": 5.654,
+          "end": 5.974,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "faith",
+          "start": 6.074,
+          "end": 6.354,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 6.494,
+          "end": 6.554,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.574,
+          "end": 6.654,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole",
+          "start": 6.694,
+          "end": 6.874,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system.",
+          "start": 6.974,
+          "end": 7.334,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
+      "avg_logprob": -0.08640968455718114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.84,
-      "end": 11.8,
-      "text": " They're losing faith in the scientific enterprise.",
-      "tokens": [
-        50806,
-        814,
-        434,
-        7027,
-        4522,
-        294,
-        264,
-        8134,
-        14132,
-        13,
-        50954
+      "start": 8.695,
+      "end": 11.116,
+      "text": "They're losing faith in the scientific enterprise.",
+      "words": [
+        {
+          "word": "They're",
+          "start": 8.695,
+          "end": 8.935,
+          "score": 0.608,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "losing",
+          "start": 8.995,
+          "end": 9.315,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "faith",
+          "start": 9.415,
+          "end": 9.695,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 9.775,
+          "end": 9.855,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 9.875,
+          "end": 9.955,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientific",
+          "start": 9.995,
+          "end": 10.516,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "enterprise.",
+          "start": 10.576,
+          "end": 11.116,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
+      "avg_logprob": -0.08640968455718114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 11.8,
-      "end": 13.88,
-      "text": " They're losing faith in our government.",
-      "tokens": [
-        50954,
-        814,
-        434,
-        7027,
-        4522,
-        294,
-        527,
-        2463,
-        13,
-        51058
+      "start": 11.696,
+      "end": 13.197,
+      "text": "They're losing faith in our government.",
+      "words": [
+        {
+          "word": "They're",
+          "start": 11.696,
+          "end": 11.876,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "losing",
+          "start": 11.896,
+          "end": 12.176,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "faith",
+          "start": 12.257,
+          "end": 12.457,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 12.517,
+          "end": 12.577,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 12.617,
+          "end": 12.717,
+          "score": 0.673,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "government.",
+          "start": 12.757,
+          "end": 13.197,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
+      "avg_logprob": -0.08640968455718114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 13.88,
-      "end": 15.88,
-      "text": " They're losing faith in the vaccine enterprise.",
-      "tokens": [
-        51058,
-        814,
-        434,
-        7027,
-        4522,
-        294,
-        264,
-        7007,
-        14132,
-        13,
-        51158
+      "start": 13.757,
+      "end": 16.158,
+      "text": "They're losing faith in the vaccine enterprise.",
+      "words": [
+        {
+          "word": "They're",
+          "start": 13.757,
+          "end": 13.937,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "losing",
+          "start": 13.977,
+          "end": 14.257,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "faith",
+          "start": 14.357,
+          "end": 14.638,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 14.798,
+          "end": 14.878,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 14.918,
+          "end": 14.978,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 15.018,
+          "end": 15.618,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "enterprise.",
+          "start": 15.738,
+          "end": 16.158,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
+      "avg_logprob": -0.08640968455718114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 15.88,
-      "end": 19.92,
-      "text": " I mean, what is going to be the long-term consequences of public health when you have",
-      "tokens": [
-        51158,
-        286,
-        914,
-        11,
-        437,
-        307,
-        516,
-        281,
-        312,
-        264,
-        938,
-        12,
-        7039,
-        10098,
-        295,
-        1908,
-        1585,
-        562,
-        291,
-        362,
-        51360
+      "start": 16.178,
+      "end": 28.444,
+      "text": "I mean, what is going to be the long-term consequences of public health when you have a large fraction of the population who wasn't anti-vaxxer that pejorative before that are now saying, oh, my god,",
+      "words": [
+        {
+          "word": "I",
+          "start": 16.178,
+          "end": 16.218,
+          "score": 0.179,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mean,",
+          "start": 16.258,
+          "end": 16.358,
+          "score": 0.519,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 16.839,
+          "end": 16.939,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 16.979,
+          "end": 17.039,
+          "score": 0.624,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 17.059,
+          "end": 17.159,
+          "score": 0.004,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 17.179,
+          "end": 17.219,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 17.239,
+          "end": 17.279,
+          "score": 0.022,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 17.299,
+          "end": 17.359,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long-term",
+          "start": 17.399,
+          "end": 17.819,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "consequences",
+          "start": 17.859,
+          "end": 18.519,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 18.579,
+          "end": 18.639,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "public",
+          "start": 18.679,
+          "end": 18.98,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 19.0,
+          "end": 19.26,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 19.64,
+          "end": 19.76,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 19.78,
+          "end": 19.86,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 19.88,
+          "end": 19.96,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 19.98,
+          "end": 20.02,
+          "score": 0.424,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "large",
+          "start": 20.06,
+          "end": 20.26,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fraction",
+          "start": 20.32,
+          "end": 20.62,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 20.64,
+          "end": 20.68,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.7,
+          "end": 20.78,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "population",
+          "start": 20.8,
+          "end": 21.481,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 21.561,
+          "end": 21.741,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wasn't",
+          "start": 22.161,
+          "end": 22.481,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anti-vaxxer",
+          "start": 22.621,
+          "end": 23.462,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 24.082,
+          "end": 24.222,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pejorative",
+          "start": 24.282,
+          "end": 24.862,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "before",
+          "start": 25.422,
+          "end": 25.883,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 26.343,
+          "end": 26.443,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 26.483,
+          "end": 26.563,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now",
+          "start": 26.583,
+          "end": 26.723,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "saying,",
+          "start": 26.843,
+          "end": 27.163,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "oh,",
+          "start": 27.443,
+          "end": 27.543,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 27.884,
+          "end": 28.044,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "god,",
+          "start": 28.124,
+          "end": 28.444,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
+      "avg_logprob": -0.08640968455718114,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 19.92,
-      "end": 26.44,
-      "text": " a large fraction of the population who was an anti-vaxxer, that pejorative, before that",
-      "tokens": [
-        51360,
-        257,
-        2416,
-        14135,
-        295,
-        264,
-        4415,
-        567,
-        390,
-        364,
-        6061,
-        12,
-        2757,
-        30569,
-        260,
-        11,
-        300,
-        520,
-        2337,
-        1166,
-        11,
-        949,
-        300,
-        51686
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 26.44,
-      "end": 29.28,
-      "text": " are now saying, oh my God.",
-      "tokens": [
-        51686,
-        366,
-        586,
-        1566,
-        11,
-        1954,
-        452,
-        1265,
-        13,
-        51828
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15311944484710693,
-      "compression_ratio": 1.7723577235772359,
-      "no_speech_prob": 0.02069856971502304
-    },
-    {
-      "id": 8,
-      "seek": 2928,
-      "start": 29.28,
-      "end": 33.36,
+      "start": 29.217,
+      "end": 32.753,
       "text": " If this is how these people make decisions, I don't want anything to do with it.",
-      "tokens": [
-        50364,
-        759,
-        341,
-        307,
-        577,
-        613,
-        561,
-        652,
-        5327,
-        11,
-        286,
-        500,
-        380,
-        528,
-        1340,
-        281,
-        360,
-        365,
-        309,
-        13,
-        50568
+      "words": [
+        {
+          "word": "If",
+          "start": 29.217,
+          "end": 29.298,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 29.318,
+          "end": 29.458,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 29.498,
+          "end": 29.579,
+          "score": 0.544,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 29.599,
+          "end": 29.719,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 29.74,
+          "end": 29.88,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 29.92,
+          "end": 30.181,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 30.222,
+          "end": 30.382,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "decisions,",
+          "start": 30.443,
+          "end": 31.005,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 31.708,
+          "end": 31.748,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 31.788,
+          "end": 31.889,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 31.909,
+          "end": 32.029,
+          "score": 0.431,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anything",
+          "start": 32.05,
+          "end": 32.291,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 32.331,
+          "end": 32.391,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 32.411,
+          "end": 32.491,
+          "score": 0.526,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 32.512,
+          "end": 32.632,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 32.692,
+          "end": 32.753,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1290269034249442,
-      "compression_ratio": 1.2551020408163265,
-      "no_speech_prob": 0.012770146131515503
+      "avg_logprob": -0.034973145462572575,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2928,
-      "start": 33.36,
-      "end": 35.120000000000005,
-      "text": " I certainly don't want to jab into my kid.",
-      "tokens": [
-        50568,
-        286,
-        3297,
-        500,
-        380,
-        528,
-        281,
-        33475,
-        666,
-        452,
-        1636,
-        13,
-        50656
+      "start": 33.476,
+      "end": 35.083,
+      "text": "I certainly don't want it jabbed into my kid.",
+      "words": [
+        {
+          "word": "I",
+          "start": 33.476,
+          "end": 33.536,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "certainly",
+          "start": 33.596,
+          "end": 33.877,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 33.898,
+          "end": 34.038,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 34.058,
+          "end": 34.179,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 34.219,
+          "end": 34.259,
+          "score": 0.001,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "jabbed",
+          "start": 34.299,
+          "end": 34.54,
+          "score": 0.589,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "into",
+          "start": 34.56,
+          "end": 34.701,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 34.721,
+          "end": 34.822,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kid.",
+          "start": 34.862,
+          "end": 35.083,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1290269034249442,
-      "compression_ratio": 1.2551020408163265,
-      "no_speech_prob": 0.012770146131515503
+      "avg_logprob": -0.034973145462572575,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "This",
+      "start": 0.251,
+      "end": 0.591,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine",
+      "start": 1.712,
+      "end": 2.112,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 2.152,
+      "end": 2.232,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 2.272,
+      "end": 2.452,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "destroyed",
+      "start": 2.492,
+      "end": 2.972,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "globally.",
+      "start": 3.953,
+      "end": 4.353,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "People",
+      "start": 4.933,
+      "end": 5.253,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 5.473,
+      "end": 5.594,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "losing",
+      "start": 5.654,
+      "end": 5.974,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "faith",
+      "start": 6.074,
+      "end": 6.354,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 6.494,
+      "end": 6.554,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.574,
+      "end": 6.654,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole",
+      "start": 6.694,
+      "end": 6.874,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system.",
+      "start": 6.974,
+      "end": 7.334,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They're",
+      "start": 8.695,
+      "end": 8.935,
+      "score": 0.608,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "losing",
+      "start": 8.995,
+      "end": 9.315,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "faith",
+      "start": 9.415,
+      "end": 9.695,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 9.775,
+      "end": 9.855,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 9.875,
+      "end": 9.955,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientific",
+      "start": 9.995,
+      "end": 10.516,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "enterprise.",
+      "start": 10.576,
+      "end": 11.116,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They're",
+      "start": 11.696,
+      "end": 11.876,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "losing",
+      "start": 11.896,
+      "end": 12.176,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "faith",
+      "start": 12.257,
+      "end": 12.457,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 12.517,
+      "end": 12.577,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 12.617,
+      "end": 12.717,
+      "score": 0.673,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "government.",
+      "start": 12.757,
+      "end": 13.197,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They're",
+      "start": 13.757,
+      "end": 13.937,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "losing",
+      "start": 13.977,
+      "end": 14.257,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "faith",
+      "start": 14.357,
+      "end": 14.638,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 14.798,
+      "end": 14.878,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 14.918,
+      "end": 14.978,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 15.018,
+      "end": 15.618,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "enterprise.",
+      "start": 15.738,
+      "end": 16.158,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 16.178,
+      "end": 16.218,
+      "score": 0.179,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mean,",
+      "start": 16.258,
+      "end": 16.358,
+      "score": 0.519,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 16.839,
+      "end": 16.939,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 16.979,
+      "end": 17.039,
+      "score": 0.624,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 17.059,
+      "end": 17.159,
+      "score": 0.004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 17.179,
+      "end": 17.219,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 17.239,
+      "end": 17.279,
+      "score": 0.022,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 17.299,
+      "end": 17.359,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long-term",
+      "start": 17.399,
+      "end": 17.819,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "consequences",
+      "start": 17.859,
+      "end": 18.519,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 18.579,
+      "end": 18.639,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "public",
+      "start": 18.679,
+      "end": 18.98,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 19.0,
+      "end": 19.26,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 19.64,
+      "end": 19.76,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 19.78,
+      "end": 19.86,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 19.88,
+      "end": 19.96,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 19.98,
+      "end": 20.02,
+      "score": 0.424,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "large",
+      "start": 20.06,
+      "end": 20.26,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fraction",
+      "start": 20.32,
+      "end": 20.62,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 20.64,
+      "end": 20.68,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.7,
+      "end": 20.78,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "population",
+      "start": 20.8,
+      "end": 21.481,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 21.561,
+      "end": 21.741,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wasn't",
+      "start": 22.161,
+      "end": 22.481,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anti-vaxxer",
+      "start": 22.621,
+      "end": 23.462,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 24.082,
+      "end": 24.222,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pejorative",
+      "start": 24.282,
+      "end": 24.862,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "before",
+      "start": 25.422,
+      "end": 25.883,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 26.343,
+      "end": 26.443,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 26.483,
+      "end": 26.563,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now",
+      "start": 26.583,
+      "end": 26.723,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "saying,",
+      "start": 26.843,
+      "end": 27.163,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "oh,",
+      "start": 27.443,
+      "end": 27.543,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 27.884,
+      "end": 28.044,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "god,",
+      "start": 28.124,
+      "end": 28.444,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 29.217,
+      "end": 29.298,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 29.318,
+      "end": 29.458,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 29.498,
+      "end": 29.579,
+      "score": 0.544,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 29.599,
+      "end": 29.719,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 29.74,
+      "end": 29.88,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 29.92,
+      "end": 30.181,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 30.222,
+      "end": 30.382,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "decisions,",
+      "start": 30.443,
+      "end": 31.005,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 31.708,
+      "end": 31.748,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 31.788,
+      "end": 31.889,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 31.909,
+      "end": 32.029,
+      "score": 0.431,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anything",
+      "start": 32.05,
+      "end": 32.291,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 32.331,
+      "end": 32.391,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 32.411,
+      "end": 32.491,
+      "score": 0.526,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 32.512,
+      "end": 32.632,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 32.692,
+      "end": 32.753,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 33.476,
+      "end": 33.536,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "certainly",
+      "start": 33.596,
+      "end": 33.877,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 33.898,
+      "end": 34.038,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 34.058,
+      "end": 34.179,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 34.219,
+      "end": 34.259,
+      "score": 0.001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "jabbed",
+      "start": 34.299,
+      "end": 34.54,
+      "score": 0.589,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 34.56,
+      "end": 34.701,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 34.721,
+      "end": 34.822,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kid.",
+      "start": 34.862,
+      "end": 35.083,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

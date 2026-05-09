@@ -1,57 +1,435 @@
 {
-  "text": " If it's not okay for me to be part of the conversation, even though I'm pointing out scientific facts that may be inconvenient, then who is? Who can be allowed?",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 11.0,
-      "text": " If it's not okay for me to be part of the conversation, even though I'm pointing out scientific facts that may be inconvenient, then who is? Who can be allowed?",
-      "tokens": [
-        50364,
-        759,
-        309,
-        311,
-        406,
-        1392,
-        337,
-        385,
-        281,
-        312,
-        644,
-        295,
-        264,
-        3761,
-        11,
-        754,
-        1673,
-        286,
-        478,
-        12166,
-        484,
-        8134,
-        9130,
-        300,
-        815,
-        312,
-        46196,
-        11,
-        550,
-        567,
-        307,
-        30,
-        2102,
-        393,
-        312,
-        4350,
-        30,
-        50914
+      "start": 0.632,
+      "end": 11.151,
+      "text": " If it's not okay for me to be part of the conversation, even though I'm pointing out scientific facts that may be inconvenient, then who is, who can be allowed?",
+      "words": [
+        {
+          "word": "If",
+          "start": 0.632,
+          "end": 0.692,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 0.772,
+          "end": 0.913,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 0.973,
+          "end": 1.133,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "okay",
+          "start": 1.173,
+          "end": 1.554,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 1.594,
+          "end": 1.734,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 1.834,
+          "end": 2.035,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 2.115,
+          "end": 2.215,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 2.255,
+          "end": 2.375,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "part",
+          "start": 2.435,
+          "end": 2.576,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 2.616,
+          "end": 2.656,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 2.676,
+          "end": 2.756,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conversation,",
+          "start": 2.796,
+          "end": 3.557,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "even",
+          "start": 3.698,
+          "end": 3.838,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "though",
+          "start": 3.878,
+          "end": 4.078,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I'm",
+          "start": 4.259,
+          "end": 4.419,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pointing",
+          "start": 4.499,
+          "end": 4.86,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 4.98,
+          "end": 5.12,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientific",
+          "start": 5.221,
+          "end": 5.741,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "facts",
+          "start": 5.842,
+          "end": 6.222,
+          "score": 0.694,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 6.282,
+          "end": 6.403,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "may",
+          "start": 6.443,
+          "end": 6.583,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 6.623,
+          "end": 6.743,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inconvenient,",
+          "start": 6.823,
+          "end": 7.565,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "then",
+          "start": 8.587,
+          "end": 8.807,
+          "score": 0.498,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 9.088,
+          "end": 9.268,
+          "score": 0.692,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is,",
+          "start": 9.388,
+          "end": 9.548,
+          "score": 0.702,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 10.109,
+          "end": 10.25,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 10.33,
+          "end": 10.59,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 10.65,
+          "end": 10.751,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "allowed?",
+          "start": 10.811,
+          "end": 11.151,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19628566350692359,
-      "compression_ratio": 1.3008130081300813,
-      "no_speech_prob": 0.015120905824005604
+      "avg_logprob": -0.06989020431363904,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "If",
+      "start": 0.632,
+      "end": 0.692,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 0.772,
+      "end": 0.913,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 0.973,
+      "end": 1.133,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "okay",
+      "start": 1.173,
+      "end": 1.554,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 1.594,
+      "end": 1.734,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 1.834,
+      "end": 2.035,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 2.115,
+      "end": 2.215,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 2.255,
+      "end": 2.375,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "part",
+      "start": 2.435,
+      "end": 2.576,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 2.616,
+      "end": 2.656,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 2.676,
+      "end": 2.756,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conversation,",
+      "start": 2.796,
+      "end": 3.557,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "even",
+      "start": 3.698,
+      "end": 3.838,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "though",
+      "start": 3.878,
+      "end": 4.078,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 4.259,
+      "end": 4.419,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pointing",
+      "start": 4.499,
+      "end": 4.86,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 4.98,
+      "end": 5.12,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientific",
+      "start": 5.221,
+      "end": 5.741,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "facts",
+      "start": 5.842,
+      "end": 6.222,
+      "score": 0.694,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 6.282,
+      "end": 6.403,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "may",
+      "start": 6.443,
+      "end": 6.583,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 6.623,
+      "end": 6.743,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inconvenient,",
+      "start": 6.823,
+      "end": 7.565,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "then",
+      "start": 8.587,
+      "end": 8.807,
+      "score": 0.498,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 9.088,
+      "end": 9.268,
+      "score": 0.692,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is,",
+      "start": 9.388,
+      "end": 9.548,
+      "score": 0.702,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 10.109,
+      "end": 10.25,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 10.33,
+      "end": 10.59,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 10.65,
+      "end": 10.751,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "allowed?",
+      "start": 10.811,
+      "end": 11.151,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

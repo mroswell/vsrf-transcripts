@@ -1,151 +1,425 @@
 {
-  "text": " We will not comply with the institutions, sick illusion. And you know, on January 23rd in Washington, there is actually a march to defeat the mandates. There is a march out there, an American homecoming. We will not comply with the institutions, sick illusion. We know we won't be terrified, we're welcome to the revolution.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 9.0,
-      "text": " We will not comply with the institutions, sick illusion.",
-      "tokens": [
-        50364,
-        492,
-        486,
-        406,
-        27956,
-        365,
-        264,
-        8142,
-        11,
-        4998,
-        18854,
-        13,
-        50814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25190655634953424,
-      "compression_ratio": 1.6883116883116882,
-      "no_speech_prob": 0.027585966512560844
-    },
-    {
-      "id": 1,
-      "seek": 0,
-      "start": 9.0,
-      "end": 15.0,
+      "start": 9.576,
+      "end": 15.362,
       "text": " And you know, on January 23rd in Washington, there is actually a march to defeat the mandates.",
-      "tokens": [
-        50814,
-        400,
-        291,
-        458,
-        11,
-        322,
-        7061,
-        6673,
-        7800,
-        294,
-        6149,
-        11,
-        456,
-        307,
-        767,
-        257,
-        8368,
-        281,
-        11785,
-        264,
-        48662,
-        13,
-        51114
+      "words": [
+        {
+          "word": "And",
+          "start": 9.576,
+          "end": 9.676,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 9.696,
+          "end": 9.796,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know,",
+          "start": 9.816,
+          "end": 9.976,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 10.056,
+          "end": 10.116,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "January",
+          "start": 10.176,
+          "end": 10.637,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "23rd",
+          "start": 10.817,
+          "end": 11.257,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 11.357,
+          "end": 11.438,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Washington,",
+          "start": 11.498,
+          "end": 12.098,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 12.639,
+          "end": 12.819,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 12.879,
+          "end": 12.979,
+          "score": 0.51,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 13.159,
+          "end": 13.5,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 13.52,
+          "end": 13.8,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "march",
+          "start": 13.86,
+          "end": 14.16,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 14.24,
+          "end": 14.361,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "defeat",
+          "start": 14.401,
+          "end": 14.761,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 14.821,
+          "end": 14.921,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mandates.",
+          "start": 14.941,
+          "end": 15.362,
+          "score": 0.611,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25190655634953424,
-      "compression_ratio": 1.6883116883116882,
-      "no_speech_prob": 0.027585966512560844
+      "avg_logprob": -0.11764706232968498,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 15.0,
-      "end": 19.0,
-      "text": " There is a march out there, an American homecoming.",
-      "tokens": [
-        51114,
-        821,
-        307,
-        257,
-        8368,
-        484,
-        456,
-        11,
-        364,
-        2665,
-        1280,
-        6590,
-        13,
-        51314
+      "start": 15.822,
+      "end": 18.525,
+      "text": "There is a march out there, an American homecoming.",
+      "words": [
+        {
+          "word": "There",
+          "start": 15.822,
+          "end": 15.982,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 16.062,
+          "end": 16.162,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 16.282,
+          "end": 16.343,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "march",
+          "start": 16.423,
+          "end": 16.703,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 16.863,
+          "end": 16.983,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there,",
+          "start": 17.023,
+          "end": 17.203,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 17.263,
+          "end": 17.324,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "American",
+          "start": 17.364,
+          "end": 17.864,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "homecoming.",
+          "start": 18.064,
+          "end": 18.525,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25190655634953424,
-      "compression_ratio": 1.6883116883116882,
-      "no_speech_prob": 0.027585966512560844
+      "avg_logprob": -0.11764706232968498,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 19.0,
-      "end": 27.0,
-      "text": " We will not comply with the institutions, sick illusion.",
-      "tokens": [
-        51314,
-        492,
-        486,
-        406,
-        27956,
-        365,
-        264,
-        8142,
-        11,
-        4998,
-        18854,
-        13,
-        51714
+      "start": 32.431,
+      "end": 33.175,
+      "text": " Welcome to",
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 32.431,
+          "end": 33.014,
+          "score": 0.591,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 33.074,
+          "end": 33.175,
+          "score": 0.363,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25190655634953424,
-      "compression_ratio": 1.6883116883116882,
-      "no_speech_prob": 0.027585966512560844
-    },
-    {
-      "id": 4,
-      "seek": 2700,
-      "start": 27.0,
-      "end": 37.0,
-      "text": " We know we won't be terrified, we're welcome to the revolution.",
-      "tokens": [
-        50364,
-        492,
-        458,
-        321,
-        1582,
-        380,
-        312,
-        23051,
-        11,
-        321,
-        434,
-        2928,
-        281,
-        264,
-        8894,
-        13,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3993456893497043,
-      "compression_ratio": 0.9692307692307692,
-      "no_speech_prob": 0.8272988796234131
+      "avg_logprob": -0.453125,
+      "speaker": "SPEAKER_01"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "And",
+      "start": 9.576,
+      "end": 9.676,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 9.696,
+      "end": 9.796,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know,",
+      "start": 9.816,
+      "end": 9.976,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 10.056,
+      "end": 10.116,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "January",
+      "start": 10.176,
+      "end": 10.637,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "23rd",
+      "start": 10.817,
+      "end": 11.257,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 11.357,
+      "end": 11.438,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Washington,",
+      "start": 11.498,
+      "end": 12.098,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 12.639,
+      "end": 12.819,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 12.879,
+      "end": 12.979,
+      "score": 0.51,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 13.159,
+      "end": 13.5,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 13.52,
+      "end": 13.8,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "march",
+      "start": 13.86,
+      "end": 14.16,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 14.24,
+      "end": 14.361,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "defeat",
+      "start": 14.401,
+      "end": 14.761,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 14.821,
+      "end": 14.921,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mandates.",
+      "start": 14.941,
+      "end": 15.362,
+      "score": 0.611,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "There",
+      "start": 15.822,
+      "end": 15.982,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 16.062,
+      "end": 16.162,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 16.282,
+      "end": 16.343,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "march",
+      "start": 16.423,
+      "end": 16.703,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 16.863,
+      "end": 16.983,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there,",
+      "start": 17.023,
+      "end": 17.203,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 17.263,
+      "end": 17.324,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "American",
+      "start": 17.364,
+      "end": 17.864,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "homecoming.",
+      "start": 18.064,
+      "end": 18.525,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Welcome",
+      "start": 32.431,
+      "end": 33.014,
+      "score": 0.591,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 33.074,
+      "end": 33.175,
+      "score": 0.363,
+      "speaker": "SPEAKER_01"
+    }
+  ]
 }

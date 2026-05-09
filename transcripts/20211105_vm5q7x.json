@@ -1,557 +1,3457 @@
 {
-  "text": " And a similar protest was held at San Jose's City Hall against recent vaccine mandates. The group voiced their concerns about the threat to freedom of individual choice. We hear more from NTD's David Lam. This is one of the many rallies going on today and here in the Bay Area at City Hall in San Jose, people are calling for more transparency behind the vaccines and the vaccine mandates. My sign is make California free. We need freedom. Having no freedom is illegal. Some attendees called for walkouts. If we don't question, we just let the government or the social media or the businesses tell us. Others shared about vaccine side effects. People are taking them because they're believing the government. They're not looking at the data. One attendee said her mother and two other family members have passed away after getting vaccinated. I have clients that have taken the vaccine and especially the Moderna. Their hair is falling out now. And most of all of them have complete anxiety. But my granddaughter who is only seven years old, she herself has voiced to me that she does not want the shot. The biggest agenda that people need to be concerned about is these health passports or vaccine passports. More of these walkout protests are planned for the remainder of the month. David Lam, NTD News, California.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 5.92,
+      "start": 0.503,
+      "end": 5.385,
       "text": " And a similar protest was held at San Jose's City Hall against recent vaccine mandates.",
-      "tokens": [
-        50364,
-        400,
-        257,
-        2531,
-        11281,
-        390,
-        5167,
-        412,
-        5271,
-        8635,
-        311,
-        4392,
-        5434,
-        1970,
-        5162,
-        7007,
-        48662,
-        13,
-        50660
+      "words": [
+        {
+          "word": "And",
+          "start": 0.503,
+          "end": 0.583,
+          "score": 0.167,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 0.623,
+          "end": 0.643,
+          "score": 0.397,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "similar",
+          "start": 0.703,
+          "end": 1.003,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protest",
+          "start": 1.063,
+          "end": 1.524,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 1.564,
+          "end": 1.704,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "held",
+          "start": 1.744,
+          "end": 1.944,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 2.004,
+          "end": 2.064,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "San",
+          "start": 2.184,
+          "end": 2.424,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Jose's",
+          "start": 2.444,
+          "end": 3.044,
+          "score": 0.586,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "City",
+          "start": 3.144,
+          "end": 3.404,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Hall",
+          "start": 3.424,
+          "end": 3.685,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 3.805,
+          "end": 4.105,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recent",
+          "start": 4.205,
+          "end": 4.485,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 4.525,
+          "end": 4.905,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mandates.",
+          "start": 4.925,
+          "end": 5.385,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1635512457953559,
-      "compression_ratio": 1.6008230452674896,
-      "no_speech_prob": 0.1975409984588623
+      "avg_logprob": -0.04372558770701289,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 5.92,
-      "end": 10.06,
-      "text": " The group voiced their concerns about the threat to freedom of individual choice.",
-      "tokens": [
-        50660,
-        440,
-        1594,
-        42246,
-        641,
-        7389,
-        466,
-        264,
-        4734,
-        281,
-        5645,
-        295,
-        2609,
-        3922,
-        13,
-        50867
+      "start": 5.866,
+      "end": 9.548,
+      "text": "The group voiced their concerns about the threat to freedom of individual choice.",
+      "words": [
+        {
+          "word": "The",
+          "start": 5.866,
+          "end": 5.946,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "group",
+          "start": 5.986,
+          "end": 6.186,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "voiced",
+          "start": 6.226,
+          "end": 6.486,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 6.506,
+          "end": 6.666,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concerns",
+          "start": 6.686,
+          "end": 7.166,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 7.226,
+          "end": 7.426,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 7.466,
+          "end": 7.547,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "threat",
+          "start": 7.607,
+          "end": 7.867,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 7.887,
+          "end": 7.987,
+          "score": 0.469,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freedom",
+          "start": 8.067,
+          "end": 8.427,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 8.467,
+          "end": 8.527,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individual",
+          "start": 8.587,
+          "end": 9.067,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "choice.",
+          "start": 9.147,
+          "end": 9.548,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1635512457953559,
-      "compression_ratio": 1.6008230452674896,
-      "no_speech_prob": 0.1975409984588623
+      "avg_logprob": -0.04372558770701289,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 10.06,
-      "end": 14.16,
-      "text": " We hear more from NTD's David Lam.",
-      "tokens": [
-        50867,
-        492,
-        1568,
-        544,
-        490,
-        43452,
-        35,
-        311,
-        4389,
-        18825,
-        13,
-        51072
+      "start": 9.988,
+      "end": 11.989,
+      "text": "We hear more from NTD's David Lam.",
+      "words": [
+        {
+          "word": "We",
+          "start": 9.988,
+          "end": 10.108,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hear",
+          "start": 10.148,
+          "end": 10.288,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 10.348,
+          "end": 10.528,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 10.568,
+          "end": 10.708,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "NTD's",
+          "start": 10.908,
+          "end": 11.408,
+          "score": 0.604,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "David",
+          "start": 11.428,
+          "end": 11.669,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Lam.",
+          "start": 11.709,
+          "end": 11.989,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1635512457953559,
-      "compression_ratio": 1.6008230452674896,
-      "no_speech_prob": 0.1975409984588623
+      "avg_logprob": -0.04372558770701289,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 14.16,
-      "end": 18.62,
-      "text": " This is one of the many rallies going on today and here in the Bay Area at City Hall in San",
-      "tokens": [
-        51072,
-        639,
-        307,
-        472,
-        295,
-        264,
-        867,
-        48169,
-        516,
-        322,
-        965,
-        293,
-        510,
-        294,
-        264,
-        7840,
-        19405,
-        412,
-        4392,
-        5434,
-        294,
-        5271,
-        51295
+      "start": 14.07,
+      "end": 16.151,
+      "text": "This is one of the many rallies going on today.",
+      "words": [
+        {
+          "word": "This",
+          "start": 14.07,
+          "end": 14.21,
+          "score": 0.939,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "is",
+          "start": 14.27,
+          "end": 14.33,
+          "score": 0.909,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "one",
+          "start": 14.41,
+          "end": 14.51,
+          "score": 0.827,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "of",
+          "start": 14.53,
+          "end": 14.57,
+          "score": 0.996,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "the",
+          "start": 14.61,
+          "end": 14.67,
+          "score": 0.985,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "many",
+          "start": 14.73,
+          "end": 14.93,
+          "score": 0.826,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "rallies",
+          "start": 14.97,
+          "end": 15.31,
+          "score": 0.828,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "going",
+          "start": 15.35,
+          "end": 15.591,
+          "score": 0.852,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "on",
+          "start": 15.691,
+          "end": 15.791,
+          "score": 0.758,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "today.",
+          "start": 15.831,
+          "end": 16.151,
+          "score": 0.768,
+          "speaker": "SPEAKER_05"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1635512457953559,
-      "compression_ratio": 1.6008230452674896,
-      "no_speech_prob": 0.1975409984588623
+      "avg_logprob": -0.04372558770701289,
+      "speaker": "SPEAKER_05"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 18.62,
-      "end": 25.66,
-      "text": " Jose, people are calling for more transparency behind the vaccines and the vaccine mandates.",
-      "tokens": [
-        51295,
-        8635,
-        11,
-        561,
-        366,
-        5141,
-        337,
-        544,
-        17131,
-        2261,
-        264,
-        12164,
-        293,
-        264,
-        7007,
-        48662,
-        13,
-        51647
+      "start": 16.511,
+      "end": 24.075,
+      "text": "And here in the Bay Area at City Hall in San Jose, people are calling for more transparency behind the vaccines and the vaccine mandates.",
+      "words": [
+        {
+          "word": "And",
+          "start": 16.511,
+          "end": 16.611,
+          "score": 0.74,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "here",
+          "start": 16.651,
+          "end": 16.811,
+          "score": 0.767,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "in",
+          "start": 16.851,
+          "end": 16.911,
+          "score": 0.748,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "the",
+          "start": 16.931,
+          "end": 16.991,
+          "score": 0.986,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "Bay",
+          "start": 17.031,
+          "end": 17.191,
+          "score": 0.91,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "Area",
+          "start": 17.271,
+          "end": 17.672,
+          "score": 0.841,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "at",
+          "start": 17.692,
+          "end": 17.732,
+          "score": 0.001,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "City",
+          "start": 17.812,
+          "end": 18.052,
+          "score": 0.969,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "Hall",
+          "start": 18.092,
+          "end": 18.292,
+          "score": 0.858,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "in",
+          "start": 18.332,
+          "end": 18.432,
+          "score": 0.806,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "San",
+          "start": 18.472,
+          "end": 18.632,
+          "score": 0.886,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "Jose,",
+          "start": 18.652,
+          "end": 19.032,
+          "score": 0.691,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "people",
+          "start": 19.412,
+          "end": 19.653,
+          "score": 0.834,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "are",
+          "start": 19.693,
+          "end": 19.793,
+          "score": 0.7,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "calling",
+          "start": 19.813,
+          "end": 20.093,
+          "score": 0.875,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "for",
+          "start": 20.153,
+          "end": 20.293,
+          "score": 0.844,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "more",
+          "start": 20.333,
+          "end": 20.533,
+          "score": 0.734,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "transparency",
+          "start": 20.573,
+          "end": 21.293,
+          "score": 0.848,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "behind",
+          "start": 21.614,
+          "end": 21.874,
+          "score": 0.829,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "the",
+          "start": 21.894,
+          "end": 21.954,
+          "score": 0.98,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "vaccines",
+          "start": 21.994,
+          "end": 22.534,
+          "score": 0.855,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "and",
+          "start": 22.974,
+          "end": 23.114,
+          "score": 0.7,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "the",
+          "start": 23.134,
+          "end": 23.194,
+          "score": 0.983,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "vaccine",
+          "start": 23.234,
+          "end": 23.615,
+          "score": 0.794,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "mandates.",
+          "start": 23.655,
+          "end": 24.075,
+          "score": 0.898,
+          "speaker": "SPEAKER_05"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1635512457953559,
-      "compression_ratio": 1.6008230452674896,
-      "no_speech_prob": 0.1975409984588623
+      "avg_logprob": -0.04372558770701289,
+      "speaker": "SPEAKER_05"
     },
     {
-      "id": 5,
-      "seek": 2566,
-      "start": 25.66,
-      "end": 38.620000000000005,
-      "text": " My sign is make California free. We need freedom. Having no freedom is illegal.",
-      "tokens": [
-        50364,
-        1222,
-        1465,
-        307,
-        652,
-        5384,
-        1737,
-        13,
-        492,
-        643,
-        5645,
-        13,
-        10222,
-        572,
-        5645,
-        307,
-        11905,
-        13,
-        51012
+      "start": 25.612,
+      "end": 31.513,
+      "text": " My sign is make California free.",
+      "words": [
+        {
+          "word": "My",
+          "start": 25.612,
+          "end": 25.812,
+          "score": 0.956,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "sign",
+          "start": 25.872,
+          "end": 26.512,
+          "score": 0.866,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "is",
+          "start": 27.792,
+          "end": 27.992,
+          "score": 0.966,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "make",
+          "start": 29.953,
+          "end": 30.233,
+          "score": 0.833,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "California",
+          "start": 30.293,
+          "end": 31.053,
+          "score": 0.895,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "free.",
+          "start": 31.133,
+          "end": 31.513,
+          "score": 0.868,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2674802964733493,
-      "compression_ratio": 1.4134078212290502,
-      "no_speech_prob": 0.04160303622484207
+      "avg_logprob": -0.08217329653826627,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 6,
-      "seek": 2566,
-      "start": 38.620000000000005,
-      "end": 41.14,
-      "text": " Some attendees called for walkouts.",
-      "tokens": [
-        51012,
-        2188,
-        34826,
-        1219,
-        337,
-        1792,
-        7711,
-        13,
-        51138
+      "start": 32.633,
+      "end": 33.694,
+      "text": "We need freedom.",
+      "words": [
+        {
+          "word": "We",
+          "start": 32.633,
+          "end": 32.893,
+          "score": 0.819,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "need",
+          "start": 32.933,
+          "end": 33.153,
+          "score": 0.584,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "freedom.",
+          "start": 33.233,
+          "end": 33.694,
+          "score": 0.91,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2674802964733493,
-      "compression_ratio": 1.4134078212290502,
-      "no_speech_prob": 0.04160303622484207
+      "avg_logprob": -0.08217329653826627,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 7,
-      "seek": 2566,
-      "start": 41.14,
-      "end": 48.86,
-      "text": " If we don't question, we just let the government or the social media or the businesses tell us.",
-      "tokens": [
-        51138,
-        759,
-        321,
-        500,
-        380,
-        1168,
-        11,
-        321,
-        445,
-        718,
-        264,
-        2463,
-        420,
-        264,
-        2093,
-        3021,
-        420,
-        264,
-        6011,
-        980,
-        505,
-        13,
-        51524
+      "start": 35.094,
+      "end": 37.494,
+      "text": "Having no freedom is illegal.",
+      "words": [
+        {
+          "word": "Having",
+          "start": 35.094,
+          "end": 35.414,
+          "score": 0.855,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "no",
+          "start": 35.474,
+          "end": 35.674,
+          "score": 0.912,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "freedom",
+          "start": 35.774,
+          "end": 36.194,
+          "score": 0.844,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "is",
+          "start": 36.294,
+          "end": 36.574,
+          "score": 0.785,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "illegal.",
+          "start": 36.854,
+          "end": 37.494,
+          "score": 0.627,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2674802964733493,
-      "compression_ratio": 1.4134078212290502,
-      "no_speech_prob": 0.04160303622484207
+      "avg_logprob": -0.08217329653826627,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 8,
-      "seek": 2566,
-      "start": 48.86,
-      "end": 52.379999999999995,
-      "text": " Others shared about vaccine side effects.",
-      "tokens": [
-        51524,
-        20277,
-        5507,
-        466,
-        7007,
-        1252,
-        5065,
-        13,
-        51700
+      "start": 38.454,
+      "end": 40.455,
+      "text": "Some attendees called for walkouts.",
+      "words": [
+        {
+          "word": "Some",
+          "start": 38.454,
+          "end": 38.635,
+          "score": 0.882,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "attendees",
+          "start": 38.695,
+          "end": 39.135,
+          "score": 0.856,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "called",
+          "start": 39.255,
+          "end": 39.575,
+          "score": 0.831,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "for",
+          "start": 39.655,
+          "end": 39.815,
+          "score": 0.866,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "walkouts.",
+          "start": 39.915,
+          "end": 40.455,
+          "score": 0.784,
+          "speaker": "SPEAKER_05"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2674802964733493,
-      "compression_ratio": 1.4134078212290502,
-      "no_speech_prob": 0.04160303622484207
+      "avg_logprob": -0.08217329653826627,
+      "speaker": "SPEAKER_05"
     },
     {
-      "id": 9,
-      "seek": 5238,
-      "start": 52.38,
-      "end": 57.940000000000005,
-      "text": " People are taking them because they're believing the government. They're not looking at the data.",
-      "tokens": [
-        50364,
-        3432,
-        366,
-        1940,
-        552,
-        570,
-        436,
-        434,
-        16594,
-        264,
-        2463,
-        13,
-        814,
-        434,
-        406,
-        1237,
-        412,
-        264,
-        1412,
-        13,
-        50642
+      "start": 41.115,
+      "end": 48.436,
+      "text": "If we don't questions, we just let the government or the social media or boss or the businesses tell us.",
+      "words": [
+        {
+          "word": "If",
+          "start": 41.115,
+          "end": 41.195,
+          "score": 0.998,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "we",
+          "start": 41.295,
+          "end": 41.515,
+          "score": 0.985,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "don't",
+          "start": 41.575,
+          "end": 41.795,
+          "score": 0.906,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "questions,",
+          "start": 41.855,
+          "end": 42.515,
+          "score": 0.849,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "we",
+          "start": 42.895,
+          "end": 43.095,
+          "score": 0.906,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "just",
+          "start": 43.135,
+          "end": 43.315,
+          "score": 0.987,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "let",
+          "start": 43.415,
+          "end": 43.655,
+          "score": 0.986,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "the",
+          "start": 43.816,
+          "end": 44.316,
+          "score": 0.786,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "government",
+          "start": 44.376,
+          "end": 44.896,
+          "score": 0.938,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "or",
+          "start": 45.236,
+          "end": 45.376,
+          "score": 0.718,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "the",
+          "start": 45.436,
+          "end": 45.536,
+          "score": 0.681,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "social",
+          "start": 45.596,
+          "end": 45.956,
+          "score": 0.878,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "media",
+          "start": 46.016,
+          "end": 46.416,
+          "score": 0.935,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "or",
+          "start": 46.536,
+          "end": 46.656,
+          "score": 0.962,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "boss",
+          "start": 46.736,
+          "end": 47.076,
+          "score": 0.624,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "or",
+          "start": 47.156,
+          "end": 47.216,
+          "score": 0.761,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "the",
+          "start": 47.236,
+          "end": 47.316,
+          "score": 0.8,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "businesses",
+          "start": 47.376,
+          "end": 47.936,
+          "score": 0.826,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "tell",
+          "start": 48.016,
+          "end": 48.256,
+          "score": 0.856,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "us.",
+          "start": 48.316,
+          "end": 48.436,
+          "score": 0.826,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1967591699564232,
-      "compression_ratio": 1.6570397111913358,
-      "no_speech_prob": 0.053029097616672516
+      "avg_logprob": -0.08217329653826627,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 10,
-      "seek": 5238,
-      "start": 57.940000000000005,
-      "end": 63.74,
-      "text": " One attendee said her mother and two other family members have passed away after getting vaccinated.",
-      "tokens": [
-        50642,
-        1485,
-        6888,
-        1653,
-        848,
-        720,
-        2895,
-        293,
-        732,
-        661,
-        1605,
-        2679,
-        362,
-        4678,
-        1314,
-        934,
-        1242,
-        14686,
-        13,
-        50932
+      "start": 48.957,
+      "end": 51.197,
+      "text": "Others shared about vaccine side effects.",
+      "words": [
+        {
+          "word": "Others",
+          "start": 48.957,
+          "end": 49.237,
+          "score": 0.82,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "shared",
+          "start": 49.417,
+          "end": 49.657,
+          "score": 0.881,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "about",
+          "start": 49.697,
+          "end": 49.897,
+          "score": 0.83,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "vaccine",
+          "start": 49.957,
+          "end": 50.477,
+          "score": 0.765,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "side",
+          "start": 50.577,
+          "end": 50.797,
+          "score": 0.895,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "effects.",
+          "start": 50.837,
+          "end": 51.197,
+          "score": 0.931,
+          "speaker": "SPEAKER_05"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1967591699564232,
-      "compression_ratio": 1.6570397111913358,
-      "no_speech_prob": 0.053029097616672516
+      "avg_logprob": -0.08217329653826627,
+      "speaker": "SPEAKER_05"
     },
     {
-      "id": 11,
-      "seek": 5238,
-      "start": 63.74,
-      "end": 67.86,
-      "text": " I have clients that have taken the vaccine and especially the Moderna. Their hair is",
-      "tokens": [
-        50932,
-        286,
-        362,
-        6982,
-        300,
-        362,
-        2726,
-        264,
-        7007,
-        293,
-        2318,
-        264,
-        6583,
-        22250,
-        13,
-        6710,
-        2578,
-        307,
-        51138
+      "start": 52.167,
+      "end": 54.588,
+      "text": " People are taking them because they're believing the government.",
+      "words": [
+        {
+          "word": "People",
+          "start": 52.167,
+          "end": 52.407,
+          "score": 0.856,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 52.467,
+          "end": 52.547,
+          "score": 0.952,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "taking",
+          "start": 52.587,
+          "end": 52.887,
+          "score": 0.856,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "them",
+          "start": 52.927,
+          "end": 53.027,
+          "score": 0.921,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "because",
+          "start": 53.067,
+          "end": 53.367,
+          "score": 0.824,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "they're",
+          "start": 53.387,
+          "end": 53.567,
+          "score": 0.532,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "believing",
+          "start": 53.587,
+          "end": 53.967,
+          "score": 0.889,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 54.007,
+          "end": 54.087,
+          "score": 0.81,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "government.",
+          "start": 54.127,
+          "end": 54.588,
+          "score": 0.768,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1967591699564232,
-      "compression_ratio": 1.6570397111913358,
-      "no_speech_prob": 0.053029097616672516
+      "avg_logprob": -0.06914893656652024,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 12,
-      "seek": 5238,
-      "start": 67.86,
-      "end": 72.38,
-      "text": " falling out now. And most of all of them have complete anxiety.",
-      "tokens": [
-        51138,
-        7440,
-        484,
-        586,
-        13,
-        400,
-        881,
-        295,
-        439,
-        295,
-        552,
-        362,
-        3566,
-        9119,
-        13,
-        51364
+      "start": 55.048,
+      "end": 56.888,
+      "text": "They're not looking at the data.",
+      "words": [
+        {
+          "word": "They're",
+          "start": 55.048,
+          "end": 55.268,
+          "score": 0.447,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "not",
+          "start": 55.308,
+          "end": 55.508,
+          "score": 0.781,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "looking",
+          "start": 55.628,
+          "end": 56.008,
+          "score": 0.952,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "at",
+          "start": 56.148,
+          "end": 56.228,
+          "score": 0.923,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 56.268,
+          "end": 56.408,
+          "score": 0.844,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "data.",
+          "start": 56.468,
+          "end": 56.888,
+          "score": 0.679,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1967591699564232,
-      "compression_ratio": 1.6570397111913358,
-      "no_speech_prob": 0.053029097616672516
+      "avg_logprob": -0.06914893656652024,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 13,
-      "seek": 5238,
-      "start": 72.38,
-      "end": 76.58,
-      "text": " But my granddaughter who is only seven years old, she herself has voiced to me that she",
-      "tokens": [
-        51364,
-        583,
-        452,
-        44411,
-        567,
-        307,
-        787,
-        3407,
-        924,
-        1331,
-        11,
-        750,
-        7530,
-        575,
-        42246,
-        281,
-        385,
-        300,
-        750,
-        51574
+      "start": 57.868,
+      "end": 62.93,
+      "text": "One attendee said her mother and two other family members have passed away after getting vaccinated.",
+      "words": [
+        {
+          "word": "One",
+          "start": 57.868,
+          "end": 57.988,
+          "score": 0.688,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "attendee",
+          "start": 58.048,
+          "end": 58.408,
+          "score": 0.82,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "said",
+          "start": 58.448,
+          "end": 58.649,
+          "score": 0.842,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "her",
+          "start": 58.709,
+          "end": 58.829,
+          "score": 0.857,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "mother",
+          "start": 58.889,
+          "end": 59.149,
+          "score": 0.813,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "and",
+          "start": 59.209,
+          "end": 59.289,
+          "score": 0.945,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "two",
+          "start": 59.369,
+          "end": 59.549,
+          "score": 0.874,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "other",
+          "start": 59.689,
+          "end": 59.889,
+          "score": 0.773,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "family",
+          "start": 59.949,
+          "end": 60.229,
+          "score": 0.881,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "members",
+          "start": 60.269,
+          "end": 60.569,
+          "score": 0.903,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "have",
+          "start": 60.669,
+          "end": 60.809,
+          "score": 0.78,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "passed",
+          "start": 60.869,
+          "end": 61.149,
+          "score": 0.981,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "away",
+          "start": 61.209,
+          "end": 61.449,
+          "score": 0.69,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "after",
+          "start": 61.829,
+          "end": 62.029,
+          "score": 0.886,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "getting",
+          "start": 62.069,
+          "end": 62.269,
+          "score": 0.88,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "vaccinated.",
+          "start": 62.309,
+          "end": 62.93,
+          "score": 0.895,
+          "speaker": "SPEAKER_05"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1967591699564232,
-      "compression_ratio": 1.6570397111913358,
-      "no_speech_prob": 0.053029097616672516
+      "avg_logprob": -0.06914893656652024,
+      "speaker": "SPEAKER_05"
     },
     {
-      "id": 14,
-      "seek": 5238,
-      "start": 76.58,
-      "end": 78.9,
-      "text": " does not want the shot.",
-      "tokens": [
-        51574,
-        775,
-        406,
-        528,
-        264,
-        3347,
-        13,
-        51690
+      "start": 63.85,
+      "end": 68.551,
+      "text": "I have clients that have taken the vaccine and especially the Moderna, their hair is falling out now.",
+      "words": [
+        {
+          "word": "I",
+          "start": 63.85,
+          "end": 63.93,
+          "score": 0.987,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 63.97,
+          "end": 64.13,
+          "score": 0.844,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "clients",
+          "start": 64.17,
+          "end": 64.57,
+          "score": 0.914,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 64.63,
+          "end": 64.81,
+          "score": 0.923,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 64.85,
+          "end": 64.95,
+          "score": 0.896,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "taken",
+          "start": 64.97,
+          "end": 65.19,
+          "score": 0.896,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 65.23,
+          "end": 65.29,
+          "score": 0.973,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccine",
+          "start": 65.33,
+          "end": 65.79,
+          "score": 0.825,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 65.85,
+          "end": 66.29,
+          "score": 0.832,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "especially",
+          "start": 66.33,
+          "end": 66.73,
+          "score": 0.894,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 66.77,
+          "end": 66.89,
+          "score": 0.783,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Moderna,",
+          "start": 66.91,
+          "end": 67.271,
+          "score": 0.725,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "their",
+          "start": 67.511,
+          "end": 67.651,
+          "score": 0.915,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "hair",
+          "start": 67.691,
+          "end": 67.771,
+          "score": 0.988,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 67.811,
+          "end": 67.851,
+          "score": 0.498,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "falling",
+          "start": 67.891,
+          "end": 68.171,
+          "score": 0.919,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "out",
+          "start": 68.231,
+          "end": 68.311,
+          "score": 0.987,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "now.",
+          "start": 68.371,
+          "end": 68.551,
+          "score": 0.978,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1967591699564232,
-      "compression_ratio": 1.6570397111913358,
-      "no_speech_prob": 0.053029097616672516
+      "avg_logprob": -0.06914893656652024,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 15,
-      "seek": 7890,
-      "start": 78.9,
-      "end": 85.38000000000001,
-      "text": " The biggest agenda that people need to be concerned about is these health passports",
-      "tokens": [
-        50364,
-        440,
-        3880,
-        9829,
-        300,
-        561,
-        643,
-        281,
-        312,
-        5922,
-        466,
-        307,
-        613,
-        1585,
-        1320,
-        17845,
-        50688
+      "start": 69.111,
+      "end": 72.032,
+      "text": "And most of all of them have complete anxiety.",
+      "words": [
+        {
+          "word": "And",
+          "start": 69.111,
+          "end": 69.231,
+          "score": 0.699,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "most",
+          "start": 69.471,
+          "end": 69.691,
+          "score": 0.911,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 69.731,
+          "end": 69.791,
+          "score": 0.724,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "all",
+          "start": 69.931,
+          "end": 70.051,
+          "score": 0.873,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 70.091,
+          "end": 70.131,
+          "score": 0.995,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "them",
+          "start": 70.191,
+          "end": 70.371,
+          "score": 0.925,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 70.451,
+          "end": 70.671,
+          "score": 0.797,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "complete",
+          "start": 71.051,
+          "end": 71.411,
+          "score": 0.828,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "anxiety.",
+          "start": 71.491,
+          "end": 72.032,
+          "score": 0.849,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2016199399840157,
-      "compression_ratio": 1.4105960264900663,
-      "no_speech_prob": 0.4527583420276642
+      "avg_logprob": -0.06914893656652024,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 16,
-      "seek": 7890,
-      "start": 85.38000000000001,
-      "end": 87.54,
-      "text": " or vaccine passports.",
-      "tokens": [
-        50688,
-        420,
-        7007,
-        1320,
-        17845,
-        13,
-        50796
+      "start": 72.292,
+      "end": 77.633,
+      "text": "But my granddaughter, who is only seven years old, she herself has voiced to me that she does not want the shot.",
+      "words": [
+        {
+          "word": "But",
+          "start": 72.292,
+          "end": 72.412,
+          "score": 0.968,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "my",
+          "start": 72.492,
+          "end": 72.612,
+          "score": 0.834,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "granddaughter,",
+          "start": 72.652,
+          "end": 73.192,
+          "score": 0.891,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "who",
+          "start": 73.212,
+          "end": 73.272,
+          "score": 0.231,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 73.312,
+          "end": 73.392,
+          "score": 0.619,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "only",
+          "start": 73.472,
+          "end": 73.652,
+          "score": 0.834,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "seven",
+          "start": 73.712,
+          "end": 73.952,
+          "score": 0.703,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "years",
+          "start": 73.992,
+          "end": 74.192,
+          "score": 0.762,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "old,",
+          "start": 74.372,
+          "end": 74.532,
+          "score": 0.714,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "she",
+          "start": 75.192,
+          "end": 75.312,
+          "score": 0.742,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "herself",
+          "start": 75.372,
+          "end": 75.672,
+          "score": 0.93,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "has",
+          "start": 75.692,
+          "end": 75.792,
+          "score": 0.489,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "voiced",
+          "start": 75.832,
+          "end": 76.073,
+          "score": 0.851,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 76.113,
+          "end": 76.193,
+          "score": 0.996,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "me",
+          "start": 76.233,
+          "end": 76.333,
+          "score": 0.996,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 76.373,
+          "end": 76.493,
+          "score": 0.841,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "she",
+          "start": 76.513,
+          "end": 76.613,
+          "score": 0.668,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "does",
+          "start": 76.653,
+          "end": 76.793,
+          "score": 0.866,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "not",
+          "start": 76.833,
+          "end": 76.993,
+          "score": 0.649,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "want",
+          "start": 77.033,
+          "end": 77.173,
+          "score": 0.924,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 77.213,
+          "end": 77.293,
+          "score": 0.747,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "shot.",
+          "start": 77.333,
+          "end": 77.633,
+          "score": 0.95,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2016199399840157,
-      "compression_ratio": 1.4105960264900663,
-      "no_speech_prob": 0.4527583420276642
+      "avg_logprob": -0.06914893656652024,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 17,
-      "seek": 7890,
-      "start": 87.54,
-      "end": 91.98,
-      "text": " More of these walkout protests are planned for the remainder of the month. David Lam,",
-      "tokens": [
-        50796,
-        5048,
-        295,
-        613,
-        1792,
-        346,
-        20174,
-        366,
-        8589,
-        337,
-        264,
-        29837,
-        295,
-        264,
-        1618,
-        13,
-        4389,
-        18825,
-        11,
-        51018
+      "start": 78.829,
+      "end": 79.532,
+      "text": " and a vaccine.",
+      "words": [
+        {
+          "word": "and",
+          "start": 78.829,
+          "end": 78.91,
+          "score": 0.614,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "a",
+          "start": 78.95,
+          "end": 79.01,
+          "score": 0.576,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "vaccine.",
+          "start": 79.03,
+          "end": 79.532,
+          "score": 0.799,
+          "speaker": "SPEAKER_04"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2016199399840157,
-      "compression_ratio": 1.4105960264900663,
-      "no_speech_prob": 0.4527583420276642
+      "avg_logprob": -0.05580357021215011,
+      "speaker": "SPEAKER_04"
     },
     {
-      "id": 18,
-      "seek": 7890,
-      "start": 91.98,
-      "end": 93.38000000000001,
-      "text": " NTD News, California.",
-      "tokens": [
-        51018,
-        43452,
-        35,
-        7987,
-        11,
-        5384,
-        13,
-        51088
+      "start": 80.134,
+      "end": 86.714,
+      "text": "The biggest agenda that people need to be concerned about is these health passports or vaccine passports.",
+      "words": [
+        {
+          "word": "The",
+          "start": 80.134,
+          "end": 80.254,
+          "score": 0.886,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "biggest",
+          "start": 80.274,
+          "end": 80.595,
+          "score": 0.885,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "agenda",
+          "start": 80.675,
+          "end": 81.217,
+          "score": 0.761,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "that",
+          "start": 81.478,
+          "end": 81.618,
+          "score": 0.829,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "people",
+          "start": 81.658,
+          "end": 81.899,
+          "score": 0.822,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "need",
+          "start": 81.939,
+          "end": 82.08,
+          "score": 0.993,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "to",
+          "start": 82.12,
+          "end": 82.18,
+          "score": 0.638,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "be",
+          "start": 82.22,
+          "end": 82.32,
+          "score": 0.839,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "concerned",
+          "start": 82.36,
+          "end": 82.742,
+          "score": 0.954,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "about",
+          "start": 82.782,
+          "end": 83.123,
+          "score": 0.894,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "is",
+          "start": 83.464,
+          "end": 83.604,
+          "score": 0.834,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "these",
+          "start": 83.664,
+          "end": 83.945,
+          "score": 0.833,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "health",
+          "start": 84.547,
+          "end": 84.768,
+          "score": 0.744,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "passports",
+          "start": 84.808,
+          "end": 85.37,
+          "score": 0.912,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "or",
+          "start": 85.47,
+          "end": 85.53,
+          "score": 0.953,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "vaccine",
+          "start": 85.57,
+          "end": 86.012,
+          "score": 0.748,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "passports.",
+          "start": 86.052,
+          "end": 86.714,
+          "score": 0.808,
+          "speaker": "SPEAKER_04"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2016199399840157,
-      "compression_ratio": 1.4105960264900663,
-      "no_speech_prob": 0.4527583420276642
+      "avg_logprob": -0.05580357021215011,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 87.436,
+      "end": 90.626,
+      "text": "More of these walkout protests are planned for the remainder of the month.",
+      "words": [
+        {
+          "word": "More",
+          "start": 87.436,
+          "end": 87.617,
+          "score": 0.9,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "of",
+          "start": 87.657,
+          "end": 87.697,
+          "score": 0.996,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "these",
+          "start": 87.737,
+          "end": 87.898,
+          "score": 0.798,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "walkout",
+          "start": 87.938,
+          "end": 88.319,
+          "score": 0.95,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "protests",
+          "start": 88.359,
+          "end": 88.84,
+          "score": 0.818,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "are",
+          "start": 88.921,
+          "end": 89.021,
+          "score": 0.731,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "planned",
+          "start": 89.081,
+          "end": 89.442,
+          "score": 0.887,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "for",
+          "start": 89.503,
+          "end": 89.603,
+          "score": 0.932,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "the",
+          "start": 89.623,
+          "end": 89.703,
+          "score": 0.814,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "remainder",
+          "start": 89.743,
+          "end": 90.165,
+          "score": 0.791,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "of",
+          "start": 90.185,
+          "end": 90.245,
+          "score": 0.758,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "the",
+          "start": 90.285,
+          "end": 90.345,
+          "score": 0.997,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "month.",
+          "start": 90.385,
+          "end": 90.626,
+          "score": 0.982,
+          "speaker": "SPEAKER_05"
+        }
+      ],
+      "avg_logprob": -0.05580357021215011,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 91.148,
+      "end": 93.435,
+      "text": "David Lam, NTD News, California.",
+      "words": [
+        {
+          "word": "David",
+          "start": 91.148,
+          "end": 91.408,
+          "score": 0.985,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "Lam,",
+          "start": 91.449,
+          "end": 91.729,
+          "score": 0.958,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "NTD",
+          "start": 91.99,
+          "end": 92.351,
+          "score": 0.848,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "News,",
+          "start": 92.391,
+          "end": 92.672,
+          "score": 0.913,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "California.",
+          "start": 92.793,
+          "end": 93.435,
+          "score": 0.838,
+          "speaker": "SPEAKER_05"
+        }
+      ],
+      "avg_logprob": -0.05580357021215011,
+      "speaker": "SPEAKER_05"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "And",
+      "start": 0.503,
+      "end": 0.583,
+      "score": 0.167,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 0.623,
+      "end": 0.643,
+      "score": 0.397,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "similar",
+      "start": 0.703,
+      "end": 1.003,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protest",
+      "start": 1.063,
+      "end": 1.524,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 1.564,
+      "end": 1.704,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "held",
+      "start": 1.744,
+      "end": 1.944,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 2.004,
+      "end": 2.064,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "San",
+      "start": 2.184,
+      "end": 2.424,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Jose's",
+      "start": 2.444,
+      "end": 3.044,
+      "score": 0.586,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "City",
+      "start": 3.144,
+      "end": 3.404,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Hall",
+      "start": 3.424,
+      "end": 3.685,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 3.805,
+      "end": 4.105,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recent",
+      "start": 4.205,
+      "end": 4.485,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 4.525,
+      "end": 4.905,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mandates.",
+      "start": 4.925,
+      "end": 5.385,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 5.866,
+      "end": 5.946,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "group",
+      "start": 5.986,
+      "end": 6.186,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "voiced",
+      "start": 6.226,
+      "end": 6.486,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 6.506,
+      "end": 6.666,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concerns",
+      "start": 6.686,
+      "end": 7.166,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 7.226,
+      "end": 7.426,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 7.466,
+      "end": 7.547,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "threat",
+      "start": 7.607,
+      "end": 7.867,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 7.887,
+      "end": 7.987,
+      "score": 0.469,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freedom",
+      "start": 8.067,
+      "end": 8.427,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 8.467,
+      "end": 8.527,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individual",
+      "start": 8.587,
+      "end": 9.067,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "choice.",
+      "start": 9.147,
+      "end": 9.548,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 9.988,
+      "end": 10.108,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hear",
+      "start": 10.148,
+      "end": 10.288,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 10.348,
+      "end": 10.528,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 10.568,
+      "end": 10.708,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "NTD's",
+      "start": 10.908,
+      "end": 11.408,
+      "score": 0.604,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "David",
+      "start": 11.428,
+      "end": 11.669,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Lam.",
+      "start": 11.709,
+      "end": 11.989,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 14.07,
+      "end": 14.21,
+      "score": 0.939,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "is",
+      "start": 14.27,
+      "end": 14.33,
+      "score": 0.909,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "one",
+      "start": 14.41,
+      "end": 14.51,
+      "score": 0.827,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "of",
+      "start": 14.53,
+      "end": 14.57,
+      "score": 0.996,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "the",
+      "start": 14.61,
+      "end": 14.67,
+      "score": 0.985,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "many",
+      "start": 14.73,
+      "end": 14.93,
+      "score": 0.826,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "rallies",
+      "start": 14.97,
+      "end": 15.31,
+      "score": 0.828,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "going",
+      "start": 15.35,
+      "end": 15.591,
+      "score": 0.852,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "on",
+      "start": 15.691,
+      "end": 15.791,
+      "score": 0.758,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "today.",
+      "start": 15.831,
+      "end": 16.151,
+      "score": 0.768,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "And",
+      "start": 16.511,
+      "end": 16.611,
+      "score": 0.74,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "here",
+      "start": 16.651,
+      "end": 16.811,
+      "score": 0.767,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "in",
+      "start": 16.851,
+      "end": 16.911,
+      "score": 0.748,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "the",
+      "start": 16.931,
+      "end": 16.991,
+      "score": 0.986,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "Bay",
+      "start": 17.031,
+      "end": 17.191,
+      "score": 0.91,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "Area",
+      "start": 17.271,
+      "end": 17.672,
+      "score": 0.841,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "at",
+      "start": 17.692,
+      "end": 17.732,
+      "score": 0.001,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "City",
+      "start": 17.812,
+      "end": 18.052,
+      "score": 0.969,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "Hall",
+      "start": 18.092,
+      "end": 18.292,
+      "score": 0.858,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "in",
+      "start": 18.332,
+      "end": 18.432,
+      "score": 0.806,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "San",
+      "start": 18.472,
+      "end": 18.632,
+      "score": 0.886,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "Jose,",
+      "start": 18.652,
+      "end": 19.032,
+      "score": 0.691,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "people",
+      "start": 19.412,
+      "end": 19.653,
+      "score": 0.834,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "are",
+      "start": 19.693,
+      "end": 19.793,
+      "score": 0.7,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "calling",
+      "start": 19.813,
+      "end": 20.093,
+      "score": 0.875,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "for",
+      "start": 20.153,
+      "end": 20.293,
+      "score": 0.844,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "more",
+      "start": 20.333,
+      "end": 20.533,
+      "score": 0.734,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "transparency",
+      "start": 20.573,
+      "end": 21.293,
+      "score": 0.848,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "behind",
+      "start": 21.614,
+      "end": 21.874,
+      "score": 0.829,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "the",
+      "start": 21.894,
+      "end": 21.954,
+      "score": 0.98,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "vaccines",
+      "start": 21.994,
+      "end": 22.534,
+      "score": 0.855,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "and",
+      "start": 22.974,
+      "end": 23.114,
+      "score": 0.7,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "the",
+      "start": 23.134,
+      "end": 23.194,
+      "score": 0.983,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "vaccine",
+      "start": 23.234,
+      "end": 23.615,
+      "score": 0.794,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "mandates.",
+      "start": 23.655,
+      "end": 24.075,
+      "score": 0.898,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "My",
+      "start": 25.612,
+      "end": 25.812,
+      "score": 0.956,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "sign",
+      "start": 25.872,
+      "end": 26.512,
+      "score": 0.866,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "is",
+      "start": 27.792,
+      "end": 27.992,
+      "score": 0.966,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "make",
+      "start": 29.953,
+      "end": 30.233,
+      "score": 0.833,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "California",
+      "start": 30.293,
+      "end": 31.053,
+      "score": 0.895,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "free.",
+      "start": 31.133,
+      "end": 31.513,
+      "score": 0.868,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "We",
+      "start": 32.633,
+      "end": 32.893,
+      "score": 0.819,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "need",
+      "start": 32.933,
+      "end": 33.153,
+      "score": 0.584,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "freedom.",
+      "start": 33.233,
+      "end": 33.694,
+      "score": 0.91,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "Having",
+      "start": 35.094,
+      "end": 35.414,
+      "score": 0.855,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "no",
+      "start": 35.474,
+      "end": 35.674,
+      "score": 0.912,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "freedom",
+      "start": 35.774,
+      "end": 36.194,
+      "score": 0.844,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "is",
+      "start": 36.294,
+      "end": 36.574,
+      "score": 0.785,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "illegal.",
+      "start": 36.854,
+      "end": 37.494,
+      "score": 0.627,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "Some",
+      "start": 38.454,
+      "end": 38.635,
+      "score": 0.882,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "attendees",
+      "start": 38.695,
+      "end": 39.135,
+      "score": 0.856,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "called",
+      "start": 39.255,
+      "end": 39.575,
+      "score": 0.831,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "for",
+      "start": 39.655,
+      "end": 39.815,
+      "score": 0.866,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "walkouts.",
+      "start": 39.915,
+      "end": 40.455,
+      "score": 0.784,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "If",
+      "start": 41.115,
+      "end": 41.195,
+      "score": 0.998,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "we",
+      "start": 41.295,
+      "end": 41.515,
+      "score": 0.985,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "don't",
+      "start": 41.575,
+      "end": 41.795,
+      "score": 0.906,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "questions,",
+      "start": 41.855,
+      "end": 42.515,
+      "score": 0.849,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "we",
+      "start": 42.895,
+      "end": 43.095,
+      "score": 0.906,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "just",
+      "start": 43.135,
+      "end": 43.315,
+      "score": 0.987,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "let",
+      "start": 43.415,
+      "end": 43.655,
+      "score": 0.986,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "the",
+      "start": 43.816,
+      "end": 44.316,
+      "score": 0.786,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "government",
+      "start": 44.376,
+      "end": 44.896,
+      "score": 0.938,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "or",
+      "start": 45.236,
+      "end": 45.376,
+      "score": 0.718,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "the",
+      "start": 45.436,
+      "end": 45.536,
+      "score": 0.681,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "social",
+      "start": 45.596,
+      "end": 45.956,
+      "score": 0.878,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "media",
+      "start": 46.016,
+      "end": 46.416,
+      "score": 0.935,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "or",
+      "start": 46.536,
+      "end": 46.656,
+      "score": 0.962,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "boss",
+      "start": 46.736,
+      "end": 47.076,
+      "score": 0.624,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "or",
+      "start": 47.156,
+      "end": 47.216,
+      "score": 0.761,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "the",
+      "start": 47.236,
+      "end": 47.316,
+      "score": 0.8,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "businesses",
+      "start": 47.376,
+      "end": 47.936,
+      "score": 0.826,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "tell",
+      "start": 48.016,
+      "end": 48.256,
+      "score": 0.856,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "us.",
+      "start": 48.316,
+      "end": 48.436,
+      "score": 0.826,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "Others",
+      "start": 48.957,
+      "end": 49.237,
+      "score": 0.82,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "shared",
+      "start": 49.417,
+      "end": 49.657,
+      "score": 0.881,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "about",
+      "start": 49.697,
+      "end": 49.897,
+      "score": 0.83,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "vaccine",
+      "start": 49.957,
+      "end": 50.477,
+      "score": 0.765,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "side",
+      "start": 50.577,
+      "end": 50.797,
+      "score": 0.895,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "effects.",
+      "start": 50.837,
+      "end": 51.197,
+      "score": 0.931,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "People",
+      "start": 52.167,
+      "end": 52.407,
+      "score": 0.856,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 52.467,
+      "end": 52.547,
+      "score": 0.952,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "taking",
+      "start": 52.587,
+      "end": 52.887,
+      "score": 0.856,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "them",
+      "start": 52.927,
+      "end": 53.027,
+      "score": 0.921,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "because",
+      "start": 53.067,
+      "end": 53.367,
+      "score": 0.824,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "they're",
+      "start": 53.387,
+      "end": 53.567,
+      "score": 0.532,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "believing",
+      "start": 53.587,
+      "end": 53.967,
+      "score": 0.889,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 54.007,
+      "end": 54.087,
+      "score": 0.81,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "government.",
+      "start": 54.127,
+      "end": 54.588,
+      "score": 0.768,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "They're",
+      "start": 55.048,
+      "end": 55.268,
+      "score": 0.447,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "not",
+      "start": 55.308,
+      "end": 55.508,
+      "score": 0.781,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "looking",
+      "start": 55.628,
+      "end": 56.008,
+      "score": 0.952,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "at",
+      "start": 56.148,
+      "end": 56.228,
+      "score": 0.923,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 56.268,
+      "end": 56.408,
+      "score": 0.844,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "data.",
+      "start": 56.468,
+      "end": 56.888,
+      "score": 0.679,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "One",
+      "start": 57.868,
+      "end": 57.988,
+      "score": 0.688,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "attendee",
+      "start": 58.048,
+      "end": 58.408,
+      "score": 0.82,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "said",
+      "start": 58.448,
+      "end": 58.649,
+      "score": 0.842,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "her",
+      "start": 58.709,
+      "end": 58.829,
+      "score": 0.857,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "mother",
+      "start": 58.889,
+      "end": 59.149,
+      "score": 0.813,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "and",
+      "start": 59.209,
+      "end": 59.289,
+      "score": 0.945,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "two",
+      "start": 59.369,
+      "end": 59.549,
+      "score": 0.874,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "other",
+      "start": 59.689,
+      "end": 59.889,
+      "score": 0.773,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "family",
+      "start": 59.949,
+      "end": 60.229,
+      "score": 0.881,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "members",
+      "start": 60.269,
+      "end": 60.569,
+      "score": 0.903,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "have",
+      "start": 60.669,
+      "end": 60.809,
+      "score": 0.78,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "passed",
+      "start": 60.869,
+      "end": 61.149,
+      "score": 0.981,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "away",
+      "start": 61.209,
+      "end": 61.449,
+      "score": 0.69,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "after",
+      "start": 61.829,
+      "end": 62.029,
+      "score": 0.886,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "getting",
+      "start": 62.069,
+      "end": 62.269,
+      "score": 0.88,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "vaccinated.",
+      "start": 62.309,
+      "end": 62.93,
+      "score": 0.895,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "I",
+      "start": 63.85,
+      "end": 63.93,
+      "score": 0.987,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 63.97,
+      "end": 64.13,
+      "score": 0.844,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "clients",
+      "start": 64.17,
+      "end": 64.57,
+      "score": 0.914,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 64.63,
+      "end": 64.81,
+      "score": 0.923,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 64.85,
+      "end": 64.95,
+      "score": 0.896,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "taken",
+      "start": 64.97,
+      "end": 65.19,
+      "score": 0.896,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 65.23,
+      "end": 65.29,
+      "score": 0.973,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccine",
+      "start": 65.33,
+      "end": 65.79,
+      "score": 0.825,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 65.85,
+      "end": 66.29,
+      "score": 0.832,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "especially",
+      "start": 66.33,
+      "end": 66.73,
+      "score": 0.894,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 66.77,
+      "end": 66.89,
+      "score": 0.783,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Moderna,",
+      "start": 66.91,
+      "end": 67.271,
+      "score": 0.725,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "their",
+      "start": 67.511,
+      "end": 67.651,
+      "score": 0.915,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "hair",
+      "start": 67.691,
+      "end": 67.771,
+      "score": 0.988,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 67.811,
+      "end": 67.851,
+      "score": 0.498,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "falling",
+      "start": 67.891,
+      "end": 68.171,
+      "score": 0.919,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "out",
+      "start": 68.231,
+      "end": 68.311,
+      "score": 0.987,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "now.",
+      "start": 68.371,
+      "end": 68.551,
+      "score": 0.978,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 69.111,
+      "end": 69.231,
+      "score": 0.699,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "most",
+      "start": 69.471,
+      "end": 69.691,
+      "score": 0.911,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 69.731,
+      "end": 69.791,
+      "score": 0.724,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "all",
+      "start": 69.931,
+      "end": 70.051,
+      "score": 0.873,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 70.091,
+      "end": 70.131,
+      "score": 0.995,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "them",
+      "start": 70.191,
+      "end": 70.371,
+      "score": 0.925,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 70.451,
+      "end": 70.671,
+      "score": 0.797,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "complete",
+      "start": 71.051,
+      "end": 71.411,
+      "score": 0.828,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "anxiety.",
+      "start": 71.491,
+      "end": 72.032,
+      "score": 0.849,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "But",
+      "start": 72.292,
+      "end": 72.412,
+      "score": 0.968,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "my",
+      "start": 72.492,
+      "end": 72.612,
+      "score": 0.834,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "granddaughter,",
+      "start": 72.652,
+      "end": 73.192,
+      "score": 0.891,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "who",
+      "start": 73.212,
+      "end": 73.272,
+      "score": 0.231,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 73.312,
+      "end": 73.392,
+      "score": 0.619,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "only",
+      "start": 73.472,
+      "end": 73.652,
+      "score": 0.834,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "seven",
+      "start": 73.712,
+      "end": 73.952,
+      "score": 0.703,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "years",
+      "start": 73.992,
+      "end": 74.192,
+      "score": 0.762,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "old,",
+      "start": 74.372,
+      "end": 74.532,
+      "score": 0.714,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "she",
+      "start": 75.192,
+      "end": 75.312,
+      "score": 0.742,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "herself",
+      "start": 75.372,
+      "end": 75.672,
+      "score": 0.93,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "has",
+      "start": 75.692,
+      "end": 75.792,
+      "score": 0.489,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "voiced",
+      "start": 75.832,
+      "end": 76.073,
+      "score": 0.851,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 76.113,
+      "end": 76.193,
+      "score": 0.996,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "me",
+      "start": 76.233,
+      "end": 76.333,
+      "score": 0.996,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 76.373,
+      "end": 76.493,
+      "score": 0.841,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "she",
+      "start": 76.513,
+      "end": 76.613,
+      "score": 0.668,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "does",
+      "start": 76.653,
+      "end": 76.793,
+      "score": 0.866,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "not",
+      "start": 76.833,
+      "end": 76.993,
+      "score": 0.649,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "want",
+      "start": 77.033,
+      "end": 77.173,
+      "score": 0.924,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 77.213,
+      "end": 77.293,
+      "score": 0.747,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "shot.",
+      "start": 77.333,
+      "end": 77.633,
+      "score": 0.95,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 78.829,
+      "end": 78.91,
+      "score": 0.614,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "a",
+      "start": 78.95,
+      "end": 79.01,
+      "score": 0.576,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "vaccine.",
+      "start": 79.03,
+      "end": 79.532,
+      "score": 0.799,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "The",
+      "start": 80.134,
+      "end": 80.254,
+      "score": 0.886,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "biggest",
+      "start": 80.274,
+      "end": 80.595,
+      "score": 0.885,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "agenda",
+      "start": 80.675,
+      "end": 81.217,
+      "score": 0.761,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "that",
+      "start": 81.478,
+      "end": 81.618,
+      "score": 0.829,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "people",
+      "start": 81.658,
+      "end": 81.899,
+      "score": 0.822,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "need",
+      "start": 81.939,
+      "end": 82.08,
+      "score": 0.993,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "to",
+      "start": 82.12,
+      "end": 82.18,
+      "score": 0.638,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "be",
+      "start": 82.22,
+      "end": 82.32,
+      "score": 0.839,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "concerned",
+      "start": 82.36,
+      "end": 82.742,
+      "score": 0.954,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "about",
+      "start": 82.782,
+      "end": 83.123,
+      "score": 0.894,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "is",
+      "start": 83.464,
+      "end": 83.604,
+      "score": 0.834,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "these",
+      "start": 83.664,
+      "end": 83.945,
+      "score": 0.833,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "health",
+      "start": 84.547,
+      "end": 84.768,
+      "score": 0.744,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "passports",
+      "start": 84.808,
+      "end": 85.37,
+      "score": 0.912,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "or",
+      "start": 85.47,
+      "end": 85.53,
+      "score": 0.953,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "vaccine",
+      "start": 85.57,
+      "end": 86.012,
+      "score": 0.748,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "passports.",
+      "start": 86.052,
+      "end": 86.714,
+      "score": 0.808,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "More",
+      "start": 87.436,
+      "end": 87.617,
+      "score": 0.9,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "of",
+      "start": 87.657,
+      "end": 87.697,
+      "score": 0.996,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "these",
+      "start": 87.737,
+      "end": 87.898,
+      "score": 0.798,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "walkout",
+      "start": 87.938,
+      "end": 88.319,
+      "score": 0.95,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "protests",
+      "start": 88.359,
+      "end": 88.84,
+      "score": 0.818,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "are",
+      "start": 88.921,
+      "end": 89.021,
+      "score": 0.731,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "planned",
+      "start": 89.081,
+      "end": 89.442,
+      "score": 0.887,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "for",
+      "start": 89.503,
+      "end": 89.603,
+      "score": 0.932,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "the",
+      "start": 89.623,
+      "end": 89.703,
+      "score": 0.814,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "remainder",
+      "start": 89.743,
+      "end": 90.165,
+      "score": 0.791,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "of",
+      "start": 90.185,
+      "end": 90.245,
+      "score": 0.758,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "the",
+      "start": 90.285,
+      "end": 90.345,
+      "score": 0.997,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "month.",
+      "start": 90.385,
+      "end": 90.626,
+      "score": 0.982,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "David",
+      "start": 91.148,
+      "end": 91.408,
+      "score": 0.985,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "Lam,",
+      "start": 91.449,
+      "end": 91.729,
+      "score": 0.958,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "NTD",
+      "start": 91.99,
+      "end": 92.351,
+      "score": 0.848,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "News,",
+      "start": 92.391,
+      "end": 92.672,
+      "score": 0.913,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "California.",
+      "start": 92.793,
+      "end": 93.435,
+      "score": 0.838,
+      "speaker": "SPEAKER_05"
+    }
+  ]
 }

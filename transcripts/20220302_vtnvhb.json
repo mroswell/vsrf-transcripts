@@ -1,389 +1,2597 @@
 {
-  "text": " Number one, natural immunity from any disease has been recognized for eons. From the time we had the black plague and people that had recovered from the plague cleared the bodies because they had immunity from the plague to now. We have never ignored natural immunity from recovering from a disease until this last two years for some odd scientific and unexplainable reason. Somebody's had chickenpox, we recognize it. If you go into a hospital and you're going to go to work, they check you for your immunity against measles. Rubel, a mumps, et cetera, to make sure you're immune. We have never in the history of science or humanity ignored something that God gave us for a lifetime and for eons. We have studies, brownstoneinstitute.org has 150 studies showing that natural COVID covered immunity is stronger than a vaccine immunity. Those are papers by Dr. Paul Alexander. We have studies out of Israel showing a natural COVID recovery immunity is 13 times stronger than a vaccine immunity. Studies out of Qatar showing it's about 30 times stronger than a vaccine immunity.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 6.36,
+      "start": 0.832,
+      "end": 6.375,
       "text": " Number one, natural immunity from any disease has been recognized for eons.",
-      "tokens": [
-        50364,
-        5118,
-        472,
-        11,
-        3303,
-        22701,
-        490,
-        604,
-        4752,
-        575,
-        668,
-        9823,
-        337,
-        308,
-        892,
-        13,
-        50682
+      "words": [
+        {
+          "word": "Number",
+          "start": 0.832,
+          "end": 1.052,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one,",
+          "start": 1.192,
+          "end": 1.352,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 2.673,
+          "end": 3.013,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 3.053,
+          "end": 3.573,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 3.834,
+          "end": 4.014,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "any",
+          "start": 4.174,
+          "end": 4.334,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease",
+          "start": 4.374,
+          "end": 4.734,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 4.774,
+          "end": 4.874,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 4.894,
+          "end": 5.054,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recognized",
+          "start": 5.114,
+          "end": 5.675,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 5.715,
+          "end": 5.895,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "eons.",
+          "start": 6.015,
+          "end": 6.375,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1808557591886602,
-      "compression_ratio": 1.7830508474576272,
-      "no_speech_prob": 0.10710956901311874
+      "avg_logprob": -0.06880414958047394,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 6.36,
-      "end": 13.44,
-      "text": " From the time we had the black plague and people that had recovered from the plague cleared the bodies because they had immunity from the plague to now.",
-      "tokens": [
-        50682,
-        3358,
-        264,
-        565,
-        321,
-        632,
-        264,
-        2211,
-        28185,
-        293,
-        561,
-        300,
-        632,
-        19542,
-        490,
-        264,
-        28185,
-        19725,
-        264,
-        7510,
-        570,
-        436,
-        632,
-        22701,
-        490,
-        264,
-        28185,
-        281,
-        586,
-        13,
-        51036
+      "start": 6.395,
+      "end": 22.066,
+      "text": "From the time we had the Black Plague and people that had recovered from the plague cleared the bodies because they had immunity from the plague to now, we have never ignored natural immunity from recovering from a disease until this last two years for some odd scientific and unexplainable reason.",
+      "words": [
+        {
+          "word": "From",
+          "start": 6.395,
+          "end": 6.535,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.555,
+          "end": 6.636,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time",
+          "start": 6.676,
+          "end": 6.836,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 6.876,
+          "end": 6.976,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 6.996,
+          "end": 7.096,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 7.116,
+          "end": 7.176,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Black",
+          "start": 7.216,
+          "end": 7.456,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Plague",
+          "start": 7.536,
+          "end": 7.896,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 7.956,
+          "end": 8.036,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 8.097,
+          "end": 8.357,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 8.397,
+          "end": 8.497,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 8.537,
+          "end": 8.637,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recovered",
+          "start": 8.697,
+          "end": 9.057,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 9.077,
+          "end": 9.197,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 9.237,
+          "end": 9.297,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plague",
+          "start": 9.337,
+          "end": 9.638,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cleared",
+          "start": 9.698,
+          "end": 9.918,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 9.938,
+          "end": 9.998,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bodies",
+          "start": 10.038,
+          "end": 10.358,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 10.418,
+          "end": 10.678,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 10.718,
+          "end": 10.818,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 10.838,
+          "end": 10.958,
+          "score": 0.652,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 10.978,
+          "end": 11.359,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 11.419,
+          "end": 11.579,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 11.619,
+          "end": 11.719,
+          "score": 0.679,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plague",
+          "start": 11.739,
+          "end": 12.079,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 12.179,
+          "end": 12.439,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now,",
+          "start": 12.64,
+          "end": 12.92,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 13.48,
+          "end": 13.6,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 13.64,
+          "end": 13.76,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 13.84,
+          "end": 14.101,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ignored",
+          "start": 14.181,
+          "end": 14.521,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 14.561,
+          "end": 14.921,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 14.961,
+          "end": 15.361,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 15.462,
+          "end": 15.702,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recovering",
+          "start": 15.862,
+          "end": 16.262,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 16.302,
+          "end": 16.462,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 16.502,
+          "end": 16.542,
+          "score": 0.575,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease",
+          "start": 16.582,
+          "end": 17.003,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "until",
+          "start": 17.083,
+          "end": 17.463,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 17.983,
+          "end": 18.163,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "last",
+          "start": 18.243,
+          "end": 18.484,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two",
+          "start": 18.544,
+          "end": 18.684,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years",
+          "start": 18.724,
+          "end": 18.944,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 19.004,
+          "end": 19.144,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "some",
+          "start": 19.184,
+          "end": 19.384,
+          "score": 0.657,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "odd",
+          "start": 19.524,
+          "end": 19.664,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientific",
+          "start": 19.724,
+          "end": 20.425,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 20.505,
+          "end": 20.585,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unexplainable",
+          "start": 20.765,
+          "end": 21.666,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reason.",
+          "start": 21.726,
+          "end": 22.066,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1808557591886602,
-      "compression_ratio": 1.7830508474576272,
-      "no_speech_prob": 0.10710956901311874
+      "avg_logprob": -0.06880414958047394,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 13.44,
-      "end": 22.64,
-      "text": " We have never ignored natural immunity from recovering from a disease until this last two years for some odd scientific and unexplainable reason.",
-      "tokens": [
-        51036,
-        492,
-        362,
-        1128,
-        19735,
-        3303,
-        22701,
-        490,
-        29180,
-        490,
-        257,
-        4752,
-        1826,
-        341,
-        1036,
-        732,
-        924,
-        337,
-        512,
-        7401,
-        8134,
-        293,
-        11572,
-        34821,
-        712,
-        1778,
-        13,
-        51496
+      "start": 22.727,
+      "end": 24.608,
+      "text": "Somebody's had chickenpox, we recognize it.",
+      "words": [
+        {
+          "word": "Somebody's",
+          "start": 22.727,
+          "end": 23.047,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 23.087,
+          "end": 23.207,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chickenpox,",
+          "start": 23.247,
+          "end": 23.827,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 23.847,
+          "end": 23.967,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recognize",
+          "start": 24.007,
+          "end": 24.468,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 24.548,
+          "end": 24.608,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1808557591886602,
-      "compression_ratio": 1.7830508474576272,
-      "no_speech_prob": 0.10710956901311874
+      "avg_logprob": -0.06880414958047394,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 22.64,
-      "end": 24.6,
-      "text": " Somebody's had chickenpox, we recognize it.",
-      "tokens": [
-        51496,
-        13463,
-        311,
-        632,
-        4662,
-        42871,
-        11,
-        321,
-        5521,
-        309,
-        13,
-        51594
+      "start": 24.648,
+      "end": 27.53,
+      "text": "If you go into a hospital and you're gonna go to work, they check you for your",
+      "words": [
+        {
+          "word": "If",
+          "start": 24.648,
+          "end": 24.708,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 24.728,
+          "end": 24.848,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "go",
+          "start": 24.868,
+          "end": 24.948,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "into",
+          "start": 24.988,
+          "end": 25.168,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 25.208,
+          "end": 25.248,
+          "score": 0.46,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital",
+          "start": 25.308,
+          "end": 25.709,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 25.769,
+          "end": 25.829,
+          "score": 0.505,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you're",
+          "start": 25.849,
+          "end": 25.969,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gonna",
+          "start": 25.989,
+          "end": 26.149,
+          "score": 0.368,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "go",
+          "start": 26.169,
+          "end": 26.249,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 26.269,
+          "end": 26.329,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work,",
+          "start": 26.369,
+          "end": 26.589,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 26.629,
+          "end": 26.749,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "check",
+          "start": 26.769,
+          "end": 26.969,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 27.009,
+          "end": 27.11,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 27.19,
+          "end": 27.35,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 27.39,
+          "end": 27.53,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1808557591886602,
-      "compression_ratio": 1.7830508474576272,
-      "no_speech_prob": 0.10710956901311874
+      "avg_logprob": -0.06880414958047394,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 24.6,
-      "end": 29.400000000000002,
-      "text": " If you go into a hospital and you're going to go to work, they check you for your immunity against measles.",
-      "tokens": [
-        51594,
-        759,
-        291,
-        352,
-        666,
-        257,
-        4530,
-        293,
-        291,
-        434,
-        516,
-        281,
-        352,
-        281,
-        589,
-        11,
-        436,
-        1520,
-        291,
-        337,
-        428,
-        22701,
-        1970,
-        5731,
-        904,
-        13,
-        51834
+      "start": 28.05,
+      "end": 30.612,
+      "text": " immunity against measles, rubella, mumps, etc.",
+      "words": [
+        {
+          "word": "immunity",
+          "start": 28.05,
+          "end": 28.471,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 28.511,
+          "end": 28.831,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "measles,",
+          "start": 28.911,
+          "end": 29.391,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rubella,",
+          "start": 29.451,
+          "end": 29.892,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mumps,",
+          "start": 29.932,
+          "end": 30.192,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "etc.",
+          "start": 30.252,
+          "end": 30.612,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1808557591886602,
-      "compression_ratio": 1.7830508474576272,
-      "no_speech_prob": 0.10710956901311874
+      "avg_logprob": -0.07538132582392011,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2940,
-      "start": 29.4,
-      "end": 32.12,
-      "text": " Rubel, a mumps, et cetera, to make sure you're immune.",
-      "tokens": [
-        50364,
-        10518,
-        338,
-        11,
-        257,
-        275,
-        16951,
-        11,
-        1030,
-        11458,
-        11,
-        281,
-        652,
-        988,
-        291,
-        434,
-        11992,
-        13,
-        50500
+      "start": 30.632,
+      "end": 31.593,
+      "text": "to make sure you're immune.",
+      "words": [
+        {
+          "word": "to",
+          "start": 30.632,
+          "end": 30.692,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 30.732,
+          "end": 30.853,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sure",
+          "start": 30.893,
+          "end": 31.073,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you're",
+          "start": 31.093,
+          "end": 31.233,
+          "score": 0.111,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune.",
+          "start": 31.253,
+          "end": 31.593,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20852444150032254,
-      "compression_ratio": 1.758490566037736,
-      "no_speech_prob": 0.011016148142516613
+      "avg_logprob": -0.07538132582392011,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2940,
-      "start": 32.12,
-      "end": 39.839999999999996,
-      "text": " We have never in the history of science or humanity ignored something that God gave us for a lifetime and for eons.",
-      "tokens": [
-        50500,
-        492,
-        362,
-        1128,
-        294,
-        264,
-        2503,
-        295,
-        3497,
-        420,
-        10243,
-        19735,
-        746,
-        300,
-        1265,
-        2729,
-        505,
-        337,
-        257,
-        11364,
-        293,
-        337,
-        308,
-        892,
-        13,
-        50886
+      "start": 32.134,
+      "end": 39.9,
+      "text": "We have never in the history of science or humanity ignored something that God gave us for a lifetime and for eons.",
+      "words": [
+        {
+          "word": "We",
+          "start": 32.134,
+          "end": 32.234,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 32.274,
+          "end": 32.374,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 32.434,
+          "end": 32.674,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 32.734,
+          "end": 32.794,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 32.814,
+          "end": 32.894,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "history",
+          "start": 32.954,
+          "end": 33.254,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 33.275,
+          "end": 33.335,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "science",
+          "start": 33.415,
+          "end": 33.835,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 33.955,
+          "end": 34.055,
+          "score": 0.597,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "humanity",
+          "start": 34.115,
+          "end": 34.696,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ignored",
+          "start": 34.776,
+          "end": 35.116,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "something",
+          "start": 35.176,
+          "end": 35.516,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 35.556,
+          "end": 35.676,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "God",
+          "start": 35.696,
+          "end": 35.937,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gave",
+          "start": 35.957,
+          "end": 36.177,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 36.257,
+          "end": 36.357,
+          "score": 0.571,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 37.478,
+          "end": 37.698,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 37.738,
+          "end": 37.758,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lifetime",
+          "start": 37.818,
+          "end": 38.339,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 38.399,
+          "end": 38.499,
+          "score": 0.685,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 38.539,
+          "end": 38.719,
+          "score": 0.745,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "eons.",
+          "start": 38.859,
+          "end": 39.9,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20852444150032254,
-      "compression_ratio": 1.758490566037736,
-      "no_speech_prob": 0.011016148142516613
+      "avg_logprob": -0.07538132582392011,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2940,
-      "start": 39.839999999999996,
-      "end": 48.32,
-      "text": " We have studies, brownstoneinstitute.org has 150 studies showing that natural COVID covered immunity is stronger than a vaccine immunity.",
-      "tokens": [
-        50886,
-        492,
-        362,
-        5313,
-        11,
-        6292,
-        11243,
-        13911,
-        6559,
-        13,
-        4646,
-        575,
-        8451,
-        5313,
-        4099,
-        300,
-        3303,
-        4566,
-        5343,
-        22701,
-        307,
-        7249,
-        813,
-        257,
-        7007,
-        22701,
-        13,
-        51310
+      "start": 39.92,
+      "end": 48.307,
+      "text": "We have studies, brownstoneinstitute.org has 150 studies showing that natural COVID-covered immunity is stronger than a vaccinal immunity.",
+      "words": [
+        {
+          "word": "We",
+          "start": 39.92,
+          "end": 40.06,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 40.12,
+          "end": 40.26,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies,",
+          "start": 40.32,
+          "end": 40.801,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "brownstoneinstitute.org",
+          "start": 41.401,
+          "end": 43.043,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 43.083,
+          "end": 43.223,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "150",
+          "start": 43.383,
+          "end": 43.963,
+          "score": 0.63,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies",
+          "start": 44.003,
+          "end": 44.384,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "showing",
+          "start": 44.424,
+          "end": 44.704,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 44.744,
+          "end": 44.924,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 45.024,
+          "end": 45.324,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-covered",
+          "start": 45.344,
+          "end": 45.945,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 46.025,
+          "end": 46.425,
+          "score": 0.761,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 46.485,
+          "end": 46.585,
+          "score": 0.641,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stronger",
+          "start": 46.746,
+          "end": 47.126,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 47.166,
+          "end": 47.286,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 47.326,
+          "end": 47.366,
+          "score": 0.276,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinal",
+          "start": 47.386,
+          "end": 47.846,
+          "score": 0.718,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity.",
+          "start": 47.887,
+          "end": 48.307,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20852444150032254,
-      "compression_ratio": 1.758490566037736,
-      "no_speech_prob": 0.011016148142516613
+      "avg_logprob": -0.07538132582392011,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2940,
-      "start": 48.32,
-      "end": 51.64,
-      "text": " Those are papers by Dr. Paul Alexander.",
-      "tokens": [
-        51310,
-        3950,
-        366,
-        10577,
-        538,
-        2491,
-        13,
-        4552,
-        14845,
-        13,
-        51476
+      "start": 48.347,
+      "end": 50.629,
+      "text": "Those are papers by Dr. Paul Alexander.",
+      "words": [
+        {
+          "word": "Those",
+          "start": 48.347,
+          "end": 48.507,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 48.547,
+          "end": 48.647,
+          "score": 0.685,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "papers",
+          "start": 48.667,
+          "end": 48.947,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 48.987,
+          "end": 49.128,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Dr.",
+          "start": 49.508,
+          "end": 49.768,
+          "score": 0.55,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Paul",
+          "start": 49.788,
+          "end": 50.028,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Alexander.",
+          "start": 50.108,
+          "end": 50.629,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20852444150032254,
-      "compression_ratio": 1.758490566037736,
-      "no_speech_prob": 0.011016148142516613
+      "avg_logprob": -0.07538132582392011,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2940,
-      "start": 51.64,
-      "end": 57.4,
-      "text": " We have studies out of Israel showing a natural COVID recovery immunity is 13 times stronger than a vaccine immunity.",
-      "tokens": [
-        51476,
-        492,
-        362,
-        5313,
-        484,
-        295,
-        5674,
-        4099,
-        257,
-        3303,
-        4566,
-        8597,
-        22701,
-        307,
-        3705,
-        1413,
-        7249,
-        813,
-        257,
-        7007,
-        22701,
-        13,
-        51764
+      "start": 51.711,
+      "end": 57.086,
+      "text": " We have studies out of Israel showing a natural COVID recovery immunity is 13 times stronger than a vaccinal immunity.",
+      "words": [
+        {
+          "word": "We",
+          "start": 51.711,
+          "end": 51.832,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 51.872,
+          "end": 51.992,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies",
+          "start": 52.032,
+          "end": 52.313,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 52.373,
+          "end": 52.473,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 52.493,
+          "end": 52.553,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Israel",
+          "start": 52.614,
+          "end": 52.935,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "showing",
+          "start": 52.975,
+          "end": 53.235,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 53.275,
+          "end": 53.316,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 53.376,
+          "end": 53.697,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 53.737,
+          "end": 54.017,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recovery",
+          "start": 54.038,
+          "end": 54.398,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 54.439,
+          "end": 54.8,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 54.84,
+          "end": 54.9,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "13",
+          "start": 55.0,
+          "end": 55.321,
+          "score": 0.488,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "times",
+          "start": 55.341,
+          "end": 55.582,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stronger",
+          "start": 55.622,
+          "end": 55.983,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 56.023,
+          "end": 56.143,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 56.163,
+          "end": 56.183,
+          "score": 0.558,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinal",
+          "start": 56.223,
+          "end": 56.625,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity.",
+          "start": 56.665,
+          "end": 57.086,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20852444150032254,
-      "compression_ratio": 1.758490566037736,
-      "no_speech_prob": 0.011016148142516613
+      "avg_logprob": -0.08999023139476776,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 5740,
-      "start": 57.4,
-      "end": 62.08,
-      "text": " Studies out of Qatar showing it's about 30 times stronger than a vaccine immunity.",
-      "tokens": [
-        50372,
-        17515,
-        484,
-        295,
-        41691,
-        4099,
-        309,
-        311,
-        466,
-        2217,
-        1413,
-        7249,
-        813,
-        257,
-        7007,
-        22701,
-        13,
-        50598
+      "start": 57.507,
+      "end": 61.939,
+      "text": "Studies out of Qatar showing it's about 30 times stronger than a vaccinal immunity.",
+      "words": [
+        {
+          "word": "Studies",
+          "start": 57.507,
+          "end": 57.788,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 57.868,
+          "end": 57.968,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 57.988,
+          "end": 58.048,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Qatar",
+          "start": 58.089,
+          "end": 58.51,
+          "score": 0.6,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "showing",
+          "start": 58.53,
+          "end": 58.77,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 58.811,
+          "end": 58.891,
+          "score": 0.082,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 58.931,
+          "end": 59.131,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "30",
+          "start": 59.252,
+          "end": 59.452,
+          "score": 0.562,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "times",
+          "start": 59.472,
+          "end": 59.713,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stronger",
+          "start": 59.753,
+          "end": 60.174,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 60.214,
+          "end": 60.355,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 60.435,
+          "end": 60.515,
+          "score": 0.536,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinal",
+          "start": 60.996,
+          "end": 61.458,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity.",
+          "start": 61.498,
+          "end": 61.939,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2833932073492753,
-      "compression_ratio": 1.025,
-      "no_speech_prob": 0.062313199043273926
+      "avg_logprob": -0.08999023139476776,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Number",
+      "start": 0.832,
+      "end": 1.052,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one,",
+      "start": 1.192,
+      "end": 1.352,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 2.673,
+      "end": 3.013,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 3.053,
+      "end": 3.573,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 3.834,
+      "end": 4.014,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "any",
+      "start": 4.174,
+      "end": 4.334,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease",
+      "start": 4.374,
+      "end": 4.734,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 4.774,
+      "end": 4.874,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 4.894,
+      "end": 5.054,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recognized",
+      "start": 5.114,
+      "end": 5.675,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 5.715,
+      "end": 5.895,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "eons.",
+      "start": 6.015,
+      "end": 6.375,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "From",
+      "start": 6.395,
+      "end": 6.535,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.555,
+      "end": 6.636,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time",
+      "start": 6.676,
+      "end": 6.836,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 6.876,
+      "end": 6.976,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 6.996,
+      "end": 7.096,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 7.116,
+      "end": 7.176,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Black",
+      "start": 7.216,
+      "end": 7.456,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Plague",
+      "start": 7.536,
+      "end": 7.896,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 7.956,
+      "end": 8.036,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 8.097,
+      "end": 8.357,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 8.397,
+      "end": 8.497,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 8.537,
+      "end": 8.637,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recovered",
+      "start": 8.697,
+      "end": 9.057,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 9.077,
+      "end": 9.197,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 9.237,
+      "end": 9.297,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plague",
+      "start": 9.337,
+      "end": 9.638,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cleared",
+      "start": 9.698,
+      "end": 9.918,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 9.938,
+      "end": 9.998,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bodies",
+      "start": 10.038,
+      "end": 10.358,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 10.418,
+      "end": 10.678,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 10.718,
+      "end": 10.818,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 10.838,
+      "end": 10.958,
+      "score": 0.652,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 10.978,
+      "end": 11.359,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 11.419,
+      "end": 11.579,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 11.619,
+      "end": 11.719,
+      "score": 0.679,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plague",
+      "start": 11.739,
+      "end": 12.079,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 12.179,
+      "end": 12.439,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now,",
+      "start": 12.64,
+      "end": 12.92,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 13.48,
+      "end": 13.6,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 13.64,
+      "end": 13.76,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 13.84,
+      "end": 14.101,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ignored",
+      "start": 14.181,
+      "end": 14.521,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 14.561,
+      "end": 14.921,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 14.961,
+      "end": 15.361,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 15.462,
+      "end": 15.702,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recovering",
+      "start": 15.862,
+      "end": 16.262,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 16.302,
+      "end": 16.462,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 16.502,
+      "end": 16.542,
+      "score": 0.575,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease",
+      "start": 16.582,
+      "end": 17.003,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "until",
+      "start": 17.083,
+      "end": 17.463,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 17.983,
+      "end": 18.163,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "last",
+      "start": 18.243,
+      "end": 18.484,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two",
+      "start": 18.544,
+      "end": 18.684,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years",
+      "start": 18.724,
+      "end": 18.944,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 19.004,
+      "end": 19.144,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "some",
+      "start": 19.184,
+      "end": 19.384,
+      "score": 0.657,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "odd",
+      "start": 19.524,
+      "end": 19.664,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientific",
+      "start": 19.724,
+      "end": 20.425,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 20.505,
+      "end": 20.585,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unexplainable",
+      "start": 20.765,
+      "end": 21.666,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reason.",
+      "start": 21.726,
+      "end": 22.066,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Somebody's",
+      "start": 22.727,
+      "end": 23.047,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 23.087,
+      "end": 23.207,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chickenpox,",
+      "start": 23.247,
+      "end": 23.827,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 23.847,
+      "end": 23.967,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recognize",
+      "start": 24.007,
+      "end": 24.468,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 24.548,
+      "end": 24.608,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 24.648,
+      "end": 24.708,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 24.728,
+      "end": 24.848,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "go",
+      "start": 24.868,
+      "end": 24.948,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 24.988,
+      "end": 25.168,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 25.208,
+      "end": 25.248,
+      "score": 0.46,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital",
+      "start": 25.308,
+      "end": 25.709,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 25.769,
+      "end": 25.829,
+      "score": 0.505,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you're",
+      "start": 25.849,
+      "end": 25.969,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gonna",
+      "start": 25.989,
+      "end": 26.149,
+      "score": 0.368,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "go",
+      "start": 26.169,
+      "end": 26.249,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 26.269,
+      "end": 26.329,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work,",
+      "start": 26.369,
+      "end": 26.589,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 26.629,
+      "end": 26.749,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "check",
+      "start": 26.769,
+      "end": 26.969,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 27.009,
+      "end": 27.11,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 27.19,
+      "end": 27.35,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 27.39,
+      "end": 27.53,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 28.05,
+      "end": 28.471,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 28.511,
+      "end": 28.831,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "measles,",
+      "start": 28.911,
+      "end": 29.391,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rubella,",
+      "start": 29.451,
+      "end": 29.892,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mumps,",
+      "start": 29.932,
+      "end": 30.192,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "etc.",
+      "start": 30.252,
+      "end": 30.612,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 30.632,
+      "end": 30.692,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 30.732,
+      "end": 30.853,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sure",
+      "start": 30.893,
+      "end": 31.073,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you're",
+      "start": 31.093,
+      "end": 31.233,
+      "score": 0.111,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune.",
+      "start": 31.253,
+      "end": 31.593,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 32.134,
+      "end": 32.234,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 32.274,
+      "end": 32.374,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 32.434,
+      "end": 32.674,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 32.734,
+      "end": 32.794,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 32.814,
+      "end": 32.894,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "history",
+      "start": 32.954,
+      "end": 33.254,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 33.275,
+      "end": 33.335,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "science",
+      "start": 33.415,
+      "end": 33.835,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 33.955,
+      "end": 34.055,
+      "score": 0.597,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "humanity",
+      "start": 34.115,
+      "end": 34.696,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ignored",
+      "start": 34.776,
+      "end": 35.116,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "something",
+      "start": 35.176,
+      "end": 35.516,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 35.556,
+      "end": 35.676,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "God",
+      "start": 35.696,
+      "end": 35.937,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gave",
+      "start": 35.957,
+      "end": 36.177,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 36.257,
+      "end": 36.357,
+      "score": 0.571,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 37.478,
+      "end": 37.698,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 37.738,
+      "end": 37.758,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lifetime",
+      "start": 37.818,
+      "end": 38.339,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 38.399,
+      "end": 38.499,
+      "score": 0.685,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 38.539,
+      "end": 38.719,
+      "score": 0.745,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "eons.",
+      "start": 38.859,
+      "end": 39.9,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 39.92,
+      "end": 40.06,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 40.12,
+      "end": 40.26,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies,",
+      "start": 40.32,
+      "end": 40.801,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "brownstoneinstitute.org",
+      "start": 41.401,
+      "end": 43.043,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 43.083,
+      "end": 43.223,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "150",
+      "start": 43.383,
+      "end": 43.963,
+      "score": 0.63,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies",
+      "start": 44.003,
+      "end": 44.384,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "showing",
+      "start": 44.424,
+      "end": 44.704,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 44.744,
+      "end": 44.924,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 45.024,
+      "end": 45.324,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-covered",
+      "start": 45.344,
+      "end": 45.945,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 46.025,
+      "end": 46.425,
+      "score": 0.761,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 46.485,
+      "end": 46.585,
+      "score": 0.641,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stronger",
+      "start": 46.746,
+      "end": 47.126,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 47.166,
+      "end": 47.286,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 47.326,
+      "end": 47.366,
+      "score": 0.276,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinal",
+      "start": 47.386,
+      "end": 47.846,
+      "score": 0.718,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity.",
+      "start": 47.887,
+      "end": 48.307,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Those",
+      "start": 48.347,
+      "end": 48.507,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 48.547,
+      "end": 48.647,
+      "score": 0.685,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "papers",
+      "start": 48.667,
+      "end": 48.947,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 48.987,
+      "end": 49.128,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Dr.",
+      "start": 49.508,
+      "end": 49.768,
+      "score": 0.55,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Paul",
+      "start": 49.788,
+      "end": 50.028,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Alexander.",
+      "start": 50.108,
+      "end": 50.629,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 51.711,
+      "end": 51.832,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 51.872,
+      "end": 51.992,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies",
+      "start": 52.032,
+      "end": 52.313,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 52.373,
+      "end": 52.473,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 52.493,
+      "end": 52.553,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Israel",
+      "start": 52.614,
+      "end": 52.935,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "showing",
+      "start": 52.975,
+      "end": 53.235,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 53.275,
+      "end": 53.316,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 53.376,
+      "end": 53.697,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 53.737,
+      "end": 54.017,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recovery",
+      "start": 54.038,
+      "end": 54.398,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 54.439,
+      "end": 54.8,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 54.84,
+      "end": 54.9,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "13",
+      "start": 55.0,
+      "end": 55.321,
+      "score": 0.488,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "times",
+      "start": 55.341,
+      "end": 55.582,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stronger",
+      "start": 55.622,
+      "end": 55.983,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 56.023,
+      "end": 56.143,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 56.163,
+      "end": 56.183,
+      "score": 0.558,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinal",
+      "start": 56.223,
+      "end": 56.625,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity.",
+      "start": 56.665,
+      "end": 57.086,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Studies",
+      "start": 57.507,
+      "end": 57.788,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 57.868,
+      "end": 57.968,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 57.988,
+      "end": 58.048,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Qatar",
+      "start": 58.089,
+      "end": 58.51,
+      "score": 0.6,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "showing",
+      "start": 58.53,
+      "end": 58.77,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 58.811,
+      "end": 58.891,
+      "score": 0.082,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 58.931,
+      "end": 59.131,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "30",
+      "start": 59.252,
+      "end": 59.452,
+      "score": 0.562,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "times",
+      "start": 59.472,
+      "end": 59.713,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stronger",
+      "start": 59.753,
+      "end": 60.174,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 60.214,
+      "end": 60.355,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 60.435,
+      "end": 60.515,
+      "score": 0.536,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinal",
+      "start": 60.996,
+      "end": 61.458,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity.",
+      "start": 61.498,
+      "end": 61.939,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

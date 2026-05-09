@@ -1,655 +1,2697 @@
 {
-  "text": " This one's from August 25, 2020. Right here, it even states on the printout, it says, a positive result does not rule out bacterial infection or co-infection with other viruses. The RT-PCR test can't differentiate between any viruses. It's in the fine print, in the printout of the RT-PCR test. The inventor of the PCR test admitted that it won't differentiate between any viruses. Recently, the CDC has even admitted that the RT-PCR test doesn't differentiate between viruses. So you have three sources stating that it doesn't differentiate between viruses. Yet that's the test we're using for this case count. That's the test that we're using. It's a faulty test. And that's the one that Governor Green and all these medical facilities, and my facility too that I work in, are using to claim these COVID statistics. It's just false. It's false. It's a faulty test. It doesn't differentiate between anything yet. That's the gold standard right now. And it's sad because there's so many false positives. There's so many people that are asymptomatic because it doesn't differentiate between anything.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.54,
+      "start": 0.031,
+      "end": 3.973,
       "text": " This one's from August 25, 2020.",
-      "tokens": [
-        50364,
-        639,
-        472,
-        311,
-        490,
-        6897,
-        3552,
-        11,
-        4808,
-        13,
-        50591
+      "words": [
+        {
+          "word": "This",
+          "start": 0.031,
+          "end": 0.171,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one's",
+          "start": 0.271,
+          "end": 0.431,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 0.471,
+          "end": 0.711,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "August",
+          "start": 1.011,
+          "end": 1.392,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "25,",
+          "start": 1.692,
+          "end": 2.792,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2020.",
+          "start": 3.373,
+          "end": 3.973,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
+      "avg_logprob": -0.12602307257198153,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.54,
-      "end": 8.08,
-      "text": " Right here, it even states on the printout,",
-      "tokens": [
-        50591,
-        1779,
-        510,
-        11,
-        309,
-        754,
-        4368,
-        322,
-        264,
-        4482,
-        346,
-        11,
-        50768
+      "start": 4.593,
+      "end": 14.418,
+      "text": "Right here, it even states on the printout, it says, a positive result does not rule out bacterial infection or co-infection with other viruses.",
+      "words": [
+        {
+          "word": "Right",
+          "start": 4.593,
+          "end": 4.813,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "here,",
+          "start": 4.893,
+          "end": 5.193,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 5.554,
+          "end": 5.614,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "even",
+          "start": 5.694,
+          "end": 5.914,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "states",
+          "start": 5.954,
+          "end": 6.294,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 6.494,
+          "end": 6.574,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.594,
+          "end": 6.694,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "printout,",
+          "start": 6.774,
+          "end": 7.314,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 8.155,
+          "end": 8.215,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "says,",
+          "start": 8.275,
+          "end": 8.535,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 8.695,
+          "end": 8.755,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "positive",
+          "start": 8.835,
+          "end": 9.375,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "result",
+          "start": 9.435,
+          "end": 9.836,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "does",
+          "start": 9.916,
+          "end": 10.116,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 10.196,
+          "end": 10.396,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rule",
+          "start": 10.476,
+          "end": 10.716,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 10.796,
+          "end": 10.916,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bacterial",
+          "start": 10.996,
+          "end": 11.636,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "infection",
+          "start": 11.696,
+          "end": 12.217,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 12.377,
+          "end": 12.457,
+          "score": 0.684,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "co-infection",
+          "start": 12.597,
+          "end": 13.337,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 13.377,
+          "end": 13.517,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 13.617,
+          "end": 13.797,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "viruses.",
+          "start": 13.858,
+          "end": 14.418,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
+      "avg_logprob": -0.12602307257198153,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.08,
-      "end": 10.98,
-      "text": " it says, a positive result does not rule out",
-      "tokens": [
-        50768,
-        309,
-        1619,
-        11,
-        257,
-        3353,
-        1874,
-        775,
-        406,
-        4978,
-        484,
-        50913
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 10.98,
-      "end": 15.16,
-      "text": " bacterial infection or co-infection with other viruses.",
-      "tokens": [
-        50913,
-        35632,
-        11764,
-        420,
-        598,
-        12,
-        26260,
-        313,
-        365,
-        661,
-        21785,
-        13,
-        51122
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 15.16,
-      "end": 18.92,
+      "start": 15.194,
+      "end": 18.456,
       "text": " The RT-PCR test can't differentiate between any viruses.",
-      "tokens": [
-        51122,
-        440,
-        21797,
-        12,
-        12986,
-        49,
-        1500,
-        393,
-        380,
-        23203,
-        1296,
-        604,
-        21785,
-        13,
-        51310
+      "words": [
+        {
+          "word": "The",
+          "start": 15.194,
+          "end": 15.294,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "RT-PCR",
+          "start": 15.414,
+          "end": 16.235,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 16.275,
+          "end": 16.535,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 16.575,
+          "end": 16.795,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "differentiate",
+          "start": 16.855,
+          "end": 17.416,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "between",
+          "start": 17.436,
+          "end": 17.716,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "any",
+          "start": 17.796,
+          "end": 17.916,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "viruses.",
+          "start": 17.956,
+          "end": 18.456,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
+      "avg_logprob": -0.06255208671092988,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 18.92,
-      "end": 23.54,
-      "text": " It's in the fine print, in the printout of the RT-PCR test.",
-      "tokens": [
-        51310,
-        467,
-        311,
-        294,
-        264,
-        2489,
-        4482,
-        11,
-        294,
-        264,
-        4482,
-        346,
-        295,
-        264,
-        21797,
-        12,
-        12986,
-        49,
-        1500,
-        13,
-        51541
+      "start": 18.997,
+      "end": 23.06,
+      "text": "It's in the fine print, in the printout of the RT-PCR test.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 18.997,
+          "end": 19.117,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 19.237,
+          "end": 19.337,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 19.377,
+          "end": 19.457,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fine",
+          "start": 19.517,
+          "end": 19.817,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "print,",
+          "start": 19.897,
+          "end": 20.218,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 20.878,
+          "end": 20.958,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.978,
+          "end": 21.058,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "printout",
+          "start": 21.138,
+          "end": 21.579,
+          "score": 0.623,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 21.719,
+          "end": 21.799,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 21.819,
+          "end": 21.879,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "RT-PCR",
+          "start": 21.999,
+          "end": 22.74,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test.",
+          "start": 22.78,
+          "end": 23.06,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
+      "avg_logprob": -0.06255208671092988,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 23.54,
-      "end": 26.36,
-      "text": " The inventor of the PCR test admitted",
-      "tokens": [
-        51541,
-        440,
-        41593,
-        295,
-        264,
-        44022,
-        1500,
-        14920,
-        51682
+      "start": 23.6,
+      "end": 28.624,
+      "text": "The inventor of the PCR test admitted that it won't differentiate between any viruses.",
+      "words": [
+        {
+          "word": "The",
+          "start": 23.6,
+          "end": 23.72,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "inventor",
+          "start": 23.78,
+          "end": 24.341,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 24.501,
+          "end": 24.561,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.601,
+          "end": 24.701,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PCR",
+          "start": 24.761,
+          "end": 25.161,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 25.201,
+          "end": 25.461,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admitted",
+          "start": 25.622,
+          "end": 25.982,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 26.382,
+          "end": 26.602,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 26.802,
+          "end": 26.863,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "won't",
+          "start": 26.903,
+          "end": 27.123,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "differentiate",
+          "start": 27.203,
+          "end": 27.703,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "between",
+          "start": 27.743,
+          "end": 27.983,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "any",
+          "start": 28.023,
+          "end": 28.163,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "viruses.",
+          "start": 28.203,
+          "end": 28.624,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
+      "avg_logprob": -0.06255208671092988,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 26.36,
-      "end": 28.66,
-      "text": " that it won't differentiate between any viruses.",
-      "tokens": [
-        51682,
-        300,
-        309,
-        1582,
-        380,
-        23203,
-        1296,
-        604,
-        21785,
-        13,
-        51797
+      "start": 28.724,
+      "end": 35.389,
+      "text": "Recently, the CDC has even admitted that the RT-PCR test doesn't differentiate between viruses.",
+      "words": [
+        {
+          "word": "Recently,",
+          "start": 28.724,
+          "end": 29.224,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 29.244,
+          "end": 29.344,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "CDC",
+          "start": 29.424,
+          "end": 30.205,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 30.625,
+          "end": 30.825,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "even",
+          "start": 30.905,
+          "end": 31.106,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admitted",
+          "start": 31.186,
+          "end": 31.566,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 32.086,
+          "end": 32.226,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 32.246,
+          "end": 32.306,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "RT-PCR",
+          "start": 32.407,
+          "end": 33.047,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 33.087,
+          "end": 33.367,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doesn't",
+          "start": 33.607,
+          "end": 33.888,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "differentiate",
+          "start": 33.928,
+          "end": 34.508,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "between",
+          "start": 34.528,
+          "end": 34.828,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "viruses.",
+          "start": 34.868,
+          "end": 35.389,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1233865167493018,
-      "compression_ratio": 1.7397260273972603,
-      "no_speech_prob": 0.032212939113378525
+      "avg_logprob": -0.06255208671092988,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2866,
-      "start": 28.66,
-      "end": 32.06,
-      "text": " Recently, the CDC has even admitted",
-      "tokens": [
-        50364,
-        20072,
-        11,
-        264,
-        17133,
-        575,
-        754,
-        14920,
-        50534
+      "start": 35.469,
+      "end": 36.63,
+      "text": "So you have three sources.",
+      "words": [
+        {
+          "word": "So",
+          "start": 35.469,
+          "end": 35.569,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 35.609,
+          "end": 35.709,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 35.749,
+          "end": 35.849,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three",
+          "start": 35.889,
+          "end": 36.129,
+          "score": 0.745,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sources.",
+          "start": 36.189,
+          "end": 36.63,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.06255208671092988,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2866,
-      "start": 32.06,
-      "end": 35.42,
-      "text": " that the RT-PCR test doesn't differentiate between viruses.",
-      "tokens": [
-        50534,
-        300,
-        264,
-        21797,
-        12,
-        12986,
-        49,
-        1500,
-        1177,
-        380,
-        23203,
-        1296,
-        21785,
-        13,
-        50702
+      "start": 37.31,
+      "end": 39.991,
+      "text": " stating that it doesn't differentiate between viruses yet.",
+      "words": [
+        {
+          "word": "stating",
+          "start": 37.31,
+          "end": 37.73,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 37.77,
+          "end": 37.91,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 37.95,
+          "end": 38.01,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doesn't",
+          "start": 38.05,
+          "end": 38.311,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "differentiate",
+          "start": 38.351,
+          "end": 38.891,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "between",
+          "start": 38.931,
+          "end": 39.171,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "viruses",
+          "start": 39.211,
+          "end": 39.611,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "yet.",
+          "start": 39.631,
+          "end": 39.991,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 2866,
-      "start": 35.42,
-      "end": 38.34,
-      "text": " So you have three sources stating that it doesn't",
-      "tokens": [
-        50702,
-        407,
-        291,
-        362,
-        1045,
-        7139,
-        26688,
-        300,
-        309,
-        1177,
-        380,
-        50848
+      "start": 40.092,
+      "end": 43.974,
+      "text": "That's the test we're using for this case count.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 40.092,
+          "end": 40.332,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 40.392,
+          "end": 40.492,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 40.532,
+          "end": 40.772,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 40.812,
+          "end": 40.972,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "using",
+          "start": 41.092,
+          "end": 41.352,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 42.013,
+          "end": 42.173,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 42.213,
+          "end": 42.393,
+          "score": 0.725,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "case",
+          "start": 42.453,
+          "end": 42.713,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "count.",
+          "start": 42.773,
+          "end": 43.974,
+          "score": 0.655,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 2866,
-      "start": 38.34,
-      "end": 39.620000000000005,
-      "text": " differentiate between viruses.",
-      "tokens": [
-        50848,
-        23203,
-        1296,
-        21785,
-        13,
-        50912
+      "start": 44.334,
+      "end": 45.674,
+      "text": "That's the test that we're using.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 44.334,
+          "end": 44.554,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 44.614,
+          "end": 44.714,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 44.774,
+          "end": 45.014,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 45.074,
+          "end": 45.174,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we're",
+          "start": 45.214,
+          "end": 45.354,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "using.",
+          "start": 45.434,
+          "end": 45.674,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 2866,
-      "start": 39.620000000000005,
-      "end": 43.7,
-      "text": " Yet that's the test we're using for this case count.",
-      "tokens": [
-        50912,
-        10890,
-        300,
-        311,
-        264,
-        1500,
-        321,
-        434,
-        1228,
-        337,
-        341,
-        1389,
-        1207,
-        13,
-        51116
+      "start": 45.694,
+      "end": 46.555,
+      "text": "It's a faulty test.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 45.694,
+          "end": 45.815,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 45.855,
+          "end": 45.895,
+          "score": 0.589,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "faulty",
+          "start": 45.935,
+          "end": 46.255,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test.",
+          "start": 46.315,
+          "end": 46.555,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 2866,
-      "start": 43.7,
-      "end": 45.7,
-      "text": " That's the test that we're using.",
-      "tokens": [
-        51116,
-        663,
-        311,
-        264,
-        1500,
-        300,
-        321,
-        434,
-        1228,
-        13,
-        51216
+      "start": 46.655,
+      "end": 57.521,
+      "text": "And that's the one that Governor Green and all these medical facilities and my facility too that I work at are using to claim these COVID statistics.",
+      "words": [
+        {
+          "word": "And",
+          "start": 46.655,
+          "end": 46.735,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 46.775,
+          "end": 47.015,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 47.135,
+          "end": 47.215,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 47.315,
+          "end": 47.415,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 47.455,
+          "end": 47.575,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Governor",
+          "start": 47.615,
+          "end": 48.016,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Green",
+          "start": 48.036,
+          "end": 48.536,
+          "score": 0.645,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 48.896,
+          "end": 48.976,
+          "score": 0.692,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 49.016,
+          "end": 49.116,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 49.136,
+          "end": 49.296,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 49.336,
+          "end": 49.677,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "facilities",
+          "start": 49.717,
+          "end": 50.357,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 50.437,
+          "end": 50.497,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 50.937,
+          "end": 51.137,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "facility",
+          "start": 51.177,
+          "end": 51.638,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "too",
+          "start": 51.658,
+          "end": 51.818,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 51.838,
+          "end": 51.958,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 51.998,
+          "end": 52.038,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work",
+          "start": 52.078,
+          "end": 52.198,
+          "score": 0.331,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 52.218,
+          "end": 52.258,
+          "score": 0.003,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 52.638,
+          "end": 52.778,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "using",
+          "start": 52.898,
+          "end": 53.198,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 54.059,
+          "end": 54.179,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "claim",
+          "start": 54.219,
+          "end": 54.619,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 54.639,
+          "end": 55.7,
+          "score": 0.653,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 55.84,
+          "end": 56.22,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "statistics.",
+          "start": 56.82,
+          "end": 57.521,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 2866,
-      "start": 45.7,
-      "end": 46.620000000000005,
-      "text": " It's a faulty test.",
-      "tokens": [
-        51216,
-        467,
-        311,
-        257,
-        2050,
-        5773,
-        1500,
-        13,
-        51262
+      "start": 57.901,
+      "end": 58.701,
+      "text": "That's just false.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 57.901,
+          "end": 58.081,
+          "score": 0.466,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 58.101,
+          "end": 58.301,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "false.",
+          "start": 58.361,
+          "end": 58.701,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 2866,
-      "start": 46.620000000000005,
-      "end": 48.86,
-      "text": " And that's the one that Governor Green",
-      "tokens": [
-        51262,
-        400,
-        300,
-        311,
-        264,
-        472,
-        300,
-        14550,
-        6969,
-        51374
+      "start": 59.122,
+      "end": 59.522,
+      "text": "It's false.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 59.122,
+          "end": 59.242,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "false.",
+          "start": 59.282,
+          "end": 59.522,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 2866,
-      "start": 48.86,
-      "end": 50.42,
-      "text": " and all these medical facilities,",
-      "tokens": [
-        51374,
-        293,
-        439,
-        613,
-        4625,
-        9406,
-        11,
-        51452
+      "start": 59.562,
+      "end": 60.562,
+      "text": "It's a faulty test.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 59.562,
+          "end": 59.702,
+          "score": 0.647,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 59.722,
+          "end": 59.762,
+          "score": 0.514,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "faulty",
+          "start": 59.802,
+          "end": 60.182,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test.",
+          "start": 60.242,
+          "end": 60.562,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 2866,
-      "start": 50.42,
-      "end": 52.58,
-      "text": " and my facility too that I work in,",
-      "tokens": [
-        51452,
-        293,
-        452,
-        8973,
-        886,
-        300,
-        286,
-        589,
-        294,
-        11,
-        51560
+      "start": 61.003,
+      "end": 63.124,
+      "text": "It doesn't differentiate between anything yet.",
+      "words": [
+        {
+          "word": "It",
+          "start": 61.003,
+          "end": 61.083,
+          "score": 0.725,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doesn't",
+          "start": 61.103,
+          "end": 61.403,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "differentiate",
+          "start": 61.703,
+          "end": 62.243,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "between",
+          "start": 62.263,
+          "end": 62.563,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anything",
+          "start": 62.623,
+          "end": 62.944,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "yet.",
+          "start": 62.964,
+          "end": 63.124,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 2866,
-      "start": 52.58,
-      "end": 57.58,
-      "text": " are using to claim these COVID statistics.",
-      "tokens": [
-        51560,
-        366,
-        1228,
-        281,
-        3932,
-        613,
-        4566,
-        12523,
-        13,
-        51810
+      "start": 63.484,
+      "end": 65.405,
+      "text": "That's the gold standard right now.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 63.484,
+          "end": 63.744,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 63.804,
+          "end": 64.304,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gold",
+          "start": 64.324,
+          "end": 64.544,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "standard",
+          "start": 64.584,
+          "end": 64.985,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right",
+          "start": 65.005,
+          "end": 65.165,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now.",
+          "start": 65.205,
+          "end": 65.405,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16877502506062136,
-      "compression_ratio": 1.7901234567901234,
-      "no_speech_prob": 0.0003219903737772256
+      "avg_logprob": -0.07960937775671482,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 5758,
-      "start": 57.9,
-      "end": 59.059999999999995,
-      "text": " It's just false.",
-      "tokens": [
-        50380,
-        467,
-        311,
-        445,
-        7908,
-        13,
-        50438
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
-    },
-    {
-      "id": 20,
-      "seek": 5758,
-      "start": 59.059999999999995,
-      "end": 59.9,
-      "text": " It's false.",
-      "tokens": [
-        50438,
-        467,
-        311,
-        7908,
-        13,
-        50480
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
-    },
-    {
-      "id": 21,
-      "seek": 5758,
-      "start": 59.9,
-      "end": 60.94,
-      "text": " It's a faulty test.",
-      "tokens": [
-        50480,
-        467,
-        311,
-        257,
-        2050,
-        5773,
-        1500,
-        13,
-        50532
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
-    },
-    {
-      "id": 22,
-      "seek": 5758,
-      "start": 60.94,
-      "end": 63.46,
-      "text": " It doesn't differentiate between anything yet.",
-      "tokens": [
-        50532,
-        467,
-        1177,
-        380,
-        23203,
-        1296,
-        1340,
-        1939,
-        13,
-        50658
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
-    },
-    {
-      "id": 23,
-      "seek": 5758,
-      "start": 63.46,
-      "end": 65.94,
-      "text": " That's the gold standard right now.",
-      "tokens": [
-        50658,
-        663,
-        311,
-        264,
-        3821,
-        3832,
-        558,
-        586,
-        13,
-        50782
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
-    },
-    {
-      "id": 24,
-      "seek": 5758,
-      "start": 65.94,
-      "end": 69.22,
+      "start": 65.971,
+      "end": 69.176,
       "text": " And it's sad because there's so many false positives.",
-      "tokens": [
-        50782,
-        400,
-        309,
-        311,
-        4227,
-        570,
-        456,
-        311,
-        370,
-        867,
-        7908,
-        35127,
-        13,
-        50946
+      "words": [
+        {
+          "word": "And",
+          "start": 65.971,
+          "end": 66.051,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 66.091,
+          "end": 66.211,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sad",
+          "start": 66.252,
+          "end": 66.572,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 66.933,
+          "end": 67.133,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there's",
+          "start": 67.153,
+          "end": 67.373,
+          "score": 0.633,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 67.393,
+          "end": 67.513,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "many",
+          "start": 67.554,
+          "end": 67.714,
+          "score": 0.595,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "false",
+          "start": 67.774,
+          "end": 68.014,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "positives.",
+          "start": 68.074,
+          "end": 69.176,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
+      "avg_logprob": -0.07792969048023224,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 25,
-      "seek": 5758,
-      "start": 69.22,
-      "end": 70.9,
-      "text": " There's so many people that are asymptomatic",
-      "tokens": [
-        50946,
-        821,
-        311,
-        370,
-        867,
-        561,
-        300,
-        366,
-        35114,
-        13143,
-        51030
+      "start": 69.216,
+      "end": 72.982,
+      "text": "There's so many people that are asymptomatic because it doesn't differentiate between anything.",
+      "words": [
+        {
+          "word": "There's",
+          "start": 69.216,
+          "end": 69.396,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 69.416,
+          "end": 69.497,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "many",
+          "start": 69.517,
+          "end": 69.657,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 69.697,
+          "end": 69.877,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 69.897,
+          "end": 69.997,
+          "score": 0.97,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 70.017,
+          "end": 70.098,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "asymptomatic",
+          "start": 70.178,
+          "end": 70.839,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 70.939,
+          "end": 71.219,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 71.42,
+          "end": 71.48,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doesn't",
+          "start": 71.52,
+          "end": 71.76,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "differentiate",
+          "start": 71.8,
+          "end": 72.301,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "between",
+          "start": 72.341,
+          "end": 72.621,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anything.",
+          "start": 72.662,
+          "end": 72.982,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
-    },
-    {
-      "id": 26,
-      "seek": 5758,
-      "start": 70.9,
-      "end": 73.46,
-      "text": " because it doesn't differentiate between anything.",
-      "tokens": [
-        51030,
-        570,
-        309,
-        1177,
-        380,
-        23203,
-        1296,
-        1340,
-        13,
-        51158
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1283242641351162,
-      "compression_ratio": 1.75625,
-      "no_speech_prob": 0.001914540072903037
+      "avg_logprob": -0.07792969048023224,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "This",
+      "start": 0.031,
+      "end": 0.171,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one's",
+      "start": 0.271,
+      "end": 0.431,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 0.471,
+      "end": 0.711,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "August",
+      "start": 1.011,
+      "end": 1.392,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "25,",
+      "start": 1.692,
+      "end": 2.792,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2020.",
+      "start": 3.373,
+      "end": 3.973,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Right",
+      "start": 4.593,
+      "end": 4.813,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "here,",
+      "start": 4.893,
+      "end": 5.193,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 5.554,
+      "end": 5.614,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "even",
+      "start": 5.694,
+      "end": 5.914,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "states",
+      "start": 5.954,
+      "end": 6.294,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 6.494,
+      "end": 6.574,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.594,
+      "end": 6.694,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "printout,",
+      "start": 6.774,
+      "end": 7.314,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 8.155,
+      "end": 8.215,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "says,",
+      "start": 8.275,
+      "end": 8.535,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 8.695,
+      "end": 8.755,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "positive",
+      "start": 8.835,
+      "end": 9.375,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "result",
+      "start": 9.435,
+      "end": 9.836,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "does",
+      "start": 9.916,
+      "end": 10.116,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 10.196,
+      "end": 10.396,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rule",
+      "start": 10.476,
+      "end": 10.716,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 10.796,
+      "end": 10.916,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bacterial",
+      "start": 10.996,
+      "end": 11.636,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "infection",
+      "start": 11.696,
+      "end": 12.217,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 12.377,
+      "end": 12.457,
+      "score": 0.684,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "co-infection",
+      "start": 12.597,
+      "end": 13.337,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 13.377,
+      "end": 13.517,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 13.617,
+      "end": 13.797,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "viruses.",
+      "start": 13.858,
+      "end": 14.418,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 15.194,
+      "end": 15.294,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "RT-PCR",
+      "start": 15.414,
+      "end": 16.235,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 16.275,
+      "end": 16.535,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 16.575,
+      "end": 16.795,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "differentiate",
+      "start": 16.855,
+      "end": 17.416,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "between",
+      "start": 17.436,
+      "end": 17.716,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "any",
+      "start": 17.796,
+      "end": 17.916,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "viruses.",
+      "start": 17.956,
+      "end": 18.456,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 18.997,
+      "end": 19.117,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 19.237,
+      "end": 19.337,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 19.377,
+      "end": 19.457,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fine",
+      "start": 19.517,
+      "end": 19.817,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "print,",
+      "start": 19.897,
+      "end": 20.218,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 20.878,
+      "end": 20.958,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.978,
+      "end": 21.058,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "printout",
+      "start": 21.138,
+      "end": 21.579,
+      "score": 0.623,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 21.719,
+      "end": 21.799,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 21.819,
+      "end": 21.879,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "RT-PCR",
+      "start": 21.999,
+      "end": 22.74,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test.",
+      "start": 22.78,
+      "end": 23.06,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 23.6,
+      "end": 23.72,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "inventor",
+      "start": 23.78,
+      "end": 24.341,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 24.501,
+      "end": 24.561,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.601,
+      "end": 24.701,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PCR",
+      "start": 24.761,
+      "end": 25.161,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 25.201,
+      "end": 25.461,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admitted",
+      "start": 25.622,
+      "end": 25.982,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 26.382,
+      "end": 26.602,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 26.802,
+      "end": 26.863,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "won't",
+      "start": 26.903,
+      "end": 27.123,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "differentiate",
+      "start": 27.203,
+      "end": 27.703,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "between",
+      "start": 27.743,
+      "end": 27.983,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "any",
+      "start": 28.023,
+      "end": 28.163,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "viruses.",
+      "start": 28.203,
+      "end": 28.624,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Recently,",
+      "start": 28.724,
+      "end": 29.224,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 29.244,
+      "end": 29.344,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "CDC",
+      "start": 29.424,
+      "end": 30.205,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 30.625,
+      "end": 30.825,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "even",
+      "start": 30.905,
+      "end": 31.106,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admitted",
+      "start": 31.186,
+      "end": 31.566,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 32.086,
+      "end": 32.226,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 32.246,
+      "end": 32.306,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "RT-PCR",
+      "start": 32.407,
+      "end": 33.047,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 33.087,
+      "end": 33.367,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doesn't",
+      "start": 33.607,
+      "end": 33.888,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "differentiate",
+      "start": 33.928,
+      "end": 34.508,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "between",
+      "start": 34.528,
+      "end": 34.828,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "viruses.",
+      "start": 34.868,
+      "end": 35.389,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 35.469,
+      "end": 35.569,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 35.609,
+      "end": 35.709,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 35.749,
+      "end": 35.849,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three",
+      "start": 35.889,
+      "end": 36.129,
+      "score": 0.745,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sources.",
+      "start": 36.189,
+      "end": 36.63,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stating",
+      "start": 37.31,
+      "end": 37.73,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 37.77,
+      "end": 37.91,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 37.95,
+      "end": 38.01,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doesn't",
+      "start": 38.05,
+      "end": 38.311,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "differentiate",
+      "start": 38.351,
+      "end": 38.891,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "between",
+      "start": 38.931,
+      "end": 39.171,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "viruses",
+      "start": 39.211,
+      "end": 39.611,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "yet.",
+      "start": 39.631,
+      "end": 39.991,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 40.092,
+      "end": 40.332,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 40.392,
+      "end": 40.492,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 40.532,
+      "end": 40.772,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 40.812,
+      "end": 40.972,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "using",
+      "start": 41.092,
+      "end": 41.352,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 42.013,
+      "end": 42.173,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 42.213,
+      "end": 42.393,
+      "score": 0.725,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "case",
+      "start": 42.453,
+      "end": 42.713,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "count.",
+      "start": 42.773,
+      "end": 43.974,
+      "score": 0.655,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 44.334,
+      "end": 44.554,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 44.614,
+      "end": 44.714,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 44.774,
+      "end": 45.014,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 45.074,
+      "end": 45.174,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we're",
+      "start": 45.214,
+      "end": 45.354,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "using.",
+      "start": 45.434,
+      "end": 45.674,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 45.694,
+      "end": 45.815,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 45.855,
+      "end": 45.895,
+      "score": 0.589,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "faulty",
+      "start": 45.935,
+      "end": 46.255,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test.",
+      "start": 46.315,
+      "end": 46.555,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 46.655,
+      "end": 46.735,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 46.775,
+      "end": 47.015,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 47.135,
+      "end": 47.215,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 47.315,
+      "end": 47.415,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 47.455,
+      "end": 47.575,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Governor",
+      "start": 47.615,
+      "end": 48.016,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Green",
+      "start": 48.036,
+      "end": 48.536,
+      "score": 0.645,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 48.896,
+      "end": 48.976,
+      "score": 0.692,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 49.016,
+      "end": 49.116,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 49.136,
+      "end": 49.296,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 49.336,
+      "end": 49.677,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "facilities",
+      "start": 49.717,
+      "end": 50.357,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 50.437,
+      "end": 50.497,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 50.937,
+      "end": 51.137,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "facility",
+      "start": 51.177,
+      "end": 51.638,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "too",
+      "start": 51.658,
+      "end": 51.818,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 51.838,
+      "end": 51.958,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 51.998,
+      "end": 52.038,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work",
+      "start": 52.078,
+      "end": 52.198,
+      "score": 0.331,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 52.218,
+      "end": 52.258,
+      "score": 0.003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 52.638,
+      "end": 52.778,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "using",
+      "start": 52.898,
+      "end": 53.198,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 54.059,
+      "end": 54.179,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "claim",
+      "start": 54.219,
+      "end": 54.619,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 54.639,
+      "end": 55.7,
+      "score": 0.653,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 55.84,
+      "end": 56.22,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "statistics.",
+      "start": 56.82,
+      "end": 57.521,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 57.901,
+      "end": 58.081,
+      "score": 0.466,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 58.101,
+      "end": 58.301,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "false.",
+      "start": 58.361,
+      "end": 58.701,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 59.122,
+      "end": 59.242,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "false.",
+      "start": 59.282,
+      "end": 59.522,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 59.562,
+      "end": 59.702,
+      "score": 0.647,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 59.722,
+      "end": 59.762,
+      "score": 0.514,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "faulty",
+      "start": 59.802,
+      "end": 60.182,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test.",
+      "start": 60.242,
+      "end": 60.562,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 61.003,
+      "end": 61.083,
+      "score": 0.725,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doesn't",
+      "start": 61.103,
+      "end": 61.403,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "differentiate",
+      "start": 61.703,
+      "end": 62.243,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "between",
+      "start": 62.263,
+      "end": 62.563,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anything",
+      "start": 62.623,
+      "end": 62.944,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "yet.",
+      "start": 62.964,
+      "end": 63.124,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 63.484,
+      "end": 63.744,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 63.804,
+      "end": 64.304,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gold",
+      "start": 64.324,
+      "end": 64.544,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "standard",
+      "start": 64.584,
+      "end": 64.985,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right",
+      "start": 65.005,
+      "end": 65.165,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now.",
+      "start": 65.205,
+      "end": 65.405,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 65.971,
+      "end": 66.051,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 66.091,
+      "end": 66.211,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sad",
+      "start": 66.252,
+      "end": 66.572,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 66.933,
+      "end": 67.133,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there's",
+      "start": 67.153,
+      "end": 67.373,
+      "score": 0.633,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 67.393,
+      "end": 67.513,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "many",
+      "start": 67.554,
+      "end": 67.714,
+      "score": 0.595,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "false",
+      "start": 67.774,
+      "end": 68.014,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "positives.",
+      "start": 68.074,
+      "end": 69.176,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "There's",
+      "start": 69.216,
+      "end": 69.396,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 69.416,
+      "end": 69.497,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "many",
+      "start": 69.517,
+      "end": 69.657,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 69.697,
+      "end": 69.877,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 69.897,
+      "end": 69.997,
+      "score": 0.97,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 70.017,
+      "end": 70.098,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "asymptomatic",
+      "start": 70.178,
+      "end": 70.839,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 70.939,
+      "end": 71.219,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 71.42,
+      "end": 71.48,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doesn't",
+      "start": 71.52,
+      "end": 71.76,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "differentiate",
+      "start": 71.8,
+      "end": 72.301,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "between",
+      "start": 72.341,
+      "end": 72.621,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anything.",
+      "start": 72.662,
+      "end": 72.982,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

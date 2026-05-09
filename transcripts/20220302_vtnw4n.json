@@ -1,201 +1,778 @@
 {
-  "text": " So countless studies, we need to just end the mandates. There's no medical emergency anymore. Natural COVID recovered immunity is long, durable, long lasting. SARS-CoV-1, 18 years later, people are still immune. I say that let's not be a segregational society. Let's recognize our God given natural immunity. Thank you, Mr. Chair.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.5,
-      "text": " So countless studies, we need to just end the mandates.",
-      "tokens": [
-        50364,
-        407,
-        19223,
-        5313,
-        11,
-        321,
-        643,
-        281,
-        445,
-        917,
-        264,
-        48662,
-        13,
-        50539
+      "start": 1.172,
+      "end": 3.413,
+      "text": " Countless studies, we need to just end the mandates.",
+      "words": [
+        {
+          "word": "Countless",
+          "start": 1.172,
+          "end": 1.512,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies,",
+          "start": 1.532,
+          "end": 1.952,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 2.032,
+          "end": 2.152,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 2.172,
+          "end": 2.332,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 2.353,
+          "end": 2.413,
+          "score": 0.613,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 2.453,
+          "end": 2.653,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "end",
+          "start": 2.753,
+          "end": 2.853,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 2.893,
+          "end": 2.953,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mandates.",
+          "start": 2.993,
+          "end": 3.413,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.5,
-      "end": 5.22,
-      "text": " There's no medical emergency anymore.",
-      "tokens": [
-        50539,
-        821,
-        311,
-        572,
-        4625,
-        7473,
-        3602,
-        13,
-        50625
+      "start": 3.453,
+      "end": 5.174,
+      "text": "There's no medical emergency anymore.",
+      "words": [
+        {
+          "word": "There's",
+          "start": 3.453,
+          "end": 3.653,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 3.753,
+          "end": 3.914,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 3.954,
+          "end": 4.234,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "emergency",
+          "start": 4.274,
+          "end": 4.754,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anymore.",
+          "start": 4.814,
+          "end": 5.174,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 5.22,
-      "end": 7.82,
-      "text": " Natural COVID recovered immunity is long, durable,",
-      "tokens": [
-        50625,
-        20137,
-        4566,
-        19542,
-        22701,
-        307,
-        938,
-        11,
-        22308,
-        11,
-        50755
+      "start": 5.234,
+      "end": 8.476,
+      "text": "Natural COVID recovered immunity is long, durable, long lasting.",
+      "words": [
+        {
+          "word": "Natural",
+          "start": 5.234,
+          "end": 5.535,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 5.555,
+          "end": 5.835,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recovered",
+          "start": 5.875,
+          "end": 6.215,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 6.255,
+          "end": 6.655,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 6.775,
+          "end": 6.855,
+          "score": 0.549,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long,",
+          "start": 6.935,
+          "end": 7.236,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "durable,",
+          "start": 7.376,
+          "end": 7.756,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long",
+          "start": 7.796,
+          "end": 7.976,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lasting.",
+          "start": 8.036,
+          "end": 8.476,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 7.82,
-      "end": 8.94,
-      "text": " long lasting.",
-      "tokens": [
-        50755,
-        938,
-        20714,
-        13,
-        50811
+      "start": 8.997,
+      "end": 12.399,
+      "text": "SARS-CoV-1, 18 years later, people are still immune.",
+      "words": [
+        {
+          "word": "SARS-CoV-1,",
+          "start": 8.997,
+          "end": 9.817,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "18",
+          "start": 9.977,
+          "end": 10.258,
+          "score": 0.423,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "years",
+          "start": 10.278,
+          "end": 10.478,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later,",
+          "start": 10.518,
+          "end": 10.738,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 10.778,
+          "end": 11.018,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 11.058,
+          "end": 11.138,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "still",
+          "start": 11.178,
+          "end": 11.358,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immune.",
+          "start": 11.398,
+          "end": 12.399,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 8.94,
-      "end": 12.5,
-      "text": " SARS-CoV-1, 18 years later, people are still immune.",
-      "tokens": [
-        50811,
-        34233,
-        12,
-        21141,
-        53,
-        12,
-        16,
-        11,
-        2443,
-        924,
-        1780,
-        11,
-        561,
-        366,
-        920,
-        11992,
-        13,
-        50989
+      "start": 12.559,
+      "end": 15.421,
+      "text": "I say that let's not be a segregational society.",
+      "words": [
+        {
+          "word": "I",
+          "start": 12.559,
+          "end": 12.639,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "say",
+          "start": 12.699,
+          "end": 12.939,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 12.999,
+          "end": 13.16,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "let's",
+          "start": 13.24,
+          "end": 13.46,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 13.54,
+          "end": 13.74,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 13.82,
+          "end": 13.96,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 14.0,
+          "end": 14.04,
+          "score": 0.559,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "segregational",
+          "start": 14.08,
+          "end": 14.761,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "society.",
+          "start": 14.821,
+          "end": 15.421,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 12.5,
-      "end": 15.48,
-      "text": " I say that let's not be a segregational society.",
-      "tokens": [
-        50989,
-        286,
-        584,
-        300,
-        718,
-        311,
-        406,
-        312,
-        257,
-        34317,
-        304,
-        4086,
-        13,
-        51138
+      "start": 15.481,
+      "end": 17.622,
+      "text": "Let's recognize our God-given natural immunity.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 15.481,
+          "end": 15.681,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recognize",
+          "start": 15.761,
+          "end": 16.282,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 16.322,
+          "end": 16.422,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "God-given",
+          "start": 16.442,
+          "end": 16.882,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 16.942,
+          "end": 17.222,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity.",
+          "start": 17.242,
+          "end": 17.622,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 15.48,
-      "end": 17.66,
-      "text": " Let's recognize our God given natural immunity.",
-      "tokens": [
-        51138,
-        961,
-        311,
-        5521,
-        527,
-        1265,
-        2212,
-        3303,
-        22701,
-        13,
-        51247
+      "start": 17.642,
+      "end": 18.163,
+      "text": "Thank you, Mr.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 17.642,
+          "end": 17.803,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you,",
+          "start": 17.843,
+          "end": 17.923,
+          "score": 0.21,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Mr.",
+          "start": 17.943,
+          "end": 18.163,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 17.66,
-      "end": 18.66,
-      "text": " Thank you, Mr. Chair.",
-      "tokens": [
-        51247,
-        1044,
-        291,
-        11,
-        2221,
-        13,
-        8678,
-        13,
-        51297
+      "start": 18.183,
+      "end": 18.343,
+      "text": "Chair.",
+      "words": [
+        {
+          "word": "Chair.",
+          "start": 18.183,
+          "end": 18.343,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25241603022036346,
-      "compression_ratio": 1.4102564102564104,
-      "no_speech_prob": 0.05039010941982269
+      "avg_logprob": -0.0890925445426733,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Countless",
+      "start": 1.172,
+      "end": 1.512,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies,",
+      "start": 1.532,
+      "end": 1.952,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 2.032,
+      "end": 2.152,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 2.172,
+      "end": 2.332,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 2.353,
+      "end": 2.413,
+      "score": 0.613,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 2.453,
+      "end": 2.653,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "end",
+      "start": 2.753,
+      "end": 2.853,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 2.893,
+      "end": 2.953,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mandates.",
+      "start": 2.993,
+      "end": 3.413,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "There's",
+      "start": 3.453,
+      "end": 3.653,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 3.753,
+      "end": 3.914,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 3.954,
+      "end": 4.234,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "emergency",
+      "start": 4.274,
+      "end": 4.754,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anymore.",
+      "start": 4.814,
+      "end": 5.174,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Natural",
+      "start": 5.234,
+      "end": 5.535,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 5.555,
+      "end": 5.835,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recovered",
+      "start": 5.875,
+      "end": 6.215,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 6.255,
+      "end": 6.655,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 6.775,
+      "end": 6.855,
+      "score": 0.549,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long,",
+      "start": 6.935,
+      "end": 7.236,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "durable,",
+      "start": 7.376,
+      "end": 7.756,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long",
+      "start": 7.796,
+      "end": 7.976,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lasting.",
+      "start": 8.036,
+      "end": 8.476,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "SARS-CoV-1,",
+      "start": 8.997,
+      "end": 9.817,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "18",
+      "start": 9.977,
+      "end": 10.258,
+      "score": 0.423,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "years",
+      "start": 10.278,
+      "end": 10.478,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later,",
+      "start": 10.518,
+      "end": 10.738,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 10.778,
+      "end": 11.018,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 11.058,
+      "end": 11.138,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "still",
+      "start": 11.178,
+      "end": 11.358,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immune.",
+      "start": 11.398,
+      "end": 12.399,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 12.559,
+      "end": 12.639,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "say",
+      "start": 12.699,
+      "end": 12.939,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 12.999,
+      "end": 13.16,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "let's",
+      "start": 13.24,
+      "end": 13.46,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 13.54,
+      "end": 13.74,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 13.82,
+      "end": 13.96,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 14.0,
+      "end": 14.04,
+      "score": 0.559,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "segregational",
+      "start": 14.08,
+      "end": 14.761,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "society.",
+      "start": 14.821,
+      "end": 15.421,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Let's",
+      "start": 15.481,
+      "end": 15.681,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recognize",
+      "start": 15.761,
+      "end": 16.282,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 16.322,
+      "end": 16.422,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "God-given",
+      "start": 16.442,
+      "end": 16.882,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 16.942,
+      "end": 17.222,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity.",
+      "start": 17.242,
+      "end": 17.622,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Thank",
+      "start": 17.642,
+      "end": 17.803,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you,",
+      "start": 17.843,
+      "end": 17.923,
+      "score": 0.21,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Mr.",
+      "start": 17.943,
+      "end": 18.163,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Chair.",
+      "start": 18.183,
+      "end": 18.343,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

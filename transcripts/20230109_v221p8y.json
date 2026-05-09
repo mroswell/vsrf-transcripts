@@ -1,209 +1,1212 @@
 {
-  "text": " If you don't talk to people, you know, it's not it's tyranny. It's not it's not democracy. It definitely is not science. Science is about about erecting hypotheses and then chipping away at them with, you know, with new explanations that that give better, that make more coherent and sensible explanations of the facts as they evolve and as we know them. You can't just freeze science and say an expert said this is so therefore nobody can challenge it for the rest of time. That is not science. That is religion.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.44,
-      "text": " If you don't talk to people, you know, it's not it's tyranny. It's not it's not democracy.",
-      "tokens": [
-        50364,
-        759,
-        291,
-        500,
-        380,
-        751,
-        281,
-        561,
-        11,
-        291,
-        458,
-        11,
-        309,
-        311,
-        406,
-        309,
-        311,
-        41108,
-        11612,
-        13,
-        467,
-        311,
-        406,
-        309,
-        311,
-        406,
-        10528,
-        13,
-        50736
+      "start": 0.151,
+      "end": 5.577,
+      "text": " If you don't talk to people, it's tyranny.",
+      "words": [
+        {
+          "word": "If",
+          "start": 0.151,
+          "end": 0.211,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 0.251,
+          "end": 0.351,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 0.391,
+          "end": 0.592,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talk",
+          "start": 0.672,
+          "end": 0.932,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 0.952,
+          "end": 1.052,
+          "score": 0.572,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people,",
+          "start": 1.092,
+          "end": 3.374,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 3.615,
+          "end": 4.115,
+          "score": 0.695,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tyranny.",
+          "start": 4.435,
+          "end": 5.577,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17119254804637335,
-      "compression_ratio": 1.6358381502890174,
-      "no_speech_prob": 0.05972372367978096
+      "avg_logprob": -0.08509410291232845,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.44,
-      "end": 15.92,
-      "text": " It definitely is not science. Science is about about erecting hypotheses and then chipping away",
-      "tokens": [
-        50736,
-        467,
-        2138,
-        307,
-        406,
-        3497,
-        13,
-        8976,
-        307,
-        466,
-        466,
-        34201,
-        278,
-        49969,
-        293,
-        550,
-        417,
-        6297,
-        1314,
-        51160
+      "start": 6.397,
+      "end": 7.579,
+      "text": "It's not democracy.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 6.397,
+          "end": 6.558,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 6.618,
+          "end": 6.798,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "democracy.",
+          "start": 6.858,
+          "end": 7.579,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17119254804637335,
-      "compression_ratio": 1.6358381502890174,
-      "no_speech_prob": 0.05972372367978096
+      "avg_logprob": -0.08509410291232845,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 15.92,
-      "end": 24.240000000000002,
-      "text": " at them with, you know, with new explanations that that give better, that make more coherent and",
-      "tokens": [
-        51160,
-        412,
-        552,
-        365,
-        11,
-        291,
-        458,
-        11,
-        365,
-        777,
-        28708,
-        300,
-        300,
-        976,
-        1101,
-        11,
-        300,
-        652,
-        544,
-        36239,
-        293,
-        51576
+      "start": 7.599,
+      "end": 9.3,
+      "text": "It definitely is not science.",
+      "words": [
+        {
+          "word": "It",
+          "start": 7.599,
+          "end": 7.639,
+          "score": 0.084,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "definitely",
+          "start": 7.739,
+          "end": 8.259,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 8.339,
+          "end": 8.42,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 8.48,
+          "end": 8.68,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "science.",
+          "start": 8.78,
+          "end": 9.3,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17119254804637335,
-      "compression_ratio": 1.6358381502890174,
-      "no_speech_prob": 0.05972372367978096
+      "avg_logprob": -0.08509410291232845,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 2424,
-      "start": 24.24,
-      "end": 31.599999999999998,
-      "text": " sensible explanations of the facts as they evolve and as we know them. You can't just",
-      "tokens": [
-        50364,
-        25380,
-        28708,
-        295,
-        264,
-        9130,
-        382,
-        436,
-        16693,
-        293,
-        382,
-        321,
-        458,
-        552,
-        13,
-        509,
-        393,
-        380,
-        445,
-        50732
+      "start": 10.462,
+      "end": 20.412,
+      "text": "Science is about erecting hypotheses and then chipping away at them with new explanations that give better",
+      "words": [
+        {
+          "word": "Science",
+          "start": 10.462,
+          "end": 11.022,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 11.142,
+          "end": 11.723,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 12.904,
+          "end": 13.144,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "erecting",
+          "start": 13.204,
+          "end": 13.625,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hypotheses",
+          "start": 13.665,
+          "end": 14.746,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 14.966,
+          "end": 15.066,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "then",
+          "start": 15.106,
+          "end": 15.307,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chipping",
+          "start": 15.367,
+          "end": 15.687,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away",
+          "start": 15.747,
+          "end": 16.007,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 16.047,
+          "end": 16.107,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 16.187,
+          "end": 16.348,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 17.068,
+          "end": 17.369,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "new",
+          "start": 17.949,
+          "end": 18.109,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "explanations",
+          "start": 18.23,
+          "end": 19.17,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 19.231,
+          "end": 19.851,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "give",
+          "start": 19.911,
+          "end": 20.091,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "better",
+          "start": 20.131,
+          "end": 20.412,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21345620588822797,
-      "compression_ratio": 1.4679487179487178,
-      "no_speech_prob": 0.012765024788677692
+      "avg_logprob": -0.08509410291232845,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 2424,
-      "start": 31.599999999999998,
-      "end": 38.48,
-      "text": " freeze science and say an expert said this is so therefore nobody can challenge it for the rest of",
-      "tokens": [
-        50732,
-        15959,
-        3497,
-        293,
-        584,
-        364,
-        5844,
-        848,
-        341,
-        307,
-        370,
-        4412,
-        5079,
-        393,
-        3430,
-        309,
-        337,
-        264,
-        1472,
-        295,
-        51076
+      "start": 22.222,
+      "end": 30.384,
+      "text": " that make more coherent and sensible explanations of the facts as they evolve and as we know them.",
+      "words": [
+        {
+          "word": "that",
+          "start": 22.222,
+          "end": 22.382,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 22.422,
+          "end": 22.642,
+          "score": 0.552,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 22.682,
+          "end": 22.882,
+          "score": 0.64,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "coherent",
+          "start": 22.982,
+          "end": 23.823,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 24.083,
+          "end": 24.183,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sensible",
+          "start": 24.363,
+          "end": 25.163,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "explanations",
+          "start": 25.463,
+          "end": 26.363,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 26.663,
+          "end": 26.763,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.863,
+          "end": 26.963,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "facts",
+          "start": 27.083,
+          "end": 27.524,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 28.044,
+          "end": 28.184,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 28.264,
+          "end": 28.444,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "evolve",
+          "start": 28.504,
+          "end": 29.104,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 29.164,
+          "end": 29.244,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 29.484,
+          "end": 29.624,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 29.704,
+          "end": 29.844,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 29.884,
+          "end": 30.104,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them.",
+          "start": 30.164,
+          "end": 30.384,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21345620588822797,
-      "compression_ratio": 1.4679487179487178,
-      "no_speech_prob": 0.012765024788677692
+      "avg_logprob": -0.07749721274844237,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2424,
-      "start": 38.48,
-      "end": 51.2,
-      "text": " time. That is not science. That is religion.",
-      "tokens": [
-        51076,
-        565,
-        13,
-        663,
-        307,
-        406,
-        3497,
-        13,
-        663,
-        307,
-        7561,
-        13,
-        51712
+      "start": 30.704,
+      "end": 38.946,
+      "text": "You can't just freeze science and say, an expert said this is so, therefore nobody can challenge it for the rest of time.",
+      "words": [
+        {
+          "word": "You",
+          "start": 30.704,
+          "end": 30.844,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 30.924,
+          "end": 31.224,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 31.284,
+          "end": 31.565,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freeze",
+          "start": 31.705,
+          "end": 32.165,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "science",
+          "start": 32.265,
+          "end": 32.825,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 32.965,
+          "end": 33.065,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "say,",
+          "start": 33.125,
+          "end": 33.445,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 33.465,
+          "end": 33.505,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "expert",
+          "start": 34.865,
+          "end": 35.245,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "said",
+          "start": 35.305,
+          "end": 35.505,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 35.546,
+          "end": 35.706,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 35.786,
+          "end": 35.846,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so,",
+          "start": 35.926,
+          "end": 36.246,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "therefore",
+          "start": 36.306,
+          "end": 36.746,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nobody",
+          "start": 37.006,
+          "end": 37.286,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 37.326,
+          "end": 37.466,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "challenge",
+          "start": 37.486,
+          "end": 37.866,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 37.906,
+          "end": 37.966,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 37.986,
+          "end": 38.086,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 38.126,
+          "end": 38.206,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rest",
+          "start": 38.246,
+          "end": 38.466,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 38.526,
+          "end": 38.586,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time.",
+          "start": 38.626,
+          "end": 38.946,
+          "score": 0.693,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21345620588822797,
-      "compression_ratio": 1.4679487179487178,
-      "no_speech_prob": 0.012765024788677692
+      "avg_logprob": -0.07749721274844237,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 39.006,
+      "end": 40.287,
+      "text": "That is not science.",
+      "words": [
+        {
+          "word": "That",
+          "start": 39.006,
+          "end": 39.246,
+          "score": 0.702,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 39.366,
+          "end": 39.466,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 39.527,
+          "end": 39.727,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "science.",
+          "start": 39.827,
+          "end": 40.287,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.07749721274844237,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 40.407,
+      "end": 41.347,
+      "text": "That is religion.",
+      "words": [
+        {
+          "word": "That",
+          "start": 40.407,
+          "end": 40.607,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 40.687,
+          "end": 40.807,
+          "score": 0.716,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "religion.",
+          "start": 40.887,
+          "end": 41.347,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.07749721274844237,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "If",
+      "start": 0.151,
+      "end": 0.211,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 0.251,
+      "end": 0.351,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 0.391,
+      "end": 0.592,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talk",
+      "start": 0.672,
+      "end": 0.932,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 0.952,
+      "end": 1.052,
+      "score": 0.572,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people,",
+      "start": 1.092,
+      "end": 3.374,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 3.615,
+      "end": 4.115,
+      "score": 0.695,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tyranny.",
+      "start": 4.435,
+      "end": 5.577,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 6.397,
+      "end": 6.558,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 6.618,
+      "end": 6.798,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "democracy.",
+      "start": 6.858,
+      "end": 7.579,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 7.599,
+      "end": 7.639,
+      "score": 0.084,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "definitely",
+      "start": 7.739,
+      "end": 8.259,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 8.339,
+      "end": 8.42,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 8.48,
+      "end": 8.68,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "science.",
+      "start": 8.78,
+      "end": 9.3,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Science",
+      "start": 10.462,
+      "end": 11.022,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 11.142,
+      "end": 11.723,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 12.904,
+      "end": 13.144,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "erecting",
+      "start": 13.204,
+      "end": 13.625,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hypotheses",
+      "start": 13.665,
+      "end": 14.746,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 14.966,
+      "end": 15.066,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "then",
+      "start": 15.106,
+      "end": 15.307,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chipping",
+      "start": 15.367,
+      "end": 15.687,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away",
+      "start": 15.747,
+      "end": 16.007,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 16.047,
+      "end": 16.107,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 16.187,
+      "end": 16.348,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 17.068,
+      "end": 17.369,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "new",
+      "start": 17.949,
+      "end": 18.109,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "explanations",
+      "start": 18.23,
+      "end": 19.17,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 19.231,
+      "end": 19.851,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "give",
+      "start": 19.911,
+      "end": 20.091,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "better",
+      "start": 20.131,
+      "end": 20.412,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 22.222,
+      "end": 22.382,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 22.422,
+      "end": 22.642,
+      "score": 0.552,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 22.682,
+      "end": 22.882,
+      "score": 0.64,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "coherent",
+      "start": 22.982,
+      "end": 23.823,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 24.083,
+      "end": 24.183,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sensible",
+      "start": 24.363,
+      "end": 25.163,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "explanations",
+      "start": 25.463,
+      "end": 26.363,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 26.663,
+      "end": 26.763,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.863,
+      "end": 26.963,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "facts",
+      "start": 27.083,
+      "end": 27.524,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 28.044,
+      "end": 28.184,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 28.264,
+      "end": 28.444,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "evolve",
+      "start": 28.504,
+      "end": 29.104,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 29.164,
+      "end": 29.244,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 29.484,
+      "end": 29.624,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 29.704,
+      "end": 29.844,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 29.884,
+      "end": 30.104,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them.",
+      "start": 30.164,
+      "end": 30.384,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 30.704,
+      "end": 30.844,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 30.924,
+      "end": 31.224,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 31.284,
+      "end": 31.565,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freeze",
+      "start": 31.705,
+      "end": 32.165,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "science",
+      "start": 32.265,
+      "end": 32.825,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 32.965,
+      "end": 33.065,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "say,",
+      "start": 33.125,
+      "end": 33.445,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 33.465,
+      "end": 33.505,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "expert",
+      "start": 34.865,
+      "end": 35.245,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "said",
+      "start": 35.305,
+      "end": 35.505,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 35.546,
+      "end": 35.706,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 35.786,
+      "end": 35.846,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so,",
+      "start": 35.926,
+      "end": 36.246,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "therefore",
+      "start": 36.306,
+      "end": 36.746,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nobody",
+      "start": 37.006,
+      "end": 37.286,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 37.326,
+      "end": 37.466,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "challenge",
+      "start": 37.486,
+      "end": 37.866,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 37.906,
+      "end": 37.966,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 37.986,
+      "end": 38.086,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 38.126,
+      "end": 38.206,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rest",
+      "start": 38.246,
+      "end": 38.466,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 38.526,
+      "end": 38.586,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time.",
+      "start": 38.626,
+      "end": 38.946,
+      "score": 0.693,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That",
+      "start": 39.006,
+      "end": 39.246,
+      "score": 0.702,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 39.366,
+      "end": 39.466,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 39.527,
+      "end": 39.727,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "science.",
+      "start": 39.827,
+      "end": 40.287,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That",
+      "start": 40.407,
+      "end": 40.607,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 40.687,
+      "end": 40.807,
+      "score": 0.716,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "religion.",
+      "start": 40.887,
+      "end": 41.347,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

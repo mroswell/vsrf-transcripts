@@ -1,1407 +1,7386 @@
 {
-  "text": " What is the Trusted News Initiative or TNI? Simply, Global Information Control. The Trusted News Initiative was founded in 2019 by UK State broadcaster the BBC and its global media and big tech partners. The TNI claimed its first order of business was to promote freedom and democracy by preventing foreign interference in the 2020 US presidential election. There was more. The TNI's big pharma backers had a vaccine agenda in mind from the start. The TNI issued a warning in 2019 that anti-vaxxers are gaining traction across the internet, requiring algorithmic intervention. That means very smart computer programs to identify, attack and neutralize anti-vaxxing content. And the big pharma backers were really going after the health and wellness movement gaining traction online. The TNI conveniently rebranded wellness leaders as anti-vaxx, disinformation peddlers posing a threat to public health. Why? Because attacking natural health as a danger to public health would never work like rebranding health leaders as anti-vaxxers. So how does the TNI work? Flooding your screen with repetitive, pro-vaccine messages that normalize the experimental vaccine. They demonize the unvaccinated to create division and drive public acceptance of vaccine compliance. The TNI also pays off so-called fact-checkers to run false fact-checks and hit pieces on scientists and doctors who buck the official narrative. Hundreds of frontline medical professionals, scientists, researchers who dare to speak out against the official narrative, gone, disappeared from social media by the TNI. They didn't ask approved questions. They didn't come to approved conclusions. So now, top doctors from Harvard, Stanford, and Oxford are dangerous experts who must be neutralized. They attack early treatments that cure COVID because they feel it poses a threat to the vaccine agenda. The TNI network also ignores stories of people being injured by the COVID vaccines in order to promote the false narrative that they are safe and effective. It's not just careers the TNI is destroying, but real lives as it suppresses the true numbers on vaccine-adverse effects and life-saving treatment protocols. Who's paying for this harmful suppression of science? You are. We are. We pay taxes. The government pays Big Pharma, and Big Pharma spends almost $7 billion advertising with TNI corporations. TNI companies also have pharma investments, and Pharma funds our health agencies. The conflicts of interest. See how that works? Remember at the beginning of the pandemic when scientists who simply raised the question of virus origin as a lab leak from the Wuhan lab were called conspiracy theorists by the TNI? After a year of pressure for the truth, this so-called conspiracy theory is seen as the most plausible scenario, giving us just one example of how the Trusted News Initiative promotes disinformation while keeping the true science from us. This is extremely dangerous to our democracy. This is extremely dangerous to our democracy.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.12,
-      "text": " What is the Trusted News Initiative or TNI?",
-      "tokens": [
-        50364,
-        708,
-        307,
-        264,
-        1765,
-        6589,
-        7987,
-        26166,
-        420,
-        314,
-        42496,
-        30,
-        50720
+      "start": 3.422,
+      "end": 6.144,
+      "text": " What is the Trusted News Initiative, or TNI?",
+      "words": [
+        {
+          "word": "What",
+          "start": 3.422,
+          "end": 3.602,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 3.662,
+          "end": 3.762,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 3.822,
+          "end": 3.902,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Trusted",
+          "start": 3.982,
+          "end": 4.383,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "News",
+          "start": 4.483,
+          "end": 4.683,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Initiative,",
+          "start": 4.743,
+          "end": 5.263,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 5.323,
+          "end": 5.424,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI?",
+          "start": 5.504,
+          "end": 6.144,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2038637952106755,
-      "compression_ratio": 1.5127118644067796,
-      "no_speech_prob": 0.07405360788106918
+      "avg_logprob": -0.0718851476520687,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.12,
-      "end": 11.86,
-      "text": " Simply, Global Information Control.",
-      "tokens": [
-        50720,
-        19596,
-        11,
-        14465,
-        15357,
-        12912,
-        13,
-        50957
+      "start": 7.445,
+      "end": 10.547,
+      "text": "Simply, Global Information Control.",
+      "words": [
+        {
+          "word": "Simply,",
+          "start": 7.445,
+          "end": 7.865,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Global",
+          "start": 8.206,
+          "end": 8.706,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Information",
+          "start": 8.966,
+          "end": 9.727,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Control.",
+          "start": 9.907,
+          "end": 10.547,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2038637952106755,
-      "compression_ratio": 1.5127118644067796,
-      "no_speech_prob": 0.07405360788106918
+      "avg_logprob": -0.0718851476520687,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 11.86,
-      "end": 17.68,
-      "text": " The Trusted News Initiative was founded in 2019 by UK State broadcaster the BBC and its",
-      "tokens": [
-        50957,
-        440,
-        1765,
-        6589,
-        7987,
-        26166,
-        390,
-        13234,
-        294,
-        6071,
-        538,
-        7051,
-        4533,
-        4152,
-        42640,
-        264,
-        22669,
-        293,
-        1080,
-        51248
+      "start": 11.828,
+      "end": 19.794,
+      "text": "The Trusted News Initiative was founded in 2019 by UK state broadcaster, the BBC, and its global media and big tech partners.",
+      "words": [
+        {
+          "word": "The",
+          "start": 11.828,
+          "end": 11.928,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Trusted",
+          "start": 11.968,
+          "end": 12.328,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "News",
+          "start": 12.409,
+          "end": 12.589,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Initiative",
+          "start": 12.649,
+          "end": 13.089,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 13.129,
+          "end": 13.249,
+          "score": 0.721,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "founded",
+          "start": 13.309,
+          "end": 13.669,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 13.729,
+          "end": 13.79,
+          "score": 0.761,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2019",
+          "start": 13.95,
+          "end": 14.61,
+          "score": 0.692,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 14.71,
+          "end": 14.83,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "UK",
+          "start": 14.99,
+          "end": 15.311,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "state",
+          "start": 15.371,
+          "end": 15.691,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "broadcaster,",
+          "start": 15.751,
+          "end": 16.451,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 16.511,
+          "end": 16.592,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "BBC,",
+          "start": 16.632,
+          "end": 17.252,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 17.452,
+          "end": 17.552,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "its",
+          "start": 17.612,
+          "end": 17.732,
+          "score": 0.64,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "global",
+          "start": 17.772,
+          "end": 18.133,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "media",
+          "start": 18.173,
+          "end": 18.553,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 18.653,
+          "end": 18.733,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "big",
+          "start": 18.813,
+          "end": 19.013,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tech",
+          "start": 19.053,
+          "end": 19.293,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "partners.",
+          "start": 19.333,
+          "end": 19.794,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2038637952106755,
-      "compression_ratio": 1.5127118644067796,
-      "no_speech_prob": 0.07405360788106918
+      "avg_logprob": -0.0718851476520687,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 17.68,
-      "end": 20.64,
-      "text": " global media and big tech partners.",
-      "tokens": [
-        51248,
-        4338,
-        3021,
-        293,
-        955,
-        7553,
-        4462,
-        13,
-        51396
+      "start": 20.594,
+      "end": 29.08,
+      "text": "The TNI claimed its first order of business was to promote freedom and democracy by preventing foreign interference in the 2020 US presidential election.",
+      "words": [
+        {
+          "word": "The",
+          "start": 20.594,
+          "end": 20.694,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 20.734,
+          "end": 21.155,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "claimed",
+          "start": 21.195,
+          "end": 21.495,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "its",
+          "start": 21.555,
+          "end": 21.655,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 21.775,
+          "end": 22.035,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "order",
+          "start": 22.115,
+          "end": 22.316,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 22.356,
+          "end": 22.416,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "business",
+          "start": 22.456,
+          "end": 22.856,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 22.896,
+          "end": 23.036,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 23.076,
+          "end": 23.156,
+          "score": 0.596,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "promote",
+          "start": 23.196,
+          "end": 23.516,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freedom",
+          "start": 23.677,
+          "end": 24.017,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 24.097,
+          "end": 24.177,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "democracy",
+          "start": 24.237,
+          "end": 24.918,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 25.038,
+          "end": 25.158,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "preventing",
+          "start": 25.238,
+          "end": 25.758,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "foreign",
+          "start": 25.858,
+          "end": 26.138,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interference",
+          "start": 26.178,
+          "end": 26.739,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 26.779,
+          "end": 26.859,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.879,
+          "end": 26.959,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2020",
+          "start": 27.119,
+          "end": 27.579,
+          "score": 0.606,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "US",
+          "start": 27.72,
+          "end": 27.94,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "presidential",
+          "start": 28.0,
+          "end": 28.54,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "election.",
+          "start": 28.6,
+          "end": 29.08,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2038637952106755,
-      "compression_ratio": 1.5127118644067796,
-      "no_speech_prob": 0.07405360788106918
+      "avg_logprob": -0.0718851476520687,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 20.64,
-      "end": 25.7,
-      "text": " The TNI claimed its first order of business was to promote freedom and democracy by preventing",
-      "tokens": [
-        51396,
-        440,
-        314,
-        42496,
-        12941,
-        1080,
-        700,
-        1668,
-        295,
-        1606,
-        390,
-        281,
-        9773,
-        5645,
-        293,
-        10528,
-        538,
-        19965,
-        51649
+      "start": 29.681,
+      "end": 30.962,
+      "text": "But there was more.",
+      "words": [
+        {
+          "word": "But",
+          "start": 29.681,
+          "end": 29.921,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 30.121,
+          "end": 30.321,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 30.381,
+          "end": 30.522,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more.",
+          "start": 30.642,
+          "end": 30.962,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2038637952106755,
-      "compression_ratio": 1.5127118644067796,
-      "no_speech_prob": 0.07405360788106918
+      "avg_logprob": -0.0718851476520687,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 25.7,
-      "end": 29.900000000000002,
-      "text": " foreign interference in the 2020 US presidential election.",
-      "tokens": [
-        51649,
-        5329,
-        24497,
-        294,
-        264,
-        4808,
-        2546,
-        16902,
-        6618,
-        13,
-        51859
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2038637952106755,
-      "compression_ratio": 1.5127118644067796,
-      "no_speech_prob": 0.07405360788106918
-    },
-    {
-      "id": 6,
-      "seek": 2990,
-      "start": 30.2,
-      "end": 32.08,
-      "text": " There was more.",
-      "tokens": [
-        50379,
-        821,
-        390,
-        544,
-        13,
-        50473
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
-    },
-    {
-      "id": 7,
-      "seek": 2990,
-      "start": 32.08,
-      "end": 37.22,
+      "start": 32.032,
+      "end": 36.297,
       "text": " The TNI's big pharma backers had a vaccine agenda in mind from the start.",
-      "tokens": [
-        50473,
-        440,
-        314,
-        42496,
-        311,
-        955,
-        903,
-        36159,
-        646,
-        433,
-        632,
-        257,
-        7007,
-        9829,
-        294,
-        1575,
-        490,
-        264,
-        722,
-        13,
-        50730
+      "words": [
+        {
+          "word": "The",
+          "start": 32.032,
+          "end": 32.132,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI's",
+          "start": 32.152,
+          "end": 32.653,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "big",
+          "start": 32.753,
+          "end": 32.933,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharma",
+          "start": 33.033,
+          "end": 33.354,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "backers",
+          "start": 33.394,
+          "end": 33.794,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 33.834,
+          "end": 33.954,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 33.994,
+          "end": 34.034,
+          "score": 0.533,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 34.054,
+          "end": 34.515,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "agenda",
+          "start": 34.575,
+          "end": 34.955,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 35.015,
+          "end": 35.096,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mind",
+          "start": 35.136,
+          "end": 35.376,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 35.436,
+          "end": 35.596,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 35.616,
+          "end": 35.756,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "start.",
+          "start": 35.876,
+          "end": 36.297,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
+      "avg_logprob": -0.04720052111555229,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2990,
-      "start": 37.22,
-      "end": 43.26,
-      "text": " The TNI issued a warning in 2019 that anti-vaxxers are gaining traction across the internet, requiring",
-      "tokens": [
-        50730,
-        440,
-        314,
-        42496,
-        14379,
-        257,
-        9164,
-        294,
-        6071,
-        300,
-        6061,
-        12,
-        2757,
-        30569,
-        433,
-        366,
-        19752,
-        23558,
-        2108,
-        264,
-        4705,
-        11,
-        24165,
-        51032
+      "start": 37.178,
+      "end": 44.907,
+      "text": "The TNI issued a warning in 2019 that anti-vaxxers are gaining traction across the internet, requiring algorithmic intervention.",
+      "words": [
+        {
+          "word": "The",
+          "start": 37.178,
+          "end": 37.278,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 37.318,
+          "end": 37.819,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "issued",
+          "start": 37.879,
+          "end": 38.139,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 38.179,
+          "end": 38.199,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "warning",
+          "start": 38.239,
+          "end": 38.559,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 38.6,
+          "end": 38.68,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2019",
+          "start": 38.82,
+          "end": 39.501,
+          "score": 0.665,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 39.541,
+          "end": 39.681,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anti-vaxxers",
+          "start": 39.821,
+          "end": 40.562,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 40.622,
+          "end": 40.702,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gaining",
+          "start": 40.742,
+          "end": 41.002,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "traction",
+          "start": 41.082,
+          "end": 41.523,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "across",
+          "start": 41.563,
+          "end": 41.823,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 41.863,
+          "end": 41.963,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "internet,",
+          "start": 42.023,
+          "end": 42.424,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "requiring",
+          "start": 42.624,
+          "end": 43.225,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "algorithmic",
+          "start": 43.445,
+          "end": 44.246,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "intervention.",
+          "start": 44.286,
+          "end": 44.907,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
+      "avg_logprob": -0.04720052111555229,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2990,
-      "start": 43.26,
-      "end": 45.56,
-      "text": " algorithmic intervention.",
-      "tokens": [
-        51032,
-        9284,
-        299,
-        13176,
-        13,
-        51147
+      "start": 45.407,
+      "end": 51.174,
+      "text": "That means very smart computer programs to identify, attack, and neutralize anti-vaccine content.",
+      "words": [
+        {
+          "word": "That",
+          "start": 45.407,
+          "end": 45.587,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "means",
+          "start": 45.628,
+          "end": 45.908,
+          "score": 0.599,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 45.988,
+          "end": 46.228,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "smart",
+          "start": 46.268,
+          "end": 46.489,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "computer",
+          "start": 46.509,
+          "end": 46.889,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "programs",
+          "start": 46.929,
+          "end": 47.43,
+          "score": 0.683,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 47.47,
+          "end": 47.59,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "identify,",
+          "start": 47.67,
+          "end": 48.271,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attack,",
+          "start": 48.391,
+          "end": 48.771,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 48.891,
+          "end": 48.971,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "neutralize",
+          "start": 49.071,
+          "end": 49.672,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anti-vaccine",
+          "start": 49.792,
+          "end": 50.593,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "content.",
+          "start": 50.633,
+          "end": 51.174,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
+      "avg_logprob": -0.04720052111555229,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 2990,
-      "start": 45.56,
-      "end": 50.480000000000004,
-      "text": " That means very smart computer programs to identify, attack and neutralize anti-vaxxing",
-      "tokens": [
-        51147,
-        663,
-        1355,
-        588,
-        4069,
-        3820,
-        4268,
-        281,
-        5876,
-        11,
-        2690,
-        293,
-        10598,
-        1125,
-        6061,
-        12,
-        2757,
-        30569,
-        278,
-        51393
+      "start": 52.836,
+      "end": 58.6,
+      "text": " and the big pharma backers were really going after the health and wellness movement gaining traction online.",
+      "words": [
+        {
+          "word": "and",
+          "start": 52.836,
+          "end": 52.936,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 52.996,
+          "end": 53.096,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "big",
+          "start": 53.216,
+          "end": 53.416,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharma",
+          "start": 53.496,
+          "end": 53.817,
+          "score": 0.645,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "backers",
+          "start": 53.857,
+          "end": 54.257,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 54.317,
+          "end": 54.497,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 54.617,
+          "end": 54.917,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 54.957,
+          "end": 55.197,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 55.298,
+          "end": 55.518,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 55.558,
+          "end": 55.638,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 55.678,
+          "end": 55.898,
+          "score": 0.719,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 55.938,
+          "end": 56.018,
+          "score": 0.656,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wellness",
+          "start": 56.058,
+          "end": 56.438,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "movement",
+          "start": 56.498,
+          "end": 56.899,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gaining",
+          "start": 56.979,
+          "end": 57.299,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "traction",
+          "start": 57.439,
+          "end": 57.999,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "online.",
+          "start": 58.099,
+          "end": 58.6,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
+      "avg_logprob": -0.05106026612754379,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 2990,
-      "start": 50.480000000000004,
-      "end": 52.94,
-      "text": " content.",
-      "tokens": [
-        51393,
-        2701,
-        13,
-        51516
+      "start": 59.26,
+      "end": 66.985,
+      "text": "The TNI conveniently rebranded wellness leaders as anti-vaxx, disinformation peddlers posing a threat to public health.",
+      "words": [
+        {
+          "word": "The",
+          "start": 59.26,
+          "end": 59.38,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 59.44,
+          "end": 59.96,
+          "score": 0.699,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conveniently",
+          "start": 60.02,
+          "end": 60.781,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rebranded",
+          "start": 60.921,
+          "end": 61.501,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wellness",
+          "start": 61.541,
+          "end": 61.902,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "leaders",
+          "start": 61.942,
+          "end": 62.302,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 62.442,
+          "end": 62.542,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anti-vaxx,",
+          "start": 62.782,
+          "end": 63.543,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disinformation",
+          "start": 63.943,
+          "end": 64.743,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "peddlers",
+          "start": 64.783,
+          "end": 65.204,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "posing",
+          "start": 65.324,
+          "end": 65.644,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 65.684,
+          "end": 65.724,
+          "score": 0.511,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "threat",
+          "start": 65.824,
+          "end": 66.144,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 66.164,
+          "end": 66.264,
+          "score": 0.465,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "public",
+          "start": 66.304,
+          "end": 66.645,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health.",
+          "start": 66.685,
+          "end": 66.985,
+          "score": 0.725,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
+      "avg_logprob": -0.05106026612754379,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 2990,
-      "start": 52.94,
-      "end": 57.239999999999995,
-      "text": " And the big pharma backers were really going after the health and wellness movement gaining",
-      "tokens": [
-        51516,
-        400,
-        264,
-        955,
-        903,
-        36159,
-        646,
-        433,
-        645,
-        534,
-        516,
-        934,
-        264,
-        1585,
-        293,
-        23913,
-        3963,
-        19752,
-        51731
+      "start": 67.705,
+      "end": 68.105,
+      "text": "Why?",
+      "words": [
+        {
+          "word": "Why?",
+          "start": 67.705,
+          "end": 68.105,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
+      "avg_logprob": -0.05106026612754379,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 2990,
-      "start": 57.239999999999995,
-      "end": 59.32,
-      "text": " traction online.",
-      "tokens": [
-        51731,
-        23558,
-        2950,
-        13,
-        51835
+      "start": 68.486,
+      "end": 75.45,
+      "text": "Because attacking natural health as a danger to public health would never work like rebranding health leaders as anti-vaxxers.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 68.486,
+          "end": 68.786,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attacking",
+          "start": 68.826,
+          "end": 69.306,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 69.466,
+          "end": 69.947,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 69.987,
+          "end": 70.187,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 70.267,
+          "end": 70.347,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 70.407,
+          "end": 70.427,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "danger",
+          "start": 70.487,
+          "end": 70.807,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 70.847,
+          "end": 70.947,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "public",
+          "start": 71.067,
+          "end": 71.448,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 71.488,
+          "end": 71.748,
+          "score": 0.564,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 71.808,
+          "end": 71.988,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 72.148,
+          "end": 72.388,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work",
+          "start": 72.448,
+          "end": 72.668,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like",
+          "start": 72.728,
+          "end": 72.908,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rebranding",
+          "start": 73.009,
+          "end": 73.569,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 73.609,
+          "end": 73.849,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "leaders",
+          "start": 73.889,
+          "end": 74.209,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 74.349,
+          "end": 74.429,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anti-vaxxers.",
+          "start": 74.569,
+          "end": 75.45,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18063873219712873,
-      "compression_ratio": 1.65625,
-      "no_speech_prob": 0.0033284169621765614
+      "avg_logprob": -0.05106026612754379,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 5932,
-      "start": 59.32,
-      "end": 65.58,
-      "text": " The TNI conveniently rebranded wellness leaders as anti-vaxx, disinformation peddlers posing",
-      "tokens": [
-        50364,
-        440,
-        314,
-        42496,
-        44375,
-        12970,
-        3699,
-        292,
-        23913,
-        3523,
-        382,
-        6061,
-        12,
-        2757,
-        30569,
-        11,
-        717,
-        20941,
-        5670,
-        67,
-        11977,
-        40378,
-        50677
+      "start": 76.931,
+      "end": 78.532,
+      "text": "So how does the TNI work?",
+      "words": [
+        {
+          "word": "So",
+          "start": 76.931,
+          "end": 77.071,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 77.151,
+          "end": 77.271,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "does",
+          "start": 77.311,
+          "end": 77.451,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 77.491,
+          "end": 77.571,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 77.611,
+          "end": 78.112,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work?",
+          "start": 78.232,
+          "end": 78.532,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15075303097160495,
-      "compression_ratio": 1.6042553191489362,
-      "no_speech_prob": 9.98273171717301e-05
+      "avg_logprob": -0.05106026612754379,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 5932,
-      "start": 65.58,
-      "end": 67.66,
-      "text": " a threat to public health.",
-      "tokens": [
-        50677,
-        257,
-        4734,
-        281,
-        1908,
-        1585,
-        13,
-        50781
+      "start": 80.072,
+      "end": 85.242,
+      "text": " flooding your screen with repetitive, pro-vaccine messages that normalize the experimental vaccine.",
+      "words": [
+        {
+          "word": "flooding",
+          "start": 80.072,
+          "end": 80.393,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 80.413,
+          "end": 80.553,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screen",
+          "start": 80.573,
+          "end": 80.894,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 80.934,
+          "end": 81.074,
+          "score": 0.653,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "repetitive,",
+          "start": 81.134,
+          "end": 81.695,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pro-vaccine",
+          "start": 81.815,
+          "end": 82.517,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "messages",
+          "start": 82.577,
+          "end": 83.038,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 83.098,
+          "end": 83.238,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "normalize",
+          "start": 83.318,
+          "end": 83.839,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 83.879,
+          "end": 83.959,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "experimental",
+          "start": 84.02,
+          "end": 84.621,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine.",
+          "start": 84.681,
+          "end": 85.242,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15075303097160495,
-      "compression_ratio": 1.6042553191489362,
-      "no_speech_prob": 9.98273171717301e-05
+      "avg_logprob": -0.039300041826995646,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 5932,
-      "start": 67.66,
-      "end": 68.66,
-      "text": " Why?",
-      "tokens": [
-        50781,
-        1545,
-        30,
-        50831
+      "start": 85.903,
+      "end": 91.574,
+      "text": "They demonize the unvaccinated to create division and drive public acceptance of vaccine compliance.",
+      "words": [
+        {
+          "word": "They",
+          "start": 85.903,
+          "end": 86.083,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "demonize",
+          "start": 86.224,
+          "end": 86.765,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 86.805,
+          "end": 86.905,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unvaccinated",
+          "start": 86.965,
+          "end": 87.767,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 87.807,
+          "end": 87.887,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "create",
+          "start": 87.927,
+          "end": 88.208,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "division",
+          "start": 88.268,
+          "end": 88.749,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 88.809,
+          "end": 88.889,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drive",
+          "start": 88.969,
+          "end": 89.29,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "public",
+          "start": 89.35,
+          "end": 89.67,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "acceptance",
+          "start": 89.71,
+          "end": 90.251,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 90.312,
+          "end": 90.372,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 90.432,
+          "end": 90.893,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "compliance.",
+          "start": 90.933,
+          "end": 91.574,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15075303097160495,
-      "compression_ratio": 1.6042553191489362,
-      "no_speech_prob": 9.98273171717301e-05
+      "avg_logprob": -0.039300041826995646,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 5932,
-      "start": 68.66,
-      "end": 73.48,
-      "text": " Because attacking natural health as a danger to public health would never work like rebranding",
-      "tokens": [
-        50831,
-        1436,
-        15010,
-        3303,
-        1585,
-        382,
-        257,
-        4330,
-        281,
-        1908,
-        1585,
-        576,
-        1128,
-        589,
-        411,
-        12970,
-        3699,
-        278,
-        51072
+      "start": 92.428,
+      "end": 100.91,
+      "text": " The TNI also pays off so-called fact-checkers to run false fact checks and hit pieces on scientists and doctors who buck the official narrative.",
+      "words": [
+        {
+          "word": "The",
+          "start": 92.428,
+          "end": 92.528,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 92.588,
+          "end": 93.088,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 93.248,
+          "end": 93.548,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pays",
+          "start": 93.608,
+          "end": 93.848,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "off",
+          "start": 93.928,
+          "end": 94.088,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so-called",
+          "start": 94.188,
+          "end": 94.629,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fact-checkers",
+          "start": 94.769,
+          "end": 95.469,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 95.509,
+          "end": 95.609,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "run",
+          "start": 95.649,
+          "end": 95.829,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "false",
+          "start": 95.989,
+          "end": 96.309,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fact",
+          "start": 96.369,
+          "end": 96.629,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "checks",
+          "start": 96.669,
+          "end": 96.969,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 97.029,
+          "end": 97.109,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hit",
+          "start": 97.169,
+          "end": 97.329,
+          "score": 0.69,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pieces",
+          "start": 97.369,
+          "end": 97.689,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 97.789,
+          "end": 97.869,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientists",
+          "start": 97.949,
+          "end": 98.51,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 98.59,
+          "end": 98.67,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors",
+          "start": 98.75,
+          "end": 99.21,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 99.35,
+          "end": 99.51,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "buck",
+          "start": 99.61,
+          "end": 99.85,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 99.89,
+          "end": 99.99,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "official",
+          "start": 100.03,
+          "end": 100.41,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "narrative.",
+          "start": 100.45,
+          "end": 100.91,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15075303097160495,
-      "compression_ratio": 1.6042553191489362,
-      "no_speech_prob": 9.98273171717301e-05
+      "avg_logprob": -0.06909179734066129,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 5932,
-      "start": 73.48,
-      "end": 76.98,
-      "text": " health leaders as anti-vaxxers.",
-      "tokens": [
-        51072,
-        1585,
-        3523,
-        382,
-        6061,
-        12,
-        2757,
-        30569,
-        433,
-        13,
-        51247
+      "start": 101.71,
+      "end": 107.692,
+      "text": "Hundreds of frontline medical professionals, scientists, researchers who dare to speak out against the official narrative?",
+      "words": [
+        {
+          "word": "Hundreds",
+          "start": 101.71,
+          "end": 102.11,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 102.17,
+          "end": 102.231,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "frontline",
+          "start": 102.331,
+          "end": 102.791,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 102.831,
+          "end": 103.151,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "professionals,",
+          "start": 103.191,
+          "end": 103.811,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientists,",
+          "start": 104.031,
+          "end": 104.631,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "researchers",
+          "start": 104.851,
+          "end": 105.371,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 105.411,
+          "end": 105.551,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dare",
+          "start": 105.611,
+          "end": 105.811,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 105.851,
+          "end": 105.891,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "speak",
+          "start": 105.951,
+          "end": 106.172,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 106.272,
+          "end": 106.392,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "against",
+          "start": 106.432,
+          "end": 106.652,
+          "score": 0.727,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 106.692,
+          "end": 106.772,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "official",
+          "start": 106.832,
+          "end": 107.192,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "narrative?",
+          "start": 107.232,
+          "end": 107.692,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15075303097160495,
-      "compression_ratio": 1.6042553191489362,
-      "no_speech_prob": 9.98273171717301e-05
+      "avg_logprob": -0.06909179734066129,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 5932,
-      "start": 76.98,
-      "end": 80.18,
-      "text": " So how does the TNI work?",
-      "tokens": [
-        51247,
-        407,
-        577,
-        775,
-        264,
-        314,
-        42496,
-        589,
-        30,
-        51407
+      "start": 108.232,
+      "end": 108.652,
+      "text": "Gone.",
+      "words": [
+        {
+          "word": "Gone.",
+          "start": 108.232,
+          "end": 108.652,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15075303097160495,
-      "compression_ratio": 1.6042553191489362,
-      "no_speech_prob": 9.98273171717301e-05
+      "avg_logprob": -0.06909179734066129,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 20,
-      "seek": 5932,
-      "start": 80.18,
-      "end": 85.96000000000001,
-      "text": " Flooding your screen with repetitive, pro-vaccine messages that normalize the experimental vaccine.",
-      "tokens": [
-        51407,
-        15153,
-        8616,
-        428,
-        2568,
-        365,
-        29404,
-        11,
-        447,
-        12,
-        48976,
-        533,
-        7897,
-        300,
-        2710,
-        1125,
-        264,
-        17069,
-        7007,
-        13,
-        51696
+      "start": 109.072,
+      "end": 110.993,
+      "text": "Disappeared from social media by the TNI.",
+      "words": [
+        {
+          "word": "Disappeared",
+          "start": 109.072,
+          "end": 109.592,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 109.612,
+          "end": 109.752,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "social",
+          "start": 109.832,
+          "end": 110.133,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "media",
+          "start": 110.193,
+          "end": 110.493,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 110.533,
+          "end": 110.653,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 110.693,
+          "end": 110.753,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI.",
+          "start": 110.773,
+          "end": 110.993,
+          "score": 0.653,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15075303097160495,
-      "compression_ratio": 1.6042553191489362,
-      "no_speech_prob": 9.98273171717301e-05
+      "avg_logprob": -0.06909179734066129,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 21,
-      "seek": 8596,
-      "start": 85.96,
-      "end": 92.47999999999999,
-      "text": " They demonize the unvaccinated to create division and drive public acceptance of vaccine compliance.",
-      "tokens": [
-        50364,
-        814,
-        14283,
-        1125,
-        264,
-        517,
-        48976,
-        5410,
-        281,
-        1884,
-        10044,
-        293,
-        3332,
-        1908,
-        20351,
-        295,
-        7007,
-        15882,
-        13,
-        50690
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147003473020068,
-      "compression_ratio": 1.661764705882353,
-      "no_speech_prob": 0.08965089917182922
-    },
-    {
-      "id": 22,
-      "seek": 8596,
-      "start": 92.47999999999999,
-      "end": 97.82,
-      "text": " The TNI also pays off so-called fact-checkers to run false fact-checks and hit pieces on",
-      "tokens": [
-        50690,
-        440,
-        314,
-        42496,
-        611,
-        10604,
-        766,
-        370,
-        12,
-        11880,
-        1186,
-        12,
-        15723,
-        433,
-        281,
-        1190,
-        7908,
-        1186,
-        12,
-        1876,
-        2761,
-        293,
-        2045,
-        3755,
-        322,
-        50957
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147003473020068,
-      "compression_ratio": 1.661764705882353,
-      "no_speech_prob": 0.08965089917182922
-    },
-    {
-      "id": 23,
-      "seek": 8596,
-      "start": 97.82,
-      "end": 101.78,
-      "text": " scientists and doctors who buck the official narrative.",
-      "tokens": [
-        50957,
-        7708,
-        293,
-        8778,
-        567,
-        14894,
-        264,
-        4783,
-        9977,
-        13,
-        51155
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147003473020068,
-      "compression_ratio": 1.661764705882353,
-      "no_speech_prob": 0.08965089917182922
-    },
-    {
-      "id": 24,
-      "seek": 8596,
-      "start": 101.78,
-      "end": 106.11999999999999,
-      "text": " Hundreds of frontline medical professionals, scientists, researchers who dare to speak",
-      "tokens": [
-        51155,
-        45785,
-        295,
-        38033,
-        4625,
-        11954,
-        11,
-        7708,
-        11,
-        10309,
-        567,
-        8955,
-        281,
-        1710,
-        51372
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147003473020068,
-      "compression_ratio": 1.661764705882353,
-      "no_speech_prob": 0.08965089917182922
-    },
-    {
-      "id": 25,
-      "seek": 8596,
-      "start": 106.11999999999999,
-      "end": 112.19999999999999,
-      "text": " out against the official narrative, gone, disappeared from social media by the TNI.",
-      "tokens": [
-        51372,
-        484,
-        1970,
-        264,
-        4783,
-        9977,
-        11,
-        2780,
-        11,
-        13954,
-        490,
-        2093,
-        3021,
-        538,
-        264,
-        314,
-        42496,
-        13,
-        51676
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147003473020068,
-      "compression_ratio": 1.661764705882353,
-      "no_speech_prob": 0.08965089917182922
-    },
-    {
-      "id": 26,
-      "seek": 8596,
-      "start": 112.19999999999999,
-      "end": 114.22,
+      "start": 112.133,
+      "end": 113.834,
       "text": " They didn't ask approved questions.",
-      "tokens": [
-        51676,
-        814,
-        994,
-        380,
-        1029,
-        10826,
-        1651,
-        13,
-        51777
+      "words": [
+        {
+          "word": "They",
+          "start": 112.133,
+          "end": 112.253,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "didn't",
+          "start": 112.293,
+          "end": 112.533,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ask",
+          "start": 112.613,
+          "end": 112.794,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "approved",
+          "start": 112.854,
+          "end": 113.274,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "questions.",
+          "start": 113.334,
+          "end": 113.834,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147003473020068,
-      "compression_ratio": 1.661764705882353,
-      "no_speech_prob": 0.08965089917182922
+      "avg_logprob": -0.03179505900588146,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 27,
-      "seek": 11422,
-      "start": 114.22,
-      "end": 116.56,
-      "text": " They didn't come to approved conclusions.",
-      "tokens": [
-        50364,
-        814,
-        994,
-        380,
-        808,
-        281,
-        10826,
-        22865,
-        13,
-        50481
+      "start": 114.154,
+      "end": 116.116,
+      "text": "They didn't come to approved conclusions.",
+      "words": [
+        {
+          "word": "They",
+          "start": 114.154,
+          "end": 114.295,
+          "score": 0.709,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "didn't",
+          "start": 114.315,
+          "end": 114.535,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "come",
+          "start": 114.595,
+          "end": 114.775,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 114.815,
+          "end": 114.915,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "approved",
+          "start": 114.975,
+          "end": 115.375,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conclusions.",
+          "start": 115.435,
+          "end": 116.116,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12912530087410135,
-      "compression_ratio": 1.5419847328244274,
-      "no_speech_prob": 0.0006001682486385107
+      "avg_logprob": -0.03179505900588146,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 28,
-      "seek": 11422,
-      "start": 116.56,
-      "end": 121.76,
-      "text": " So now, top doctors from Harvard, Stanford, and Oxford are dangerous experts who must",
-      "tokens": [
-        50481,
-        407,
-        586,
-        11,
-        1192,
-        8778,
-        490,
-        13378,
-        11,
-        20374,
-        11,
-        293,
-        24786,
-        366,
-        5795,
-        8572,
-        567,
-        1633,
-        50741
+      "start": 116.496,
+      "end": 123.081,
+      "text": "So now, top doctors from Harvard, Stanford, and Oxford are dangerous experts who must be neutralized.",
+      "words": [
+        {
+          "word": "So",
+          "start": 116.496,
+          "end": 116.636,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now,",
+          "start": 116.716,
+          "end": 116.976,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "top",
+          "start": 117.177,
+          "end": 117.417,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors",
+          "start": 117.457,
+          "end": 117.857,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 117.917,
+          "end": 118.057,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Harvard,",
+          "start": 118.137,
+          "end": 118.557,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Stanford,",
+          "start": 118.698,
+          "end": 119.218,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 119.258,
+          "end": 119.358,
+          "score": 0.684,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Oxford",
+          "start": 119.458,
+          "end": 119.858,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 119.978,
+          "end": 120.099,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dangerous",
+          "start": 120.299,
+          "end": 120.819,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "experts",
+          "start": 120.939,
+          "end": 121.359,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 121.399,
+          "end": 121.52,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "must",
+          "start": 121.58,
+          "end": 121.82,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 121.9,
+          "end": 122.04,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "neutralized.",
+          "start": 122.28,
+          "end": 123.081,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12912530087410135,
-      "compression_ratio": 1.5419847328244274,
-      "no_speech_prob": 0.0006001682486385107
+      "avg_logprob": -0.03179505900588146,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 29,
-      "seek": 11422,
-      "start": 121.76,
-      "end": 123.76,
-      "text": " be neutralized.",
-      "tokens": [
-        50741,
-        312,
-        10598,
-        1602,
-        13,
-        50841
+      "start": 123.701,
+      "end": 128.885,
+      "text": "They attack early treatments that cure COVID because they feel it poses a threat to the vaccine agenda.",
+      "words": [
+        {
+          "word": "They",
+          "start": 123.701,
+          "end": 123.841,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attack",
+          "start": 123.881,
+          "end": 124.241,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "early",
+          "start": 124.341,
+          "end": 124.562,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treatments",
+          "start": 124.622,
+          "end": 125.022,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 125.062,
+          "end": 125.202,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cure",
+          "start": 125.262,
+          "end": 125.482,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 125.522,
+          "end": 125.983,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 126.023,
+          "end": 126.263,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 126.283,
+          "end": 126.403,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "feel",
+          "start": 126.463,
+          "end": 126.663,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 126.723,
+          "end": 126.763,
+          "score": 0.631,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "poses",
+          "start": 126.803,
+          "end": 127.163,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 127.223,
+          "end": 127.263,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "threat",
+          "start": 127.364,
+          "end": 127.664,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 127.704,
+          "end": 127.784,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 127.824,
+          "end": 127.904,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 127.944,
+          "end": 128.364,
+          "score": 0.763,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "agenda.",
+          "start": 128.424,
+          "end": 128.885,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12912530087410135,
-      "compression_ratio": 1.5419847328244274,
-      "no_speech_prob": 0.0006001682486385107
+      "avg_logprob": -0.03179505900588146,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 30,
-      "seek": 11422,
-      "start": 123.76,
-      "end": 127.86,
-      "text": " They attack early treatments that cure COVID because they feel it poses a threat to the",
-      "tokens": [
-        50841,
-        814,
-        2690,
-        2440,
-        15795,
-        300,
-        13698,
-        4566,
-        570,
-        436,
-        841,
-        309,
-        26059,
-        257,
-        4734,
-        281,
-        264,
-        51046
+      "start": 129.605,
+      "end": 138.051,
+      "text": "The TNI network also ignores stories of people being injured by the COVID vaccines in order to promote the false narrative that they are safe and effective.",
+      "words": [
+        {
+          "word": "The",
+          "start": 129.605,
+          "end": 129.745,
+          "score": 0.705,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 129.785,
+          "end": 130.205,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "network",
+          "start": 130.266,
+          "end": 130.666,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 130.846,
+          "end": 131.126,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ignores",
+          "start": 131.206,
+          "end": 131.566,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stories",
+          "start": 131.586,
+          "end": 131.947,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 131.987,
+          "end": 132.067,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 132.127,
+          "end": 132.407,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 132.447,
+          "end": 132.687,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "injured",
+          "start": 132.747,
+          "end": 133.027,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 133.067,
+          "end": 133.168,
+          "score": 0.751,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 133.188,
+          "end": 133.268,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 133.308,
+          "end": 133.668,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 133.688,
+          "end": 134.308,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 134.468,
+          "end": 134.528,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "order",
+          "start": 134.588,
+          "end": 134.749,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 134.789,
+          "end": 134.849,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "promote",
+          "start": 134.909,
+          "end": 135.209,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 135.249,
+          "end": 135.369,
+          "score": 0.684,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "false",
+          "start": 135.469,
+          "end": 135.749,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "narrative",
+          "start": 135.849,
+          "end": 136.29,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 136.33,
+          "end": 136.47,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 136.49,
+          "end": 136.63,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 136.69,
+          "end": 136.79,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safe",
+          "start": 136.97,
+          "end": 137.27,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 137.37,
+          "end": 137.45,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "effective.",
+          "start": 137.49,
+          "end": 138.051,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12912530087410135,
-      "compression_ratio": 1.5419847328244274,
-      "no_speech_prob": 0.0006001682486385107
+      "avg_logprob": -0.03179505900588146,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 31,
-      "seek": 11422,
-      "start": 127.86,
-      "end": 129.66,
-      "text": " vaccine agenda.",
-      "tokens": [
-        51046,
-        7007,
-        9829,
-        13,
-        51136
+      "start": 139.228,
+      "end": 148.131,
+      "text": " It's not just careers that TNI is destroying, but real lives as it suppresses the true numbers on vaccine adverse effects and life-saving treatment protocols.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 139.228,
+          "end": 139.368,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 139.428,
+          "end": 139.588,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 139.628,
+          "end": 139.828,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "careers",
+          "start": 139.908,
+          "end": 140.468,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 140.508,
+          "end": 140.609,
+          "score": 0.436,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 140.649,
+          "end": 141.049,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 141.089,
+          "end": 141.189,
+          "score": 0.361,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "destroying,",
+          "start": 141.229,
+          "end": 141.789,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 141.949,
+          "end": 142.109,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "real",
+          "start": 142.269,
+          "end": 142.529,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lives",
+          "start": 142.629,
+          "end": 143.029,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 143.169,
+          "end": 143.249,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 143.309,
+          "end": 143.369,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "suppresses",
+          "start": 143.409,
+          "end": 143.93,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 143.99,
+          "end": 144.07,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "true",
+          "start": 144.13,
+          "end": 144.33,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "numbers",
+          "start": 144.37,
+          "end": 144.67,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 144.75,
+          "end": 144.83,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 144.87,
+          "end": 145.31,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "adverse",
+          "start": 145.35,
+          "end": 145.69,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "effects",
+          "start": 145.73,
+          "end": 146.11,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 146.25,
+          "end": 146.35,
+          "score": 0.698,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "life-saving",
+          "start": 146.451,
+          "end": 147.011,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treatment",
+          "start": 147.071,
+          "end": 147.431,
+          "score": 0.702,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protocols.",
+          "start": 147.491,
+          "end": 148.131,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12912530087410135,
-      "compression_ratio": 1.5419847328244274,
-      "no_speech_prob": 0.0006001682486385107
+      "avg_logprob": -0.06405409593735972,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 32,
-      "seek": 11422,
-      "start": 129.66,
-      "end": 134.72,
-      "text": " The TNI network also ignores stories of people being injured by the COVID vaccines in order",
-      "tokens": [
-        51136,
-        440,
-        314,
-        42496,
-        3209,
-        611,
-        5335,
-        2706,
-        3676,
-        295,
-        561,
-        885,
-        13408,
-        538,
-        264,
-        4566,
-        12164,
-        294,
-        1668,
-        51389
+      "start": 148.971,
+      "end": 151.452,
+      "text": "Who's paying for this harmful suppression of science?",
+      "words": [
+        {
+          "word": "Who's",
+          "start": 148.971,
+          "end": 149.191,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "paying",
+          "start": 149.271,
+          "end": 149.612,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 149.672,
+          "end": 149.772,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 149.812,
+          "end": 149.952,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "harmful",
+          "start": 149.992,
+          "end": 150.352,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "suppression",
+          "start": 150.392,
+          "end": 150.832,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 150.872,
+          "end": 150.932,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "science?",
+          "start": 151.012,
+          "end": 151.452,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12912530087410135,
-      "compression_ratio": 1.5419847328244274,
-      "no_speech_prob": 0.0006001682486385107
+      "avg_logprob": -0.06405409593735972,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 33,
-      "seek": 11422,
-      "start": 134.72,
-      "end": 139.34,
-      "text": " to promote the false narrative that they are safe and effective.",
-      "tokens": [
-        51389,
-        281,
-        9773,
-        264,
-        7908,
-        9977,
-        300,
-        436,
-        366,
-        3273,
-        293,
-        4942,
-        13,
-        51620
+      "start": 152.172,
+      "end": 152.673,
+      "text": "You are.",
+      "words": [
+        {
+          "word": "You",
+          "start": 152.172,
+          "end": 152.373,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are.",
+          "start": 152.553,
+          "end": 152.673,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12912530087410135,
-      "compression_ratio": 1.5419847328244274,
-      "no_speech_prob": 0.0006001682486385107
+      "avg_logprob": -0.06405409593735972,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 34,
-      "seek": 13934,
-      "start": 139.34,
-      "end": 144.64000000000001,
-      "text": " It's not just careers the TNI is destroying, but real lives as it suppresses the true numbers",
-      "tokens": [
-        50364,
-        467,
-        311,
-        406,
-        445,
-        16409,
-        264,
-        314,
-        42496,
-        307,
-        19926,
-        11,
-        457,
-        957,
-        2909,
-        382,
-        309,
-        26835,
-        279,
-        264,
-        2074,
-        3547,
-        50629
+      "start": 153.253,
+      "end": 153.773,
+      "text": "We are.",
+      "words": [
+        {
+          "word": "We",
+          "start": 153.253,
+          "end": 153.453,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are.",
+          "start": 153.613,
+          "end": 153.773,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
+      "avg_logprob": -0.06405409593735972,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 35,
-      "seek": 13934,
-      "start": 144.64000000000001,
-      "end": 149.0,
-      "text": " on vaccine-adverse effects and life-saving treatment protocols.",
-      "tokens": [
-        50629,
-        322,
-        7007,
-        12,
-        345,
-        4308,
-        5065,
-        293,
-        993,
-        12,
-        82,
-        6152,
-        5032,
-        20618,
-        13,
-        50847
+      "start": 154.373,
+      "end": 162.336,
+      "text": "We pay taxes, the government pays Big Pharma, and Big Pharma spends almost $7 billion advertising with TNI corporations.",
+      "words": [
+        {
+          "word": "We",
+          "start": 154.373,
+          "end": 154.533,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pay",
+          "start": 154.573,
+          "end": 154.733,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taxes,",
+          "start": 154.793,
+          "end": 155.314,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 155.634,
+          "end": 155.734,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "government",
+          "start": 155.774,
+          "end": 156.134,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pays",
+          "start": 156.174,
+          "end": 156.434,
+          "score": 0.673,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Big",
+          "start": 156.514,
+          "end": 156.694,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pharma,",
+          "start": 156.774,
+          "end": 157.214,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 157.394,
+          "end": 157.494,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Big",
+          "start": 157.574,
+          "end": 157.754,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pharma",
+          "start": 157.854,
+          "end": 158.255,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spends",
+          "start": 158.295,
+          "end": 158.575,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "almost",
+          "start": 158.635,
+          "end": 158.935,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "$7",
+          "start": 159.235,
+          "end": 159.375,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "billion",
+          "start": 159.435,
+          "end": 160.135,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "advertising",
+          "start": 160.235,
+          "end": 160.835,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 160.875,
+          "end": 160.996,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI",
+          "start": 161.056,
+          "end": 161.496,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "corporations.",
+          "start": 161.536,
+          "end": 162.336,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
+      "avg_logprob": -0.06405409593735972,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 36,
-      "seek": 13934,
-      "start": 149.0,
-      "end": 152.3,
-      "text": " Who's paying for this harmful suppression of science?",
-      "tokens": [
-        50847,
-        2102,
-        311,
-        6229,
-        337,
-        341,
-        19727,
-        36807,
-        295,
-        3497,
-        30,
-        51012
+      "start": 163.016,
+      "end": 167.778,
+      "text": "TNI companies also have Pharma investments, and Pharma funds our health agencies.",
+      "words": [
+        {
+          "word": "TNI",
+          "start": 163.016,
+          "end": 163.416,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "companies",
+          "start": 163.476,
+          "end": 163.917,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "also",
+          "start": 164.017,
+          "end": 164.277,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 164.337,
+          "end": 164.477,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pharma",
+          "start": 164.557,
+          "end": 164.897,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "investments,",
+          "start": 164.957,
+          "end": 165.517,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 165.777,
+          "end": 165.857,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pharma",
+          "start": 166.017,
+          "end": 166.397,
+          "score": 0.696,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "funds",
+          "start": 166.497,
+          "end": 166.757,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "our",
+          "start": 166.818,
+          "end": 166.918,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 166.938,
+          "end": 167.158,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "agencies.",
+          "start": 167.238,
+          "end": 167.778,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
+      "avg_logprob": -0.06405409593735972,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 37,
-      "seek": 13934,
-      "start": 152.3,
-      "end": 153.3,
-      "text": " You are.",
-      "tokens": [
-        51012,
-        509,
-        366,
-        13,
-        51062
+      "start": 168.418,
+      "end": 169.998,
+      "text": " massive conflicts of interest.",
+      "words": [
+        {
+          "word": "massive",
+          "start": 168.418,
+          "end": 168.858,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conflicts",
+          "start": 168.918,
+          "end": 169.418,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 169.458,
+          "end": 169.518,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interest.",
+          "start": 169.598,
+          "end": 169.998,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
+      "avg_logprob": -0.041037086847719256,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 38,
-      "seek": 13934,
-      "start": 153.3,
-      "end": 154.46,
-      "text": " We are.",
-      "tokens": [
-        51062,
-        492,
-        366,
-        13,
-        51120
+      "start": 170.459,
+      "end": 171.279,
+      "text": "See how that works?",
+      "words": [
+        {
+          "word": "See",
+          "start": 170.459,
+          "end": 170.599,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 170.639,
+          "end": 170.719,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 170.759,
+          "end": 170.899,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "works?",
+          "start": 170.959,
+          "end": 171.279,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
+      "avg_logprob": -0.041037086847719256,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 39,
-      "seek": 13934,
-      "start": 154.46,
-      "end": 155.68,
-      "text": " We pay taxes.",
-      "tokens": [
-        51120,
-        492,
-        1689,
-        10041,
-        13,
-        51181
+      "start": 172.259,
+      "end": 181.661,
+      "text": "Remember at the beginning of the pandemic when scientists who simply raised the question of virus origin as a lab leak from the Wuhan lab were called conspiracy theorists by the TNI?",
+      "words": [
+        {
+          "word": "Remember",
+          "start": 172.259,
+          "end": 172.659,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 172.679,
+          "end": 172.739,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 172.779,
+          "end": 172.879,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "beginning",
+          "start": 172.899,
+          "end": 173.279,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 173.299,
+          "end": 173.359,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 173.379,
+          "end": 173.459,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pandemic",
+          "start": 173.499,
+          "end": 174.019,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 174.079,
+          "end": 174.239,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientists",
+          "start": 174.32,
+          "end": 174.88,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 174.92,
+          "end": 175.08,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "simply",
+          "start": 175.18,
+          "end": 175.54,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "raised",
+          "start": 175.6,
+          "end": 175.82,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 175.84,
+          "end": 175.92,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "question",
+          "start": 175.94,
+          "end": 176.32,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 176.36,
+          "end": 176.42,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "virus",
+          "start": 176.48,
+          "end": 176.84,
+          "score": 0.725,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "origin",
+          "start": 176.96,
+          "end": 177.32,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 177.42,
+          "end": 177.52,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 177.56,
+          "end": 177.6,
+          "score": 0.538,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lab",
+          "start": 177.64,
+          "end": 177.86,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "leak",
+          "start": 177.88,
+          "end": 178.08,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 178.12,
+          "end": 178.26,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 178.28,
+          "end": 178.361,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Wuhan",
+          "start": 178.401,
+          "end": 178.781,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lab",
+          "start": 178.821,
+          "end": 179.101,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 179.161,
+          "end": 179.301,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 179.341,
+          "end": 179.581,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conspiracy",
+          "start": 179.641,
+          "end": 180.401,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "theorists",
+          "start": 180.441,
+          "end": 180.781,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 180.841,
+          "end": 180.961,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 180.981,
+          "end": 181.061,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "TNI?",
+          "start": 181.101,
+          "end": 181.661,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
+      "avg_logprob": -0.041037086847719256,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 40,
-      "seek": 13934,
-      "start": 155.68,
-      "end": 160.96,
-      "text": " The government pays Big Pharma, and Big Pharma spends almost $7 billion advertising with",
-      "tokens": [
-        51181,
-        440,
-        2463,
-        10604,
-        5429,
-        2623,
-        36159,
-        11,
-        293,
-        5429,
-        2623,
-        36159,
-        25620,
-        1920,
-        1848,
-        22,
-        5218,
-        13097,
-        365,
-        51445
+      "start": 182.402,
+      "end": 196.125,
+      "text": "After a year of pressure for the truth, this so-called conspiracy theory is seen as the most plausible scenario, giving us just one example of how the trusted news initiative promotes disinformation while keeping the true science from us.",
+      "words": [
+        {
+          "word": "After",
+          "start": 182.402,
+          "end": 182.662,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 182.702,
+          "end": 182.742,
+          "score": 0.5,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "year",
+          "start": 182.842,
+          "end": 183.082,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 183.122,
+          "end": 183.182,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pressure",
+          "start": 183.262,
+          "end": 183.562,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 183.602,
+          "end": 183.722,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 183.742,
+          "end": 183.822,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "truth,",
+          "start": 183.902,
+          "end": 184.222,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 184.402,
+          "end": 184.562,
+          "score": 0.642,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so-called",
+          "start": 184.662,
+          "end": 185.162,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conspiracy",
+          "start": 185.242,
+          "end": 186.142,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "theory",
+          "start": 186.182,
+          "end": 186.543,
+          "score": 0.633,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 186.723,
+          "end": 186.783,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seen",
+          "start": 186.863,
+          "end": 187.083,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 187.123,
+          "end": 187.203,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 187.243,
+          "end": 187.323,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 187.363,
+          "end": 187.543,
+          "score": 0.585,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plausible",
+          "start": 187.703,
+          "end": 188.183,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scenario,",
+          "start": 188.223,
+          "end": 188.843,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "giving",
+          "start": 189.143,
+          "end": 189.403,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 189.483,
+          "end": 189.583,
+          "score": 0.493,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 189.663,
+          "end": 189.883,
+          "score": 0.638,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 190.163,
+          "end": 190.283,
+          "score": 0.699,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "example",
+          "start": 190.323,
+          "end": 190.764,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 190.804,
+          "end": 190.844,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 190.904,
+          "end": 191.004,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 191.044,
+          "end": 191.124,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trusted",
+          "start": 191.244,
+          "end": 191.664,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "news",
+          "start": 191.784,
+          "end": 192.004,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "initiative",
+          "start": 192.084,
+          "end": 192.584,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "promotes",
+          "start": 192.684,
+          "end": 193.044,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disinformation",
+          "start": 193.144,
+          "end": 194.004,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "while",
+          "start": 194.124,
+          "end": 194.284,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "keeping",
+          "start": 194.324,
+          "end": 194.645,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 194.665,
+          "end": 194.765,
+          "score": 0.674,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "true",
+          "start": 194.845,
+          "end": 195.105,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "science",
+          "start": 195.165,
+          "end": 195.585,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 195.725,
+          "end": 195.925,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us.",
+          "start": 196.045,
+          "end": 196.125,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
+      "avg_logprob": -0.041037086847719256,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 41,
-      "seek": 13934,
-      "start": 160.96,
-      "end": 162.96,
-      "text": " TNI corporations.",
-      "tokens": [
-        51445,
-        314,
-        42496,
-        17676,
-        13,
-        51545
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
-    },
-    {
-      "id": 42,
-      "seek": 13934,
-      "start": 162.96,
-      "end": 168.84,
-      "text": " TNI companies also have pharma investments, and Pharma funds our health agencies.",
-      "tokens": [
-        51545,
-        314,
-        42496,
-        3431,
-        611,
-        362,
-        903,
-        36159,
-        13784,
-        11,
-        293,
-        2623,
-        36159,
-        8271,
-        527,
-        1585,
-        9504,
-        13,
-        51839
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17822963313052528,
-      "compression_ratio": 1.5904059040590406,
-      "no_speech_prob": 0.659529447555542
-    },
-    {
-      "id": 43,
-      "seek": 16884,
-      "start": 168.84,
-      "end": 170.54,
-      "text": " The conflicts of interest.",
-      "tokens": [
-        50364,
-        440,
-        19807,
-        295,
-        1179,
-        13,
-        50449
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 44,
-      "seek": 16884,
-      "start": 170.54,
-      "end": 172.26,
-      "text": " See how that works?",
-      "tokens": [
-        50449,
-        3008,
-        577,
-        300,
-        1985,
-        30,
-        50535
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 45,
-      "seek": 16884,
-      "start": 172.26,
-      "end": 176.3,
-      "text": " Remember at the beginning of the pandemic when scientists who simply raised the question",
-      "tokens": [
-        50535,
-        5459,
-        412,
-        264,
-        2863,
-        295,
-        264,
-        5388,
-        562,
-        7708,
-        567,
-        2935,
-        6005,
-        264,
-        1168,
-        50737
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 46,
-      "seek": 16884,
-      "start": 176.3,
-      "end": 181.02,
-      "text": " of virus origin as a lab leak from the Wuhan lab were called conspiracy theorists by the",
-      "tokens": [
-        50737,
-        295,
-        5752,
-        4957,
-        382,
-        257,
-        2715,
-        17143,
-        490,
-        264,
-        42101,
-        2715,
-        645,
-        1219,
-        20439,
-        27423,
-        1751,
-        538,
-        264,
-        50973
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 47,
-      "seek": 16884,
-      "start": 181.02,
-      "end": 182.58,
-      "text": " TNI?",
-      "tokens": [
-        50973,
-        314,
-        42496,
-        30,
-        51051
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 48,
-      "seek": 16884,
-      "start": 182.58,
-      "end": 187.3,
-      "text": " After a year of pressure for the truth, this so-called conspiracy theory is seen as the",
-      "tokens": [
-        51051,
-        2381,
-        257,
-        1064,
-        295,
-        3321,
-        337,
-        264,
-        3494,
-        11,
-        341,
-        370,
-        12,
-        11880,
-        20439,
-        5261,
-        307,
-        1612,
-        382,
-        264,
-        51287
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 49,
-      "seek": 16884,
-      "start": 187.3,
-      "end": 192.58,
-      "text": " most plausible scenario, giving us just one example of how the Trusted News Initiative",
-      "tokens": [
-        51287,
-        881,
-        39925,
-        9005,
-        11,
-        2902,
-        505,
-        445,
-        472,
-        1365,
-        295,
-        577,
-        264,
-        1765,
-        6589,
-        7987,
-        26166,
-        51551
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 50,
-      "seek": 16884,
-      "start": 192.58,
-      "end": 198.42000000000002,
-      "text": " promotes disinformation while keeping the true science from us.",
-      "tokens": [
-        51551,
-        36015,
-        717,
-        20941,
-        1339,
-        5145,
-        264,
-        2074,
-        3497,
-        490,
-        505,
-        13,
-        51843
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1494003610873441,
-      "compression_ratio": 1.6537102473498233,
-      "no_speech_prob": 0.14556460082530975
-    },
-    {
-      "id": 51,
-      "seek": 19842,
-      "start": 198.42,
-      "end": 227.79999999999998,
+      "start": 198.312,
+      "end": 200.453,
       "text": " This is extremely dangerous to our democracy.",
-      "tokens": [
-        50364,
-        639,
-        307,
-        4664,
-        5795,
-        281,
-        527,
-        10528,
-        13,
-        51833
+      "words": [
+        {
+          "word": "This",
+          "start": 198.312,
+          "end": 198.452,
+          "score": 0.871,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "is",
+          "start": 198.532,
+          "end": 198.612,
+          "score": 0.824,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "extremely",
+          "start": 198.672,
+          "end": 199.072,
+          "score": 0.982,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "dangerous",
+          "start": 199.133,
+          "end": 199.493,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 199.533,
+          "end": 199.613,
+          "score": 0.784,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "our",
+          "start": 199.673,
+          "end": 199.753,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "democracy.",
+          "start": 199.793,
+          "end": 200.453,
+          "score": 0.847,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.37466593583424884,
-      "compression_ratio": 0.8823529411764706,
-      "no_speech_prob": 0.9740685224533081
+      "avg_logprob": -0.13346354166666666,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 52,
-      "seek": 22780,
-      "start": 227.8,
-      "end": 242.82000000000002,
-      "text": " This is extremely dangerous to our democracy.",
-      "tokens": [
-        50364,
-        639,
-        307,
-        4664,
-        5795,
-        281,
-        527,
-        10528,
-        13,
-        51115
+      "start": 225.315,
+      "end": 239.338,
+      "text": " this is extremely dangerous to our democracy this is extremely dangerous our democracy this is extremely dangerous to our democracy this is extremely dangerous to our democracy and that is extremely dangerous to our democracy don't you think",
+      "words": [
+        {
+          "word": "this",
+          "start": 225.315,
+          "end": 225.475,
+          "score": 0.813,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 225.535,
+          "end": 225.615,
+          "score": 0.53,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "extremely",
+          "start": 225.695,
+          "end": 226.195,
+          "score": 0.847,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "dangerous",
+          "start": 226.235,
+          "end": 226.635,
+          "score": 0.782,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 226.655,
+          "end": 226.735,
+          "score": 0.996,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "our",
+          "start": 226.775,
+          "end": 226.855,
+          "score": 0.834,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "democracy",
+          "start": 226.895,
+          "end": 227.415,
+          "score": 0.819,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "this",
+          "start": 227.736,
+          "end": 227.896,
+          "score": 0.905,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 227.956,
+          "end": 228.036,
+          "score": 0.5,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "extremely",
+          "start": 228.116,
+          "end": 228.596,
+          "score": 0.873,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "dangerous",
+          "start": 228.656,
+          "end": 229.096,
+          "score": 0.758,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "our",
+          "start": 229.136,
+          "end": 229.356,
+          "score": 0.397,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "democracy",
+          "start": 229.376,
+          "end": 229.976,
+          "score": 0.83,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "this",
+          "start": 230.556,
+          "end": 230.716,
+          "score": 0.93,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "is",
+          "start": 230.776,
+          "end": 230.856,
+          "score": 0.576,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "extremely",
+          "start": 230.936,
+          "end": 231.436,
+          "score": 0.827,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "dangerous",
+          "start": 231.496,
+          "end": 231.936,
+          "score": 0.71,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "to",
+          "start": 231.956,
+          "end": 232.076,
+          "score": 0.674,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "our",
+          "start": 232.116,
+          "end": 232.196,
+          "score": 0.834,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "democracy",
+          "start": 232.236,
+          "end": 232.857,
+          "score": 0.776,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "this",
+          "start": 233.077,
+          "end": 233.257,
+          "score": 0.811,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "is",
+          "start": 233.317,
+          "end": 233.377,
+          "score": 0.918,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "extremely",
+          "start": 233.437,
+          "end": 233.817,
+          "score": 0.852,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "dangerous",
+          "start": 233.877,
+          "end": 234.237,
+          "score": 0.86,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 234.257,
+          "end": 234.337,
+          "score": 0.834,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "our",
+          "start": 234.397,
+          "end": 234.477,
+          "score": 0.866,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "democracy",
+          "start": 234.497,
+          "end": 235.017,
+          "score": 0.858,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 235.037,
+          "end": 235.357,
+          "score": 0.473,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "that",
+          "start": 235.377,
+          "end": 235.517,
+          "score": 0.54,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "is",
+          "start": 235.577,
+          "end": 235.657,
+          "score": 0.738,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "extremely",
+          "start": 235.737,
+          "end": 236.177,
+          "score": 0.806,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "dangerous",
+          "start": 236.237,
+          "end": 236.717,
+          "score": 0.725,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 236.737,
+          "end": 236.817,
+          "score": 0.99,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "our",
+          "start": 236.877,
+          "end": 236.978,
+          "score": 0.736,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "democracy",
+          "start": 236.998,
+          "end": 237.578,
+          "score": 0.88,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "don't",
+          "start": 237.598,
+          "end": 238.838,
+          "score": 0.463,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 238.858,
+          "end": 238.918,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 239.078,
+          "end": 239.338,
+          "score": 0.492,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.48792713338678534,
-      "compression_ratio": 0.8823529411764706,
-      "no_speech_prob": 0.868808925151825
+      "avg_logprob": -0.11650390271097422,
+      "speaker": "SPEAKER_02"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "What",
+      "start": 3.422,
+      "end": 3.602,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 3.662,
+      "end": 3.762,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 3.822,
+      "end": 3.902,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Trusted",
+      "start": 3.982,
+      "end": 4.383,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "News",
+      "start": 4.483,
+      "end": 4.683,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Initiative,",
+      "start": 4.743,
+      "end": 5.263,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 5.323,
+      "end": 5.424,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI?",
+      "start": 5.504,
+      "end": 6.144,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Simply,",
+      "start": 7.445,
+      "end": 7.865,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Global",
+      "start": 8.206,
+      "end": 8.706,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Information",
+      "start": 8.966,
+      "end": 9.727,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Control.",
+      "start": 9.907,
+      "end": 10.547,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 11.828,
+      "end": 11.928,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Trusted",
+      "start": 11.968,
+      "end": 12.328,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "News",
+      "start": 12.409,
+      "end": 12.589,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Initiative",
+      "start": 12.649,
+      "end": 13.089,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 13.129,
+      "end": 13.249,
+      "score": 0.721,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "founded",
+      "start": 13.309,
+      "end": 13.669,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 13.729,
+      "end": 13.79,
+      "score": 0.761,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2019",
+      "start": 13.95,
+      "end": 14.61,
+      "score": 0.692,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 14.71,
+      "end": 14.83,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "UK",
+      "start": 14.99,
+      "end": 15.311,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "state",
+      "start": 15.371,
+      "end": 15.691,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "broadcaster,",
+      "start": 15.751,
+      "end": 16.451,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 16.511,
+      "end": 16.592,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "BBC,",
+      "start": 16.632,
+      "end": 17.252,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 17.452,
+      "end": 17.552,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "its",
+      "start": 17.612,
+      "end": 17.732,
+      "score": 0.64,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "global",
+      "start": 17.772,
+      "end": 18.133,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "media",
+      "start": 18.173,
+      "end": 18.553,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 18.653,
+      "end": 18.733,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "big",
+      "start": 18.813,
+      "end": 19.013,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tech",
+      "start": 19.053,
+      "end": 19.293,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "partners.",
+      "start": 19.333,
+      "end": 19.794,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 20.594,
+      "end": 20.694,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 20.734,
+      "end": 21.155,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "claimed",
+      "start": 21.195,
+      "end": 21.495,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "its",
+      "start": 21.555,
+      "end": 21.655,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 21.775,
+      "end": 22.035,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "order",
+      "start": 22.115,
+      "end": 22.316,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 22.356,
+      "end": 22.416,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "business",
+      "start": 22.456,
+      "end": 22.856,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 22.896,
+      "end": 23.036,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 23.076,
+      "end": 23.156,
+      "score": 0.596,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "promote",
+      "start": 23.196,
+      "end": 23.516,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freedom",
+      "start": 23.677,
+      "end": 24.017,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 24.097,
+      "end": 24.177,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "democracy",
+      "start": 24.237,
+      "end": 24.918,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 25.038,
+      "end": 25.158,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "preventing",
+      "start": 25.238,
+      "end": 25.758,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "foreign",
+      "start": 25.858,
+      "end": 26.138,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interference",
+      "start": 26.178,
+      "end": 26.739,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 26.779,
+      "end": 26.859,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.879,
+      "end": 26.959,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2020",
+      "start": 27.119,
+      "end": 27.579,
+      "score": 0.606,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "US",
+      "start": 27.72,
+      "end": 27.94,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "presidential",
+      "start": 28.0,
+      "end": 28.54,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "election.",
+      "start": 28.6,
+      "end": 29.08,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 29.681,
+      "end": 29.921,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 30.121,
+      "end": 30.321,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 30.381,
+      "end": 30.522,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more.",
+      "start": 30.642,
+      "end": 30.962,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 32.032,
+      "end": 32.132,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI's",
+      "start": 32.152,
+      "end": 32.653,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "big",
+      "start": 32.753,
+      "end": 32.933,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharma",
+      "start": 33.033,
+      "end": 33.354,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "backers",
+      "start": 33.394,
+      "end": 33.794,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 33.834,
+      "end": 33.954,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 33.994,
+      "end": 34.034,
+      "score": 0.533,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 34.054,
+      "end": 34.515,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "agenda",
+      "start": 34.575,
+      "end": 34.955,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 35.015,
+      "end": 35.096,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mind",
+      "start": 35.136,
+      "end": 35.376,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 35.436,
+      "end": 35.596,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 35.616,
+      "end": 35.756,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "start.",
+      "start": 35.876,
+      "end": 36.297,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 37.178,
+      "end": 37.278,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 37.318,
+      "end": 37.819,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "issued",
+      "start": 37.879,
+      "end": 38.139,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 38.179,
+      "end": 38.199,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "warning",
+      "start": 38.239,
+      "end": 38.559,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 38.6,
+      "end": 38.68,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2019",
+      "start": 38.82,
+      "end": 39.501,
+      "score": 0.665,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 39.541,
+      "end": 39.681,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anti-vaxxers",
+      "start": 39.821,
+      "end": 40.562,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 40.622,
+      "end": 40.702,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gaining",
+      "start": 40.742,
+      "end": 41.002,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "traction",
+      "start": 41.082,
+      "end": 41.523,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "across",
+      "start": 41.563,
+      "end": 41.823,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 41.863,
+      "end": 41.963,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "internet,",
+      "start": 42.023,
+      "end": 42.424,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "requiring",
+      "start": 42.624,
+      "end": 43.225,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "algorithmic",
+      "start": 43.445,
+      "end": 44.246,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "intervention.",
+      "start": 44.286,
+      "end": 44.907,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That",
+      "start": 45.407,
+      "end": 45.587,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "means",
+      "start": 45.628,
+      "end": 45.908,
+      "score": 0.599,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 45.988,
+      "end": 46.228,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "smart",
+      "start": 46.268,
+      "end": 46.489,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "computer",
+      "start": 46.509,
+      "end": 46.889,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "programs",
+      "start": 46.929,
+      "end": 47.43,
+      "score": 0.683,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 47.47,
+      "end": 47.59,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "identify,",
+      "start": 47.67,
+      "end": 48.271,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attack,",
+      "start": 48.391,
+      "end": 48.771,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 48.891,
+      "end": 48.971,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "neutralize",
+      "start": 49.071,
+      "end": 49.672,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anti-vaccine",
+      "start": 49.792,
+      "end": 50.593,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "content.",
+      "start": 50.633,
+      "end": 51.174,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 52.836,
+      "end": 52.936,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 52.996,
+      "end": 53.096,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "big",
+      "start": 53.216,
+      "end": 53.416,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharma",
+      "start": 53.496,
+      "end": 53.817,
+      "score": 0.645,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "backers",
+      "start": 53.857,
+      "end": 54.257,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 54.317,
+      "end": 54.497,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 54.617,
+      "end": 54.917,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 54.957,
+      "end": 55.197,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 55.298,
+      "end": 55.518,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 55.558,
+      "end": 55.638,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 55.678,
+      "end": 55.898,
+      "score": 0.719,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 55.938,
+      "end": 56.018,
+      "score": 0.656,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wellness",
+      "start": 56.058,
+      "end": 56.438,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "movement",
+      "start": 56.498,
+      "end": 56.899,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gaining",
+      "start": 56.979,
+      "end": 57.299,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "traction",
+      "start": 57.439,
+      "end": 57.999,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "online.",
+      "start": 58.099,
+      "end": 58.6,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 59.26,
+      "end": 59.38,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 59.44,
+      "end": 59.96,
+      "score": 0.699,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conveniently",
+      "start": 60.02,
+      "end": 60.781,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rebranded",
+      "start": 60.921,
+      "end": 61.501,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wellness",
+      "start": 61.541,
+      "end": 61.902,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "leaders",
+      "start": 61.942,
+      "end": 62.302,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 62.442,
+      "end": 62.542,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anti-vaxx,",
+      "start": 62.782,
+      "end": 63.543,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disinformation",
+      "start": 63.943,
+      "end": 64.743,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "peddlers",
+      "start": 64.783,
+      "end": 65.204,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "posing",
+      "start": 65.324,
+      "end": 65.644,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 65.684,
+      "end": 65.724,
+      "score": 0.511,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "threat",
+      "start": 65.824,
+      "end": 66.144,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 66.164,
+      "end": 66.264,
+      "score": 0.465,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "public",
+      "start": 66.304,
+      "end": 66.645,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health.",
+      "start": 66.685,
+      "end": 66.985,
+      "score": 0.725,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Why?",
+      "start": 67.705,
+      "end": 68.105,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Because",
+      "start": 68.486,
+      "end": 68.786,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attacking",
+      "start": 68.826,
+      "end": 69.306,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 69.466,
+      "end": 69.947,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 69.987,
+      "end": 70.187,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 70.267,
+      "end": 70.347,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 70.407,
+      "end": 70.427,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "danger",
+      "start": 70.487,
+      "end": 70.807,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 70.847,
+      "end": 70.947,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "public",
+      "start": 71.067,
+      "end": 71.448,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 71.488,
+      "end": 71.748,
+      "score": 0.564,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 71.808,
+      "end": 71.988,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 72.148,
+      "end": 72.388,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work",
+      "start": 72.448,
+      "end": 72.668,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like",
+      "start": 72.728,
+      "end": 72.908,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rebranding",
+      "start": 73.009,
+      "end": 73.569,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 73.609,
+      "end": 73.849,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "leaders",
+      "start": 73.889,
+      "end": 74.209,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 74.349,
+      "end": 74.429,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anti-vaxxers.",
+      "start": 74.569,
+      "end": 75.45,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 76.931,
+      "end": 77.071,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 77.151,
+      "end": 77.271,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "does",
+      "start": 77.311,
+      "end": 77.451,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 77.491,
+      "end": 77.571,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 77.611,
+      "end": 78.112,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work?",
+      "start": 78.232,
+      "end": 78.532,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "flooding",
+      "start": 80.072,
+      "end": 80.393,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 80.413,
+      "end": 80.553,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screen",
+      "start": 80.573,
+      "end": 80.894,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 80.934,
+      "end": 81.074,
+      "score": 0.653,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "repetitive,",
+      "start": 81.134,
+      "end": 81.695,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pro-vaccine",
+      "start": 81.815,
+      "end": 82.517,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "messages",
+      "start": 82.577,
+      "end": 83.038,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 83.098,
+      "end": 83.238,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "normalize",
+      "start": 83.318,
+      "end": 83.839,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 83.879,
+      "end": 83.959,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "experimental",
+      "start": 84.02,
+      "end": 84.621,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine.",
+      "start": 84.681,
+      "end": 85.242,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 85.903,
+      "end": 86.083,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "demonize",
+      "start": 86.224,
+      "end": 86.765,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 86.805,
+      "end": 86.905,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unvaccinated",
+      "start": 86.965,
+      "end": 87.767,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 87.807,
+      "end": 87.887,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "create",
+      "start": 87.927,
+      "end": 88.208,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "division",
+      "start": 88.268,
+      "end": 88.749,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 88.809,
+      "end": 88.889,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drive",
+      "start": 88.969,
+      "end": 89.29,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "public",
+      "start": 89.35,
+      "end": 89.67,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "acceptance",
+      "start": 89.71,
+      "end": 90.251,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 90.312,
+      "end": 90.372,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 90.432,
+      "end": 90.893,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "compliance.",
+      "start": 90.933,
+      "end": 91.574,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 92.428,
+      "end": 92.528,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 92.588,
+      "end": 93.088,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 93.248,
+      "end": 93.548,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pays",
+      "start": 93.608,
+      "end": 93.848,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "off",
+      "start": 93.928,
+      "end": 94.088,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so-called",
+      "start": 94.188,
+      "end": 94.629,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fact-checkers",
+      "start": 94.769,
+      "end": 95.469,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 95.509,
+      "end": 95.609,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "run",
+      "start": 95.649,
+      "end": 95.829,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "false",
+      "start": 95.989,
+      "end": 96.309,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fact",
+      "start": 96.369,
+      "end": 96.629,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "checks",
+      "start": 96.669,
+      "end": 96.969,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 97.029,
+      "end": 97.109,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hit",
+      "start": 97.169,
+      "end": 97.329,
+      "score": 0.69,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pieces",
+      "start": 97.369,
+      "end": 97.689,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 97.789,
+      "end": 97.869,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientists",
+      "start": 97.949,
+      "end": 98.51,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 98.59,
+      "end": 98.67,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors",
+      "start": 98.75,
+      "end": 99.21,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 99.35,
+      "end": 99.51,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "buck",
+      "start": 99.61,
+      "end": 99.85,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 99.89,
+      "end": 99.99,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "official",
+      "start": 100.03,
+      "end": 100.41,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "narrative.",
+      "start": 100.45,
+      "end": 100.91,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Hundreds",
+      "start": 101.71,
+      "end": 102.11,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 102.17,
+      "end": 102.231,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "frontline",
+      "start": 102.331,
+      "end": 102.791,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 102.831,
+      "end": 103.151,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "professionals,",
+      "start": 103.191,
+      "end": 103.811,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientists,",
+      "start": 104.031,
+      "end": 104.631,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "researchers",
+      "start": 104.851,
+      "end": 105.371,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 105.411,
+      "end": 105.551,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dare",
+      "start": 105.611,
+      "end": 105.811,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 105.851,
+      "end": 105.891,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "speak",
+      "start": 105.951,
+      "end": 106.172,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 106.272,
+      "end": 106.392,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "against",
+      "start": 106.432,
+      "end": 106.652,
+      "score": 0.727,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 106.692,
+      "end": 106.772,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "official",
+      "start": 106.832,
+      "end": 107.192,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "narrative?",
+      "start": 107.232,
+      "end": 107.692,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Gone.",
+      "start": 108.232,
+      "end": 108.652,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Disappeared",
+      "start": 109.072,
+      "end": 109.592,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 109.612,
+      "end": 109.752,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "social",
+      "start": 109.832,
+      "end": 110.133,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "media",
+      "start": 110.193,
+      "end": 110.493,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 110.533,
+      "end": 110.653,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 110.693,
+      "end": 110.753,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI.",
+      "start": 110.773,
+      "end": 110.993,
+      "score": 0.653,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 112.133,
+      "end": 112.253,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "didn't",
+      "start": 112.293,
+      "end": 112.533,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ask",
+      "start": 112.613,
+      "end": 112.794,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "approved",
+      "start": 112.854,
+      "end": 113.274,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "questions.",
+      "start": 113.334,
+      "end": 113.834,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 114.154,
+      "end": 114.295,
+      "score": 0.709,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "didn't",
+      "start": 114.315,
+      "end": 114.535,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "come",
+      "start": 114.595,
+      "end": 114.775,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 114.815,
+      "end": 114.915,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "approved",
+      "start": 114.975,
+      "end": 115.375,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conclusions.",
+      "start": 115.435,
+      "end": 116.116,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 116.496,
+      "end": 116.636,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now,",
+      "start": 116.716,
+      "end": 116.976,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "top",
+      "start": 117.177,
+      "end": 117.417,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors",
+      "start": 117.457,
+      "end": 117.857,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 117.917,
+      "end": 118.057,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Harvard,",
+      "start": 118.137,
+      "end": 118.557,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Stanford,",
+      "start": 118.698,
+      "end": 119.218,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 119.258,
+      "end": 119.358,
+      "score": 0.684,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Oxford",
+      "start": 119.458,
+      "end": 119.858,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 119.978,
+      "end": 120.099,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dangerous",
+      "start": 120.299,
+      "end": 120.819,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "experts",
+      "start": 120.939,
+      "end": 121.359,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 121.399,
+      "end": 121.52,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "must",
+      "start": 121.58,
+      "end": 121.82,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 121.9,
+      "end": 122.04,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "neutralized.",
+      "start": 122.28,
+      "end": 123.081,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 123.701,
+      "end": 123.841,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attack",
+      "start": 123.881,
+      "end": 124.241,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "early",
+      "start": 124.341,
+      "end": 124.562,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatments",
+      "start": 124.622,
+      "end": 125.022,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 125.062,
+      "end": 125.202,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cure",
+      "start": 125.262,
+      "end": 125.482,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 125.522,
+      "end": 125.983,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 126.023,
+      "end": 126.263,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 126.283,
+      "end": 126.403,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "feel",
+      "start": 126.463,
+      "end": 126.663,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 126.723,
+      "end": 126.763,
+      "score": 0.631,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "poses",
+      "start": 126.803,
+      "end": 127.163,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 127.223,
+      "end": 127.263,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "threat",
+      "start": 127.364,
+      "end": 127.664,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 127.704,
+      "end": 127.784,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 127.824,
+      "end": 127.904,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 127.944,
+      "end": 128.364,
+      "score": 0.763,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "agenda.",
+      "start": 128.424,
+      "end": 128.885,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 129.605,
+      "end": 129.745,
+      "score": 0.705,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 129.785,
+      "end": 130.205,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "network",
+      "start": 130.266,
+      "end": 130.666,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 130.846,
+      "end": 131.126,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ignores",
+      "start": 131.206,
+      "end": 131.566,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stories",
+      "start": 131.586,
+      "end": 131.947,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 131.987,
+      "end": 132.067,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 132.127,
+      "end": 132.407,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 132.447,
+      "end": 132.687,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "injured",
+      "start": 132.747,
+      "end": 133.027,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 133.067,
+      "end": 133.168,
+      "score": 0.751,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 133.188,
+      "end": 133.268,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 133.308,
+      "end": 133.668,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 133.688,
+      "end": 134.308,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 134.468,
+      "end": 134.528,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "order",
+      "start": 134.588,
+      "end": 134.749,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 134.789,
+      "end": 134.849,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "promote",
+      "start": 134.909,
+      "end": 135.209,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 135.249,
+      "end": 135.369,
+      "score": 0.684,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "false",
+      "start": 135.469,
+      "end": 135.749,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "narrative",
+      "start": 135.849,
+      "end": 136.29,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 136.33,
+      "end": 136.47,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 136.49,
+      "end": 136.63,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 136.69,
+      "end": 136.79,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safe",
+      "start": 136.97,
+      "end": 137.27,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 137.37,
+      "end": 137.45,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "effective.",
+      "start": 137.49,
+      "end": 138.051,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 139.228,
+      "end": 139.368,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 139.428,
+      "end": 139.588,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 139.628,
+      "end": 139.828,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "careers",
+      "start": 139.908,
+      "end": 140.468,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 140.508,
+      "end": 140.609,
+      "score": 0.436,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 140.649,
+      "end": 141.049,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 141.089,
+      "end": 141.189,
+      "score": 0.361,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "destroying,",
+      "start": 141.229,
+      "end": 141.789,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 141.949,
+      "end": 142.109,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "real",
+      "start": 142.269,
+      "end": 142.529,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lives",
+      "start": 142.629,
+      "end": 143.029,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 143.169,
+      "end": 143.249,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 143.309,
+      "end": 143.369,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "suppresses",
+      "start": 143.409,
+      "end": 143.93,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 143.99,
+      "end": 144.07,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "true",
+      "start": 144.13,
+      "end": 144.33,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "numbers",
+      "start": 144.37,
+      "end": 144.67,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 144.75,
+      "end": 144.83,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 144.87,
+      "end": 145.31,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "adverse",
+      "start": 145.35,
+      "end": 145.69,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "effects",
+      "start": 145.73,
+      "end": 146.11,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 146.25,
+      "end": 146.35,
+      "score": 0.698,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "life-saving",
+      "start": 146.451,
+      "end": 147.011,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treatment",
+      "start": 147.071,
+      "end": 147.431,
+      "score": 0.702,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protocols.",
+      "start": 147.491,
+      "end": 148.131,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Who's",
+      "start": 148.971,
+      "end": 149.191,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "paying",
+      "start": 149.271,
+      "end": 149.612,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 149.672,
+      "end": 149.772,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 149.812,
+      "end": 149.952,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "harmful",
+      "start": 149.992,
+      "end": 150.352,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "suppression",
+      "start": 150.392,
+      "end": 150.832,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 150.872,
+      "end": 150.932,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "science?",
+      "start": 151.012,
+      "end": 151.452,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "You",
+      "start": 152.172,
+      "end": 152.373,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are.",
+      "start": 152.553,
+      "end": 152.673,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 153.253,
+      "end": 153.453,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are.",
+      "start": 153.613,
+      "end": 153.773,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 154.373,
+      "end": 154.533,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pay",
+      "start": 154.573,
+      "end": 154.733,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taxes,",
+      "start": 154.793,
+      "end": 155.314,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 155.634,
+      "end": 155.734,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "government",
+      "start": 155.774,
+      "end": 156.134,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pays",
+      "start": 156.174,
+      "end": 156.434,
+      "score": 0.673,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Big",
+      "start": 156.514,
+      "end": 156.694,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pharma,",
+      "start": 156.774,
+      "end": 157.214,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 157.394,
+      "end": 157.494,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Big",
+      "start": 157.574,
+      "end": 157.754,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pharma",
+      "start": 157.854,
+      "end": 158.255,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spends",
+      "start": 158.295,
+      "end": 158.575,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "almost",
+      "start": 158.635,
+      "end": 158.935,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "$7",
+      "start": 159.235,
+      "end": 159.375,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "billion",
+      "start": 159.435,
+      "end": 160.135,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "advertising",
+      "start": 160.235,
+      "end": 160.835,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 160.875,
+      "end": 160.996,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 161.056,
+      "end": 161.496,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "corporations.",
+      "start": 161.536,
+      "end": 162.336,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI",
+      "start": 163.016,
+      "end": 163.416,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "companies",
+      "start": 163.476,
+      "end": 163.917,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "also",
+      "start": 164.017,
+      "end": 164.277,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 164.337,
+      "end": 164.477,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pharma",
+      "start": 164.557,
+      "end": 164.897,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "investments,",
+      "start": 164.957,
+      "end": 165.517,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 165.777,
+      "end": 165.857,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pharma",
+      "start": 166.017,
+      "end": 166.397,
+      "score": 0.696,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "funds",
+      "start": 166.497,
+      "end": 166.757,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "our",
+      "start": 166.818,
+      "end": 166.918,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 166.938,
+      "end": 167.158,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "agencies.",
+      "start": 167.238,
+      "end": 167.778,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "massive",
+      "start": 168.418,
+      "end": 168.858,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conflicts",
+      "start": 168.918,
+      "end": 169.418,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 169.458,
+      "end": 169.518,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interest.",
+      "start": 169.598,
+      "end": 169.998,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "See",
+      "start": 170.459,
+      "end": 170.599,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 170.639,
+      "end": 170.719,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 170.759,
+      "end": 170.899,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "works?",
+      "start": 170.959,
+      "end": 171.279,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Remember",
+      "start": 172.259,
+      "end": 172.659,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 172.679,
+      "end": 172.739,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 172.779,
+      "end": 172.879,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "beginning",
+      "start": 172.899,
+      "end": 173.279,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 173.299,
+      "end": 173.359,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 173.379,
+      "end": 173.459,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pandemic",
+      "start": 173.499,
+      "end": 174.019,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 174.079,
+      "end": 174.239,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientists",
+      "start": 174.32,
+      "end": 174.88,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 174.92,
+      "end": 175.08,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "simply",
+      "start": 175.18,
+      "end": 175.54,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "raised",
+      "start": 175.6,
+      "end": 175.82,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 175.84,
+      "end": 175.92,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "question",
+      "start": 175.94,
+      "end": 176.32,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 176.36,
+      "end": 176.42,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "virus",
+      "start": 176.48,
+      "end": 176.84,
+      "score": 0.725,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "origin",
+      "start": 176.96,
+      "end": 177.32,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 177.42,
+      "end": 177.52,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 177.56,
+      "end": 177.6,
+      "score": 0.538,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lab",
+      "start": 177.64,
+      "end": 177.86,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "leak",
+      "start": 177.88,
+      "end": 178.08,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 178.12,
+      "end": 178.26,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 178.28,
+      "end": 178.361,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wuhan",
+      "start": 178.401,
+      "end": 178.781,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lab",
+      "start": 178.821,
+      "end": 179.101,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 179.161,
+      "end": 179.301,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 179.341,
+      "end": 179.581,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conspiracy",
+      "start": 179.641,
+      "end": 180.401,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "theorists",
+      "start": 180.441,
+      "end": 180.781,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 180.841,
+      "end": 180.961,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 180.981,
+      "end": 181.061,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "TNI?",
+      "start": 181.101,
+      "end": 181.661,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "After",
+      "start": 182.402,
+      "end": 182.662,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 182.702,
+      "end": 182.742,
+      "score": 0.5,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "year",
+      "start": 182.842,
+      "end": 183.082,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 183.122,
+      "end": 183.182,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pressure",
+      "start": 183.262,
+      "end": 183.562,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 183.602,
+      "end": 183.722,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 183.742,
+      "end": 183.822,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "truth,",
+      "start": 183.902,
+      "end": 184.222,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 184.402,
+      "end": 184.562,
+      "score": 0.642,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so-called",
+      "start": 184.662,
+      "end": 185.162,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conspiracy",
+      "start": 185.242,
+      "end": 186.142,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "theory",
+      "start": 186.182,
+      "end": 186.543,
+      "score": 0.633,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 186.723,
+      "end": 186.783,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seen",
+      "start": 186.863,
+      "end": 187.083,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 187.123,
+      "end": 187.203,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 187.243,
+      "end": 187.323,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 187.363,
+      "end": 187.543,
+      "score": 0.585,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plausible",
+      "start": 187.703,
+      "end": 188.183,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scenario,",
+      "start": 188.223,
+      "end": 188.843,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "giving",
+      "start": 189.143,
+      "end": 189.403,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 189.483,
+      "end": 189.583,
+      "score": 0.493,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 189.663,
+      "end": 189.883,
+      "score": 0.638,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 190.163,
+      "end": 190.283,
+      "score": 0.699,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "example",
+      "start": 190.323,
+      "end": 190.764,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 190.804,
+      "end": 190.844,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 190.904,
+      "end": 191.004,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 191.044,
+      "end": 191.124,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trusted",
+      "start": 191.244,
+      "end": 191.664,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "news",
+      "start": 191.784,
+      "end": 192.004,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "initiative",
+      "start": 192.084,
+      "end": 192.584,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "promotes",
+      "start": 192.684,
+      "end": 193.044,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disinformation",
+      "start": 193.144,
+      "end": 194.004,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "while",
+      "start": 194.124,
+      "end": 194.284,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "keeping",
+      "start": 194.324,
+      "end": 194.645,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 194.665,
+      "end": 194.765,
+      "score": 0.674,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "true",
+      "start": 194.845,
+      "end": 195.105,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "science",
+      "start": 195.165,
+      "end": 195.585,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 195.725,
+      "end": 195.925,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us.",
+      "start": 196.045,
+      "end": 196.125,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 198.312,
+      "end": 198.452,
+      "score": 0.871,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "is",
+      "start": 198.532,
+      "end": 198.612,
+      "score": 0.824,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "extremely",
+      "start": 198.672,
+      "end": 199.072,
+      "score": 0.982,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "dangerous",
+      "start": 199.133,
+      "end": 199.493,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 199.533,
+      "end": 199.613,
+      "score": 0.784,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "our",
+      "start": 199.673,
+      "end": 199.753,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "democracy.",
+      "start": 199.793,
+      "end": 200.453,
+      "score": 0.847,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "this",
+      "start": 225.315,
+      "end": 225.475,
+      "score": 0.813,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 225.535,
+      "end": 225.615,
+      "score": 0.53,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "extremely",
+      "start": 225.695,
+      "end": 226.195,
+      "score": 0.847,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "dangerous",
+      "start": 226.235,
+      "end": 226.635,
+      "score": 0.782,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 226.655,
+      "end": 226.735,
+      "score": 0.996,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "our",
+      "start": 226.775,
+      "end": 226.855,
+      "score": 0.834,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "democracy",
+      "start": 226.895,
+      "end": 227.415,
+      "score": 0.819,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "this",
+      "start": 227.736,
+      "end": 227.896,
+      "score": 0.905,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 227.956,
+      "end": 228.036,
+      "score": 0.5,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "extremely",
+      "start": 228.116,
+      "end": 228.596,
+      "score": 0.873,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "dangerous",
+      "start": 228.656,
+      "end": 229.096,
+      "score": 0.758,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "our",
+      "start": 229.136,
+      "end": 229.356,
+      "score": 0.397,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "democracy",
+      "start": 229.376,
+      "end": 229.976,
+      "score": 0.83,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "this",
+      "start": 230.556,
+      "end": 230.716,
+      "score": 0.93,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "is",
+      "start": 230.776,
+      "end": 230.856,
+      "score": 0.576,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "extremely",
+      "start": 230.936,
+      "end": 231.436,
+      "score": 0.827,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "dangerous",
+      "start": 231.496,
+      "end": 231.936,
+      "score": 0.71,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "to",
+      "start": 231.956,
+      "end": 232.076,
+      "score": 0.674,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "our",
+      "start": 232.116,
+      "end": 232.196,
+      "score": 0.834,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "democracy",
+      "start": 232.236,
+      "end": 232.857,
+      "score": 0.776,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "this",
+      "start": 233.077,
+      "end": 233.257,
+      "score": 0.811,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "is",
+      "start": 233.317,
+      "end": 233.377,
+      "score": 0.918,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "extremely",
+      "start": 233.437,
+      "end": 233.817,
+      "score": 0.852,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "dangerous",
+      "start": 233.877,
+      "end": 234.237,
+      "score": 0.86,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 234.257,
+      "end": 234.337,
+      "score": 0.834,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "our",
+      "start": 234.397,
+      "end": 234.477,
+      "score": 0.866,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "democracy",
+      "start": 234.497,
+      "end": 235.017,
+      "score": 0.858,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 235.037,
+      "end": 235.357,
+      "score": 0.473,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "that",
+      "start": 235.377,
+      "end": 235.517,
+      "score": 0.54,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "is",
+      "start": 235.577,
+      "end": 235.657,
+      "score": 0.738,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "extremely",
+      "start": 235.737,
+      "end": 236.177,
+      "score": 0.806,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "dangerous",
+      "start": 236.237,
+      "end": 236.717,
+      "score": 0.725,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 236.737,
+      "end": 236.817,
+      "score": 0.99,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "our",
+      "start": 236.877,
+      "end": 236.978,
+      "score": 0.736,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "democracy",
+      "start": 236.998,
+      "end": 237.578,
+      "score": 0.88,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "don't",
+      "start": 237.598,
+      "end": 238.838,
+      "score": 0.463,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 238.858,
+      "end": 238.918,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 239.078,
+      "end": 239.338,
+      "score": 0.492,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

@@ -1,240 +1,856 @@
 {
-  "text": " So there is a rally January 23rd. Where is it? You wanna give us the details? Washington DC between the Washington Monument and Lincoln Memorial. So this is the Defeat the Mandates and American Homecoming Rally. The website is www.defeatthemandatesdc.com. So this is not about being anti-vaccines. It's about being anti-mandates.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.44,
+      "start": 0.071,
+      "end": 3.152,
       "text": " So there is a rally January 23rd.",
-      "tokens": [
-        50364,
-        407,
-        456,
-        307,
-        257,
-        17584,
-        7061,
-        6673,
-        7800,
-        13,
-        50536
+      "words": [
+        {
+          "word": "So",
+          "start": 0.071,
+          "end": 0.231,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there",
+          "start": 0.271,
+          "end": 0.471,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 0.591,
+          "end": 0.711,
+          "score": 0.505,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 0.851,
+          "end": 0.911,
+          "score": 0.691,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rally",
+          "start": 1.031,
+          "end": 1.612,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "January",
+          "start": 2.012,
+          "end": 2.432,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "23rd.",
+          "start": 2.512,
+          "end": 3.152,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.44,
-      "end": 4.28,
-      "text": " Where is it?",
-      "tokens": [
-        50536,
-        2305,
-        307,
-        309,
-        30,
-        50578
+      "start": 3.493,
+      "end": 3.973,
+      "text": "Where is it?",
+      "words": [
+        {
+          "word": "Where",
+          "start": 3.493,
+          "end": 3.673,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 3.733,
+          "end": 3.813,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it?",
+          "start": 3.893,
+          "end": 3.973,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 4.28,
-      "end": 5.46,
-      "text": " You wanna give us the details?",
-      "tokens": [
-        50578,
-        509,
-        1948,
-        976,
-        505,
-        264,
-        4365,
-        30,
-        50637
+      "start": 4.013,
+      "end": 5.193,
+      "text": "Want to give us the details?",
+      "words": [
+        {
+          "word": "Want",
+          "start": 4.013,
+          "end": 4.113,
+          "score": 0.368,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 4.133,
+          "end": 4.173,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "give",
+          "start": 4.193,
+          "end": 4.333,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "us",
+          "start": 4.373,
+          "end": 4.453,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.593,
+          "end": 4.693,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "details?",
+          "start": 4.733,
+          "end": 5.193,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 5.46,
-      "end": 7.72,
-      "text": " Washington DC between the Washington Monument",
-      "tokens": [
-        50637,
-        6149,
-        9114,
-        1296,
-        264,
-        6149,
-        4713,
-        2206,
-        50750
+      "start": 5.493,
+      "end": 9.015,
+      "text": "Washington D.C. between the Washington Monument and Lincoln Memorial.",
+      "words": [
+        {
+          "word": "Washington",
+          "start": 5.493,
+          "end": 5.914,
+          "score": 0.502,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "D.C.",
+          "start": 5.954,
+          "end": 6.454,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "between",
+          "start": 6.514,
+          "end": 6.814,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.834,
+          "end": 6.894,
+          "score": 0.472,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Washington",
+          "start": 6.914,
+          "end": 7.294,
+          "score": 0.474,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Monument",
+          "start": 7.314,
+          "end": 7.654,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 7.694,
+          "end": 7.774,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Lincoln",
+          "start": 7.815,
+          "end": 8.035,
+          "score": 0.308,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Memorial.",
+          "start": 8.075,
+          "end": 9.015,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 7.72,
-      "end": 9.08,
-      "text": " and Lincoln Memorial.",
-      "tokens": [
-        50750,
-        293,
-        15993,
-        24957,
-        13,
-        50818
+      "start": 9.135,
+      "end": 13.777,
+      "text": "So this is the Defeat the Mandates, an American homecoming rally.",
+      "words": [
+        {
+          "word": "So",
+          "start": 9.135,
+          "end": 9.275,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 9.295,
+          "end": 9.455,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 9.515,
+          "end": 9.595,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 9.675,
+          "end": 9.875,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Defeat",
+          "start": 10.296,
+          "end": 10.616,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 10.656,
+          "end": 10.736,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Mandates,",
+          "start": 10.756,
+          "end": 11.356,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 12.096,
+          "end": 12.156,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "American",
+          "start": 12.196,
+          "end": 12.637,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "homecoming",
+          "start": 12.697,
+          "end": 13.277,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rally.",
+          "start": 13.377,
+          "end": 13.777,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 9.08,
-      "end": 12.040000000000001,
-      "text": " So this is the Defeat the Mandates",
-      "tokens": [
-        50818,
-        407,
-        341,
-        307,
-        264,
-        1346,
-        2106,
-        267,
-        264,
-        15458,
-        1024,
-        50966
+      "start": 13.857,
+      "end": 20.7,
+      "text": "The website is www.defeatthemandatedsdc.com.",
+      "words": [
+        {
+          "word": "The",
+          "start": 13.857,
+          "end": 13.937,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "website",
+          "start": 13.977,
+          "end": 14.458,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 14.518,
+          "end": 14.598,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "www.defeatthemandatedsdc.com.",
+          "start": 15.258,
+          "end": 20.7,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 12.040000000000001,
-      "end": 13.84,
-      "text": " and American Homecoming Rally.",
-      "tokens": [
-        50966,
-        293,
-        2665,
-        8719,
-        6590,
-        497,
-        379,
-        13,
-        51056
+      "start": 20.86,
+      "end": 24.002,
+      "text": "So this is not about being anti-vaccines.",
+      "words": [
+        {
+          "word": "So",
+          "start": 20.86,
+          "end": 21.04,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 21.101,
+          "end": 21.261,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 21.361,
+          "end": 21.441,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 21.541,
+          "end": 21.801,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 21.981,
+          "end": 22.341,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 22.421,
+          "end": 22.701,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anti-vaccines.",
+          "start": 22.841,
+          "end": 24.002,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 13.84,
-      "end": 18.84,
-      "text": " The website is www.defeatthemandatesdc.com.",
-      "tokens": [
-        51056,
-        440,
-        3144,
-        307,
-        12520,
-        13,
-        1479,
-        2106,
-        267,
-        47959,
-        474,
-        1024,
-        67,
-        66,
-        13,
-        1112,
-        13,
-        51306
+      "start": 24.182,
+      "end": 26.303,
+      "text": "It's about being anti-mandates.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 24.182,
+          "end": 24.302,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 24.382,
+          "end": 24.662,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 24.742,
+          "end": 25.002,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anti-mandates.",
+          "start": 25.182,
+          "end": 26.303,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -0.1185919963911678,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 20.8,
-      "end": 24.12,
-      "text": " So this is not about being anti-vaccines.",
-      "tokens": [
-        51404,
-        407,
-        341,
-        307,
-        406,
-        466,
-        885,
-        6061,
-        12,
-        48976,
-        1652,
-        13,
-        51570
+      "start": 59.275,
+      "end": 60.475,
+      "text": " Music playing",
+      "words": [
+        {
+          "word": "Music",
+          "start": 59.275,
+          "end": 60.115,
+          "score": 0.685
+        },
+        {
+          "word": "playing",
+          "start": 60.155,
+          "end": 60.475,
+          "score": 0.257
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -2.23046875
     },
     {
-      "id": 9,
-      "seek": 0,
-      "start": 24.12,
-      "end": 26.68,
-      "text": " It's about being anti-mandates.",
-      "tokens": [
-        51570,
-        467,
-        311,
-        466,
-        885,
-        6061,
-        12,
-        22396,
-        1024,
-        13,
-        51698
+      "start": 88.972,
+      "end": 89.512,
+      "text": " you you",
+      "words": [
+        {
+          "word": "you",
+          "start": 88.972,
+          "end": 89.332,
+          "score": 0.565
+        },
+        {
+          "word": "you",
+          "start": 89.412,
+          "end": 89.512,
+          "score": 0.221
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21102948869977678,
-      "compression_ratio": 1.5817307692307692,
-      "no_speech_prob": 0.009004591032862663
+      "avg_logprob": -2.10546875
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 0.071,
+      "end": 0.231,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there",
+      "start": 0.271,
+      "end": 0.471,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 0.591,
+      "end": 0.711,
+      "score": 0.505,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 0.851,
+      "end": 0.911,
+      "score": 0.691,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rally",
+      "start": 1.031,
+      "end": 1.612,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "January",
+      "start": 2.012,
+      "end": 2.432,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "23rd.",
+      "start": 2.512,
+      "end": 3.152,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Where",
+      "start": 3.493,
+      "end": 3.673,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 3.733,
+      "end": 3.813,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it?",
+      "start": 3.893,
+      "end": 3.973,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Want",
+      "start": 4.013,
+      "end": 4.113,
+      "score": 0.368,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 4.133,
+      "end": 4.173,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "give",
+      "start": 4.193,
+      "end": 4.333,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "us",
+      "start": 4.373,
+      "end": 4.453,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.593,
+      "end": 4.693,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "details?",
+      "start": 4.733,
+      "end": 5.193,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Washington",
+      "start": 5.493,
+      "end": 5.914,
+      "score": 0.502,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "D.C.",
+      "start": 5.954,
+      "end": 6.454,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "between",
+      "start": 6.514,
+      "end": 6.814,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.834,
+      "end": 6.894,
+      "score": 0.472,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Washington",
+      "start": 6.914,
+      "end": 7.294,
+      "score": 0.474,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Monument",
+      "start": 7.314,
+      "end": 7.654,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 7.694,
+      "end": 7.774,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Lincoln",
+      "start": 7.815,
+      "end": 8.035,
+      "score": 0.308,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Memorial.",
+      "start": 8.075,
+      "end": 9.015,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 9.135,
+      "end": 9.275,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 9.295,
+      "end": 9.455,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 9.515,
+      "end": 9.595,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 9.675,
+      "end": 9.875,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Defeat",
+      "start": 10.296,
+      "end": 10.616,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 10.656,
+      "end": 10.736,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Mandates,",
+      "start": 10.756,
+      "end": 11.356,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 12.096,
+      "end": 12.156,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "American",
+      "start": 12.196,
+      "end": 12.637,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "homecoming",
+      "start": 12.697,
+      "end": 13.277,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rally.",
+      "start": 13.377,
+      "end": 13.777,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 13.857,
+      "end": 13.937,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "website",
+      "start": 13.977,
+      "end": 14.458,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 14.518,
+      "end": 14.598,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "www.defeatthemandatedsdc.com.",
+      "start": 15.258,
+      "end": 20.7,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 20.86,
+      "end": 21.04,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 21.101,
+      "end": 21.261,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 21.361,
+      "end": 21.441,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 21.541,
+      "end": 21.801,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 21.981,
+      "end": 22.341,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 22.421,
+      "end": 22.701,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anti-vaccines.",
+      "start": 22.841,
+      "end": 24.002,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 24.182,
+      "end": 24.302,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 24.382,
+      "end": 24.662,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 24.742,
+      "end": 25.002,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anti-mandates.",
+      "start": 25.182,
+      "end": 26.303,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Music",
+      "start": 59.275,
+      "end": 60.115,
+      "score": 0.685
+    },
+    {
+      "word": "playing",
+      "start": 60.155,
+      "end": 60.475,
+      "score": 0.257
+    },
+    {
+      "word": "you",
+      "start": 88.972,
+      "end": 89.332,
+      "score": 0.565
+    },
+    {
+      "word": "you",
+      "start": 89.412,
+      "end": 89.512,
+      "score": 0.221
+    }
+  ]
 }

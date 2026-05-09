@@ -1,881 +1,6033 @@
 {
-  "text": " I am double vaccinated with AstraZeneca, which is now being withdrawn. The Ministers may understandably wish to defer responsibility for a decision such as withdrawing the vaccines from the population to the regulators such as the MHRA or in America it would be the FDA. Historically, when undertaking the approval of any drug, the regulators themselves ultimately end up relying on the summary results of the drug companies in their sponsored trials, where the raw data is kept commercially confidential. Furthermore, the MHRA has a huge financial conflict of interest, receiving 86% of its funding from the pharmaceutical industry they are supposed to regulate. In effect, Madam Deputy Speaker, we've got the poacher paying the gamekeeper, as pointed out in a recent BMJ investigation, into the financial conflicts of interest of the drug regulators, sociologist David Donald Light said of them, it's the opposite of having a trustworthy organisation independently and rigorously assessing medicines. They're not rigorous, they're not independent, they're selective and they withhold data. Doctors and patients must appreciate how deeply and extensively drug regulators can't be trusted so long as they're captured by the industry funding. Similarly, another investigation revealed that members of the JCVI have huge financial links to the Bill and Melinda Gates Foundation, running to billions of pounds. The Ministers, the media and the public know that the foundation itself is heavily invested in the pharmaceutical industry stock. Unfortunately, the catastrophic mistake over the approval and the coercion associated with this emergency use, authorisation, medical intervention, is not an anomaly, but in many ways it could have been predicted by structural failures that have allowed this to occur in the first place. These shortcomings are rooted in the increasingly unchecked, visible and invisible power of multinational corporations, in this case big pharma. We start by acknowledging that the drug industry has a fiduciary obligation to produce profit for their shareholders. Madam Deputy Speaker, they have no fiduciary obligation to provide the right medicines for patients. The real scandal is that those with a responsibility of patients and scientific integrity, namely doctors, academic institutions and medical journals, collude with the industry for financial gain. Big Pharma exerts its power by capturing the political environment through lobbying, the knowledge environment, through funding university research and influencing medical education, preference shaping through capture of the media, financing think tanks etc etc. In other words, the PR machinery of pharma excels in substitute sub-diffuge, engages in smearing and de-platforming those who call out their manipulations.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.48,
-      "text": " I am double vaccinated with AstraZeneca, which is now being withdrawn.",
-      "tokens": [
-        50364,
-        286,
-        669,
-        3834,
-        14686,
-        365,
-        45242,
-        57,
-        44852,
-        11,
-        597,
-        307,
-        586,
-        885,
-        48151,
-        13,
-        50588
+      "start": 0.531,
+      "end": 5.213,
+      "text": " I am double vaccinated with AstraZeneca, which has now been withdrawn.",
+      "words": [
+        {
+          "word": "I",
+          "start": 0.531,
+          "end": 0.591,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "am",
+          "start": 0.631,
+          "end": 0.711,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "double",
+          "start": 0.851,
+          "end": 1.091,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated",
+          "start": 1.131,
+          "end": 1.692,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 1.732,
+          "end": 1.872,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "AstraZeneca,",
+          "start": 1.952,
+          "end": 2.672,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 2.692,
+          "end": 2.812,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 2.832,
+          "end": 2.952,
+          "score": 0.617,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now",
+          "start": 3.012,
+          "end": 3.172,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 3.192,
+          "end": 3.372,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "withdrawn.",
+          "start": 3.733,
+          "end": 5.213,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31659774780273436,
-      "compression_ratio": 1.6121673003802282,
-      "no_speech_prob": 0.45462921261787415
+      "avg_logprob": -0.11163403273346913,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.48,
-      "end": 14.280000000000001,
-      "text": " The Ministers may understandably wish to defer responsibility for a decision such as withdrawing the vaccines from the population",
-      "tokens": [
-        50588,
-        440,
-        2829,
-        7423,
-        815,
-        1223,
-        1188,
-        3172,
-        281,
-        25704,
-        6357,
-        337,
-        257,
-        3537,
-        1270,
-        382,
-        14999,
-        278,
-        264,
-        12164,
-        490,
-        264,
-        4415,
-        51078
+      "start": 5.553,
+      "end": 19.859,
+      "text": "The ministers may understandably wish to defer responsibility for a decision such as withdrawing the vaccines from the population to the regulators, such as the MHRA, or in America it would be the FDA.",
+      "words": [
+        {
+          "word": "The",
+          "start": 5.553,
+          "end": 5.633,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ministers",
+          "start": 5.653,
+          "end": 6.074,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "may",
+          "start": 6.634,
+          "end": 6.754,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "understandably",
+          "start": 6.794,
+          "end": 7.334,
+          "score": 0.663,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wish",
+          "start": 7.374,
+          "end": 7.554,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 7.594,
+          "end": 7.694,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "defer",
+          "start": 8.234,
+          "end": 8.675,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "responsibility",
+          "start": 8.735,
+          "end": 9.655,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 9.935,
+          "end": 10.055,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 10.075,
+          "end": 10.115,
+          "score": 0.492,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "decision",
+          "start": 10.155,
+          "end": 10.595,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "such",
+          "start": 10.655,
+          "end": 10.836,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 10.936,
+          "end": 11.036,
+          "score": 0.659,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "withdrawing",
+          "start": 11.296,
+          "end": 11.956,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 11.976,
+          "end": 12.036,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccines",
+          "start": 12.296,
+          "end": 12.916,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 13.116,
+          "end": 13.297,
+          "score": 0.712,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 13.317,
+          "end": 13.397,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "population",
+          "start": 13.457,
+          "end": 14.037,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 14.357,
+          "end": 14.517,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 14.537,
+          "end": 14.617,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "regulators,",
+          "start": 14.677,
+          "end": 15.217,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "such",
+          "start": 15.237,
+          "end": 15.397,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 15.457,
+          "end": 15.537,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 15.577,
+          "end": 15.678,
+          "score": 0.682,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "MHRA,",
+          "start": 16.538,
+          "end": 17.138,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 17.198,
+          "end": 17.258,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 17.298,
+          "end": 17.358,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "America",
+          "start": 17.418,
+          "end": 17.778,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 17.858,
+          "end": 17.958,
+          "score": 0.362,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 18.019,
+          "end": 18.199,
+          "score": 0.25,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 18.219,
+          "end": 18.319,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 18.339,
+          "end": 18.399,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "FDA.",
+          "start": 18.539,
+          "end": 19.859,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31659774780273436,
-      "compression_ratio": 1.6121673003802282,
-      "no_speech_prob": 0.45462921261787415
+      "avg_logprob": -0.11163403273346913,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 14.280000000000001,
-      "end": 19.48,
-      "text": " to the regulators such as the MHRA or in America it would be the FDA.",
-      "tokens": [
-        51078,
-        281,
-        264,
-        37311,
-        1270,
-        382,
-        264,
-        34796,
-        3750,
-        420,
-        294,
-        3374,
-        309,
-        576,
-        312,
-        264,
-        18933,
-        13,
-        51338
+      "start": 19.979,
+      "end": 28.223,
+      "text": "Historically, when undertaking the approval of any drug, the regulators themselves ultimately end up relying on the summary results of the drug companies.",
+      "words": [
+        {
+          "word": "Historically,",
+          "start": 19.979,
+          "end": 20.56,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 20.58,
+          "end": 20.72,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "undertaking",
+          "start": 20.76,
+          "end": 21.26,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 21.28,
+          "end": 21.36,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "approval",
+          "start": 21.4,
+          "end": 21.88,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 21.92,
+          "end": 21.96,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "any",
+          "start": 22.02,
+          "end": 22.14,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drug,",
+          "start": 22.2,
+          "end": 22.44,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 22.981,
+          "end": 23.101,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "regulators",
+          "start": 23.141,
+          "end": 23.621,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "themselves",
+          "start": 23.641,
+          "end": 24.101,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ultimately",
+          "start": 24.161,
+          "end": 24.581,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "end",
+          "start": 24.621,
+          "end": 24.761,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 24.781,
+          "end": 24.821,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "relying",
+          "start": 24.901,
+          "end": 25.482,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 26.102,
+          "end": 26.162,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.182,
+          "end": 26.262,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "summary",
+          "start": 26.362,
+          "end": 26.662,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "results",
+          "start": 26.702,
+          "end": 27.102,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 27.302,
+          "end": 27.402,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 27.442,
+          "end": 27.522,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drug",
+          "start": 27.562,
+          "end": 27.763,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "companies.",
+          "start": 27.803,
+          "end": 28.223,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31659774780273436,
-      "compression_ratio": 1.6121673003802282,
-      "no_speech_prob": 0.45462921261787415
+      "avg_logprob": -0.11163403273346913,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 19.48,
-      "end": 28.84,
-      "text": " Historically, when undertaking the approval of any drug, the regulators themselves ultimately end up relying on the summary results of the drug companies",
-      "tokens": [
-        51338,
-        25108,
-        984,
-        11,
-        562,
-        39250,
-        264,
-        13317,
-        295,
-        604,
-        4110,
-        11,
-        264,
-        37311,
-        2969,
-        6284,
-        917,
-        493,
-        24140,
-        322,
-        264,
-        12691,
-        3542,
-        295,
-        264,
-        4110,
-        3431,
-        51806
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31659774780273436,
-      "compression_ratio": 1.6121673003802282,
-      "no_speech_prob": 0.45462921261787415
-    },
-    {
-      "id": 4,
-      "seek": 2884,
-      "start": 28.88,
-      "end": 34.92,
+      "start": 28.943,
+      "end": 34.424,
       "text": " in their sponsored trials, where the raw data is kept commercially confidential.",
-      "tokens": [
-        50366,
-        294,
-        641,
-        16621,
-        12450,
-        11,
-        689,
-        264,
-        8936,
-        1412,
-        307,
-        4305,
-        41751,
-        27054,
-        13,
-        50668
+      "words": [
+        {
+          "word": "in",
+          "start": 28.943,
+          "end": 29.003,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 29.023,
+          "end": 29.143,
+          "score": 0.366,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sponsored",
+          "start": 29.163,
+          "end": 29.623,
+          "score": 0.626,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trials,",
+          "start": 29.643,
+          "end": 30.043,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 30.383,
+          "end": 30.543,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 30.563,
+          "end": 30.643,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "raw",
+          "start": 30.703,
+          "end": 31.003,
+          "score": 0.702,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data",
+          "start": 31.063,
+          "end": 31.484,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 31.864,
+          "end": 31.944,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kept",
+          "start": 32.044,
+          "end": 32.304,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "commercially",
+          "start": 32.384,
+          "end": 32.924,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "confidential.",
+          "start": 33.724,
+          "end": 34.424,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18243410617490358,
-      "compression_ratio": 1.4897119341563787,
-      "no_speech_prob": 0.14022040367126465
+      "avg_logprob": -0.05718316132616666,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2884,
-      "start": 34.92,
-      "end": 44.96,
-      "text": " Furthermore, the MHRA has a huge financial conflict of interest, receiving 86% of its funding from the pharmaceutical industry they are supposed to regulate.",
-      "tokens": [
-        50668,
-        23999,
-        11,
-        264,
-        34796,
-        3750,
-        575,
-        257,
-        2603,
-        4669,
-        6596,
-        295,
-        1179,
-        11,
-        10040,
-        26687,
-        4,
-        295,
-        1080,
-        6137,
-        490,
-        264,
-        27130,
-        3518,
-        436,
-        366,
-        3442,
-        281,
-        24475,
-        13,
-        51170
+      "start": 35.004,
+      "end": 44.466,
+      "text": "Furthermore, the MHRA has a huge financial conflict of interest, receiving 86% of its funding from the pharmaceutical industry they are supposed to regulate.",
+      "words": [
+        {
+          "word": "Furthermore,",
+          "start": 35.004,
+          "end": 35.424,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 35.464,
+          "end": 35.544,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "MHRA",
+          "start": 35.704,
+          "end": 36.365,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 36.765,
+          "end": 36.905,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 36.925,
+          "end": 36.965,
+          "score": 0.493,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "huge",
+          "start": 37.045,
+          "end": 37.425,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "financial",
+          "start": 37.525,
+          "end": 38.025,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conflict",
+          "start": 38.125,
+          "end": 38.565,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 38.585,
+          "end": 38.645,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interest,",
+          "start": 38.705,
+          "end": 39.125,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "receiving",
+          "start": 39.545,
+          "end": 40.345,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "86%",
+          "start": 40.405,
+          "end": 41.045,
+          "score": 0.617,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 41.105,
+          "end": 41.145,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "its",
+          "start": 41.185,
+          "end": 41.305,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "funding",
+          "start": 41.366,
+          "end": 41.766,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 42.066,
+          "end": 42.226,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 42.246,
+          "end": 42.306,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmaceutical",
+          "start": 42.346,
+          "end": 42.966,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "industry",
+          "start": 43.006,
+          "end": 43.326,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 43.346,
+          "end": 43.446,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 43.466,
+          "end": 43.546,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "supposed",
+          "start": 43.566,
+          "end": 43.866,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 43.906,
+          "end": 43.966,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "regulate.",
+          "start": 44.006,
+          "end": 44.466,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18243410617490358,
-      "compression_ratio": 1.4897119341563787,
-      "no_speech_prob": 0.14022040367126465
+      "avg_logprob": -0.05718316132616666,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2884,
-      "start": 44.96,
-      "end": 53.92,
-      "text": " In effect, Madam Deputy Speaker, we've got the poacher paying the gamekeeper, as pointed out in a recent BMJ investigation,",
-      "tokens": [
-        51170,
-        682,
-        1802,
-        11,
-        18490,
-        21560,
-        8454,
-        11,
-        321,
-        600,
-        658,
-        264,
-        714,
-        4062,
-        6229,
-        264,
-        1216,
-        23083,
-        11,
-        382,
-        10932,
-        484,
-        294,
-        257,
-        5162,
-        15901,
-        41,
-        9627,
-        11,
-        51618
+      "start": 45.086,
+      "end": 49.387,
+      "text": "In effect, Madam Deputy Speaker, we've got the poacher paying the gamekeeper.",
+      "words": [
+        {
+          "word": "In",
+          "start": 45.086,
+          "end": 45.226,
+          "score": 0.679,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "effect,",
+          "start": 45.426,
+          "end": 45.786,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Madam",
+          "start": 45.846,
+          "end": 46.046,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Deputy",
+          "start": 46.086,
+          "end": 46.427,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Speaker,",
+          "start": 46.447,
+          "end": 46.967,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we've",
+          "start": 47.267,
+          "end": 47.427,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 47.447,
+          "end": 47.547,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 47.567,
+          "end": 47.647,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "poacher",
+          "start": 47.687,
+          "end": 48.087,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "paying",
+          "start": 48.147,
+          "end": 48.527,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 48.587,
+          "end": 48.667,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gamekeeper.",
+          "start": 48.707,
+          "end": 49.387,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18243410617490358,
-      "compression_ratio": 1.4897119341563787,
-      "no_speech_prob": 0.14022040367126465
+      "avg_logprob": -0.05718316132616666,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 5392,
-      "start": 54.0,
-      "end": 61.36,
-      "text": " into the financial conflicts of interest of the drug regulators, sociologist David Donald Light said of them,",
-      "tokens": [
-        50368,
-        666,
-        264,
-        4669,
-        19807,
-        295,
-        1179,
-        295,
-        264,
-        4110,
-        37311,
-        11,
-        3075,
-        9201,
-        4389,
-        8632,
-        8279,
-        848,
-        295,
-        552,
-        11,
-        50736
+      "start": 49.807,
+      "end": 52.968,
+      "text": "As pointed out in a recent BMJ investigation,",
+      "words": [
+        {
+          "word": "As",
+          "start": 49.807,
+          "end": 49.907,
+          "score": 0.621,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pointed",
+          "start": 49.987,
+          "end": 50.307,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 50.387,
+          "end": 50.567,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 50.647,
+          "end": 50.747,
+          "score": 0.54,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 50.967,
+          "end": 50.987,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recent",
+          "start": 51.047,
+          "end": 51.388,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "BMJ",
+          "start": 51.488,
+          "end": 52.108,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "investigation,",
+          "start": 52.148,
+          "end": 52.968,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16376000510321723,
-      "compression_ratio": 1.7159090909090908,
-      "no_speech_prob": 0.33682161569595337
+      "avg_logprob": -0.05718316132616666,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 5392,
-      "start": 61.36,
-      "end": 66.8,
-      "text": " it's the opposite of having a trustworthy organisation independently and rigorously assessing medicines.",
-      "tokens": [
-        50736,
-        309,
-        311,
-        264,
-        6182,
-        295,
-        1419,
-        257,
-        39714,
-        18641,
-        21761,
-        293,
-        42191,
-        5098,
-        34348,
-        24251,
-        13,
-        51008
+      "start": 54.028,
+      "end": 66.332,
+      "text": " into the financial conflicts of interest of the drug regulators, sociologist David Donald Light said of them, it's the opposite of having a trustworthy organisation independently and rigorously assessing medicines.",
+      "words": [
+        {
+          "word": "into",
+          "start": 54.028,
+          "end": 54.248,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 54.268,
+          "end": 54.328,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "financial",
+          "start": 54.388,
+          "end": 54.808,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conflicts",
+          "start": 54.868,
+          "end": 55.308,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 55.328,
+          "end": 55.388,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interest",
+          "start": 55.429,
+          "end": 55.909,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 56.049,
+          "end": 56.129,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 56.149,
+          "end": 56.209,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drug",
+          "start": 56.249,
+          "end": 56.449,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "regulators,",
+          "start": 56.509,
+          "end": 57.089,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sociologist",
+          "start": 57.609,
+          "end": 58.71,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "David",
+          "start": 58.77,
+          "end": 59.59,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Donald",
+          "start": 59.67,
+          "end": 59.99,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Light",
+          "start": 60.07,
+          "end": 60.37,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "said",
+          "start": 60.43,
+          "end": 60.59,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 60.63,
+          "end": 60.67,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them,",
+          "start": 60.71,
+          "end": 60.85,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 61.43,
+          "end": 61.55,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 61.59,
+          "end": 61.691,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "opposite",
+          "start": 61.791,
+          "end": 62.191,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 62.211,
+          "end": 62.271,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "having",
+          "start": 62.351,
+          "end": 62.611,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 62.651,
+          "end": 62.711,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trustworthy",
+          "start": 62.791,
+          "end": 63.331,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "organisation",
+          "start": 63.391,
+          "end": 64.011,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "independently",
+          "start": 64.071,
+          "end": 64.551,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 64.571,
+          "end": 64.651,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rigorously",
+          "start": 64.691,
+          "end": 65.112,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "assessing",
+          "start": 65.152,
+          "end": 65.532,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicines.",
+          "start": 65.852,
+          "end": 66.332,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16376000510321723,
-      "compression_ratio": 1.7159090909090908,
-      "no_speech_prob": 0.33682161569595337
+      "avg_logprob": -0.07508680408383593,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 5392,
-      "start": 66.8,
-      "end": 72.4,
-      "text": " They're not rigorous, they're not independent, they're selective and they withhold data.",
-      "tokens": [
-        51008,
-        814,
-        434,
-        406,
-        29882,
-        11,
-        436,
-        434,
-        406,
-        6695,
-        11,
-        436,
-        434,
-        33930,
-        293,
-        436,
-        48867,
-        1412,
-        13,
-        51288
+      "start": 66.812,
+      "end": 72.114,
+      "text": "They're not rigorous, they're not independent, they're selective and they withhold data.",
+      "words": [
+        {
+          "word": "They're",
+          "start": 66.812,
+          "end": 67.012,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 67.052,
+          "end": 67.172,
+          "score": 0.681,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rigorous,",
+          "start": 67.252,
+          "end": 67.632,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they're",
+          "start": 68.213,
+          "end": 68.373,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 68.393,
+          "end": 68.513,
+          "score": 0.651,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "independent,",
+          "start": 68.553,
+          "end": 69.173,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they're",
+          "start": 69.733,
+          "end": 69.953,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "selective",
+          "start": 69.973,
+          "end": 70.513,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 71.033,
+          "end": 71.134,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 71.154,
+          "end": 71.294,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "withhold",
+          "start": 71.314,
+          "end": 71.694,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data.",
+          "start": 71.754,
+          "end": 72.114,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16376000510321723,
-      "compression_ratio": 1.7159090909090908,
-      "no_speech_prob": 0.33682161569595337
+      "avg_logprob": -0.07508680408383593,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 5392,
-      "start": 72.4,
-      "end": 82.2,
-      "text": " Doctors and patients must appreciate how deeply and extensively drug regulators can't be trusted so long as they're captured by the industry funding.",
-      "tokens": [
-        51288,
-        39090,
-        293,
-        4209,
-        1633,
-        4449,
-        577,
-        8760,
-        293,
-        32636,
-        4110,
-        37311,
-        393,
-        380,
-        312,
-        16034,
-        370,
-        938,
-        382,
-        436,
-        434,
-        11828,
-        538,
-        264,
-        3518,
-        6137,
-        13,
-        51778
+      "start": 72.414,
+      "end": 81.337,
+      "text": "Doctors and patients must appreciate how deeply and extensively drug regulators can't be trusted so long as they're captured by the industry funding.",
+      "words": [
+        {
+          "word": "Doctors",
+          "start": 72.414,
+          "end": 72.754,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 72.794,
+          "end": 72.874,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 72.934,
+          "end": 73.414,
+          "score": 0.74,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "must",
+          "start": 73.494,
+          "end": 73.674,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "appreciate",
+          "start": 73.754,
+          "end": 74.395,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 74.435,
+          "end": 74.595,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "deeply",
+          "start": 74.675,
+          "end": 75.115,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 75.495,
+          "end": 75.575,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "extensively",
+          "start": 75.635,
+          "end": 76.355,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drug",
+          "start": 76.415,
+          "end": 76.675,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "regulators",
+          "start": 76.735,
+          "end": 77.295,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 77.416,
+          "end": 77.676,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 77.716,
+          "end": 77.796,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trusted",
+          "start": 77.856,
+          "end": 78.256,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 78.576,
+          "end": 78.696,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long",
+          "start": 78.716,
+          "end": 78.896,
+          "score": 0.612,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 78.936,
+          "end": 78.996,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they're",
+          "start": 79.016,
+          "end": 79.196,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "captured",
+          "start": 79.276,
+          "end": 79.716,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 80.156,
+          "end": 80.296,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 80.336,
+          "end": 80.436,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "industry",
+          "start": 80.496,
+          "end": 80.897,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "funding.",
+          "start": 80.957,
+          "end": 81.337,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16376000510321723,
-      "compression_ratio": 1.7159090909090908,
-      "no_speech_prob": 0.33682161569595337
+      "avg_logprob": -0.07508680408383593,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 8220,
-      "start": 82.2,
-      "end": 90.2,
-      "text": " Similarly, another investigation revealed that members of the JCVI have huge financial links to the Bill and Melinda Gates Foundation,",
-      "tokens": [
-        50364,
-        13157,
-        11,
-        1071,
-        9627,
-        9599,
-        300,
-        2679,
-        295,
-        264,
-        49802,
-        25322,
-        362,
-        2603,
-        4669,
-        6123,
-        281,
-        264,
-        5477,
-        293,
-        7375,
-        6837,
-        26494,
-        10335,
-        11,
-        50764
+      "start": 82.257,
+      "end": 90.027,
+      "text": " Similarly, another investigation revealed that members of the JCVI have huge financial links to the Bill and Melinda Gates Foundation.",
+      "words": [
+        {
+          "word": "Similarly,",
+          "start": 82.257,
+          "end": 82.578,
+          "score": 0.458,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "another",
+          "start": 82.618,
+          "end": 82.878,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "investigation",
+          "start": 82.918,
+          "end": 83.599,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "revealed",
+          "start": 83.639,
+          "end": 83.959,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 83.999,
+          "end": 84.1,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "members",
+          "start": 84.18,
+          "end": 84.5,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 84.54,
+          "end": 84.6,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 84.64,
+          "end": 84.74,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "JCVI",
+          "start": 85.121,
+          "end": 86.042,
+          "score": 0.618,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 86.583,
+          "end": 86.743,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "huge",
+          "start": 86.803,
+          "end": 87.204,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "financial",
+          "start": 87.284,
+          "end": 87.744,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "links",
+          "start": 87.784,
+          "end": 88.045,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 88.085,
+          "end": 88.225,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 88.245,
+          "end": 88.305,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Bill",
+          "start": 88.345,
+          "end": 88.525,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 88.585,
+          "end": 88.665,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Melinda",
+          "start": 88.706,
+          "end": 89.066,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Gates",
+          "start": 89.086,
+          "end": 89.366,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Foundation.",
+          "start": 89.406,
+          "end": 90.027,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14892860695167823,
-      "compression_ratio": 1.5615384615384615,
-      "no_speech_prob": 0.06787016242742538
+      "avg_logprob": -0.08859080357371636,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 8220,
-      "start": 90.2,
-      "end": 91.72,
-      "text": " running to billions of pounds.",
-      "tokens": [
-        50764,
-        2614,
-        281,
-        17375,
-        295,
-        8319,
-        13,
-        50840
+      "start": 90.288,
+      "end": 97.957,
+      "text": "Running to billions of pounds, the ministers, the media and the public know that the foundation itself is heavily invested in the pharmaceutical industry stock.",
+      "words": [
+        {
+          "word": "Running",
+          "start": 90.288,
+          "end": 90.488,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 90.508,
+          "end": 90.608,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "billions",
+          "start": 90.648,
+          "end": 91.029,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 91.069,
+          "end": 91.149,
+          "score": 0.719,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pounds,",
+          "start": 91.209,
+          "end": 91.549,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 91.83,
+          "end": 91.93,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ministers,",
+          "start": 91.99,
+          "end": 92.45,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 92.49,
+          "end": 92.571,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "media",
+          "start": 92.611,
+          "end": 92.971,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 93.011,
+          "end": 93.071,
+          "score": 0.585,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 93.091,
+          "end": 93.211,
+          "score": 0.325,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "public",
+          "start": 93.251,
+          "end": 93.552,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 93.572,
+          "end": 93.792,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 93.812,
+          "end": 93.932,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 93.952,
+          "end": 94.012,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "foundation",
+          "start": 94.092,
+          "end": 94.593,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "itself",
+          "start": 94.934,
+          "end": 95.234,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 95.294,
+          "end": 95.374,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heavily",
+          "start": 95.474,
+          "end": 95.895,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "invested",
+          "start": 95.955,
+          "end": 96.355,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 96.395,
+          "end": 96.435,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 96.476,
+          "end": 96.536,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharmaceutical",
+          "start": 96.576,
+          "end": 97.257,
+          "score": 0.588,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "industry",
+          "start": 97.277,
+          "end": 97.617,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stock.",
+          "start": 97.637,
+          "end": 97.957,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14892860695167823,
-      "compression_ratio": 1.5615384615384615,
-      "no_speech_prob": 0.06787016242742538
+      "avg_logprob": -0.08859080357371636,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 8220,
-      "start": 91.72,
-      "end": 98.76,
-      "text": " The Ministers, the media and the public know that the foundation itself is heavily invested in the pharmaceutical industry stock.",
-      "tokens": [
-        50840,
-        440,
-        2829,
-        7423,
-        11,
-        264,
-        3021,
-        293,
-        264,
-        1908,
-        458,
-        300,
-        264,
-        7030,
-        2564,
-        307,
-        10950,
-        13104,
-        294,
-        264,
-        27130,
-        3518,
-        4127,
-        13,
-        51192
+      "start": 98.914,
+      "end": 115.822,
+      "text": " Unfortunately, the catastrophic mistake over the approval and the coercion associated with this emergency use authorisation medical intervention is not an anomaly, but in many ways it could have been predicted by structural failures that have allowed this to occur in the first place.",
+      "words": [
+        {
+          "word": "Unfortunately,",
+          "start": 98.914,
+          "end": 99.474,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 99.494,
+          "end": 99.574,
+          "score": 0.529,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "catastrophic",
+          "start": 99.634,
+          "end": 100.435,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mistake",
+          "start": 100.475,
+          "end": 100.935,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "over",
+          "start": 101.635,
+          "end": 101.775,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 101.815,
+          "end": 101.895,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "approval",
+          "start": 101.935,
+          "end": 102.456,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 102.476,
+          "end": 102.536,
+          "score": 0.059,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 102.936,
+          "end": 102.996,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "coercion",
+          "start": 103.056,
+          "end": 103.616,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "associated",
+          "start": 103.656,
+          "end": 104.357,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 104.397,
+          "end": 104.497,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 104.517,
+          "end": 104.657,
+          "score": 0.577,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "emergency",
+          "start": 104.697,
+          "end": 105.257,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "use",
+          "start": 105.397,
+          "end": 105.577,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "authorisation",
+          "start": 106.117,
+          "end": 106.938,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 106.998,
+          "end": 107.298,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "intervention",
+          "start": 107.338,
+          "end": 107.898,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 108.358,
+          "end": 108.438,
+          "score": 0.512,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 108.518,
+          "end": 108.679,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 108.739,
+          "end": 108.779,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anomaly,",
+          "start": 108.839,
+          "end": 109.239,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 109.299,
+          "end": 109.419,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 109.439,
+          "end": 109.499,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "many",
+          "start": 109.539,
+          "end": 109.719,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ways",
+          "start": 109.779,
+          "end": 110.059,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 110.579,
+          "end": 110.639,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "could",
+          "start": 110.679,
+          "end": 110.8,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 110.84,
+          "end": 110.94,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 110.96,
+          "end": 111.1,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "predicted",
+          "start": 111.16,
+          "end": 111.68,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 112.1,
+          "end": 112.22,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "structural",
+          "start": 112.28,
+          "end": 112.82,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "failures",
+          "start": 112.941,
+          "end": 113.361,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 113.401,
+          "end": 113.501,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 113.521,
+          "end": 113.621,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "allowed",
+          "start": 113.661,
+          "end": 114.001,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 114.421,
+          "end": 114.581,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 114.621,
+          "end": 114.721,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "occur",
+          "start": 114.761,
+          "end": 115.061,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 115.081,
+          "end": 115.142,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 115.182,
+          "end": 115.262,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 115.302,
+          "end": 115.542,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "place.",
+          "start": 115.602,
+          "end": 115.822,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14892860695167823,
-      "compression_ratio": 1.5615384615384615,
-      "no_speech_prob": 0.06787016242742538
+      "avg_logprob": -0.07710937291383743,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 8220,
-      "start": 98.76,
-      "end": 105.92,
-      "text": " Unfortunately, the catastrophic mistake over the approval and the coercion associated with this emergency use,",
-      "tokens": [
-        51192,
-        8590,
-        11,
-        264,
-        34915,
-        6146,
-        670,
-        264,
-        13317,
-        293,
-        264,
-        49741,
-        313,
-        6615,
-        365,
-        341,
-        7473,
-        764,
-        11,
-        51550
+      "start": 116.402,
+      "end": 125.287,
+      "text": " These shortcomings are rooted in the increasingly unchecked visible and invisible power of multinational corporations, in this case Big Pharma.",
+      "words": [
+        {
+          "word": "These",
+          "start": 116.402,
+          "end": 116.602,
+          "score": 0.713,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shortcomings",
+          "start": 116.702,
+          "end": 117.403,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 117.843,
+          "end": 117.943,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rooted",
+          "start": 117.983,
+          "end": 118.383,
+          "score": 0.757,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 118.823,
+          "end": 118.883,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 118.903,
+          "end": 119.003,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "increasingly",
+          "start": 119.043,
+          "end": 119.664,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unchecked",
+          "start": 119.784,
+          "end": 120.264,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "visible",
+          "start": 120.364,
+          "end": 120.784,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 120.964,
+          "end": 121.084,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "invisible",
+          "start": 121.165,
+          "end": 121.625,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "power",
+          "start": 121.705,
+          "end": 122.045,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 122.485,
+          "end": 122.565,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "multinational",
+          "start": 122.645,
+          "end": 123.486,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "corporations,",
+          "start": 123.526,
+          "end": 124.226,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 124.246,
+          "end": 124.306,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 124.326,
+          "end": 124.446,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "case",
+          "start": 124.486,
+          "end": 124.686,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Big",
+          "start": 124.726,
+          "end": 124.886,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pharma.",
+          "start": 124.946,
+          "end": 125.287,
+          "score": 0.513,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14892860695167823,
-      "compression_ratio": 1.5615384615384615,
-      "no_speech_prob": 0.06787016242742538
+      "avg_logprob": -0.06469726748764515,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 10592,
-      "start": 105.92,
-      "end": 116.32000000000001,
-      "text": " authorisation, medical intervention, is not an anomaly, but in many ways it could have been predicted by structural failures that have allowed this to occur in the first place.",
-      "tokens": [
-        50364,
-        3793,
-        7623,
-        11,
-        4625,
-        13176,
-        11,
-        307,
-        406,
-        364,
-        42737,
-        11,
-        457,
-        294,
-        867,
-        2098,
-        309,
-        727,
-        362,
-        668,
-        19147,
-        538,
-        15067,
-        20774,
-        300,
-        362,
-        4350,
-        341,
-        281,
-        5160,
-        294,
-        264,
-        700,
-        1081,
-        13,
-        50884
+      "start": 125.807,
+      "end": 131.53,
+      "text": "We start by acknowledging that the drug industry has a fiduciary obligation to produce profit for their shareholders.",
+      "words": [
+        {
+          "word": "We",
+          "start": 125.807,
+          "end": 125.907,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "start",
+          "start": 125.967,
+          "end": 126.267,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 126.287,
+          "end": 126.427,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "acknowledging",
+          "start": 126.467,
+          "end": 126.907,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 126.927,
+          "end": 127.047,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 127.068,
+          "end": 127.148,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drug",
+          "start": 127.168,
+          "end": 127.348,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "industry",
+          "start": 127.388,
+          "end": 127.788,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 127.848,
+          "end": 128.028,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 128.068,
+          "end": 128.088,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fiduciary",
+          "start": 128.148,
+          "end": 128.808,
+          "score": 0.751,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "obligation",
+          "start": 128.908,
+          "end": 129.529,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 129.849,
+          "end": 129.929,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "produce",
+          "start": 129.969,
+          "end": 130.229,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "profit",
+          "start": 130.329,
+          "end": 130.669,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 130.689,
+          "end": 130.789,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 130.809,
+          "end": 130.949,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shareholders.",
+          "start": 130.969,
+          "end": 131.53,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12918414009941948,
-      "compression_ratio": 1.6199261992619927,
-      "no_speech_prob": 0.2097816914319992
+      "avg_logprob": -0.06469726748764515,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 10592,
-      "start": 116.32000000000001,
-      "end": 125.72,
-      "text": " These shortcomings are rooted in the increasingly unchecked, visible and invisible power of multinational corporations, in this case big pharma.",
-      "tokens": [
-        50884,
-        1981,
-        2099,
-        49886,
-        366,
-        25277,
-        294,
-        264,
-        12980,
-        46672,
-        292,
-        11,
-        8974,
-        293,
-        14603,
-        1347,
-        295,
-        45872,
-        1478,
-        17676,
-        11,
-        294,
-        341,
-        1389,
-        955,
-        903,
-        36159,
-        13,
-        51354
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12918414009941948,
-      "compression_ratio": 1.6199261992619927,
-      "no_speech_prob": 0.2097816914319992
-    },
-    {
-      "id": 17,
-      "seek": 10592,
-      "start": 125.72,
-      "end": 132.0,
-      "text": " We start by acknowledging that the drug industry has a fiduciary obligation to produce profit for their shareholders.",
-      "tokens": [
-        51354,
-        492,
-        722,
-        538,
-        30904,
-        300,
-        264,
-        4110,
-        3518,
-        575,
-        257,
-        24553,
-        34144,
-        822,
-        20326,
-        281,
-        5258,
-        7475,
-        337,
-        641,
-        33294,
-        13,
-        51668
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12918414009941948,
-      "compression_ratio": 1.6199261992619927,
-      "no_speech_prob": 0.2097816914319992
-    },
-    {
-      "id": 18,
-      "seek": 13200,
-      "start": 132.0,
-      "end": 138.24,
+      "start": 132.09,
+      "end": 137.853,
       "text": " Madam Deputy Speaker, they have no fiduciary obligation to provide the right medicines for patients.",
-      "tokens": [
-        50364,
-        18490,
-        21560,
-        8454,
-        11,
-        436,
-        362,
-        572,
-        24553,
-        34144,
-        822,
-        20326,
-        281,
-        2893,
-        264,
-        558,
-        24251,
-        337,
-        4209,
-        13,
-        50676
+      "words": [
+        {
+          "word": "Madam",
+          "start": 132.09,
+          "end": 132.33,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Deputy",
+          "start": 132.35,
+          "end": 132.69,
+          "score": 0.644,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Speaker,",
+          "start": 132.73,
+          "end": 133.03,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 133.051,
+          "end": 133.151,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 133.191,
+          "end": 133.331,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 133.491,
+          "end": 133.711,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fiduciary",
+          "start": 133.791,
+          "end": 134.251,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "obligation",
+          "start": 134.291,
+          "end": 134.811,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 134.831,
+          "end": 134.871,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "provide",
+          "start": 135.192,
+          "end": 135.572,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 135.592,
+          "end": 135.652,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right",
+          "start": 135.712,
+          "end": 135.992,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicines",
+          "start": 136.612,
+          "end": 137.072,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 137.133,
+          "end": 137.293,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients.",
+          "start": 137.353,
+          "end": 137.853,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12990813785129124,
-      "compression_ratio": 1.6382252559726962,
-      "no_speech_prob": 0.06841340661048889
+      "avg_logprob": -0.05541992075741291,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 13200,
-      "start": 138.24,
-      "end": 147.6,
-      "text": " The real scandal is that those with a responsibility of patients and scientific integrity, namely doctors, academic institutions and medical journals,",
-      "tokens": [
-        50676,
-        440,
-        957,
-        27922,
-        307,
-        300,
-        729,
-        365,
-        257,
-        6357,
-        295,
-        4209,
-        293,
-        8134,
-        16000,
-        11,
-        20926,
-        8778,
-        11,
-        7778,
-        8142,
-        293,
-        4625,
-        29621,
-        11,
-        51144
+      "start": 138.353,
+      "end": 150.199,
+      "text": "The real scandal is that those with the responsibility of patients and scientific integrity, namely doctors, academic institutions and medical journals, collude with the industry for financial gain.",
+      "words": [
+        {
+          "word": "The",
+          "start": 138.353,
+          "end": 138.433,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "real",
+          "start": 138.473,
+          "end": 138.693,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scandal",
+          "start": 138.753,
+          "end": 139.173,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 139.194,
+          "end": 139.274,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 139.454,
+          "end": 139.594,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 139.634,
+          "end": 139.914,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 139.974,
+          "end": 140.094,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 140.114,
+          "end": 140.174,
+          "score": 0.349,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "responsibility",
+          "start": 140.214,
+          "end": 140.994,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 141.014,
+          "end": 141.074,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 141.114,
+          "end": 141.515,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 142.135,
+          "end": 142.235,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientific",
+          "start": 142.335,
+          "end": 142.855,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "integrity,",
+          "start": 142.895,
+          "end": 143.376,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "namely",
+          "start": 143.416,
+          "end": 143.676,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors,",
+          "start": 143.716,
+          "end": 144.136,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "academic",
+          "start": 144.776,
+          "end": 145.196,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "institutions",
+          "start": 145.236,
+          "end": 145.837,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 145.877,
+          "end": 145.957,
+          "score": 0.501,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 146.017,
+          "end": 146.397,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "journals,",
+          "start": 146.477,
+          "end": 146.957,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "collude",
+          "start": 147.718,
+          "end": 148.198,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 148.238,
+          "end": 148.398,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 148.438,
+          "end": 148.538,
+          "score": 0.745,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "industry",
+          "start": 148.578,
+          "end": 149.038,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 149.278,
+          "end": 149.398,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "financial",
+          "start": 149.439,
+          "end": 149.879,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gain.",
+          "start": 149.919,
+          "end": 150.199,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12990813785129124,
-      "compression_ratio": 1.6382252559726962,
-      "no_speech_prob": 0.06841340661048889
+      "avg_logprob": -0.05541992075741291,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 20,
-      "seek": 13200,
-      "start": 147.6,
-      "end": 150.8,
-      "text": " collude with the industry for financial gain.",
-      "tokens": [
-        51144,
-        1263,
-        2303,
-        365,
-        264,
-        3518,
-        337,
-        4669,
-        6052,
-        13,
-        51304
+      "start": 150.939,
+      "end": 160.024,
+      "text": "Big Pharma exerts its power by capturing the political environment through lobbying, the knowledge environment through funding university research and influencing medical education.",
+      "words": [
+        {
+          "word": "Big",
+          "start": 150.939,
+          "end": 151.099,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pharma",
+          "start": 151.179,
+          "end": 151.5,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "exerts",
+          "start": 151.58,
+          "end": 151.9,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "its",
+          "start": 151.96,
+          "end": 152.06,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "power",
+          "start": 152.1,
+          "end": 152.4,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 152.44,
+          "end": 152.56,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "capturing",
+          "start": 152.68,
+          "end": 153.14,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 153.16,
+          "end": 153.26,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "political",
+          "start": 153.28,
+          "end": 153.601,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "environment",
+          "start": 153.641,
+          "end": 154.201,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 154.541,
+          "end": 154.761,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lobbying,",
+          "start": 154.801,
+          "end": 155.241,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 155.762,
+          "end": 155.842,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "knowledge",
+          "start": 155.882,
+          "end": 156.182,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "environment",
+          "start": 156.242,
+          "end": 156.782,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 156.802,
+          "end": 157.022,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "funding",
+          "start": 157.062,
+          "end": 157.362,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "university",
+          "start": 157.402,
+          "end": 157.843,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "research",
+          "start": 157.883,
+          "end": 158.323,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 158.423,
+          "end": 158.523,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "influencing",
+          "start": 158.583,
+          "end": 159.083,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 159.143,
+          "end": 159.463,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "education.",
+          "start": 159.503,
+          "end": 160.024,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12990813785129124,
-      "compression_ratio": 1.6382252559726962,
-      "no_speech_prob": 0.06841340661048889
+      "avg_logprob": -0.05541992075741291,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 21,
-      "seek": 13200,
-      "start": 150.8,
-      "end": 160.64,
-      "text": " Big Pharma exerts its power by capturing the political environment through lobbying, the knowledge environment, through funding university research and influencing medical education,",
-      "tokens": [
-        51304,
-        5429,
-        2623,
-        36159,
-        31941,
-        82,
-        1080,
-        1347,
-        538,
-        23384,
-        264,
-        3905,
-        2823,
-        807,
-        47142,
-        11,
-        264,
-        3601,
-        2823,
-        11,
-        807,
-        6137,
-        5454,
-        2132,
-        293,
-        40396,
-        4625,
-        3309,
-        11,
-        51796
+      "start": 160.764,
+      "end": 165.536,
+      "text": " preference shaping through capture of the media, financing, think tanks, etc.",
+      "words": [
+        {
+          "word": "preference",
+          "start": 160.764,
+          "end": 161.205,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shaping",
+          "start": 161.245,
+          "end": 161.646,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 161.666,
+          "end": 161.867,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "capture",
+          "start": 161.907,
+          "end": 162.308,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 162.348,
+          "end": 162.408,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 162.468,
+          "end": 162.548,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "media,",
+          "start": 162.629,
+          "end": 163.07,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "financing,",
+          "start": 163.531,
+          "end": 164.253,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 164.393,
+          "end": 164.613,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tanks,",
+          "start": 164.653,
+          "end": 165.014,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "etc.",
+          "start": 165.074,
+          "end": 165.536,
+          "score": 0.696,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12990813785129124,
-      "compression_ratio": 1.6382252559726962,
-      "no_speech_prob": 0.06841340661048889
+      "avg_logprob": -0.12477889600789772,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 22,
-      "seek": 16064,
-      "start": 160.72,
-      "end": 166.88,
-      "text": " preference shaping through capture of the media, financing think tanks etc etc.",
-      "tokens": [
-        50368,
-        17502,
-        25945,
-        807,
-        7983,
-        295,
-        264,
-        3021,
-        11,
-        22286,
-        519,
-        14022,
-        5183,
-        5183,
-        13,
-        50676
+      "start": 165.596,
+      "end": 166.097,
+      "text": "etc.",
+      "words": [
+        {
+          "word": "etc.",
+          "start": 165.596,
+          "end": 166.097,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24829854284014022,
-      "compression_ratio": 1.4242424242424243,
-      "no_speech_prob": 0.14169511198997498
+      "avg_logprob": -0.12477889600789772,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 23,
-      "seek": 16064,
-      "start": 166.88,
-      "end": 176.95999999999998,
-      "text": " In other words, the PR machinery of pharma excels in substitute sub-diffuge, engages in smearing and de-platforming those who call out their manipulations.",
-      "tokens": [
-        50676,
-        682,
-        661,
-        2283,
-        11,
-        264,
-        11568,
-        27302,
-        295,
-        903,
-        36159,
-        1624,
-        1625,
-        294,
-        15802,
-        1422,
-        12,
-        67,
-        3661,
-        7181,
-        11,
-        45576,
-        294,
-        41818,
-        1921,
-        293,
-        368,
-        12,
-        39975,
-        48610,
-        729,
-        567,
-        818,
-        484,
-        641,
-        9258,
-        4136,
-        13,
-        51180
+      "start": 166.999,
+      "end": 176.883,
+      "text": "In other words, the PR machinery of pharma excels in substitute subterfuge, engages in smearing and deplatforming those who call out their manipulations.",
+      "words": [
+        {
+          "word": "In",
+          "start": 166.999,
+          "end": 167.059,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 167.099,
+          "end": 167.24,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "words,",
+          "start": 167.28,
+          "end": 167.54,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 167.56,
+          "end": 167.661,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PR",
+          "start": 167.721,
+          "end": 168.021,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "machinery",
+          "start": 168.062,
+          "end": 168.543,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 168.563,
+          "end": 168.603,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pharma",
+          "start": 168.623,
+          "end": 169.104,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "excels",
+          "start": 170.167,
+          "end": 170.648,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 170.688,
+          "end": 170.768,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "substitute",
+          "start": 170.828,
+          "end": 171.41,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "subterfuge,",
+          "start": 171.65,
+          "end": 172.272,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "engages",
+          "start": 172.332,
+          "end": 172.853,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 172.893,
+          "end": 172.973,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "smearing",
+          "start": 173.094,
+          "end": 173.615,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 173.675,
+          "end": 173.775,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "deplatforming",
+          "start": 173.815,
+          "end": 174.637,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 174.677,
+          "end": 174.978,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 175.299,
+          "end": 175.419,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "call",
+          "start": 175.479,
+          "end": 175.72,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 175.78,
+          "end": 175.88,
+          "score": 0.981,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 175.92,
+          "end": 176.101,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "manipulations.",
+          "start": 176.121,
+          "end": 176.883,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24829854284014022,
-      "compression_ratio": 1.4242424242424243,
-      "no_speech_prob": 0.14169511198997498
+      "avg_logprob": -0.12477889600789772,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "I",
+      "start": 0.531,
+      "end": 0.591,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "am",
+      "start": 0.631,
+      "end": 0.711,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "double",
+      "start": 0.851,
+      "end": 1.091,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated",
+      "start": 1.131,
+      "end": 1.692,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 1.732,
+      "end": 1.872,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "AstraZeneca,",
+      "start": 1.952,
+      "end": 2.672,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 2.692,
+      "end": 2.812,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 2.832,
+      "end": 2.952,
+      "score": 0.617,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now",
+      "start": 3.012,
+      "end": 3.172,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 3.192,
+      "end": 3.372,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "withdrawn.",
+      "start": 3.733,
+      "end": 5.213,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 5.553,
+      "end": 5.633,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ministers",
+      "start": 5.653,
+      "end": 6.074,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "may",
+      "start": 6.634,
+      "end": 6.754,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "understandably",
+      "start": 6.794,
+      "end": 7.334,
+      "score": 0.663,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wish",
+      "start": 7.374,
+      "end": 7.554,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 7.594,
+      "end": 7.694,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "defer",
+      "start": 8.234,
+      "end": 8.675,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "responsibility",
+      "start": 8.735,
+      "end": 9.655,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 9.935,
+      "end": 10.055,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 10.075,
+      "end": 10.115,
+      "score": 0.492,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "decision",
+      "start": 10.155,
+      "end": 10.595,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "such",
+      "start": 10.655,
+      "end": 10.836,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 10.936,
+      "end": 11.036,
+      "score": 0.659,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "withdrawing",
+      "start": 11.296,
+      "end": 11.956,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 11.976,
+      "end": 12.036,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccines",
+      "start": 12.296,
+      "end": 12.916,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 13.116,
+      "end": 13.297,
+      "score": 0.712,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 13.317,
+      "end": 13.397,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "population",
+      "start": 13.457,
+      "end": 14.037,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 14.357,
+      "end": 14.517,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 14.537,
+      "end": 14.617,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "regulators,",
+      "start": 14.677,
+      "end": 15.217,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "such",
+      "start": 15.237,
+      "end": 15.397,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 15.457,
+      "end": 15.537,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 15.577,
+      "end": 15.678,
+      "score": 0.682,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "MHRA,",
+      "start": 16.538,
+      "end": 17.138,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 17.198,
+      "end": 17.258,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 17.298,
+      "end": 17.358,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "America",
+      "start": 17.418,
+      "end": 17.778,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 17.858,
+      "end": 17.958,
+      "score": 0.362,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 18.019,
+      "end": 18.199,
+      "score": 0.25,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 18.219,
+      "end": 18.319,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 18.339,
+      "end": 18.399,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "FDA.",
+      "start": 18.539,
+      "end": 19.859,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Historically,",
+      "start": 19.979,
+      "end": 20.56,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 20.58,
+      "end": 20.72,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "undertaking",
+      "start": 20.76,
+      "end": 21.26,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 21.28,
+      "end": 21.36,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "approval",
+      "start": 21.4,
+      "end": 21.88,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 21.92,
+      "end": 21.96,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "any",
+      "start": 22.02,
+      "end": 22.14,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drug,",
+      "start": 22.2,
+      "end": 22.44,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 22.981,
+      "end": 23.101,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "regulators",
+      "start": 23.141,
+      "end": 23.621,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "themselves",
+      "start": 23.641,
+      "end": 24.101,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ultimately",
+      "start": 24.161,
+      "end": 24.581,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "end",
+      "start": 24.621,
+      "end": 24.761,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 24.781,
+      "end": 24.821,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "relying",
+      "start": 24.901,
+      "end": 25.482,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 26.102,
+      "end": 26.162,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.182,
+      "end": 26.262,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "summary",
+      "start": 26.362,
+      "end": 26.662,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "results",
+      "start": 26.702,
+      "end": 27.102,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 27.302,
+      "end": 27.402,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 27.442,
+      "end": 27.522,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drug",
+      "start": 27.562,
+      "end": 27.763,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "companies.",
+      "start": 27.803,
+      "end": 28.223,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 28.943,
+      "end": 29.003,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 29.023,
+      "end": 29.143,
+      "score": 0.366,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sponsored",
+      "start": 29.163,
+      "end": 29.623,
+      "score": 0.626,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trials,",
+      "start": 29.643,
+      "end": 30.043,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 30.383,
+      "end": 30.543,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 30.563,
+      "end": 30.643,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "raw",
+      "start": 30.703,
+      "end": 31.003,
+      "score": 0.702,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data",
+      "start": 31.063,
+      "end": 31.484,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 31.864,
+      "end": 31.944,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kept",
+      "start": 32.044,
+      "end": 32.304,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "commercially",
+      "start": 32.384,
+      "end": 32.924,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "confidential.",
+      "start": 33.724,
+      "end": 34.424,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Furthermore,",
+      "start": 35.004,
+      "end": 35.424,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 35.464,
+      "end": 35.544,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "MHRA",
+      "start": 35.704,
+      "end": 36.365,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 36.765,
+      "end": 36.905,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 36.925,
+      "end": 36.965,
+      "score": 0.493,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "huge",
+      "start": 37.045,
+      "end": 37.425,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "financial",
+      "start": 37.525,
+      "end": 38.025,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conflict",
+      "start": 38.125,
+      "end": 38.565,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 38.585,
+      "end": 38.645,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interest,",
+      "start": 38.705,
+      "end": 39.125,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "receiving",
+      "start": 39.545,
+      "end": 40.345,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "86%",
+      "start": 40.405,
+      "end": 41.045,
+      "score": 0.617,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 41.105,
+      "end": 41.145,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "its",
+      "start": 41.185,
+      "end": 41.305,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "funding",
+      "start": 41.366,
+      "end": 41.766,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 42.066,
+      "end": 42.226,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 42.246,
+      "end": 42.306,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmaceutical",
+      "start": 42.346,
+      "end": 42.966,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "industry",
+      "start": 43.006,
+      "end": 43.326,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 43.346,
+      "end": 43.446,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 43.466,
+      "end": 43.546,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "supposed",
+      "start": 43.566,
+      "end": 43.866,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 43.906,
+      "end": 43.966,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "regulate.",
+      "start": 44.006,
+      "end": 44.466,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "In",
+      "start": 45.086,
+      "end": 45.226,
+      "score": 0.679,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "effect,",
+      "start": 45.426,
+      "end": 45.786,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Madam",
+      "start": 45.846,
+      "end": 46.046,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Deputy",
+      "start": 46.086,
+      "end": 46.427,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Speaker,",
+      "start": 46.447,
+      "end": 46.967,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we've",
+      "start": 47.267,
+      "end": 47.427,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 47.447,
+      "end": 47.547,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 47.567,
+      "end": 47.647,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "poacher",
+      "start": 47.687,
+      "end": 48.087,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "paying",
+      "start": 48.147,
+      "end": 48.527,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 48.587,
+      "end": 48.667,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gamekeeper.",
+      "start": 48.707,
+      "end": 49.387,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "As",
+      "start": 49.807,
+      "end": 49.907,
+      "score": 0.621,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pointed",
+      "start": 49.987,
+      "end": 50.307,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 50.387,
+      "end": 50.567,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 50.647,
+      "end": 50.747,
+      "score": 0.54,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 50.967,
+      "end": 50.987,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recent",
+      "start": 51.047,
+      "end": 51.388,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "BMJ",
+      "start": 51.488,
+      "end": 52.108,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "investigation,",
+      "start": 52.148,
+      "end": 52.968,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 54.028,
+      "end": 54.248,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 54.268,
+      "end": 54.328,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "financial",
+      "start": 54.388,
+      "end": 54.808,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conflicts",
+      "start": 54.868,
+      "end": 55.308,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 55.328,
+      "end": 55.388,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interest",
+      "start": 55.429,
+      "end": 55.909,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 56.049,
+      "end": 56.129,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 56.149,
+      "end": 56.209,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drug",
+      "start": 56.249,
+      "end": 56.449,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "regulators,",
+      "start": 56.509,
+      "end": 57.089,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sociologist",
+      "start": 57.609,
+      "end": 58.71,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "David",
+      "start": 58.77,
+      "end": 59.59,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Donald",
+      "start": 59.67,
+      "end": 59.99,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Light",
+      "start": 60.07,
+      "end": 60.37,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "said",
+      "start": 60.43,
+      "end": 60.59,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 60.63,
+      "end": 60.67,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them,",
+      "start": 60.71,
+      "end": 60.85,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 61.43,
+      "end": 61.55,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 61.59,
+      "end": 61.691,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "opposite",
+      "start": 61.791,
+      "end": 62.191,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 62.211,
+      "end": 62.271,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "having",
+      "start": 62.351,
+      "end": 62.611,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 62.651,
+      "end": 62.711,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trustworthy",
+      "start": 62.791,
+      "end": 63.331,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "organisation",
+      "start": 63.391,
+      "end": 64.011,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "independently",
+      "start": 64.071,
+      "end": 64.551,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 64.571,
+      "end": 64.651,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rigorously",
+      "start": 64.691,
+      "end": 65.112,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "assessing",
+      "start": 65.152,
+      "end": 65.532,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicines.",
+      "start": 65.852,
+      "end": 66.332,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They're",
+      "start": 66.812,
+      "end": 67.012,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 67.052,
+      "end": 67.172,
+      "score": 0.681,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rigorous,",
+      "start": 67.252,
+      "end": 67.632,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they're",
+      "start": 68.213,
+      "end": 68.373,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 68.393,
+      "end": 68.513,
+      "score": 0.651,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "independent,",
+      "start": 68.553,
+      "end": 69.173,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they're",
+      "start": 69.733,
+      "end": 69.953,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "selective",
+      "start": 69.973,
+      "end": 70.513,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 71.033,
+      "end": 71.134,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 71.154,
+      "end": 71.294,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "withhold",
+      "start": 71.314,
+      "end": 71.694,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data.",
+      "start": 71.754,
+      "end": 72.114,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Doctors",
+      "start": 72.414,
+      "end": 72.754,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 72.794,
+      "end": 72.874,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 72.934,
+      "end": 73.414,
+      "score": 0.74,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "must",
+      "start": 73.494,
+      "end": 73.674,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "appreciate",
+      "start": 73.754,
+      "end": 74.395,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 74.435,
+      "end": 74.595,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "deeply",
+      "start": 74.675,
+      "end": 75.115,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 75.495,
+      "end": 75.575,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "extensively",
+      "start": 75.635,
+      "end": 76.355,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drug",
+      "start": 76.415,
+      "end": 76.675,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "regulators",
+      "start": 76.735,
+      "end": 77.295,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 77.416,
+      "end": 77.676,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 77.716,
+      "end": 77.796,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trusted",
+      "start": 77.856,
+      "end": 78.256,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 78.576,
+      "end": 78.696,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long",
+      "start": 78.716,
+      "end": 78.896,
+      "score": 0.612,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 78.936,
+      "end": 78.996,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they're",
+      "start": 79.016,
+      "end": 79.196,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "captured",
+      "start": 79.276,
+      "end": 79.716,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 80.156,
+      "end": 80.296,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 80.336,
+      "end": 80.436,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "industry",
+      "start": 80.496,
+      "end": 80.897,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "funding.",
+      "start": 80.957,
+      "end": 81.337,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Similarly,",
+      "start": 82.257,
+      "end": 82.578,
+      "score": 0.458,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "another",
+      "start": 82.618,
+      "end": 82.878,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "investigation",
+      "start": 82.918,
+      "end": 83.599,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "revealed",
+      "start": 83.639,
+      "end": 83.959,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 83.999,
+      "end": 84.1,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "members",
+      "start": 84.18,
+      "end": 84.5,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 84.54,
+      "end": 84.6,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 84.64,
+      "end": 84.74,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "JCVI",
+      "start": 85.121,
+      "end": 86.042,
+      "score": 0.618,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 86.583,
+      "end": 86.743,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "huge",
+      "start": 86.803,
+      "end": 87.204,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "financial",
+      "start": 87.284,
+      "end": 87.744,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "links",
+      "start": 87.784,
+      "end": 88.045,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 88.085,
+      "end": 88.225,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 88.245,
+      "end": 88.305,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Bill",
+      "start": 88.345,
+      "end": 88.525,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 88.585,
+      "end": 88.665,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Melinda",
+      "start": 88.706,
+      "end": 89.066,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Gates",
+      "start": 89.086,
+      "end": 89.366,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Foundation.",
+      "start": 89.406,
+      "end": 90.027,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Running",
+      "start": 90.288,
+      "end": 90.488,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 90.508,
+      "end": 90.608,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "billions",
+      "start": 90.648,
+      "end": 91.029,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 91.069,
+      "end": 91.149,
+      "score": 0.719,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pounds,",
+      "start": 91.209,
+      "end": 91.549,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 91.83,
+      "end": 91.93,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ministers,",
+      "start": 91.99,
+      "end": 92.45,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 92.49,
+      "end": 92.571,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "media",
+      "start": 92.611,
+      "end": 92.971,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 93.011,
+      "end": 93.071,
+      "score": 0.585,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 93.091,
+      "end": 93.211,
+      "score": 0.325,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "public",
+      "start": 93.251,
+      "end": 93.552,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 93.572,
+      "end": 93.792,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 93.812,
+      "end": 93.932,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 93.952,
+      "end": 94.012,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "foundation",
+      "start": 94.092,
+      "end": 94.593,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "itself",
+      "start": 94.934,
+      "end": 95.234,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 95.294,
+      "end": 95.374,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heavily",
+      "start": 95.474,
+      "end": 95.895,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "invested",
+      "start": 95.955,
+      "end": 96.355,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 96.395,
+      "end": 96.435,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 96.476,
+      "end": 96.536,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharmaceutical",
+      "start": 96.576,
+      "end": 97.257,
+      "score": 0.588,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "industry",
+      "start": 97.277,
+      "end": 97.617,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stock.",
+      "start": 97.637,
+      "end": 97.957,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Unfortunately,",
+      "start": 98.914,
+      "end": 99.474,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 99.494,
+      "end": 99.574,
+      "score": 0.529,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "catastrophic",
+      "start": 99.634,
+      "end": 100.435,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mistake",
+      "start": 100.475,
+      "end": 100.935,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "over",
+      "start": 101.635,
+      "end": 101.775,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 101.815,
+      "end": 101.895,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "approval",
+      "start": 101.935,
+      "end": 102.456,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 102.476,
+      "end": 102.536,
+      "score": 0.059,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 102.936,
+      "end": 102.996,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "coercion",
+      "start": 103.056,
+      "end": 103.616,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "associated",
+      "start": 103.656,
+      "end": 104.357,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 104.397,
+      "end": 104.497,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 104.517,
+      "end": 104.657,
+      "score": 0.577,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "emergency",
+      "start": 104.697,
+      "end": 105.257,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "use",
+      "start": 105.397,
+      "end": 105.577,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "authorisation",
+      "start": 106.117,
+      "end": 106.938,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 106.998,
+      "end": 107.298,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "intervention",
+      "start": 107.338,
+      "end": 107.898,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 108.358,
+      "end": 108.438,
+      "score": 0.512,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 108.518,
+      "end": 108.679,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 108.739,
+      "end": 108.779,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anomaly,",
+      "start": 108.839,
+      "end": 109.239,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 109.299,
+      "end": 109.419,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 109.439,
+      "end": 109.499,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "many",
+      "start": 109.539,
+      "end": 109.719,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ways",
+      "start": 109.779,
+      "end": 110.059,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 110.579,
+      "end": 110.639,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "could",
+      "start": 110.679,
+      "end": 110.8,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 110.84,
+      "end": 110.94,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 110.96,
+      "end": 111.1,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "predicted",
+      "start": 111.16,
+      "end": 111.68,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 112.1,
+      "end": 112.22,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "structural",
+      "start": 112.28,
+      "end": 112.82,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "failures",
+      "start": 112.941,
+      "end": 113.361,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 113.401,
+      "end": 113.501,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 113.521,
+      "end": 113.621,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "allowed",
+      "start": 113.661,
+      "end": 114.001,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 114.421,
+      "end": 114.581,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 114.621,
+      "end": 114.721,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "occur",
+      "start": 114.761,
+      "end": 115.061,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 115.081,
+      "end": 115.142,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 115.182,
+      "end": 115.262,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 115.302,
+      "end": 115.542,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "place.",
+      "start": 115.602,
+      "end": 115.822,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "These",
+      "start": 116.402,
+      "end": 116.602,
+      "score": 0.713,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shortcomings",
+      "start": 116.702,
+      "end": 117.403,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 117.843,
+      "end": 117.943,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rooted",
+      "start": 117.983,
+      "end": 118.383,
+      "score": 0.757,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 118.823,
+      "end": 118.883,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 118.903,
+      "end": 119.003,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "increasingly",
+      "start": 119.043,
+      "end": 119.664,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unchecked",
+      "start": 119.784,
+      "end": 120.264,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "visible",
+      "start": 120.364,
+      "end": 120.784,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 120.964,
+      "end": 121.084,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "invisible",
+      "start": 121.165,
+      "end": 121.625,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "power",
+      "start": 121.705,
+      "end": 122.045,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 122.485,
+      "end": 122.565,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "multinational",
+      "start": 122.645,
+      "end": 123.486,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "corporations,",
+      "start": 123.526,
+      "end": 124.226,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 124.246,
+      "end": 124.306,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 124.326,
+      "end": 124.446,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "case",
+      "start": 124.486,
+      "end": 124.686,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Big",
+      "start": 124.726,
+      "end": 124.886,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pharma.",
+      "start": 124.946,
+      "end": 125.287,
+      "score": 0.513,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We",
+      "start": 125.807,
+      "end": 125.907,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "start",
+      "start": 125.967,
+      "end": 126.267,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 126.287,
+      "end": 126.427,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "acknowledging",
+      "start": 126.467,
+      "end": 126.907,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 126.927,
+      "end": 127.047,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 127.068,
+      "end": 127.148,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drug",
+      "start": 127.168,
+      "end": 127.348,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "industry",
+      "start": 127.388,
+      "end": 127.788,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 127.848,
+      "end": 128.028,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 128.068,
+      "end": 128.088,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fiduciary",
+      "start": 128.148,
+      "end": 128.808,
+      "score": 0.751,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "obligation",
+      "start": 128.908,
+      "end": 129.529,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 129.849,
+      "end": 129.929,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "produce",
+      "start": 129.969,
+      "end": 130.229,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "profit",
+      "start": 130.329,
+      "end": 130.669,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 130.689,
+      "end": 130.789,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 130.809,
+      "end": 130.949,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shareholders.",
+      "start": 130.969,
+      "end": 131.53,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Madam",
+      "start": 132.09,
+      "end": 132.33,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Deputy",
+      "start": 132.35,
+      "end": 132.69,
+      "score": 0.644,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Speaker,",
+      "start": 132.73,
+      "end": 133.03,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 133.051,
+      "end": 133.151,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 133.191,
+      "end": 133.331,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 133.491,
+      "end": 133.711,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fiduciary",
+      "start": 133.791,
+      "end": 134.251,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "obligation",
+      "start": 134.291,
+      "end": 134.811,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 134.831,
+      "end": 134.871,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "provide",
+      "start": 135.192,
+      "end": 135.572,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 135.592,
+      "end": 135.652,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right",
+      "start": 135.712,
+      "end": 135.992,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicines",
+      "start": 136.612,
+      "end": 137.072,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 137.133,
+      "end": 137.293,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients.",
+      "start": 137.353,
+      "end": 137.853,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 138.353,
+      "end": 138.433,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "real",
+      "start": 138.473,
+      "end": 138.693,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scandal",
+      "start": 138.753,
+      "end": 139.173,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 139.194,
+      "end": 139.274,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 139.454,
+      "end": 139.594,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 139.634,
+      "end": 139.914,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 139.974,
+      "end": 140.094,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 140.114,
+      "end": 140.174,
+      "score": 0.349,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "responsibility",
+      "start": 140.214,
+      "end": 140.994,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 141.014,
+      "end": 141.074,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 141.114,
+      "end": 141.515,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 142.135,
+      "end": 142.235,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientific",
+      "start": 142.335,
+      "end": 142.855,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "integrity,",
+      "start": 142.895,
+      "end": 143.376,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "namely",
+      "start": 143.416,
+      "end": 143.676,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors,",
+      "start": 143.716,
+      "end": 144.136,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "academic",
+      "start": 144.776,
+      "end": 145.196,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "institutions",
+      "start": 145.236,
+      "end": 145.837,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 145.877,
+      "end": 145.957,
+      "score": 0.501,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 146.017,
+      "end": 146.397,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "journals,",
+      "start": 146.477,
+      "end": 146.957,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "collude",
+      "start": 147.718,
+      "end": 148.198,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 148.238,
+      "end": 148.398,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 148.438,
+      "end": 148.538,
+      "score": 0.745,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "industry",
+      "start": 148.578,
+      "end": 149.038,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 149.278,
+      "end": 149.398,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "financial",
+      "start": 149.439,
+      "end": 149.879,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gain.",
+      "start": 149.919,
+      "end": 150.199,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Big",
+      "start": 150.939,
+      "end": 151.099,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pharma",
+      "start": 151.179,
+      "end": 151.5,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "exerts",
+      "start": 151.58,
+      "end": 151.9,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "its",
+      "start": 151.96,
+      "end": 152.06,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "power",
+      "start": 152.1,
+      "end": 152.4,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 152.44,
+      "end": 152.56,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "capturing",
+      "start": 152.68,
+      "end": 153.14,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 153.16,
+      "end": 153.26,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "political",
+      "start": 153.28,
+      "end": 153.601,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "environment",
+      "start": 153.641,
+      "end": 154.201,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 154.541,
+      "end": 154.761,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lobbying,",
+      "start": 154.801,
+      "end": 155.241,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 155.762,
+      "end": 155.842,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "knowledge",
+      "start": 155.882,
+      "end": 156.182,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "environment",
+      "start": 156.242,
+      "end": 156.782,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 156.802,
+      "end": 157.022,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "funding",
+      "start": 157.062,
+      "end": 157.362,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "university",
+      "start": 157.402,
+      "end": 157.843,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "research",
+      "start": 157.883,
+      "end": 158.323,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 158.423,
+      "end": 158.523,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "influencing",
+      "start": 158.583,
+      "end": 159.083,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 159.143,
+      "end": 159.463,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "education.",
+      "start": 159.503,
+      "end": 160.024,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "preference",
+      "start": 160.764,
+      "end": 161.205,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shaping",
+      "start": 161.245,
+      "end": 161.646,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 161.666,
+      "end": 161.867,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "capture",
+      "start": 161.907,
+      "end": 162.308,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 162.348,
+      "end": 162.408,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 162.468,
+      "end": 162.548,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "media,",
+      "start": 162.629,
+      "end": 163.07,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "financing,",
+      "start": 163.531,
+      "end": 164.253,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 164.393,
+      "end": 164.613,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tanks,",
+      "start": 164.653,
+      "end": 165.014,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "etc.",
+      "start": 165.074,
+      "end": 165.536,
+      "score": 0.696,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "etc.",
+      "start": 165.596,
+      "end": 166.097,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "In",
+      "start": 166.999,
+      "end": 167.059,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 167.099,
+      "end": 167.24,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "words,",
+      "start": 167.28,
+      "end": 167.54,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 167.56,
+      "end": 167.661,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PR",
+      "start": 167.721,
+      "end": 168.021,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "machinery",
+      "start": 168.062,
+      "end": 168.543,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 168.563,
+      "end": 168.603,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pharma",
+      "start": 168.623,
+      "end": 169.104,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "excels",
+      "start": 170.167,
+      "end": 170.648,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 170.688,
+      "end": 170.768,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "substitute",
+      "start": 170.828,
+      "end": 171.41,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "subterfuge,",
+      "start": 171.65,
+      "end": 172.272,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "engages",
+      "start": 172.332,
+      "end": 172.853,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 172.893,
+      "end": 172.973,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "smearing",
+      "start": 173.094,
+      "end": 173.615,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 173.675,
+      "end": 173.775,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "deplatforming",
+      "start": 173.815,
+      "end": 174.637,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 174.677,
+      "end": 174.978,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 175.299,
+      "end": 175.419,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "call",
+      "start": 175.479,
+      "end": 175.72,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 175.78,
+      "end": 175.88,
+      "score": 0.981,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 175.92,
+      "end": 176.101,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "manipulations.",
+      "start": 176.121,
+      "end": 176.883,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

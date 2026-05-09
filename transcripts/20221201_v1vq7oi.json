@@ -1,369 +1,1806 @@
 {
-  "text": " Evidence-based medicine, unfortunately, has become an illusion because it's been hijacked by commercial interests. So if one looks at the best available evidence, and I cite somebody who I would probably call a Stephen Hawking-like figure of medicine, John I. Needis, Professor of Medicine at Stanford, he is the most cited medical scientist in the world. And he basically published a paper not so long ago, essentially suggesting that most medical research is at very least misleading, if not false. And the reason for that is the drug companies, who actually determine a lot of the research that doctors make clinical decisions on, have biased and corrupted the information, which what that means is you have an exaggerated view of the benefits and the safety of those medications.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.52,
-      "text": " Evidence-based medicine, unfortunately, has become an illusion",
-      "tokens": [
-        50364,
-        5689,
-        2778,
-        12,
-        6032,
-        7195,
-        11,
-        7015,
-        11,
-        575,
-        1813,
-        364,
-        18854,
-        50540
+      "start": 0.111,
+      "end": 6.093,
+      "text": " evidence-based medicine, unfortunately, has become an illusion because it's been hijacked by commercial interests.",
+      "words": [
+        {
+          "word": "evidence-based",
+          "start": 0.111,
+          "end": 0.691,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine,",
+          "start": 0.731,
+          "end": 1.131,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unfortunately,",
+          "start": 1.211,
+          "end": 1.752,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 1.772,
+          "end": 1.872,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "become",
+          "start": 1.932,
+          "end": 2.192,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 2.212,
+          "end": 2.272,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "illusion",
+          "start": 2.352,
+          "end": 2.892,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 3.532,
+          "end": 3.772,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 3.792,
+          "end": 3.912,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 3.932,
+          "end": 4.112,
+          "score": 0.693,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hijacked",
+          "start": 4.172,
+          "end": 4.753,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 5.053,
+          "end": 5.213,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "commercial",
+          "start": 5.293,
+          "end": 5.693,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interests.",
+          "start": 5.713,
+          "end": 6.093,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
+      "avg_logprob": -0.09572987687097836,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.52,
-      "end": 6.08,
-      "text": " because it's been hijacked by commercial interests.",
-      "tokens": [
-        50540,
-        570,
-        309,
-        311,
-        668,
-        10625,
-        25949,
-        538,
-        6841,
-        8847,
-        13,
-        50668
+      "start": 6.153,
+      "end": 17.757,
+      "text": "So if one looks at the best available evidence, and I cite somebody who I would probably call a Stephen Hawking-like figure of medicine, John Ioannidis, professor of medicine at Stanford, he is the most cited medical scientist in the world.",
+      "words": [
+        {
+          "word": "So",
+          "start": 6.153,
+          "end": 6.353,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 6.713,
+          "end": 6.773,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 6.873,
+          "end": 6.953,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "looks",
+          "start": 6.973,
+          "end": 7.153,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 7.193,
+          "end": 7.253,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 7.273,
+          "end": 7.353,
+          "score": 0.827,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "best",
+          "start": 7.373,
+          "end": 7.533,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "available",
+          "start": 7.573,
+          "end": 7.874,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "evidence,",
+          "start": 7.914,
+          "end": 8.214,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 8.234,
+          "end": 8.314,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 8.354,
+          "end": 8.434,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cite",
+          "start": 8.474,
+          "end": 8.774,
+          "score": 0.454,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "somebody",
+          "start": 9.134,
+          "end": 9.494,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 9.594,
+          "end": 9.734,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 9.874,
+          "end": 9.954,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 10.014,
+          "end": 10.174,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "probably",
+          "start": 10.254,
+          "end": 10.594,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "call",
+          "start": 10.654,
+          "end": 10.835,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 10.895,
+          "end": 10.935,
+          "score": 0.419,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Stephen",
+          "start": 10.975,
+          "end": 11.335,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Hawking-like",
+          "start": 11.395,
+          "end": 11.995,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "figure",
+          "start": 12.055,
+          "end": 12.275,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 12.315,
+          "end": 12.375,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine,",
+          "start": 12.415,
+          "end": 12.755,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "John",
+          "start": 13.035,
+          "end": 13.235,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Ioannidis,",
+          "start": 13.335,
+          "end": 13.776,
+          "score": 0.696,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "professor",
+          "start": 13.816,
+          "end": 14.116,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 14.156,
+          "end": 14.216,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine",
+          "start": 14.236,
+          "end": 14.516,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 14.536,
+          "end": 14.596,
+          "score": 0.464,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Stanford,",
+          "start": 14.616,
+          "end": 15.076,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 15.756,
+          "end": 15.916,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 15.976,
+          "end": 16.036,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 16.056,
+          "end": 16.116,
+          "score": 0.424,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 16.156,
+          "end": 16.276,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cited",
+          "start": 16.316,
+          "end": 16.616,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 16.656,
+          "end": 16.937,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "scientist",
+          "start": 16.977,
+          "end": 17.317,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 17.337,
+          "end": 17.397,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 17.417,
+          "end": 17.497,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world.",
+          "start": 17.537,
+          "end": 17.757,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
+      "avg_logprob": -0.09572987687097836,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 6.08,
-      "end": 8.24,
-      "text": " So if one looks at the best available evidence,",
-      "tokens": [
-        50668,
-        407,
-        498,
-        472,
-        1542,
-        412,
-        264,
-        1151,
-        2435,
-        4467,
-        11,
-        50776
+      "start": 18.577,
+      "end": 27.349,
+      "text": " And he basically published a paper not so long ago essentially suggesting that most medical research is very least misleading if not false.",
+      "words": [
+        {
+          "word": "And",
+          "start": 18.577,
+          "end": 18.737,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 18.938,
+          "end": 19.098,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "basically",
+          "start": 19.138,
+          "end": 19.639,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "published",
+          "start": 19.719,
+          "end": 20.079,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 20.119,
+          "end": 20.159,
+          "score": 0.282,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "paper",
+          "start": 20.36,
+          "end": 20.64,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 20.68,
+          "end": 20.78,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 20.82,
+          "end": 20.94,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "long",
+          "start": 20.98,
+          "end": 21.141,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ago",
+          "start": 21.181,
+          "end": 21.441,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "essentially",
+          "start": 21.922,
+          "end": 22.362,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "suggesting",
+          "start": 22.402,
+          "end": 22.843,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 22.903,
+          "end": 23.003,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 23.143,
+          "end": 23.424,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 23.544,
+          "end": 23.884,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "research",
+          "start": 23.944,
+          "end": 24.445,
+          "score": 0.7,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 25.046,
+          "end": 25.166,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "very",
+          "start": 25.687,
+          "end": 25.907,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "least",
+          "start": 25.967,
+          "end": 26.147,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "misleading",
+          "start": 26.207,
+          "end": 26.688,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 26.748,
+          "end": 26.808,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 26.868,
+          "end": 27.008,
+          "score": 0.492,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "false.",
+          "start": 27.048,
+          "end": 27.349,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
+      "avg_logprob": -0.06421875238418578,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 8.24,
-      "end": 13.0,
-      "text": " and I cite somebody who I would probably call a Stephen Hawking-like figure of medicine,",
-      "tokens": [
-        50776,
-        293,
-        286,
-        37771,
-        2618,
-        567,
-        286,
-        576,
-        1391,
-        818,
-        257,
-        13391,
-        9325,
-        5092,
-        12,
-        4092,
-        2573,
-        295,
-        7195,
-        11,
-        51014
+      "start": 27.909,
+      "end": 43.41,
+      "text": "And the reason for that is the drug companies who actually determine a lot of the research that doctors make clinical decisions on have biased and corrupted the information, which what that means is you have an exaggerated view of the benefits and the safety of those medications.",
+      "words": [
+        {
+          "word": "And",
+          "start": 27.909,
+          "end": 27.99,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 28.03,
+          "end": 28.11,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reason",
+          "start": 28.15,
+          "end": 28.43,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 28.47,
+          "end": 28.57,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 28.61,
+          "end": 28.811,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 28.971,
+          "end": 29.111,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 29.492,
+          "end": 29.592,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drug",
+          "start": 29.652,
+          "end": 29.932,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "companies",
+          "start": 29.972,
+          "end": 30.593,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 31.214,
+          "end": 31.414,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 31.534,
+          "end": 31.915,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "determine",
+          "start": 32.115,
+          "end": 32.535,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 32.556,
+          "end": 32.596,
+          "score": 0.584,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 32.636,
+          "end": 32.756,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 32.776,
+          "end": 32.836,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 32.856,
+          "end": 32.916,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "research",
+          "start": 32.956,
+          "end": 33.296,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 33.317,
+          "end": 33.437,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors",
+          "start": 33.477,
+          "end": 33.737,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 33.777,
+          "end": 33.917,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "clinical",
+          "start": 33.937,
+          "end": 34.238,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "decisions",
+          "start": 34.278,
+          "end": 34.658,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 34.738,
+          "end": 34.838,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 35.239,
+          "end": 35.399,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "biased",
+          "start": 35.479,
+          "end": 35.86,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 35.9,
+          "end": 35.98,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "corrupted",
+          "start": 36.04,
+          "end": 36.36,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 36.38,
+          "end": 36.441,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "information,",
+          "start": 36.481,
+          "end": 36.981,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 37.021,
+          "end": 37.162,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 37.182,
+          "end": 37.302,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 37.342,
+          "end": 37.442,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "means",
+          "start": 37.502,
+          "end": 37.702,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 37.782,
+          "end": 37.862,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 38.183,
+          "end": 38.303,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 38.343,
+          "end": 38.463,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 38.483,
+          "end": 38.543,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "exaggerated",
+          "start": 38.623,
+          "end": 39.485,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "view",
+          "start": 39.625,
+          "end": 39.945,
+          "score": 0.691,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 40.666,
+          "end": 40.726,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 40.786,
+          "end": 40.866,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "benefits",
+          "start": 40.926,
+          "end": 41.347,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 41.547,
+          "end": 41.647,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 41.707,
+          "end": 41.788,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safety",
+          "start": 41.868,
+          "end": 42.308,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 42.488,
+          "end": 42.569,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 42.629,
+          "end": 42.809,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medications.",
+          "start": 42.869,
+          "end": 43.41,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 13.0,
-      "end": 15.68,
-      "text": " John I. Needis, Professor of Medicine at Stanford,",
-      "tokens": [
-        51014,
-        2619,
-        286,
-        13,
-        16984,
-        271,
-        11,
-        8419,
-        295,
-        20338,
-        412,
-        20374,
-        11,
-        51148
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
-    },
-    {
-      "id": 5,
-      "seek": 0,
-      "start": 15.68,
-      "end": 18.44,
-      "text": " he is the most cited medical scientist in the world.",
-      "tokens": [
-        51148,
-        415,
-        307,
-        264,
-        881,
-        30134,
-        4625,
-        12662,
-        294,
-        264,
-        1002,
-        13,
-        51286
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 18.44,
-      "end": 21.88,
-      "text": " And he basically published a paper not so long ago,",
-      "tokens": [
-        51286,
-        400,
-        415,
-        1936,
-        6572,
-        257,
-        3035,
-        406,
-        370,
-        938,
-        2057,
-        11,
-        51458
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 21.88,
-      "end": 24.92,
-      "text": " essentially suggesting that most medical research",
-      "tokens": [
-        51458,
-        4476,
-        18094,
-        300,
-        881,
-        4625,
-        2132,
-        51610
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
-    },
-    {
-      "id": 8,
-      "seek": 0,
-      "start": 24.92,
-      "end": 27.88,
-      "text": " is at very least misleading, if not false.",
-      "tokens": [
-        51610,
-        307,
-        412,
-        588,
-        1935,
-        36429,
-        11,
-        498,
-        406,
-        7908,
-        13,
-        51758
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19779955651149278,
-      "compression_ratio": 1.597444089456869,
-      "no_speech_prob": 0.00363500090315938
-    },
-    {
-      "id": 9,
-      "seek": 2788,
-      "start": 27.88,
-      "end": 31.08,
-      "text": " And the reason for that is the drug companies,",
-      "tokens": [
-        50364,
-        400,
-        264,
-        1778,
-        337,
-        300,
-        307,
-        264,
-        4110,
-        3431,
-        11,
-        50524
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1741719018845331,
-      "compression_ratio": 1.5754189944134078,
-      "no_speech_prob": 0.006180024240165949
-    },
-    {
-      "id": 10,
-      "seek": 2788,
-      "start": 31.08,
-      "end": 35.2,
-      "text": " who actually determine a lot of the research that doctors make clinical decisions on,",
-      "tokens": [
-        50524,
-        567,
-        767,
-        6997,
-        257,
-        688,
-        295,
-        264,
-        2132,
-        300,
-        8778,
-        652,
-        9115,
-        5327,
-        322,
-        11,
-        50730
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1741719018845331,
-      "compression_ratio": 1.5754189944134078,
-      "no_speech_prob": 0.006180024240165949
-    },
-    {
-      "id": 11,
-      "seek": 2788,
-      "start": 35.2,
-      "end": 37.0,
-      "text": " have biased and corrupted the information,",
-      "tokens": [
-        50730,
-        362,
-        28035,
-        293,
-        39480,
-        264,
-        1589,
-        11,
-        50820
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1741719018845331,
-      "compression_ratio": 1.5754189944134078,
-      "no_speech_prob": 0.006180024240165949
-    },
-    {
-      "id": 12,
-      "seek": 2788,
-      "start": 37.0,
-      "end": 40.6,
-      "text": " which what that means is you have an exaggerated view",
-      "tokens": [
-        50820,
-        597,
-        437,
-        300,
-        1355,
-        307,
-        291,
-        362,
-        364,
-        36196,
-        1910,
-        51000
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1741719018845331,
-      "compression_ratio": 1.5754189944134078,
-      "no_speech_prob": 0.006180024240165949
-    },
-    {
-      "id": 13,
-      "seek": 2788,
-      "start": 40.6,
-      "end": 43.519999999999996,
-      "text": " of the benefits and the safety of those medications.",
-      "tokens": [
-        51000,
-        295,
-        264,
-        5311,
-        293,
-        264,
-        4514,
-        295,
-        729,
-        17504,
-        13,
-        51146
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1741719018845331,
-      "compression_ratio": 1.5754189944134078,
-      "no_speech_prob": 0.006180024240165949
+      "avg_logprob": -0.06421875238418578,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "evidence-based",
+      "start": 0.111,
+      "end": 0.691,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine,",
+      "start": 0.731,
+      "end": 1.131,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unfortunately,",
+      "start": 1.211,
+      "end": 1.752,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 1.772,
+      "end": 1.872,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "become",
+      "start": 1.932,
+      "end": 2.192,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 2.212,
+      "end": 2.272,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "illusion",
+      "start": 2.352,
+      "end": 2.892,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 3.532,
+      "end": 3.772,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 3.792,
+      "end": 3.912,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 3.932,
+      "end": 4.112,
+      "score": 0.693,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hijacked",
+      "start": 4.172,
+      "end": 4.753,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 5.053,
+      "end": 5.213,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "commercial",
+      "start": 5.293,
+      "end": 5.693,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interests.",
+      "start": 5.713,
+      "end": 6.093,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 6.153,
+      "end": 6.353,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 6.713,
+      "end": 6.773,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 6.873,
+      "end": 6.953,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "looks",
+      "start": 6.973,
+      "end": 7.153,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 7.193,
+      "end": 7.253,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 7.273,
+      "end": 7.353,
+      "score": 0.827,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "best",
+      "start": 7.373,
+      "end": 7.533,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "available",
+      "start": 7.573,
+      "end": 7.874,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "evidence,",
+      "start": 7.914,
+      "end": 8.214,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 8.234,
+      "end": 8.314,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 8.354,
+      "end": 8.434,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cite",
+      "start": 8.474,
+      "end": 8.774,
+      "score": 0.454,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "somebody",
+      "start": 9.134,
+      "end": 9.494,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 9.594,
+      "end": 9.734,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 9.874,
+      "end": 9.954,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 10.014,
+      "end": 10.174,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "probably",
+      "start": 10.254,
+      "end": 10.594,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "call",
+      "start": 10.654,
+      "end": 10.835,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 10.895,
+      "end": 10.935,
+      "score": 0.419,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Stephen",
+      "start": 10.975,
+      "end": 11.335,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Hawking-like",
+      "start": 11.395,
+      "end": 11.995,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "figure",
+      "start": 12.055,
+      "end": 12.275,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 12.315,
+      "end": 12.375,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine,",
+      "start": 12.415,
+      "end": 12.755,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "John",
+      "start": 13.035,
+      "end": 13.235,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Ioannidis,",
+      "start": 13.335,
+      "end": 13.776,
+      "score": 0.696,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "professor",
+      "start": 13.816,
+      "end": 14.116,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 14.156,
+      "end": 14.216,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine",
+      "start": 14.236,
+      "end": 14.516,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 14.536,
+      "end": 14.596,
+      "score": 0.464,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Stanford,",
+      "start": 14.616,
+      "end": 15.076,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 15.756,
+      "end": 15.916,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 15.976,
+      "end": 16.036,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 16.056,
+      "end": 16.116,
+      "score": 0.424,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 16.156,
+      "end": 16.276,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cited",
+      "start": 16.316,
+      "end": 16.616,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 16.656,
+      "end": 16.937,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "scientist",
+      "start": 16.977,
+      "end": 17.317,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 17.337,
+      "end": 17.397,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 17.417,
+      "end": 17.497,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world.",
+      "start": 17.537,
+      "end": 17.757,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 18.577,
+      "end": 18.737,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 18.938,
+      "end": 19.098,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "basically",
+      "start": 19.138,
+      "end": 19.639,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "published",
+      "start": 19.719,
+      "end": 20.079,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 20.119,
+      "end": 20.159,
+      "score": 0.282,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "paper",
+      "start": 20.36,
+      "end": 20.64,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 20.68,
+      "end": 20.78,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 20.82,
+      "end": 20.94,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "long",
+      "start": 20.98,
+      "end": 21.141,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ago",
+      "start": 21.181,
+      "end": 21.441,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "essentially",
+      "start": 21.922,
+      "end": 22.362,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "suggesting",
+      "start": 22.402,
+      "end": 22.843,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 22.903,
+      "end": 23.003,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 23.143,
+      "end": 23.424,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 23.544,
+      "end": 23.884,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "research",
+      "start": 23.944,
+      "end": 24.445,
+      "score": 0.7,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 25.046,
+      "end": 25.166,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "very",
+      "start": 25.687,
+      "end": 25.907,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "least",
+      "start": 25.967,
+      "end": 26.147,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "misleading",
+      "start": 26.207,
+      "end": 26.688,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 26.748,
+      "end": 26.808,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 26.868,
+      "end": 27.008,
+      "score": 0.492,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "false.",
+      "start": 27.048,
+      "end": 27.349,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 27.909,
+      "end": 27.99,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 28.03,
+      "end": 28.11,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reason",
+      "start": 28.15,
+      "end": 28.43,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 28.47,
+      "end": 28.57,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 28.61,
+      "end": 28.811,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 28.971,
+      "end": 29.111,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 29.492,
+      "end": 29.592,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drug",
+      "start": 29.652,
+      "end": 29.932,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "companies",
+      "start": 29.972,
+      "end": 30.593,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 31.214,
+      "end": 31.414,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 31.534,
+      "end": 31.915,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "determine",
+      "start": 32.115,
+      "end": 32.535,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 32.556,
+      "end": 32.596,
+      "score": 0.584,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 32.636,
+      "end": 32.756,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 32.776,
+      "end": 32.836,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 32.856,
+      "end": 32.916,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "research",
+      "start": 32.956,
+      "end": 33.296,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 33.317,
+      "end": 33.437,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors",
+      "start": 33.477,
+      "end": 33.737,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 33.777,
+      "end": 33.917,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "clinical",
+      "start": 33.937,
+      "end": 34.238,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "decisions",
+      "start": 34.278,
+      "end": 34.658,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 34.738,
+      "end": 34.838,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 35.239,
+      "end": 35.399,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "biased",
+      "start": 35.479,
+      "end": 35.86,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 35.9,
+      "end": 35.98,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "corrupted",
+      "start": 36.04,
+      "end": 36.36,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 36.38,
+      "end": 36.441,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "information,",
+      "start": 36.481,
+      "end": 36.981,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 37.021,
+      "end": 37.162,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 37.182,
+      "end": 37.302,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 37.342,
+      "end": 37.442,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "means",
+      "start": 37.502,
+      "end": 37.702,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 37.782,
+      "end": 37.862,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 38.183,
+      "end": 38.303,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 38.343,
+      "end": 38.463,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 38.483,
+      "end": 38.543,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "exaggerated",
+      "start": 38.623,
+      "end": 39.485,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "view",
+      "start": 39.625,
+      "end": 39.945,
+      "score": 0.691,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 40.666,
+      "end": 40.726,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 40.786,
+      "end": 40.866,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "benefits",
+      "start": 40.926,
+      "end": 41.347,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 41.547,
+      "end": 41.647,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 41.707,
+      "end": 41.788,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safety",
+      "start": 41.868,
+      "end": 42.308,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 42.488,
+      "end": 42.569,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 42.629,
+      "end": 42.809,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medications.",
+      "start": 42.869,
+      "end": 43.41,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

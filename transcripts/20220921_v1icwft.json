@@ -1,209 +1,1030 @@
 {
-  "text": " I've been into fashion since I can remember. But one day I just stomach ache so bad I didn't want to do anything. The team at New York Presbyterian said it was actually my heart. It was severely swollen. Something called myocarditis. But doctors gave me medicines and used machines to control my heartbeat. It saved me. So now I can become the next great fashion designer.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.0,
+      "start": 0.331,
+      "end": 2.512,
       "text": " I've been into fashion since I can remember.",
-      "tokens": [
-        50364,
-        286,
-        600,
-        668,
-        666,
-        6700,
-        1670,
-        286,
-        393,
-        1604,
-        13,
-        50514
+      "words": [
+        {
+          "word": "I've",
+          "start": 0.331,
+          "end": 0.511,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 0.531,
+          "end": 0.651,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "into",
+          "start": 0.711,
+          "end": 0.951,
+          "score": 0.39,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fashion",
+          "start": 0.991,
+          "end": 1.392,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "since",
+          "start": 1.492,
+          "end": 1.712,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 1.772,
+          "end": 1.832,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 1.872,
+          "end": 2.032,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "remember.",
+          "start": 2.072,
+          "end": 2.512,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.0,
-      "end": 8.0,
-      "text": " But one day I just stomach ache so bad I didn't want to do anything.",
-      "tokens": [
-        50514,
-        583,
-        472,
-        786,
-        286,
-        445,
-        9665,
-        29677,
-        370,
-        1578,
-        286,
-        994,
-        380,
-        528,
-        281,
-        360,
-        1340,
-        13,
-        50764
+      "start": 3.372,
+      "end": 7.414,
+      "text": "But one day I had a stomach ache so bad I didn't want to do anything.",
+      "words": [
+        {
+          "word": "But",
+          "start": 3.372,
+          "end": 3.512,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 3.632,
+          "end": 3.753,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day",
+          "start": 3.793,
+          "end": 3.953,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 3.973,
+          "end": 3.993,
+          "score": 0.001,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 4.013,
+          "end": 4.253,
+          "score": 0.627,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 4.313,
+          "end": 4.413,
+          "score": 0.588,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stomach",
+          "start": 4.433,
+          "end": 4.913,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ache",
+          "start": 4.953,
+          "end": 5.033,
+          "score": 0.221,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 5.253,
+          "end": 5.453,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bad",
+          "start": 5.493,
+          "end": 5.733,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 5.993,
+          "end": 6.053,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "didn't",
+          "start": 6.113,
+          "end": 6.334,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "want",
+          "start": 6.354,
+          "end": 6.494,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 6.534,
+          "end": 6.594,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 6.634,
+          "end": 6.734,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anything.",
+          "start": 7.014,
+          "end": 7.414,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.0,
-      "end": 11.0,
-      "text": " The team at New York Presbyterian said it was actually my heart.",
-      "tokens": [
-        50764,
-        440,
-        1469,
-        412,
-        1873,
-        3609,
-        2718,
-        2322,
-        391,
-        952,
-        848,
-        309,
-        390,
-        767,
-        452,
-        1917,
-        13,
-        50914
+      "start": 8.034,
+      "end": 11.055,
+      "text": "The team at New York Presbyterian said it was actually my heart.",
+      "words": [
+        {
+          "word": "The",
+          "start": 8.034,
+          "end": 8.154,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "team",
+          "start": 8.194,
+          "end": 8.374,
+          "score": 0.699,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 8.414,
+          "end": 8.554,
+          "score": 0.64,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "New",
+          "start": 8.594,
+          "end": 8.695,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "York",
+          "start": 8.735,
+          "end": 8.895,
+          "score": 0.732,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Presbyterian",
+          "start": 8.915,
+          "end": 9.675,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "said",
+          "start": 9.755,
+          "end": 9.895,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 9.935,
+          "end": 9.975,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 10.015,
+          "end": 10.115,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 10.255,
+          "end": 10.595,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 10.655,
+          "end": 10.775,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heart.",
+          "start": 10.815,
+          "end": 11.055,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 11.0,
-      "end": 13.0,
-      "text": " It was severely swollen.",
-      "tokens": [
-        50914,
-        467,
-        390,
-        26271,
-        37559,
-        13,
-        51014
+      "start": 11.336,
+      "end": 12.536,
+      "text": "It was severely swollen.",
+      "words": [
+        {
+          "word": "It",
+          "start": 11.336,
+          "end": 11.396,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 11.436,
+          "end": 11.536,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "severely",
+          "start": 11.596,
+          "end": 12.056,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "swollen.",
+          "start": 12.116,
+          "end": 12.536,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 13.0,
-      "end": 15.0,
-      "text": " Something called myocarditis.",
-      "tokens": [
-        51014,
-        6595,
-        1219,
-        452,
-        905,
-        515,
-        16074,
-        13,
-        51114
+      "start": 12.996,
+      "end": 15.177,
+      "text": "Something called myocarditis.",
+      "words": [
+        {
+          "word": "Something",
+          "start": 12.996,
+          "end": 13.376,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "called",
+          "start": 13.436,
+          "end": 13.877,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "myocarditis.",
+          "start": 14.217,
+          "end": 15.177,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 15.0,
-      "end": 19.0,
-      "text": " But doctors gave me medicines and used machines to control my heartbeat.",
-      "tokens": [
-        51114,
-        583,
-        8778,
-        2729,
-        385,
-        24251,
-        293,
-        1143,
-        8379,
-        281,
-        1969,
-        452,
-        34851,
-        13,
-        51314
+      "start": 15.617,
+      "end": 19.319,
+      "text": "But doctors gave me medicines and used machines to control my heartbeat.",
+      "words": [
+        {
+          "word": "But",
+          "start": 15.617,
+          "end": 15.737,
+          "score": 0.675,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors",
+          "start": 15.797,
+          "end": 16.238,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gave",
+          "start": 16.298,
+          "end": 16.538,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 16.578,
+          "end": 16.698,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicines",
+          "start": 16.758,
+          "end": 17.238,
+          "score": 0.638,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 17.318,
+          "end": 17.398,
+          "score": 0.236,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "used",
+          "start": 17.498,
+          "end": 17.678,
+          "score": 0.461,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "machines",
+          "start": 17.718,
+          "end": 18.218,
+          "score": 0.465,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 18.238,
+          "end": 18.338,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "control",
+          "start": 18.378,
+          "end": 18.739,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 18.759,
+          "end": 18.859,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heartbeat.",
+          "start": 18.879,
+          "end": 19.319,
+          "score": 0.633,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 19.0,
-      "end": 21.0,
-      "text": " It saved me.",
-      "tokens": [
-        51314,
-        467,
-        6624,
-        385,
-        13,
-        51414
+      "start": 19.939,
+      "end": 20.459,
+      "text": "They saved me.",
+      "words": [
+        {
+          "word": "They",
+          "start": 19.939,
+          "end": 20.139,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "saved",
+          "start": 20.159,
+          "end": 20.379,
+          "score": 0.665,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me.",
+          "start": 20.399,
+          "end": 20.459,
+          "score": 0.328,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 21.0,
-      "end": 25.0,
-      "text": " So now I can become the next great fashion designer.",
-      "tokens": [
-        51414,
-        407,
-        586,
-        286,
-        393,
-        1813,
-        264,
-        958,
-        869,
-        6700,
-        11795,
-        13,
-        51614
+      "start": 21.32,
+      "end": 24.361,
+      "text": "So now I can become the next great fashion designer.",
+      "words": [
+        {
+          "word": "So",
+          "start": 21.32,
+          "end": 21.5,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now",
+          "start": 21.56,
+          "end": 21.78,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 21.9,
+          "end": 21.98,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 22.0,
+          "end": 22.12,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "become",
+          "start": 22.14,
+          "end": 22.46,
+          "score": 0.683,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 22.56,
+          "end": 22.74,
+          "score": 0.564,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "next",
+          "start": 22.82,
+          "end": 23.06,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "great",
+          "start": 23.12,
+          "end": 23.32,
+          "score": 0.633,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fashion",
+          "start": 23.441,
+          "end": 23.821,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "designer.",
+          "start": 23.841,
+          "end": 24.361,
+          "score": 0.62,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13492880821228026,
-      "compression_ratio": 1.576271186440678,
-      "no_speech_prob": 0.2205813229084015
+      "avg_logprob": -0.06443014425389906,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "I've",
+      "start": 0.331,
+      "end": 0.511,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 0.531,
+      "end": 0.651,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 0.711,
+      "end": 0.951,
+      "score": 0.39,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fashion",
+      "start": 0.991,
+      "end": 1.392,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "since",
+      "start": 1.492,
+      "end": 1.712,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 1.772,
+      "end": 1.832,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 1.872,
+      "end": 2.032,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "remember.",
+      "start": 2.072,
+      "end": 2.512,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 3.372,
+      "end": 3.512,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 3.632,
+      "end": 3.753,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day",
+      "start": 3.793,
+      "end": 3.953,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 3.973,
+      "end": 3.993,
+      "score": 0.001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 4.013,
+      "end": 4.253,
+      "score": 0.627,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 4.313,
+      "end": 4.413,
+      "score": 0.588,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stomach",
+      "start": 4.433,
+      "end": 4.913,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ache",
+      "start": 4.953,
+      "end": 5.033,
+      "score": 0.221,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 5.253,
+      "end": 5.453,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bad",
+      "start": 5.493,
+      "end": 5.733,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 5.993,
+      "end": 6.053,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "didn't",
+      "start": 6.113,
+      "end": 6.334,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "want",
+      "start": 6.354,
+      "end": 6.494,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 6.534,
+      "end": 6.594,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 6.634,
+      "end": 6.734,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anything.",
+      "start": 7.014,
+      "end": 7.414,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 8.034,
+      "end": 8.154,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "team",
+      "start": 8.194,
+      "end": 8.374,
+      "score": 0.699,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 8.414,
+      "end": 8.554,
+      "score": 0.64,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "New",
+      "start": 8.594,
+      "end": 8.695,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "York",
+      "start": 8.735,
+      "end": 8.895,
+      "score": 0.732,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Presbyterian",
+      "start": 8.915,
+      "end": 9.675,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "said",
+      "start": 9.755,
+      "end": 9.895,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 9.935,
+      "end": 9.975,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 10.015,
+      "end": 10.115,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 10.255,
+      "end": 10.595,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 10.655,
+      "end": 10.775,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heart.",
+      "start": 10.815,
+      "end": 11.055,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 11.336,
+      "end": 11.396,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 11.436,
+      "end": 11.536,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "severely",
+      "start": 11.596,
+      "end": 12.056,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "swollen.",
+      "start": 12.116,
+      "end": 12.536,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Something",
+      "start": 12.996,
+      "end": 13.376,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "called",
+      "start": 13.436,
+      "end": 13.877,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "myocarditis.",
+      "start": 14.217,
+      "end": 15.177,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 15.617,
+      "end": 15.737,
+      "score": 0.675,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors",
+      "start": 15.797,
+      "end": 16.238,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gave",
+      "start": 16.298,
+      "end": 16.538,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 16.578,
+      "end": 16.698,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicines",
+      "start": 16.758,
+      "end": 17.238,
+      "score": 0.638,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 17.318,
+      "end": 17.398,
+      "score": 0.236,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "used",
+      "start": 17.498,
+      "end": 17.678,
+      "score": 0.461,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "machines",
+      "start": 17.718,
+      "end": 18.218,
+      "score": 0.465,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 18.238,
+      "end": 18.338,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "control",
+      "start": 18.378,
+      "end": 18.739,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 18.759,
+      "end": 18.859,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heartbeat.",
+      "start": 18.879,
+      "end": 19.319,
+      "score": 0.633,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 19.939,
+      "end": 20.139,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "saved",
+      "start": 20.159,
+      "end": 20.379,
+      "score": 0.665,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me.",
+      "start": 20.399,
+      "end": 20.459,
+      "score": 0.328,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 21.32,
+      "end": 21.5,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now",
+      "start": 21.56,
+      "end": 21.78,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 21.9,
+      "end": 21.98,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 22.0,
+      "end": 22.12,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "become",
+      "start": 22.14,
+      "end": 22.46,
+      "score": 0.683,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 22.56,
+      "end": 22.74,
+      "score": 0.564,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "next",
+      "start": 22.82,
+      "end": 23.06,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "great",
+      "start": 23.12,
+      "end": 23.32,
+      "score": 0.633,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fashion",
+      "start": 23.441,
+      "end": 23.821,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "designer.",
+      "start": 23.841,
+      "end": 24.361,
+      "score": 0.62,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

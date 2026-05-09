@@ -1,240 +1,1427 @@
 {
-  "text": " Yeah, that's exactly right. What we really need to understand that I think in Marty Macri's analysis, it was only one child in the whole country who died directly of COVID. What I know about these cases in published is that the children are not adequately treated and we have great news. We've just had a randomized trial come in with a GlaxoSmith Climmonoclonal antibody, Sotrfumab. There was an 85% risk reduction in hospitalization and death. This product has been E-UA since May and it can be used in children all the way down to age 12.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.34,
-      "text": " Yeah, that's exactly right. What we really need to understand that I think in Marty Macri's",
-      "tokens": [
-        50364,
-        865,
-        11,
-        300,
-        311,
-        2293,
-        558,
-        13,
-        708,
-        321,
-        534,
-        643,
-        281,
-        1223,
-        300,
-        286,
-        519,
-        294,
-        29192,
-        5707,
-        470,
-        311,
-        50581
+      "start": 0.311,
+      "end": 1.492,
+      "text": " Yeah, that's exactly right.",
+      "words": [
+        {
+          "word": "Yeah,",
+          "start": 0.311,
+          "end": 0.471,
+          "score": 0.519,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 0.491,
+          "end": 0.692,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "exactly",
+          "start": 0.772,
+          "end": 1.212,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right.",
+          "start": 1.292,
+          "end": 1.492,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2595996856689453,
-      "compression_ratio": 1.5254237288135593,
-      "no_speech_prob": 0.10452120006084442
+      "avg_logprob": -0.11832061102827086,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.34,
-      "end": 9.040000000000001,
-      "text": " analysis, it was only one child in the whole country who died directly of COVID. What I",
-      "tokens": [
-        50581,
-        5215,
-        11,
-        309,
-        390,
-        787,
-        472,
-        1440,
-        294,
-        264,
-        1379,
-        1941,
-        567,
-        4539,
-        3838,
-        295,
-        4566,
-        13,
-        708,
-        286,
-        50816
+      "start": 1.733,
+      "end": 8.699,
+      "text": "What we really need to understand that I think in Marty McCreary's analysis, it was only one child in the whole country who died directly of COVID.",
+      "words": [
+        {
+          "word": "What",
+          "start": 1.733,
+          "end": 1.873,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 1.893,
+          "end": 1.993,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 2.033,
+          "end": 2.273,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need",
+          "start": 2.293,
+          "end": 2.453,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 2.473,
+          "end": 2.553,
+          "score": 0.716,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "understand",
+          "start": 2.614,
+          "end": 3.154,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 3.194,
+          "end": 3.334,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 3.374,
+          "end": 3.414,
+          "score": 0.5,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 3.434,
+          "end": 3.574,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 3.655,
+          "end": 3.735,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Marty",
+          "start": 3.755,
+          "end": 3.995,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "McCreary's",
+          "start": 4.035,
+          "end": 4.415,
+          "score": 0.411,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "analysis,",
+          "start": 4.435,
+          "end": 4.876,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 5.096,
+          "end": 5.156,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 5.176,
+          "end": 5.276,
+          "score": 0.664,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "only",
+          "start": 5.296,
+          "end": 5.476,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 5.717,
+          "end": 5.857,
+          "score": 0.633,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "child",
+          "start": 5.957,
+          "end": 6.297,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 6.357,
+          "end": 6.417,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 6.457,
+          "end": 6.537,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole",
+          "start": 6.557,
+          "end": 6.697,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "country",
+          "start": 6.758,
+          "end": 7.018,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 7.058,
+          "end": 7.198,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "died",
+          "start": 7.458,
+          "end": 7.698,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "directly",
+          "start": 7.738,
+          "end": 8.159,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 8.279,
+          "end": 8.339,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID.",
+          "start": 8.399,
+          "end": 8.699,
+          "score": 0.656,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2595996856689453,
-      "compression_ratio": 1.5254237288135593,
-      "no_speech_prob": 0.10452120006084442
+      "avg_logprob": -0.11832061102827086,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 9.040000000000001,
-      "end": 13.44,
-      "text": " know about these cases in published is that the children are not adequately treated and",
-      "tokens": [
-        50816,
-        458,
-        466,
-        613,
-        3331,
-        294,
-        6572,
-        307,
-        300,
-        264,
-        2227,
-        366,
-        406,
-        41822,
-        8668,
-        293,
-        51036
+      "start": 8.9,
+      "end": 13.084,
+      "text": "What I know about these cases and published is that the children are not adequately treated.",
+      "words": [
+        {
+          "word": "What",
+          "start": 8.9,
+          "end": 9.04,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 9.1,
+          "end": 9.16,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 9.2,
+          "end": 9.34,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 9.4,
+          "end": 9.6,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 9.62,
+          "end": 9.78,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cases",
+          "start": 9.841,
+          "end": 10.201,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 10.261,
+          "end": 10.341,
+          "score": 0.376,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "published",
+          "start": 10.401,
+          "end": 10.661,
+          "score": 0.289,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 10.942,
+          "end": 11.022,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 11.042,
+          "end": 11.182,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 11.202,
+          "end": 11.302,
+          "score": 0.657,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 11.382,
+          "end": 11.762,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 11.842,
+          "end": 11.923,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 11.983,
+          "end": 12.163,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "adequately",
+          "start": 12.303,
+          "end": 12.703,
+          "score": 0.663,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treated.",
+          "start": 12.763,
+          "end": 13.084,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2595996856689453,
-      "compression_ratio": 1.5254237288135593,
-      "no_speech_prob": 0.10452120006084442
+      "avg_logprob": -0.11832061102827086,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 13.44,
-      "end": 18.92,
-      "text": " we have great news. We've just had a randomized trial come in with a GlaxoSmith Climmonoclonal",
-      "tokens": [
-        51036,
-        321,
-        362,
-        869,
-        2583,
-        13,
-        492,
-        600,
-        445,
-        632,
-        257,
-        38513,
-        7308,
-        808,
-        294,
-        365,
-        257,
-        460,
-        25923,
-        78,
-        26578,
-        355,
-        2033,
-        332,
-        3317,
-        905,
-        14864,
-        304,
-        51310
+      "start": 13.364,
+      "end": 14.405,
+      "text": "And we have great news.",
+      "words": [
+        {
+          "word": "And",
+          "start": 13.364,
+          "end": 13.444,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 13.484,
+          "end": 13.644,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 13.704,
+          "end": 13.864,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "great",
+          "start": 13.945,
+          "end": 14.185,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "news.",
+          "start": 14.225,
+          "end": 14.405,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2595996856689453,
-      "compression_ratio": 1.5254237288135593,
-      "no_speech_prob": 0.10452120006084442
+      "avg_logprob": -0.11832061102827086,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 18.92,
-      "end": 25.12,
-      "text": " antibody, Sotrfumab. There was an 85% risk reduction in hospitalization and death. This",
-      "tokens": [
-        51310,
-        34507,
-        11,
-        318,
-        310,
-        81,
-        69,
-        449,
-        455,
-        13,
-        821,
-        390,
-        364,
-        14695,
-        4,
-        3148,
-        11004,
-        294,
-        4530,
-        2144,
-        293,
-        2966,
-        13,
-        639,
-        51620
+      "start": 14.425,
+      "end": 20.591,
+      "text": "We've just had a randomized trial come in with a GlaxoSmithKline monoclonal antibody, Sotrivumab.",
+      "words": [
+        {
+          "word": "We've",
+          "start": 14.425,
+          "end": 14.585,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 14.625,
+          "end": 14.785,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 14.805,
+          "end": 14.945,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 14.986,
+          "end": 15.006,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "randomized",
+          "start": 15.046,
+          "end": 15.546,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trial",
+          "start": 15.566,
+          "end": 15.826,
+          "score": 0.712,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "come",
+          "start": 15.846,
+          "end": 16.007,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 16.067,
+          "end": 16.167,
+          "score": 0.642,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 16.507,
+          "end": 16.687,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 16.787,
+          "end": 17.007,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "GlaxoSmithKline",
+          "start": 17.408,
+          "end": 18.429,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "monoclonal",
+          "start": 18.469,
+          "end": 18.989,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "antibody,",
+          "start": 19.09,
+          "end": 19.55,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Sotrivumab.",
+          "start": 19.83,
+          "end": 20.591,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2595996856689453,
-      "compression_ratio": 1.5254237288135593,
-      "no_speech_prob": 0.10452120006084442
+      "avg_logprob": -0.11832061102827086,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2512,
-      "start": 25.12,
-      "end": 29.44,
-      "text": " product has been E-UA since May and it can be used in children all the way down to age",
-      "tokens": [
-        50364,
-        1674,
-        575,
-        668,
-        462,
-        12,
-        52,
-        32,
-        1670,
-        1891,
-        293,
-        309,
-        393,
-        312,
-        1143,
-        294,
-        2227,
-        439,
-        264,
-        636,
-        760,
-        281,
-        3205,
-        50580
+      "start": 20.891,
+      "end": 24.815,
+      "text": "There was an 85% risk reduction in hospitalization and death.",
+      "words": [
+        {
+          "word": "There",
+          "start": 20.891,
+          "end": 21.031,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 21.051,
+          "end": 21.172,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 21.212,
+          "end": 21.652,
+          "score": 0.642,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "85%",
+          "start": 21.732,
+          "end": 21.972,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 22.092,
+          "end": 22.873,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reduction",
+          "start": 22.913,
+          "end": 23.394,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 23.514,
+          "end": 23.614,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospitalization",
+          "start": 23.694,
+          "end": 24.455,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 24.495,
+          "end": 24.575,
+          "score": 0.692,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "death.",
+          "start": 24.595,
+          "end": 24.815,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35073398721629173,
-      "compression_ratio": 1.0344827586206897,
-      "no_speech_prob": 0.6314188838005066
+      "avg_logprob": -0.11832061102827086,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2512,
-      "start": 29.44,
-      "end": 29.84,
-      "text": " 12.",
-      "tokens": [
-        50580,
-        2272,
-        13,
-        50600
+      "start": 25.035,
+      "end": 29.5,
+      "text": "This product has been EUA since May, and it can be used in children all the way down to age 12.",
+      "words": [
+        {
+          "word": "This",
+          "start": 25.035,
+          "end": 25.175,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "product",
+          "start": 25.255,
+          "end": 25.596,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 25.616,
+          "end": 25.756,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 25.796,
+          "end": 26.016,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "EUA",
+          "start": 26.136,
+          "end": 26.517,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "since",
+          "start": 26.577,
+          "end": 26.817,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "May,",
+          "start": 26.917,
+          "end": 27.177,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 27.458,
+          "end": 27.538,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 27.598,
+          "end": 27.638,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 27.658,
+          "end": 27.778,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 27.798,
+          "end": 27.878,
+          "score": 0.512,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "used",
+          "start": 27.978,
+          "end": 28.138,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 28.198,
+          "end": 28.258,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 28.318,
+          "end": 28.659,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 28.699,
+          "end": 28.759,
+          "score": 0.679,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 28.779,
+          "end": 28.839,
+          "score": 0.001,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "way",
+          "start": 28.859,
+          "end": 28.939,
+          "score": 0.551,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "down",
+          "start": 28.979,
+          "end": 29.119,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 29.139,
+          "end": 29.179,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "age",
+          "start": 29.239,
+          "end": 29.4,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "12.",
+          "start": 29.42,
+          "end": 29.5,
+          "score": 0.981,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35073398721629173,
-      "compression_ratio": 1.0344827586206897,
-      "no_speech_prob": 0.6314188838005066
+      "avg_logprob": -0.11832061102827086,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Yeah,",
+      "start": 0.311,
+      "end": 0.471,
+      "score": 0.519,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 0.491,
+      "end": 0.692,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "exactly",
+      "start": 0.772,
+      "end": 1.212,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right.",
+      "start": 1.292,
+      "end": 1.492,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "What",
+      "start": 1.733,
+      "end": 1.873,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 1.893,
+      "end": 1.993,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 2.033,
+      "end": 2.273,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need",
+      "start": 2.293,
+      "end": 2.453,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 2.473,
+      "end": 2.553,
+      "score": 0.716,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "understand",
+      "start": 2.614,
+      "end": 3.154,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 3.194,
+      "end": 3.334,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 3.374,
+      "end": 3.414,
+      "score": 0.5,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 3.434,
+      "end": 3.574,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 3.655,
+      "end": 3.735,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Marty",
+      "start": 3.755,
+      "end": 3.995,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "McCreary's",
+      "start": 4.035,
+      "end": 4.415,
+      "score": 0.411,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "analysis,",
+      "start": 4.435,
+      "end": 4.876,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 5.096,
+      "end": 5.156,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 5.176,
+      "end": 5.276,
+      "score": 0.664,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "only",
+      "start": 5.296,
+      "end": 5.476,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 5.717,
+      "end": 5.857,
+      "score": 0.633,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "child",
+      "start": 5.957,
+      "end": 6.297,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 6.357,
+      "end": 6.417,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 6.457,
+      "end": 6.537,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole",
+      "start": 6.557,
+      "end": 6.697,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "country",
+      "start": 6.758,
+      "end": 7.018,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 7.058,
+      "end": 7.198,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "died",
+      "start": 7.458,
+      "end": 7.698,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "directly",
+      "start": 7.738,
+      "end": 8.159,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 8.279,
+      "end": 8.339,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID.",
+      "start": 8.399,
+      "end": 8.699,
+      "score": 0.656,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "What",
+      "start": 8.9,
+      "end": 9.04,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 9.1,
+      "end": 9.16,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 9.2,
+      "end": 9.34,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 9.4,
+      "end": 9.6,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 9.62,
+      "end": 9.78,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cases",
+      "start": 9.841,
+      "end": 10.201,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 10.261,
+      "end": 10.341,
+      "score": 0.376,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "published",
+      "start": 10.401,
+      "end": 10.661,
+      "score": 0.289,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 10.942,
+      "end": 11.022,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 11.042,
+      "end": 11.182,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 11.202,
+      "end": 11.302,
+      "score": 0.657,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 11.382,
+      "end": 11.762,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 11.842,
+      "end": 11.923,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 11.983,
+      "end": 12.163,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "adequately",
+      "start": 12.303,
+      "end": 12.703,
+      "score": 0.663,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treated.",
+      "start": 12.763,
+      "end": 13.084,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 13.364,
+      "end": 13.444,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 13.484,
+      "end": 13.644,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 13.704,
+      "end": 13.864,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "great",
+      "start": 13.945,
+      "end": 14.185,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "news.",
+      "start": 14.225,
+      "end": 14.405,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We've",
+      "start": 14.425,
+      "end": 14.585,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 14.625,
+      "end": 14.785,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 14.805,
+      "end": 14.945,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 14.986,
+      "end": 15.006,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "randomized",
+      "start": 15.046,
+      "end": 15.546,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trial",
+      "start": 15.566,
+      "end": 15.826,
+      "score": 0.712,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "come",
+      "start": 15.846,
+      "end": 16.007,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 16.067,
+      "end": 16.167,
+      "score": 0.642,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 16.507,
+      "end": 16.687,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 16.787,
+      "end": 17.007,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "GlaxoSmithKline",
+      "start": 17.408,
+      "end": 18.429,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "monoclonal",
+      "start": 18.469,
+      "end": 18.989,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "antibody,",
+      "start": 19.09,
+      "end": 19.55,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Sotrivumab.",
+      "start": 19.83,
+      "end": 20.591,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "There",
+      "start": 20.891,
+      "end": 21.031,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 21.051,
+      "end": 21.172,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 21.212,
+      "end": 21.652,
+      "score": 0.642,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "85%",
+      "start": 21.732,
+      "end": 21.972,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 22.092,
+      "end": 22.873,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reduction",
+      "start": 22.913,
+      "end": 23.394,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 23.514,
+      "end": 23.614,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospitalization",
+      "start": 23.694,
+      "end": 24.455,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 24.495,
+      "end": 24.575,
+      "score": 0.692,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "death.",
+      "start": 24.595,
+      "end": 24.815,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 25.035,
+      "end": 25.175,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "product",
+      "start": 25.255,
+      "end": 25.596,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 25.616,
+      "end": 25.756,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 25.796,
+      "end": 26.016,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "EUA",
+      "start": 26.136,
+      "end": 26.517,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "since",
+      "start": 26.577,
+      "end": 26.817,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "May,",
+      "start": 26.917,
+      "end": 27.177,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 27.458,
+      "end": 27.538,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 27.598,
+      "end": 27.638,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 27.658,
+      "end": 27.778,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 27.798,
+      "end": 27.878,
+      "score": 0.512,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "used",
+      "start": 27.978,
+      "end": 28.138,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 28.198,
+      "end": 28.258,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 28.318,
+      "end": 28.659,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 28.699,
+      "end": 28.759,
+      "score": 0.679,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 28.779,
+      "end": 28.839,
+      "score": 0.001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "way",
+      "start": 28.859,
+      "end": 28.939,
+      "score": 0.551,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "down",
+      "start": 28.979,
+      "end": 29.119,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 29.139,
+      "end": 29.179,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "age",
+      "start": 29.239,
+      "end": 29.4,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "12.",
+      "start": 29.42,
+      "end": 29.5,
+      "score": 0.981,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

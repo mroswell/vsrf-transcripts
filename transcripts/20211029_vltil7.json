@@ -1,145 +1,723 @@
 {
-  "text": " So it's not a favorable trade-off to have children vaccinated. The American College of Pediatrics has that number you just mentioned. It's actually at $4.99 in their report. Steven Lauer. And what we know about that is that it's almost always in children who have serious underlying illnesses.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.7600000000000002,
-      "text": " So it's not a favorable trade-off to have children vaccinated. The American College of",
-      "tokens": [
-        50364,
-        407,
-        309,
-        311,
-        406,
-        257,
-        29557,
-        4923,
-        12,
-        4506,
-        281,
-        362,
-        2227,
-        14686,
-        13,
-        440,
-        2665,
-        6745,
-        295,
-        50552
+      "start": 0.171,
+      "end": 3.06,
+      "text": " So it's not a favorable trade-off to have children vaccinated.",
+      "words": [
+        {
+          "word": "So",
+          "start": 0.171,
+          "end": 0.332,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 0.432,
+          "end": 0.553,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 0.613,
+          "end": 0.773,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 0.813,
+          "end": 0.853,
+          "score": 0.501,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "favorable",
+          "start": 0.894,
+          "end": 1.295,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trade-off",
+          "start": 1.335,
+          "end": 1.716,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 1.756,
+          "end": 1.836,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 1.897,
+          "end": 2.037,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 2.117,
+          "end": 2.438,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinated.",
+          "start": 2.498,
+          "end": 3.06,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22299969991048177,
-      "compression_ratio": 1.4154589371980677,
-      "no_speech_prob": 0.037794262170791626
+      "avg_logprob": -0.06684727642324663,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.7600000000000002,
-      "end": 8.8,
-      "text": " Pediatrics has that number you just mentioned. It's actually at $4.99 in their report.",
-      "tokens": [
-        50552,
-        16689,
-        7676,
-        10716,
-        575,
-        300,
-        1230,
-        291,
-        445,
-        2835,
-        13,
-        467,
-        311,
-        767,
-        412,
-        1848,
-        19,
-        13,
-        8494,
-        294,
-        641,
-        2275,
-        13,
-        50804
+      "start": 3.281,
+      "end": 6.069,
+      "text": "The American College of Pediatrics has that number you just mentioned.",
+      "words": [
+        {
+          "word": "The",
+          "start": 3.281,
+          "end": 3.381,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "American",
+          "start": 3.401,
+          "end": 3.602,
+          "score": 0.227,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "College",
+          "start": 3.642,
+          "end": 3.842,
+          "score": 0.538,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 3.883,
+          "end": 3.923,
+          "score": 0.159,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Pediatrics",
+          "start": 3.943,
+          "end": 4.464,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 4.504,
+          "end": 4.705,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 4.765,
+          "end": 4.926,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "number",
+          "start": 5.046,
+          "end": 5.307,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 5.347,
+          "end": 5.487,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 5.507,
+          "end": 5.688,
+          "score": 0.696,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mentioned.",
+          "start": 5.748,
+          "end": 6.069,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22299969991048177,
-      "compression_ratio": 1.4154589371980677,
-      "no_speech_prob": 0.037794262170791626
+      "avg_logprob": -0.06684727642324663,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 8.8,
-      "end": 9.120000000000001,
-      "text": " Steven Lauer.",
-      "tokens": [
-        50804,
-        12754,
-        441,
-        18120,
-        13,
-        50820
+      "start": 6.33,
+      "end": 8.898,
+      "text": "It's actually at 499 in their report.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 6.33,
+          "end": 6.43,
+          "score": 0.455,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 6.49,
+          "end": 6.751,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 6.811,
+          "end": 6.892,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "499",
+          "start": 7.012,
+          "end": 7.574,
+          "score": 0.515,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 7.794,
+          "end": 7.955,
+          "score": 0.543,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 8.256,
+          "end": 8.416,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "report.",
+          "start": 8.456,
+          "end": 8.898,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22299969991048177,
-      "compression_ratio": 1.4154589371980677,
-      "no_speech_prob": 0.037794262170791626
+      "avg_logprob": -0.06684727642324663,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 9.120000000000001,
-      "end": 14.08,
-      "text": " And what we know about that is that it's almost always in children who have serious underlying",
-      "tokens": [
-        50820,
-        400,
-        437,
-        321,
-        458,
-        466,
-        300,
-        307,
-        300,
-        309,
-        311,
-        1920,
-        1009,
-        294,
-        2227,
-        567,
-        362,
-        3156,
-        14217,
-        51068
+      "start": 9.098,
+      "end": 9.339,
+      "text": "Even lower.",
+      "words": [
+        {
+          "word": "Even",
+          "start": 9.098,
+          "end": 9.199,
+          "score": 0.267,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lower.",
+          "start": 9.219,
+          "end": 9.339,
+          "score": 0.091,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22299969991048177,
-      "compression_ratio": 1.4154589371980677,
-      "no_speech_prob": 0.037794262170791626
+      "avg_logprob": -0.06684727642324663,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 14.08,
-      "end": 14.48,
-      "text": " illnesses.",
-      "tokens": [
-        51068,
-        30791,
-        13,
-        51088
+      "start": 9.359,
+      "end": 14.635,
+      "text": "And what we know about that is that it's almost always in children who have serious underlying illnesses.",
+      "words": [
+        {
+          "word": "And",
+          "start": 9.359,
+          "end": 9.419,
+          "score": 0.001,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 9.439,
+          "end": 9.519,
+          "score": 0.009,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 9.54,
+          "end": 9.66,
+          "score": 0.415,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 9.68,
+          "end": 9.84,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 9.881,
+          "end": 10.121,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 10.161,
+          "end": 10.382,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 10.663,
+          "end": 10.743,
+          "score": 0.533,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 10.763,
+          "end": 10.884,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 10.924,
+          "end": 11.024,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "almost",
+          "start": 11.084,
+          "end": 11.345,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "always",
+          "start": 11.505,
+          "end": 11.826,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 11.907,
+          "end": 11.967,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children",
+          "start": 12.047,
+          "end": 12.488,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 12.809,
+          "end": 12.95,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 13.03,
+          "end": 13.251,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "serious",
+          "start": 13.311,
+          "end": 13.672,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "underlying",
+          "start": 13.752,
+          "end": 14.153,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "illnesses.",
+          "start": 14.214,
+          "end": 14.635,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22299969991048177,
-      "compression_ratio": 1.4154589371980677,
-      "no_speech_prob": 0.037794262170791626
+      "avg_logprob": -0.06684727642324663,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 0.171,
+      "end": 0.332,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 0.432,
+      "end": 0.553,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 0.613,
+      "end": 0.773,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 0.813,
+      "end": 0.853,
+      "score": 0.501,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "favorable",
+      "start": 0.894,
+      "end": 1.295,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trade-off",
+      "start": 1.335,
+      "end": 1.716,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 1.756,
+      "end": 1.836,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 1.897,
+      "end": 2.037,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 2.117,
+      "end": 2.438,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinated.",
+      "start": 2.498,
+      "end": 3.06,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 3.281,
+      "end": 3.381,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "American",
+      "start": 3.401,
+      "end": 3.602,
+      "score": 0.227,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "College",
+      "start": 3.642,
+      "end": 3.842,
+      "score": 0.538,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 3.883,
+      "end": 3.923,
+      "score": 0.159,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Pediatrics",
+      "start": 3.943,
+      "end": 4.464,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 4.504,
+      "end": 4.705,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 4.765,
+      "end": 4.926,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "number",
+      "start": 5.046,
+      "end": 5.307,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 5.347,
+      "end": 5.487,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 5.507,
+      "end": 5.688,
+      "score": 0.696,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mentioned.",
+      "start": 5.748,
+      "end": 6.069,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 6.33,
+      "end": 6.43,
+      "score": 0.455,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 6.49,
+      "end": 6.751,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 6.811,
+      "end": 6.892,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "499",
+      "start": 7.012,
+      "end": 7.574,
+      "score": 0.515,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 7.794,
+      "end": 7.955,
+      "score": 0.543,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 8.256,
+      "end": 8.416,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "report.",
+      "start": 8.456,
+      "end": 8.898,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Even",
+      "start": 9.098,
+      "end": 9.199,
+      "score": 0.267,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lower.",
+      "start": 9.219,
+      "end": 9.339,
+      "score": 0.091,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 9.359,
+      "end": 9.419,
+      "score": 0.001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 9.439,
+      "end": 9.519,
+      "score": 0.009,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 9.54,
+      "end": 9.66,
+      "score": 0.415,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 9.68,
+      "end": 9.84,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 9.881,
+      "end": 10.121,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 10.161,
+      "end": 10.382,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 10.663,
+      "end": 10.743,
+      "score": 0.533,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 10.763,
+      "end": 10.884,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 10.924,
+      "end": 11.024,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "almost",
+      "start": 11.084,
+      "end": 11.345,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "always",
+      "start": 11.505,
+      "end": 11.826,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 11.907,
+      "end": 11.967,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children",
+      "start": 12.047,
+      "end": 12.488,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 12.809,
+      "end": 12.95,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 13.03,
+      "end": 13.251,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "serious",
+      "start": 13.311,
+      "end": 13.672,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "underlying",
+      "start": 13.752,
+      "end": 14.153,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "illnesses.",
+      "start": 14.214,
+      "end": 14.635,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

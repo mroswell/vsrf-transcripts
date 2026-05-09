@@ -1,193 +1,1231 @@
 {
-  "text": " Since the rollout of the vaccine at my facility, Moderna was the vaccine that they administered, I've seen 32 elderly people pass away immediately after taking the Moderna vaccine. None of that is being talked about on the news, none of that is being spoken about on the media. It doesn't fit their narrative. I've seen more people pass away from the vaccine than I have on COVID units, which is really weird seeing that supposedly we have really high COVID case numbers.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.0,
-      "text": " Since the rollout of the vaccine at my facility, Moderna was the vaccine that they administered,",
-      "tokens": [
-        50364,
-        4162,
-        264,
-        3373,
-        346,
-        295,
-        264,
-        7007,
-        412,
-        452,
-        8973,
-        11,
-        6583,
-        22250,
-        390,
-        264,
-        7007,
-        300,
-        436,
-        36123,
-        11,
-        50714
+      "start": 0.591,
+      "end": 6.953,
+      "text": " Since the rollout of the vaccine at my facility, Moderna was the vaccine that they administered.",
+      "words": [
+        {
+          "word": "Since",
+          "start": 0.591,
+          "end": 0.851,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 1.091,
+          "end": 1.191,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rollout",
+          "start": 1.231,
+          "end": 1.651,
+          "score": 0.763,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 1.731,
+          "end": 1.811,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 1.851,
+          "end": 1.951,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 2.011,
+          "end": 2.692,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 3.372,
+          "end": 3.452,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 3.492,
+          "end": 3.632,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "facility,",
+          "start": 3.672,
+          "end": 4.212,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Moderna",
+          "start": 4.292,
+          "end": 4.832,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 4.952,
+          "end": 5.072,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 5.112,
+          "end": 5.172,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 5.212,
+          "end": 5.732,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 5.832,
+          "end": 6.072,
+          "score": 0.38,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 6.132,
+          "end": 6.332,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "administered.",
+          "start": 6.433,
+          "end": 6.953,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15254206353045524,
-      "compression_ratio": 1.7625570776255708,
-      "no_speech_prob": 0.13586032390594482
+      "avg_logprob": -0.07847112115425399,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.0,
-      "end": 14.5,
-      "text": " I've seen 32 elderly people pass away immediately after taking the Moderna vaccine.",
-      "tokens": [
-        50714,
-        286,
-        600,
-        1612,
-        8858,
-        19682,
-        561,
-        1320,
-        1314,
-        4258,
-        934,
-        1940,
-        264,
-        6583,
-        22250,
-        7007,
-        13,
-        51089
+      "start": 7.393,
+      "end": 14.474,
+      "text": "I've seen 32 elderly people pass away immediately after taking the Moderna vaccine.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 7.393,
+          "end": 7.533,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seen",
+          "start": 7.573,
+          "end": 7.813,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "32",
+          "start": 8.733,
+          "end": 8.773,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "elderly",
+          "start": 9.133,
+          "end": 9.573,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 9.613,
+          "end": 9.933,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pass",
+          "start": 10.053,
+          "end": 10.353,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away",
+          "start": 10.413,
+          "end": 10.674,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immediately",
+          "start": 10.894,
+          "end": 11.454,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 11.634,
+          "end": 11.954,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taking",
+          "start": 12.954,
+          "end": 13.334,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 13.554,
+          "end": 13.634,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Moderna",
+          "start": 13.674,
+          "end": 14.014,
+          "score": 0.721,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine.",
+          "start": 14.054,
+          "end": 14.474,
+          "score": 0.58,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15254206353045524,
-      "compression_ratio": 1.7625570776255708,
-      "no_speech_prob": 0.13586032390594482
+      "avg_logprob": -0.07847112115425399,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 14.5,
-      "end": 20.5,
-      "text": " None of that is being talked about on the news, none of that is being spoken about on the media.",
-      "tokens": [
-        51089,
-        14492,
-        295,
-        300,
-        307,
-        885,
-        2825,
-        466,
-        322,
-        264,
-        2583,
-        11,
-        6022,
-        295,
-        300,
-        307,
-        885,
-        10759,
-        466,
-        322,
-        264,
-        3021,
-        13,
-        51389
+      "start": 14.915,
+      "end": 16.775,
+      "text": "None of that is being talked about on the news.",
+      "words": [
+        {
+          "word": "None",
+          "start": 14.915,
+          "end": 15.055,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 15.075,
+          "end": 15.135,
+          "score": 0.692,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 15.155,
+          "end": 15.295,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 15.355,
+          "end": 15.435,
+          "score": 0.602,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 15.455,
+          "end": 15.655,
+          "score": 0.695,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talked",
+          "start": 15.695,
+          "end": 15.935,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 15.975,
+          "end": 16.175,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 16.255,
+          "end": 16.355,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 16.375,
+          "end": 16.455,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "news.",
+          "start": 16.495,
+          "end": 16.775,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15254206353045524,
-      "compression_ratio": 1.7625570776255708,
-      "no_speech_prob": 0.13586032390594482
+      "avg_logprob": -0.07847112115425399,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 20.5,
-      "end": 22.5,
-      "text": " It doesn't fit their narrative.",
-      "tokens": [
-        51389,
-        467,
-        1177,
-        380,
-        3318,
-        641,
-        9977,
-        13,
-        51489
+      "start": 16.855,
+      "end": 20.496,
+      "text": "None of that is being spoken about on the media.",
+      "words": [
+        {
+          "word": "None",
+          "start": 16.855,
+          "end": 16.995,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 17.015,
+          "end": 17.055,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 17.095,
+          "end": 17.215,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 17.275,
+          "end": 17.355,
+          "score": 0.328,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 17.375,
+          "end": 17.595,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spoken",
+          "start": 17.635,
+          "end": 17.955,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 17.995,
+          "end": 18.235,
+          "score": 0.295,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 18.855,
+          "end": 19.756,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 19.996,
+          "end": 20.096,
+          "score": 0.599,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "media.",
+          "start": 20.136,
+          "end": 20.496,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15254206353045524,
-      "compression_ratio": 1.7625570776255708,
-      "no_speech_prob": 0.13586032390594482
+      "avg_logprob": -0.07847112115425399,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 22.5,
-      "end": 26.5,
-      "text": " I've seen more people pass away from the vaccine than I have on COVID units,",
-      "tokens": [
-        51489,
-        286,
-        600,
-        1612,
-        544,
-        561,
-        1320,
-        1314,
-        490,
-        264,
-        7007,
-        813,
-        286,
-        362,
-        322,
-        4566,
-        6815,
-        11,
-        51689
+      "start": 21.216,
+      "end": 22.436,
+      "text": "It doesn't fit their narrative.",
+      "words": [
+        {
+          "word": "It",
+          "start": 21.216,
+          "end": 21.276,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doesn't",
+          "start": 21.316,
+          "end": 21.556,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fit",
+          "start": 21.596,
+          "end": 21.756,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 21.796,
+          "end": 21.956,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "narrative.",
+          "start": 21.996,
+          "end": 22.436,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15254206353045524,
-      "compression_ratio": 1.7625570776255708,
-      "no_speech_prob": 0.13586032390594482
+      "avg_logprob": -0.07847112115425399,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2650,
-      "start": 26.5,
-      "end": 32.5,
-      "text": " which is really weird seeing that supposedly we have really high COVID case numbers.",
-      "tokens": [
-        50364,
-        597,
-        307,
-        534,
-        3657,
-        2577,
-        300,
-        20581,
-        321,
-        362,
-        534,
-        1090,
-        4566,
-        1389,
-        3547,
-        13,
-        50664
+      "start": 22.536,
+      "end": 25.277,
+      "text": "I've seen more people pass away from the vaccine than I have",
+      "words": [
+        {
+          "word": "I've",
+          "start": 22.536,
+          "end": 22.656,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seen",
+          "start": 22.696,
+          "end": 22.836,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 22.876,
+          "end": 23.036,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 23.076,
+          "end": 23.317,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pass",
+          "start": 23.377,
+          "end": 23.657,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away",
+          "start": 23.717,
+          "end": 23.977,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 24.057,
+          "end": 24.237,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.257,
+          "end": 24.317,
+          "score": 0.978,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 24.357,
+          "end": 24.817,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 24.857,
+          "end": 24.977,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 25.017,
+          "end": 25.057,
+          "score": 0.379,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 25.097,
+          "end": 25.277,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14185596836937797,
-      "compression_ratio": 1.05,
-      "no_speech_prob": 0.15159235894680023
+      "avg_logprob": -0.07847112115425399,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.798,
+      "end": 32.307,
+      "text": " on COVID units, which is really weird seeing that supposedly we have really high COVID case numbers.",
+      "words": [
+        {
+          "word": "on",
+          "start": 25.798,
+          "end": 25.879,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 25.939,
+          "end": 26.321,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "units,",
+          "start": 26.341,
+          "end": 26.622,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 26.702,
+          "end": 26.863,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 26.923,
+          "end": 27.004,
+          "score": 0.69,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 27.647,
+          "end": 27.908,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "weird",
+          "start": 27.988,
+          "end": 28.39,
+          "score": 0.618,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "seeing",
+          "start": 29.053,
+          "end": 29.615,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 29.636,
+          "end": 29.756,
+          "score": 0.418,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "supposedly",
+          "start": 29.796,
+          "end": 30.098,
+          "score": 0.217,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 30.178,
+          "end": 30.419,
+          "score": 0.722,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 30.519,
+          "end": 30.72,
+          "score": 0.446,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 30.761,
+          "end": 31.002,
+          "score": 0.518,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "high",
+          "start": 31.022,
+          "end": 31.243,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 31.263,
+          "end": 31.604,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "case",
+          "start": 31.665,
+          "end": 31.926,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "numbers.",
+          "start": 31.966,
+          "end": 32.307,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.1197265587747097,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "Since",
+      "start": 0.591,
+      "end": 0.851,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 1.091,
+      "end": 1.191,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rollout",
+      "start": 1.231,
+      "end": 1.651,
+      "score": 0.763,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 1.731,
+      "end": 1.811,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 1.851,
+      "end": 1.951,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 2.011,
+      "end": 2.692,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 3.372,
+      "end": 3.452,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 3.492,
+      "end": 3.632,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "facility,",
+      "start": 3.672,
+      "end": 4.212,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Moderna",
+      "start": 4.292,
+      "end": 4.832,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 4.952,
+      "end": 5.072,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 5.112,
+      "end": 5.172,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 5.212,
+      "end": 5.732,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 5.832,
+      "end": 6.072,
+      "score": 0.38,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 6.132,
+      "end": 6.332,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "administered.",
+      "start": 6.433,
+      "end": 6.953,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 7.393,
+      "end": 7.533,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seen",
+      "start": 7.573,
+      "end": 7.813,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "32",
+      "start": 8.733,
+      "end": 8.773,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "elderly",
+      "start": 9.133,
+      "end": 9.573,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 9.613,
+      "end": 9.933,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pass",
+      "start": 10.053,
+      "end": 10.353,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away",
+      "start": 10.413,
+      "end": 10.674,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immediately",
+      "start": 10.894,
+      "end": 11.454,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 11.634,
+      "end": 11.954,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taking",
+      "start": 12.954,
+      "end": 13.334,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 13.554,
+      "end": 13.634,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Moderna",
+      "start": 13.674,
+      "end": 14.014,
+      "score": 0.721,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine.",
+      "start": 14.054,
+      "end": 14.474,
+      "score": 0.58,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "None",
+      "start": 14.915,
+      "end": 15.055,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 15.075,
+      "end": 15.135,
+      "score": 0.692,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 15.155,
+      "end": 15.295,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 15.355,
+      "end": 15.435,
+      "score": 0.602,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 15.455,
+      "end": 15.655,
+      "score": 0.695,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talked",
+      "start": 15.695,
+      "end": 15.935,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 15.975,
+      "end": 16.175,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 16.255,
+      "end": 16.355,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 16.375,
+      "end": 16.455,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "news.",
+      "start": 16.495,
+      "end": 16.775,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "None",
+      "start": 16.855,
+      "end": 16.995,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 17.015,
+      "end": 17.055,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 17.095,
+      "end": 17.215,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 17.275,
+      "end": 17.355,
+      "score": 0.328,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 17.375,
+      "end": 17.595,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spoken",
+      "start": 17.635,
+      "end": 17.955,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 17.995,
+      "end": 18.235,
+      "score": 0.295,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 18.855,
+      "end": 19.756,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 19.996,
+      "end": 20.096,
+      "score": 0.599,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "media.",
+      "start": 20.136,
+      "end": 20.496,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 21.216,
+      "end": 21.276,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doesn't",
+      "start": 21.316,
+      "end": 21.556,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fit",
+      "start": 21.596,
+      "end": 21.756,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 21.796,
+      "end": 21.956,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "narrative.",
+      "start": 21.996,
+      "end": 22.436,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 22.536,
+      "end": 22.656,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seen",
+      "start": 22.696,
+      "end": 22.836,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 22.876,
+      "end": 23.036,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 23.076,
+      "end": 23.317,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pass",
+      "start": 23.377,
+      "end": 23.657,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away",
+      "start": 23.717,
+      "end": 23.977,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 24.057,
+      "end": 24.237,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.257,
+      "end": 24.317,
+      "score": 0.978,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 24.357,
+      "end": 24.817,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 24.857,
+      "end": 24.977,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 25.017,
+      "end": 25.057,
+      "score": 0.379,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 25.097,
+      "end": 25.277,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 25.798,
+      "end": 25.879,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 25.939,
+      "end": 26.321,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "units,",
+      "start": 26.341,
+      "end": 26.622,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 26.702,
+      "end": 26.863,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 26.923,
+      "end": 27.004,
+      "score": 0.69,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 27.647,
+      "end": 27.908,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "weird",
+      "start": 27.988,
+      "end": 28.39,
+      "score": 0.618,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "seeing",
+      "start": 29.053,
+      "end": 29.615,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 29.636,
+      "end": 29.756,
+      "score": 0.418,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "supposedly",
+      "start": 29.796,
+      "end": 30.098,
+      "score": 0.217,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 30.178,
+      "end": 30.419,
+      "score": 0.722,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 30.519,
+      "end": 30.72,
+      "score": 0.446,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 30.761,
+      "end": 31.002,
+      "score": 0.518,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "high",
+      "start": 31.022,
+      "end": 31.243,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 31.263,
+      "end": 31.604,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "case",
+      "start": 31.665,
+      "end": 31.926,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "numbers.",
+      "start": 31.966,
+      "end": 32.307,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

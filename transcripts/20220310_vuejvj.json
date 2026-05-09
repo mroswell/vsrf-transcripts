@@ -1,1197 +1,5281 @@
 {
-  "text": " for research and that was later applied. Now why do you, if I can sense your point, what's for it? Why do you think right after World War II, this would have been a concern? Well, it was obviously a response to the doctors trial at Nuremberg, where the doctors who- Of Nazi doctors. Nazi doctors who had conducted medical research in the death camps, in the concentration camps, on prisoners and had tried to justify it on various grounds. And actually they would say things like, well, the prisoners were treated better on the medical wards than they were in the general camp. They were gonna die anyways. And so actually giving them better food and better housing and better care before they died was an act of kindness. And this was serving the greater good, serving the greater good view. Exactly. And Nazi medicine had taken a subtle shift from treating the individual vulnerable patient in front of me to being in the service of the health of the Volk, the social organism as a whole. Well, if the social organism as a whole is where my loyalties lies of physician, what happens if the social organism has a quote unquote cancer on it? If there's the sick, the disabled, the people who are a drain on the economy, well, you carve out the cancer and you do away with it. And that led to the euthanasia regime. That led to 600,000 people involuntarily sterilized by the Nazi doctors, even before the Nazis came to power. This was German medicine, the best most advanced medical system and medical institutions in the world went down this path because they began to see their job as rather than the traditional Hippocratic ethic, my loyalty is to the sick patient who deserves the best care possible. No, my loyalty is to, again, the social organism as a whole. Well, when the state or the social program becomes disordered and misdirected, then the whole medical profession starts following in that wrong direction. And that's what happened to German medicine in the 19, starting in the 1920s actually, Tucker, but on into the 1930s and through the Second World War.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 2.48,
-      "text": " for research and that was later applied.",
-      "tokens": [
-        50364,
-        337,
-        2132,
-        293,
-        300,
-        390,
-        1780,
-        6456,
-        13,
-        50488
+      "start": 0.271,
+      "end": 2.393,
+      "text": " for research, and that was later applied.",
+      "words": [
+        {
+          "word": "for",
+          "start": 0.271,
+          "end": 0.531,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "research,",
+          "start": 0.812,
+          "end": 1.212,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 1.232,
+          "end": 1.292,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 1.332,
+          "end": 1.432,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 1.472,
+          "end": 1.572,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later",
+          "start": 1.652,
+          "end": 1.912,
+          "score": 0.712,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "applied.",
+          "start": 1.993,
+          "end": 2.393,
+          "score": 0.601,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.17214132828468626,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 2.48,
-      "end": 4.2,
-      "text": " Now why do you, if I can sense your point, what's for it?",
-      "tokens": [
-        50488,
-        823,
-        983,
-        360,
-        291,
-        11,
-        498,
-        286,
-        393,
-        2020,
-        428,
-        935,
-        11,
-        437,
-        311,
-        337,
-        309,
-        30,
-        50574
+      "start": 2.433,
+      "end": 3.934,
+      "text": "Now, if I can ask you a question, what's the point?",
+      "words": [
+        {
+          "word": "Now,",
+          "start": 2.433,
+          "end": 2.553,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 2.573,
+          "end": 2.613,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 2.633,
+          "end": 2.653,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 2.673,
+          "end": 2.813,
+          "score": 0.366,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ask",
+          "start": 2.853,
+          "end": 2.913,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 2.933,
+          "end": 3.033,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 3.133,
+          "end": 3.193,
+          "score": 0.293,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "question,",
+          "start": 3.213,
+          "end": 3.414,
+          "score": 0.135,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what's",
+          "start": 3.434,
+          "end": 3.554,
+          "score": 0.035,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 3.574,
+          "end": 3.634,
+          "score": 0.038,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "point?",
+          "start": 3.654,
+          "end": 3.934,
+          "score": 0.314,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.17214132828468626,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 4.2,
-      "end": 7.04,
-      "text": " Why do you think right after World War II,",
-      "tokens": [
-        50574,
-        1545,
-        360,
-        291,
-        519,
-        558,
-        934,
-        3937,
-        3630,
-        6351,
-        11,
-        50716
+      "start": 4.434,
+      "end": 8.117,
+      "text": "Why do you think right after World War II, this would have been a concern?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 4.434,
+          "end": 4.635,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 4.655,
+          "end": 4.755,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 4.795,
+          "end": 4.915,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 5.055,
+          "end": 5.355,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right",
+          "start": 5.555,
+          "end": 5.755,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 5.835,
+          "end": 6.036,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "World",
+          "start": 6.076,
+          "end": 6.276,
+          "score": 0.495,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "War",
+          "start": 6.296,
+          "end": 6.516,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "II,",
+          "start": 6.676,
+          "end": 6.956,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 7.056,
+          "end": 7.176,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 7.217,
+          "end": 7.337,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 7.357,
+          "end": 7.457,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 7.477,
+          "end": 7.597,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 7.617,
+          "end": 7.657,
+          "score": 0.386,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concern?",
+          "start": 7.697,
+          "end": 8.117,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.17214132828468626,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 7.04,
-      "end": 8.3,
-      "text": " this would have been a concern?",
-      "tokens": [
-        50716,
-        341,
-        576,
-        362,
-        668,
-        257,
-        3136,
-        30,
-        50779
+      "start": 8.277,
+      "end": 14.462,
+      "text": "Well, it was obviously a response to the doctors' trial at Nuremberg, where the doctors... Of Nazi doctors.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 8.277,
+          "end": 8.457,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 8.477,
+          "end": 8.538,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 8.578,
+          "end": 8.678,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "obviously",
+          "start": 8.758,
+          "end": 9.178,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 9.218,
+          "end": 9.238,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "response",
+          "start": 9.298,
+          "end": 9.738,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 9.798,
+          "end": 9.899,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 9.919,
+          "end": 9.979,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors'",
+          "start": 10.039,
+          "end": 10.439,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trial",
+          "start": 10.499,
+          "end": 10.839,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 11.039,
+          "end": 11.099,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Nuremberg,",
+          "start": 11.14,
+          "end": 11.68,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 11.84,
+          "end": 12.1,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 12.641,
+          "end": 12.721,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors...",
+          "start": 12.761,
+          "end": 13.241,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Of",
+          "start": 13.581,
+          "end": 13.701,
+          "score": 0.652,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Nazi",
+          "start": 13.742,
+          "end": 14.062,
+          "score": 0.568,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors.",
+          "start": 14.082,
+          "end": 14.462,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.17214132828468626,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 8.3,
-      "end": 9.82,
-      "text": " Well, it was obviously a response",
-      "tokens": [
-        50779,
-        1042,
-        11,
-        309,
-        390,
-        2745,
-        257,
-        4134,
-        50855
+      "start": 14.542,
+      "end": 21.628,
+      "text": "Nazi doctors who had conducted medical research in the death camps, in the concentration camps, on prisoners.",
+      "words": [
+        {
+          "word": "Nazi",
+          "start": 14.542,
+          "end": 14.822,
+          "score": 0.6,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors",
+          "start": 14.842,
+          "end": 15.243,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 15.863,
+          "end": 16.043,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 16.123,
+          "end": 16.384,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "conducted",
+          "start": 16.864,
+          "end": 17.424,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 17.785,
+          "end": 18.085,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "research",
+          "start": 18.125,
+          "end": 18.525,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 18.725,
+          "end": 18.805,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 18.825,
+          "end": 18.905,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "death",
+          "start": 18.946,
+          "end": 19.146,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "camps,",
+          "start": 19.186,
+          "end": 19.526,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 19.646,
+          "end": 19.726,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 19.746,
+          "end": 19.806,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concentration",
+          "start": 19.846,
+          "end": 20.447,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "camps,",
+          "start": 20.487,
+          "end": 20.747,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 20.967,
+          "end": 21.067,
+          "score": 0.604,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prisoners.",
+          "start": 21.127,
+          "end": 21.628,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.17214132828468626,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 9.82,
-      "end": 11.8,
-      "text": " to the doctors trial at Nuremberg,",
-      "tokens": [
-        50855,
-        281,
-        264,
-        8778,
-        7308,
-        412,
-        426,
-        540,
-        4508,
-        70,
-        11,
-        50954
+      "start": 22.288,
+      "end": 25.169,
+      "text": " and had tried to justify it on various grounds.",
+      "words": [
+        {
+          "word": "and",
+          "start": 22.288,
+          "end": 22.388,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 22.428,
+          "end": 22.548,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tried",
+          "start": 22.648,
+          "end": 22.908,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 22.968,
+          "end": 23.068,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "justify",
+          "start": 23.508,
+          "end": 24.028,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 24.068,
+          "end": 24.128,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 24.248,
+          "end": 24.328,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "various",
+          "start": 24.368,
+          "end": 24.688,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "grounds.",
+          "start": 24.748,
+          "end": 25.169,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06396968175869176,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 11.8,
-      "end": 13.64,
-      "text": " where the doctors who-",
-      "tokens": [
-        50954,
-        689,
-        264,
-        8778,
-        567,
-        12,
-        51046
+      "start": 25.249,
+      "end": 31.83,
+      "text": "And actually, they would say things like, well, the prisoners were treated better on the medical wards than they were in the general care.",
+      "words": [
+        {
+          "word": "And",
+          "start": 25.249,
+          "end": 25.329,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually,",
+          "start": 25.389,
+          "end": 25.689,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 25.709,
+          "end": 25.809,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 25.829,
+          "end": 25.949,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "say",
+          "start": 25.989,
+          "end": 26.129,
+          "score": 0.683,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "things",
+          "start": 26.169,
+          "end": 26.369,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like,",
+          "start": 26.409,
+          "end": 26.549,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "well,",
+          "start": 26.789,
+          "end": 26.909,
+          "score": 0.526,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.929,
+          "end": 27.009,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prisoners",
+          "start": 27.049,
+          "end": 28.009,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 28.049,
+          "end": 28.189,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treated",
+          "start": 28.289,
+          "end": 28.569,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "better",
+          "start": 28.709,
+          "end": 29.009,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 29.449,
+          "end": 29.529,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 29.549,
+          "end": 29.629,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 29.669,
+          "end": 29.949,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wards",
+          "start": 29.989,
+          "end": 30.289,
+          "score": 0.745,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 30.389,
+          "end": 30.509,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 30.529,
+          "end": 30.629,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 30.67,
+          "end": 30.81,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 30.85,
+          "end": 30.91,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 30.93,
+          "end": 30.99,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "general",
+          "start": 31.05,
+          "end": 31.37,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care.",
+          "start": 31.43,
+          "end": 31.83,
+          "score": 0.663,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06396968175869176,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 13.64,
-      "end": 14.56,
-      "text": " Of Nazi doctors.",
-      "tokens": [
-        51046,
-        2720,
-        23592,
-        8778,
-        13,
-        51092
+      "start": 32.17,
+      "end": 33.59,
+      "text": "They were going to die anyways.",
+      "words": [
+        {
+          "word": "They",
+          "start": 32.17,
+          "end": 32.29,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 32.31,
+          "end": 32.39,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 32.41,
+          "end": 32.53,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 32.55,
+          "end": 32.59,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "die",
+          "start": 32.65,
+          "end": 32.89,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "anyways.",
+          "start": 33.05,
+          "end": 33.59,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06396968175869176,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 14.56,
-      "end": 18.68,
-      "text": " Nazi doctors who had conducted medical research",
-      "tokens": [
-        51092,
-        23592,
-        8778,
-        567,
-        632,
-        13809,
-        4625,
-        2132,
-        51298
+      "start": 33.73,
+      "end": 40.651,
+      "text": "And so actually giving them better food and better housing and better care before they died was an act of kindness.",
+      "words": [
+        {
+          "word": "And",
+          "start": 33.73,
+          "end": 33.81,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 33.89,
+          "end": 34.13,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 34.47,
+          "end": 34.77,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "giving",
+          "start": 34.87,
+          "end": 35.11,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 35.15,
+          "end": 35.33,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "better",
+          "start": 35.73,
+          "end": 35.97,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "food",
+          "start": 36.01,
+          "end": 36.31,
+          "score": 0.726,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 36.351,
+          "end": 36.431,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "better",
+          "start": 36.471,
+          "end": 36.671,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "housing",
+          "start": 36.711,
+          "end": 37.171,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 37.211,
+          "end": 37.271,
+          "score": 0.49,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "better",
+          "start": 37.291,
+          "end": 37.511,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 37.591,
+          "end": 37.991,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "before",
+          "start": 38.471,
+          "end": 38.711,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 38.731,
+          "end": 38.851,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "died",
+          "start": 38.911,
+          "end": 39.291,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 39.351,
+          "end": 39.591,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 39.791,
+          "end": 39.851,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "act",
+          "start": 39.911,
+          "end": 40.051,
+          "score": 0.641,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 40.091,
+          "end": 40.151,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kindness.",
+          "start": 40.191,
+          "end": 40.651,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06396968175869176,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 0,
-      "start": 18.68,
-      "end": 20.88,
-      "text": " in the death camps, in the concentration camps,",
-      "tokens": [
-        51298,
-        294,
-        264,
-        2966,
-        16573,
-        11,
-        294,
-        264,
-        9856,
-        16573,
-        11,
-        51408
+      "start": 40.671,
+      "end": 43.592,
+      "text": "And this was serving the greater good, in their view.",
+      "words": [
+        {
+          "word": "And",
+          "start": 40.671,
+          "end": 40.751,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 40.771,
+          "end": 41.071,
+          "score": 0.578,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 41.411,
+          "end": 41.531,
+          "score": 0.553,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "serving",
+          "start": 41.551,
+          "end": 41.791,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 41.811,
+          "end": 41.871,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "greater",
+          "start": 41.911,
+          "end": 42.132,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "good,",
+          "start": 42.152,
+          "end": 42.672,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 42.752,
+          "end": 42.812,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 42.852,
+          "end": 43.292,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "view.",
+          "start": 43.372,
+          "end": 43.592,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06396968175869176,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 0,
-      "start": 20.88,
-      "end": 25.28,
-      "text": " on prisoners and had tried to justify it on various grounds.",
-      "tokens": [
-        51408,
-        322,
-        20417,
-        293,
-        632,
-        3031,
-        281,
-        20833,
-        309,
-        322,
-        3683,
-        19196,
-        13,
-        51628
+      "start": 43.852,
+      "end": 44.372,
+      "text": "Exactly.",
+      "words": [
+        {
+          "word": "Exactly.",
+          "start": 43.852,
+          "end": 44.372,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06396968175869176,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 0,
-      "start": 25.28,
-      "end": 26.8,
-      "text": " And actually they would say things like,",
-      "tokens": [
-        51628,
-        400,
-        767,
-        436,
-        576,
-        584,
-        721,
-        411,
-        11,
-        51704
+      "start": 44.492,
+      "end": 49.873,
+      "text": "And Nazi medicine had taken a subtle shift from treating the individual vulnerable patient in front of me",
+      "words": [
+        {
+          "word": "And",
+          "start": 44.492,
+          "end": 44.572,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Nazi",
+          "start": 44.632,
+          "end": 44.992,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine",
+          "start": 45.012,
+          "end": 45.352,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 45.392,
+          "end": 45.472,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taken",
+          "start": 45.512,
+          "end": 45.752,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 45.792,
+          "end": 45.832,
+          "score": 0.5,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "subtle",
+          "start": 45.932,
+          "end": 46.252,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shift",
+          "start": 46.312,
+          "end": 46.652,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 47.092,
+          "end": 47.272,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treating",
+          "start": 47.372,
+          "end": 47.673,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 47.713,
+          "end": 47.793,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individual",
+          "start": 47.873,
+          "end": 48.333,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vulnerable",
+          "start": 48.393,
+          "end": 48.893,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patient",
+          "start": 48.933,
+          "end": 49.273,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 49.313,
+          "end": 49.373,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "front",
+          "start": 49.433,
+          "end": 49.613,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 49.653,
+          "end": 49.713,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 49.773,
+          "end": 49.873,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06396968175869176,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 12,
-      "seek": 0,
-      "start": 26.8,
-      "end": 29.44,
-      "text": " well, the prisoners were treated better",
-      "tokens": [
-        51704,
-        731,
-        11,
-        264,
-        20417,
-        645,
-        8668,
-        1101,
-        51836
+      "start": 50.513,
+      "end": 56.336,
+      "text": " to being in the service of the health of the valk, the social organism as a whole, right?",
+      "words": [
+        {
+          "word": "to",
+          "start": 50.513,
+          "end": 50.593,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 50.633,
+          "end": 50.813,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 50.853,
+          "end": 50.893,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 50.953,
+          "end": 51.013,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "service",
+          "start": 51.073,
+          "end": 51.393,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 51.473,
+          "end": 51.553,
+          "score": 0.712,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 51.573,
+          "end": 51.834,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 51.874,
+          "end": 52.134,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 52.174,
+          "end": 52.234,
+          "score": 0.787,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 52.294,
+          "end": 52.374,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "valk,",
+          "start": 52.474,
+          "end": 52.834,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 52.934,
+          "end": 53.094,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "social",
+          "start": 53.594,
+          "end": 53.975,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "organism",
+          "start": 54.155,
+          "end": 54.735,
+          "score": 0.763,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 54.855,
+          "end": 54.935,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 55.035,
+          "end": 55.095,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole,",
+          "start": 55.155,
+          "end": 55.495,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right?",
+          "start": 56.136,
+          "end": 56.336,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2536354609898159,
-      "compression_ratio": 1.7049180327868851,
-      "no_speech_prob": 0.2386089712381363
+      "avg_logprob": -0.06818804484710358,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 13,
-      "seek": 2944,
-      "start": 29.44,
-      "end": 32.2,
-      "text": " on the medical wards than they were in the general camp.",
-      "tokens": [
-        50364,
-        322,
-        264,
-        4625,
-        261,
-        2287,
-        813,
-        436,
-        645,
-        294,
-        264,
-        2674,
-        2255,
-        13,
-        50502
+      "start": 56.616,
+      "end": 64.919,
+      "text": "Well, if the social organism as a whole is where my loyalties lie as a physician, what happens if the social organism has a quote unquote cancer on it?",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 56.616,
+          "end": 56.816,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 57.076,
+          "end": 57.156,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 57.196,
+          "end": 57.276,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "social",
+          "start": 57.336,
+          "end": 57.616,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "organism",
+          "start": 57.696,
+          "end": 58.096,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 58.517,
+          "end": 58.617,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 58.657,
+          "end": 58.677,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole",
+          "start": 58.777,
+          "end": 59.057,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 59.117,
+          "end": 59.197,
+          "score": 0.517,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 59.217,
+          "end": 59.377,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 59.417,
+          "end": 59.537,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "loyalties",
+          "start": 59.617,
+          "end": 60.097,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lie",
+          "start": 60.137,
+          "end": 60.357,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 60.377,
+          "end": 60.417,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 60.457,
+          "end": 60.497,
+          "score": 0.353,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "physician,",
+          "start": 60.537,
+          "end": 61.118,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 61.558,
+          "end": 61.698,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happens",
+          "start": 61.718,
+          "end": 62.058,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 62.138,
+          "end": 62.218,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 62.258,
+          "end": 62.318,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "social",
+          "start": 62.378,
+          "end": 62.638,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "organism",
+          "start": 62.718,
+          "end": 63.099,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 63.159,
+          "end": 63.279,
+          "score": 0.786,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 63.339,
+          "end": 63.359,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "quote",
+          "start": 63.419,
+          "end": 63.599,
+          "score": 0.674,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unquote",
+          "start": 63.619,
+          "end": 63.939,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cancer",
+          "start": 64.039,
+          "end": 64.579,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 64.659,
+          "end": 64.759,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it?",
+          "start": 64.819,
+          "end": 64.919,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
+      "avg_logprob": -0.06818804484710358,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 14,
-      "seek": 2944,
-      "start": 32.2,
-      "end": 33.72,
-      "text": " They were gonna die anyways.",
-      "tokens": [
-        50502,
-        814,
-        645,
-        799,
-        978,
-        13448,
-        13,
-        50578
+      "start": 64.979,
+      "end": 71.002,
+      "text": "If there's the sick, the disabled, the people who are a drain on the economy, well, you carve out a cancer and you do away with it.",
+      "words": [
+        {
+          "word": "If",
+          "start": 64.979,
+          "end": 65.039,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there's",
+          "start": 65.059,
+          "end": 65.26,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 66.0,
+          "end": 66.06,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sick,",
+          "start": 66.14,
+          "end": 66.4,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 66.42,
+          "end": 66.54,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disabled,",
+          "start": 66.58,
+          "end": 67.0,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 67.04,
+          "end": 67.1,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 67.14,
+          "end": 67.34,
+          "score": 0.755,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 67.36,
+          "end": 67.441,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 67.481,
+          "end": 67.561,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 67.581,
+          "end": 67.601,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drain",
+          "start": 67.641,
+          "end": 67.881,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 67.921,
+          "end": 67.981,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 68.001,
+          "end": 68.101,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "economy,",
+          "start": 68.161,
+          "end": 68.601,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "well,",
+          "start": 68.621,
+          "end": 68.781,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 68.801,
+          "end": 68.901,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "carve",
+          "start": 68.961,
+          "end": 69.261,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 69.321,
+          "end": 69.441,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 69.521,
+          "end": 69.561,
+          "score": 0.54,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cancer",
+          "start": 69.581,
+          "end": 69.942,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 69.982,
+          "end": 70.042,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 70.062,
+          "end": 70.202,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "do",
+          "start": 70.302,
+          "end": 70.442,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "away",
+          "start": 70.502,
+          "end": 70.702,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 70.742,
+          "end": 70.882,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 70.942,
+          "end": 71.002,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
+      "avg_logprob": -0.06818804484710358,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 2944,
-      "start": 33.72,
-      "end": 36.4,
-      "text": " And so actually giving them better food",
-      "tokens": [
-        50578,
-        400,
-        370,
-        767,
-        2902,
-        552,
-        1101,
-        1755,
-        50712
+      "start": 71.042,
+      "end": 73.783,
+      "text": "And that led to the euthanasia regime.",
+      "words": [
+        {
+          "word": "And",
+          "start": 71.042,
+          "end": 71.122,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 71.162,
+          "end": 71.302,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "led",
+          "start": 71.362,
+          "end": 71.602,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 72.103,
+          "end": 72.203,
+          "score": 0.918,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 72.223,
+          "end": 72.283,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "euthanasia",
+          "start": 72.303,
+          "end": 73.043,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "regime.",
+          "start": 73.423,
+          "end": 73.783,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
+      "avg_logprob": -0.06818804484710358,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 16,
-      "seek": 2944,
-      "start": 36.4,
-      "end": 38.480000000000004,
-      "text": " and better housing and better care",
-      "tokens": [
-        50712,
-        293,
-        1101,
-        6849,
-        293,
-        1101,
-        1127,
-        50816
+      "start": 73.803,
+      "end": 77.265,
+      "text": "That led to 600,000 people involuntarily sterilized.",
+      "words": [
+        {
+          "word": "That",
+          "start": 73.803,
+          "end": 73.963,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "led",
+          "start": 74.043,
+          "end": 74.244,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 74.304,
+          "end": 74.524,
+          "score": 0.796,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "600,000",
+          "start": 74.544,
+          "end": 75.564,
+          "score": 0.64,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 75.584,
+          "end": 75.844,
+          "score": 0.73,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "involuntarily",
+          "start": 75.884,
+          "end": 76.605,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sterilized.",
+          "start": 76.665,
+          "end": 77.265,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
+      "avg_logprob": -0.06818804484710358,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 17,
-      "seek": 2944,
-      "start": 38.480000000000004,
-      "end": 40.72,
-      "text": " before they died was an act of kindness.",
-      "tokens": [
-        50816,
-        949,
-        436,
-        4539,
-        390,
-        364,
-        605,
-        295,
-        18171,
-        13,
-        50928
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 18,
-      "seek": 2944,
-      "start": 40.72,
-      "end": 42.400000000000006,
-      "text": " And this was serving the greater good,",
-      "tokens": [
-        50928,
-        400,
-        341,
-        390,
-        8148,
-        264,
-        5044,
-        665,
-        11,
-        51012
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 19,
-      "seek": 2944,
-      "start": 42.400000000000006,
-      "end": 43.760000000000005,
-      "text": " serving the greater good view.",
-      "tokens": [
-        51012,
-        8148,
-        264,
-        5044,
-        665,
-        1910,
-        13,
-        51080
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 20,
-      "seek": 2944,
-      "start": 43.760000000000005,
-      "end": 44.6,
-      "text": " Exactly.",
-      "tokens": [
-        51080,
-        7587,
-        13,
-        51122
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 21,
-      "seek": 2944,
-      "start": 44.6,
-      "end": 47.040000000000006,
-      "text": " And Nazi medicine had taken a subtle shift",
-      "tokens": [
-        51122,
-        400,
-        23592,
-        7195,
-        632,
-        2726,
-        257,
-        13743,
-        5513,
-        51244
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 22,
-      "seek": 2944,
-      "start": 47.040000000000006,
-      "end": 49.32,
-      "text": " from treating the individual vulnerable patient",
-      "tokens": [
-        51244,
-        490,
-        15083,
-        264,
-        2609,
-        10955,
-        4537,
-        51358
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 23,
-      "seek": 2944,
-      "start": 49.32,
-      "end": 51.480000000000004,
-      "text": " in front of me to being in the service",
-      "tokens": [
-        51358,
-        294,
-        1868,
-        295,
-        385,
-        281,
-        885,
-        294,
-        264,
-        2643,
-        51466
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 24,
-      "seek": 2944,
-      "start": 51.480000000000004,
-      "end": 56.0,
-      "text": " of the health of the Volk, the social organism as a whole.",
-      "tokens": [
-        51466,
-        295,
-        264,
-        1585,
-        295,
-        264,
-        8911,
-        74,
-        11,
-        264,
-        2093,
-        24128,
-        382,
-        257,
-        1379,
-        13,
-        51692
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 25,
-      "seek": 2944,
-      "start": 56.0,
-      "end": 59.120000000000005,
-      "text": " Well, if the social organism as a whole",
-      "tokens": [
-        51692,
-        1042,
-        11,
-        498,
-        264,
-        2093,
-        24128,
-        382,
-        257,
-        1379,
-        51848
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18013053951841412,
-      "compression_ratio": 1.8713235294117647,
-      "no_speech_prob": 0.0014333082363009453
-    },
-    {
-      "id": 26,
-      "seek": 5912,
-      "start": 59.12,
-      "end": 61.519999999999996,
-      "text": " is where my loyalties lies of physician,",
-      "tokens": [
-        50364,
-        307,
-        689,
-        452,
-        450,
-        88,
-        26471,
-        9134,
-        295,
-        16456,
-        11,
-        50484
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 27,
-      "seek": 5912,
-      "start": 61.519999999999996,
-      "end": 63.16,
-      "text": " what happens if the social organism",
-      "tokens": [
-        50484,
-        437,
-        2314,
-        498,
-        264,
-        2093,
-        24128,
-        50566
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 28,
-      "seek": 5912,
-      "start": 63.16,
-      "end": 64.96,
-      "text": " has a quote unquote cancer on it?",
-      "tokens": [
-        50566,
-        575,
-        257,
-        6513,
-        37557,
-        5592,
-        322,
-        309,
-        30,
-        50656
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 29,
-      "seek": 5912,
-      "start": 64.96,
-      "end": 67.03999999999999,
-      "text": " If there's the sick, the disabled,",
-      "tokens": [
-        50656,
-        759,
-        456,
-        311,
-        264,
-        4998,
-        11,
-        264,
-        15191,
-        11,
-        50760
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 30,
-      "seek": 5912,
-      "start": 67.03999999999999,
-      "end": 68.64,
-      "text": " the people who are a drain on the economy,",
-      "tokens": [
-        50760,
-        264,
-        561,
-        567,
-        366,
-        257,
-        12339,
-        322,
-        264,
-        5010,
-        11,
-        50840
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 31,
-      "seek": 5912,
-      "start": 68.64,
-      "end": 71.03999999999999,
-      "text": " well, you carve out the cancer and you do away with it.",
-      "tokens": [
-        50840,
-        731,
-        11,
-        291,
-        33832,
-        484,
-        264,
-        5592,
-        293,
-        291,
-        360,
-        1314,
-        365,
-        309,
-        13,
-        50960
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 32,
-      "seek": 5912,
-      "start": 71.03999999999999,
-      "end": 73.8,
-      "text": " And that led to the euthanasia regime.",
-      "tokens": [
-        50960,
-        400,
-        300,
-        4684,
-        281,
-        264,
-        308,
-        2910,
-        14292,
-        654,
-        13120,
-        13,
-        51098
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 33,
-      "seek": 5912,
-      "start": 73.8,
-      "end": 77.64,
-      "text": " That led to 600,000 people involuntarily sterilized",
-      "tokens": [
-        51098,
-        663,
-        4684,
-        281,
-        11849,
-        11,
-        1360,
-        561,
-        2499,
-        2760,
-        3289,
-        41477,
-        1602,
-        51290
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
-    },
-    {
-      "id": 34,
-      "seek": 5912,
-      "start": 77.64,
-      "end": 81.88,
+      "start": 77.645,
+      "end": 81.868,
       "text": " by the Nazi doctors, even before the Nazis came to power.",
-      "tokens": [
-        51290,
-        538,
-        264,
-        23592,
-        8778,
-        11,
-        754,
-        949,
-        264,
-        29812,
-        1361,
-        281,
-        1347,
-        13,
-        51502
+      "words": [
+        {
+          "word": "by",
+          "start": 77.645,
+          "end": 77.745,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 77.785,
+          "end": 77.845,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Nazi",
+          "start": 77.905,
+          "end": 78.225,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doctors,",
+          "start": 78.265,
+          "end": 78.566,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "even",
+          "start": 78.766,
+          "end": 78.966,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "before",
+          "start": 79.026,
+          "end": 79.506,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 79.526,
+          "end": 79.586,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Nazis",
+          "start": 80.007,
+          "end": 80.467,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "came",
+          "start": 80.587,
+          "end": 81.188,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 81.328,
+          "end": 81.448,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "power.",
+          "start": 81.488,
+          "end": 81.868,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
+      "avg_logprob": -0.07128906108084179,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 35,
-      "seek": 5912,
-      "start": 81.88,
-      "end": 83.56,
-      "text": " This was German medicine,",
-      "tokens": [
-        51502,
-        639,
-        390,
-        6521,
-        7195,
-        11,
-        51586
+      "start": 81.888,
+      "end": 83.189,
+      "text": "This was German medicine.",
+      "words": [
+        {
+          "word": "This",
+          "start": 81.888,
+          "end": 82.048,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 82.068,
+          "end": 82.128,
+          "score": 0.479,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "German",
+          "start": 82.228,
+          "end": 82.629,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine.",
+          "start": 82.689,
+          "end": 83.189,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
+      "avg_logprob": -0.07128906108084179,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 36,
-      "seek": 5912,
-      "start": 83.56,
-      "end": 86.0,
-      "text": " the best most advanced medical system",
-      "tokens": [
-        51586,
-        264,
-        1151,
-        881,
-        7339,
-        4625,
-        1185,
-        51708
+      "start": 83.67,
+      "end": 98.521,
+      "text": "The best, most advanced medical system and medical institutions in the world went down this path because they began to see their job as, rather than the traditional Hippocratic ethic, my loyalty is to the sick patient who deserves the best care possible.",
+      "words": [
+        {
+          "word": "The",
+          "start": 83.67,
+          "end": 83.77,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "best,",
+          "start": 83.83,
+          "end": 84.15,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 84.23,
+          "end": 84.43,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "advanced",
+          "start": 84.49,
+          "end": 84.87,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 84.91,
+          "end": 85.231,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system",
+          "start": 85.291,
+          "end": 85.671,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 86.031,
+          "end": 86.111,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 86.171,
+          "end": 86.452,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "institutions",
+          "start": 86.492,
+          "end": 87.112,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 87.152,
+          "end": 87.212,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 87.232,
+          "end": 87.312,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world",
+          "start": 87.372,
+          "end": 87.713,
+          "score": 0.711,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went",
+          "start": 88.273,
+          "end": 88.493,
+          "score": 0.942,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "down",
+          "start": 88.553,
+          "end": 88.773,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 88.813,
+          "end": 88.954,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "path",
+          "start": 89.034,
+          "end": 89.474,
+          "score": 0.664,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 89.554,
+          "end": 89.794,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 89.834,
+          "end": 89.954,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "began",
+          "start": 90.014,
+          "end": 90.435,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 90.515,
+          "end": 90.635,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "see",
+          "start": 90.715,
+          "end": 90.895,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 90.935,
+          "end": 91.095,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "job",
+          "start": 91.135,
+          "end": 91.495,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as,",
+          "start": 91.956,
+          "end": 92.056,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rather",
+          "start": 92.116,
+          "end": 92.376,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 92.416,
+          "end": 92.556,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 92.596,
+          "end": 92.696,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "traditional",
+          "start": 93.177,
+          "end": 93.637,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Hippocratic",
+          "start": 93.677,
+          "end": 94.217,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ethic,",
+          "start": 94.318,
+          "end": 94.598,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 94.678,
+          "end": 94.818,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "loyalty",
+          "start": 94.878,
+          "end": 95.338,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 95.398,
+          "end": 95.478,
+          "score": 0.656,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 95.538,
+          "end": 95.659,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 95.679,
+          "end": 95.779,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sick",
+          "start": 95.879,
+          "end": 96.079,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patient",
+          "start": 96.179,
+          "end": 96.559,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 96.92,
+          "end": 97.04,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "deserves",
+          "start": 97.08,
+          "end": 97.46,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 97.5,
+          "end": 97.58,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "best",
+          "start": 97.62,
+          "end": 97.82,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "care",
+          "start": 97.86,
+          "end": 98.06,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "possible.",
+          "start": 98.1,
+          "end": 98.521,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
+      "avg_logprob": -0.07128906108084179,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 37,
-      "seek": 5912,
-      "start": 86.0,
-      "end": 88.12,
-      "text": " and medical institutions in the world",
-      "tokens": [
-        51708,
-        293,
-        4625,
-        8142,
-        294,
-        264,
-        1002,
-        51814
+      "start": 98.901,
+      "end": 102.604,
+      "text": "No, my loyalty is to, again, the social organism as a whole,",
+      "words": [
+        {
+          "word": "No,",
+          "start": 98.901,
+          "end": 99.021,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 99.041,
+          "end": 99.161,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "loyalty",
+          "start": 99.201,
+          "end": 99.662,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 99.722,
+          "end": 99.822,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to,",
+          "start": 99.922,
+          "end": 100.142,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "again,",
+          "start": 100.822,
+          "end": 101.063,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 101.083,
+          "end": 101.163,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "social",
+          "start": 101.223,
+          "end": 101.543,
+          "score": 0.66,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "organism",
+          "start": 101.583,
+          "end": 102.003,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 102.043,
+          "end": 102.123,
+          "score": 0.519,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 102.163,
+          "end": 102.183,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole,",
+          "start": 102.284,
+          "end": 102.604,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16111235057606416,
-      "compression_ratio": 1.6610738255033557,
-      "no_speech_prob": 0.0017578514525666833
+      "avg_logprob": -0.07128906108084179,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 38,
-      "seek": 8812,
-      "start": 88.12,
-      "end": 91.88000000000001,
-      "text": " went down this path because they began to see their job",
-      "tokens": [
-        50364,
-        1437,
-        760,
-        341,
-        3100,
-        570,
-        436,
-        4283,
-        281,
-        536,
-        641,
-        1691,
-        50552
+      "start": 103.064,
+      "end": 113.15,
+      "text": " Well, when the state or the social program becomes disordered and misdirected, then the whole medical profession starts following in that wrong direction.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 103.064,
+          "end": 103.664,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 103.764,
+          "end": 103.905,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 103.925,
+          "end": 104.005,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "state",
+          "start": 104.065,
+          "end": 104.465,
+          "score": 0.742,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 104.625,
+          "end": 104.685,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 104.725,
+          "end": 104.805,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "social",
+          "start": 104.845,
+          "end": 105.165,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "program",
+          "start": 105.245,
+          "end": 105.826,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "becomes",
+          "start": 106.146,
+          "end": 106.546,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disordered",
+          "start": 106.646,
+          "end": 107.166,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 107.186,
+          "end": 107.286,
+          "score": 0.711,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "misdirected,",
+          "start": 107.326,
+          "end": 108.087,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "then",
+          "start": 108.527,
+          "end": 108.687,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 108.707,
+          "end": 108.787,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whole",
+          "start": 108.827,
+          "end": 109.127,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 109.408,
+          "end": 109.708,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "profession",
+          "start": 109.748,
+          "end": 110.308,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "starts",
+          "start": 110.548,
+          "end": 110.808,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "following",
+          "start": 110.868,
+          "end": 111.309,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 112.209,
+          "end": 112.289,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 112.329,
+          "end": 112.469,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wrong",
+          "start": 112.529,
+          "end": 112.749,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "direction.",
+          "start": 112.769,
+          "end": 113.15,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
+      "avg_logprob": -0.09015877172350883,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 39,
-      "seek": 8812,
-      "start": 91.88000000000001,
-      "end": 94.64,
-      "text": " as rather than the traditional Hippocratic ethic,",
-      "tokens": [
-        50552,
-        382,
-        2831,
-        813,
-        264,
-        5164,
-        2421,
-        427,
-        38883,
-        37820,
-        11,
-        50690
+      "start": 113.17,
+      "end": 120.834,
+      "text": "And that's what happened to German medicine starting in the 1920s, actually, Tucker, but on into the 1930s and through the Second World War.",
+      "words": [
+        {
+          "word": "And",
+          "start": 113.17,
+          "end": 113.23,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 113.27,
+          "end": 113.43,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 113.45,
+          "end": 113.57,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happened",
+          "start": 113.63,
+          "end": 113.99,
+          "score": 0.696,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 114.05,
+          "end": 114.25,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "German",
+          "start": 114.671,
+          "end": 114.991,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine",
+          "start": 115.031,
+          "end": 116.091,
+          "score": 0.608,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "starting",
+          "start": 116.532,
+          "end": 116.772,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 116.792,
+          "end": 116.832,
+          "score": 0.403,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 116.852,
+          "end": 117.212,
+          "score": 0.437,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1920s,",
+          "start": 117.352,
+          "end": 117.612,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually,",
+          "start": 117.652,
+          "end": 117.932,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Tucker,",
+          "start": 117.972,
+          "end": 118.293,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 118.313,
+          "end": 118.413,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 118.513,
+          "end": 118.593,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "into",
+          "start": 118.653,
+          "end": 118.833,
+          "score": 0.18,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 118.853,
+          "end": 118.913,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1930s",
+          "start": 118.993,
+          "end": 119.593,
+          "score": 0.532,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 119.653,
+          "end": 119.733,
+          "score": 0.695,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 119.753,
+          "end": 120.013,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 120.053,
+          "end": 120.154,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Second",
+          "start": 120.174,
+          "end": 120.434,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "World",
+          "start": 120.474,
+          "end": 120.654,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "War.",
+          "start": 120.694,
+          "end": 120.834,
+          "score": 0.417,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 40,
-      "seek": 8812,
-      "start": 94.64,
-      "end": 96.88000000000001,
-      "text": " my loyalty is to the sick patient",
-      "tokens": [
-        50690,
-        452,
-        22831,
-        307,
-        281,
-        264,
-        4998,
-        4537,
-        50802
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 41,
-      "seek": 8812,
-      "start": 96.88000000000001,
-      "end": 98.84,
-      "text": " who deserves the best care possible.",
-      "tokens": [
-        50802,
-        567,
-        17037,
-        264,
-        1151,
-        1127,
-        1944,
-        13,
-        50900
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 42,
-      "seek": 8812,
-      "start": 98.84,
-      "end": 103.0,
-      "text": " No, my loyalty is to, again, the social organism as a whole.",
-      "tokens": [
-        50900,
-        883,
-        11,
-        452,
-        22831,
-        307,
-        281,
-        11,
-        797,
-        11,
-        264,
-        2093,
-        24128,
-        382,
-        257,
-        1379,
-        13,
-        51108
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 43,
-      "seek": 8812,
-      "start": 103.0,
-      "end": 106.12,
-      "text": " Well, when the state or the social program",
-      "tokens": [
-        51108,
-        1042,
-        11,
-        562,
-        264,
-        1785,
-        420,
-        264,
-        2093,
-        1461,
-        51264
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 44,
-      "seek": 8812,
-      "start": 106.12,
-      "end": 108.52000000000001,
-      "text": " becomes disordered and misdirected,",
-      "tokens": [
-        51264,
-        3643,
-        717,
-        765,
-        4073,
-        293,
-        3346,
-        44868,
-        292,
-        11,
-        51384
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 45,
-      "seek": 8812,
-      "start": 108.52000000000001,
-      "end": 111.32000000000001,
-      "text": " then the whole medical profession starts following",
-      "tokens": [
-        51384,
-        550,
-        264,
-        1379,
-        4625,
-        7032,
-        3719,
-        3480,
-        51524
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 46,
-      "seek": 8812,
-      "start": 111.32000000000001,
-      "end": 113.2,
-      "text": " in that wrong direction.",
-      "tokens": [
-        51524,
-        294,
-        300,
-        2085,
-        3513,
-        13,
-        51618
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 47,
-      "seek": 8812,
-      "start": 113.2,
-      "end": 116.44,
-      "text": " And that's what happened to German medicine in the 19,",
-      "tokens": [
-        51618,
-        400,
-        300,
-        311,
-        437,
-        2011,
-        281,
-        6521,
-        7195,
-        294,
-        264,
-        1294,
-        11,
-        51780
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.0998942582503609,
-      "compression_ratio": 1.6996197718631179,
-      "no_speech_prob": 0.001735073048621416
-    },
-    {
-      "id": 48,
-      "seek": 11644,
-      "start": 116.48,
-      "end": 118.32,
-      "text": " starting in the 1920s actually, Tucker,",
-      "tokens": [
-        50366,
-        2891,
-        294,
-        264,
-        22003,
-        82,
-        767,
-        11,
-        35581,
-        11,
-        50458
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.287597726892542,
-      "compression_ratio": 1.0795454545454546,
-      "no_speech_prob": 0.23730340600013733
-    },
-    {
-      "id": 49,
-      "seek": 11644,
-      "start": 118.32,
-      "end": 121.12,
-      "text": " but on into the 1930s and through the Second World War.",
-      "tokens": [
-        50458,
-        457,
-        322,
-        666,
-        264,
-        22350,
-        82,
-        293,
-        807,
-        264,
-        5736,
-        3937,
-        3630,
-        13,
-        50598
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.287597726892542,
-      "compression_ratio": 1.0795454545454546,
-      "no_speech_prob": 0.23730340600013733
+      "avg_logprob": -0.09015877172350883,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "for",
+      "start": 0.271,
+      "end": 0.531,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "research,",
+      "start": 0.812,
+      "end": 1.212,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 1.232,
+      "end": 1.292,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 1.332,
+      "end": 1.432,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 1.472,
+      "end": 1.572,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later",
+      "start": 1.652,
+      "end": 1.912,
+      "score": 0.712,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "applied.",
+      "start": 1.993,
+      "end": 2.393,
+      "score": 0.601,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Now,",
+      "start": 2.433,
+      "end": 2.553,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 2.573,
+      "end": 2.613,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 2.633,
+      "end": 2.653,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 2.673,
+      "end": 2.813,
+      "score": 0.366,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ask",
+      "start": 2.853,
+      "end": 2.913,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 2.933,
+      "end": 3.033,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 3.133,
+      "end": 3.193,
+      "score": 0.293,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "question,",
+      "start": 3.213,
+      "end": 3.414,
+      "score": 0.135,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what's",
+      "start": 3.434,
+      "end": 3.554,
+      "score": 0.035,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 3.574,
+      "end": 3.634,
+      "score": 0.038,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "point?",
+      "start": 3.654,
+      "end": 3.934,
+      "score": 0.314,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Why",
+      "start": 4.434,
+      "end": 4.635,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 4.655,
+      "end": 4.755,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 4.795,
+      "end": 4.915,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 5.055,
+      "end": 5.355,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right",
+      "start": 5.555,
+      "end": 5.755,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 5.835,
+      "end": 6.036,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "World",
+      "start": 6.076,
+      "end": 6.276,
+      "score": 0.495,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "War",
+      "start": 6.296,
+      "end": 6.516,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "II,",
+      "start": 6.676,
+      "end": 6.956,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 7.056,
+      "end": 7.176,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 7.217,
+      "end": 7.337,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 7.357,
+      "end": 7.457,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 7.477,
+      "end": 7.597,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 7.617,
+      "end": 7.657,
+      "score": 0.386,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concern?",
+      "start": 7.697,
+      "end": 8.117,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Well,",
+      "start": 8.277,
+      "end": 8.457,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 8.477,
+      "end": 8.538,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 8.578,
+      "end": 8.678,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "obviously",
+      "start": 8.758,
+      "end": 9.178,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 9.218,
+      "end": 9.238,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "response",
+      "start": 9.298,
+      "end": 9.738,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 9.798,
+      "end": 9.899,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 9.919,
+      "end": 9.979,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors'",
+      "start": 10.039,
+      "end": 10.439,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trial",
+      "start": 10.499,
+      "end": 10.839,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 11.039,
+      "end": 11.099,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nuremberg,",
+      "start": 11.14,
+      "end": 11.68,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 11.84,
+      "end": 12.1,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 12.641,
+      "end": 12.721,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors...",
+      "start": 12.761,
+      "end": 13.241,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Of",
+      "start": 13.581,
+      "end": 13.701,
+      "score": 0.652,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nazi",
+      "start": 13.742,
+      "end": 14.062,
+      "score": 0.568,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors.",
+      "start": 14.082,
+      "end": 14.462,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nazi",
+      "start": 14.542,
+      "end": 14.822,
+      "score": 0.6,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors",
+      "start": 14.842,
+      "end": 15.243,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 15.863,
+      "end": 16.043,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 16.123,
+      "end": 16.384,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "conducted",
+      "start": 16.864,
+      "end": 17.424,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 17.785,
+      "end": 18.085,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "research",
+      "start": 18.125,
+      "end": 18.525,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 18.725,
+      "end": 18.805,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 18.825,
+      "end": 18.905,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "death",
+      "start": 18.946,
+      "end": 19.146,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "camps,",
+      "start": 19.186,
+      "end": 19.526,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 19.646,
+      "end": 19.726,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 19.746,
+      "end": 19.806,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concentration",
+      "start": 19.846,
+      "end": 20.447,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "camps,",
+      "start": 20.487,
+      "end": 20.747,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 20.967,
+      "end": 21.067,
+      "score": 0.604,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prisoners.",
+      "start": 21.127,
+      "end": 21.628,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 22.288,
+      "end": 22.388,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 22.428,
+      "end": 22.548,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tried",
+      "start": 22.648,
+      "end": 22.908,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 22.968,
+      "end": 23.068,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "justify",
+      "start": 23.508,
+      "end": 24.028,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 24.068,
+      "end": 24.128,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 24.248,
+      "end": 24.328,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "various",
+      "start": 24.368,
+      "end": 24.688,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "grounds.",
+      "start": 24.748,
+      "end": 25.169,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 25.249,
+      "end": 25.329,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually,",
+      "start": 25.389,
+      "end": 25.689,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 25.709,
+      "end": 25.809,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 25.829,
+      "end": 25.949,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "say",
+      "start": 25.989,
+      "end": 26.129,
+      "score": 0.683,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "things",
+      "start": 26.169,
+      "end": 26.369,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like,",
+      "start": 26.409,
+      "end": 26.549,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "well,",
+      "start": 26.789,
+      "end": 26.909,
+      "score": 0.526,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.929,
+      "end": 27.009,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prisoners",
+      "start": 27.049,
+      "end": 28.009,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 28.049,
+      "end": 28.189,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treated",
+      "start": 28.289,
+      "end": 28.569,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "better",
+      "start": 28.709,
+      "end": 29.009,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 29.449,
+      "end": 29.529,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 29.549,
+      "end": 29.629,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 29.669,
+      "end": 29.949,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wards",
+      "start": 29.989,
+      "end": 30.289,
+      "score": 0.745,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 30.389,
+      "end": 30.509,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 30.529,
+      "end": 30.629,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 30.67,
+      "end": 30.81,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 30.85,
+      "end": 30.91,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 30.93,
+      "end": 30.99,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "general",
+      "start": 31.05,
+      "end": 31.37,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care.",
+      "start": 31.43,
+      "end": 31.83,
+      "score": 0.663,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 32.17,
+      "end": 32.29,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 32.31,
+      "end": 32.39,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 32.41,
+      "end": 32.53,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 32.55,
+      "end": 32.59,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "die",
+      "start": 32.65,
+      "end": 32.89,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "anyways.",
+      "start": 33.05,
+      "end": 33.59,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 33.73,
+      "end": 33.81,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 33.89,
+      "end": 34.13,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 34.47,
+      "end": 34.77,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "giving",
+      "start": 34.87,
+      "end": 35.11,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 35.15,
+      "end": 35.33,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "better",
+      "start": 35.73,
+      "end": 35.97,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "food",
+      "start": 36.01,
+      "end": 36.31,
+      "score": 0.726,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 36.351,
+      "end": 36.431,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "better",
+      "start": 36.471,
+      "end": 36.671,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "housing",
+      "start": 36.711,
+      "end": 37.171,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 37.211,
+      "end": 37.271,
+      "score": 0.49,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "better",
+      "start": 37.291,
+      "end": 37.511,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 37.591,
+      "end": 37.991,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "before",
+      "start": 38.471,
+      "end": 38.711,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 38.731,
+      "end": 38.851,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "died",
+      "start": 38.911,
+      "end": 39.291,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 39.351,
+      "end": 39.591,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 39.791,
+      "end": 39.851,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "act",
+      "start": 39.911,
+      "end": 40.051,
+      "score": 0.641,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 40.091,
+      "end": 40.151,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kindness.",
+      "start": 40.191,
+      "end": 40.651,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 40.671,
+      "end": 40.751,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 40.771,
+      "end": 41.071,
+      "score": 0.578,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 41.411,
+      "end": 41.531,
+      "score": 0.553,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "serving",
+      "start": 41.551,
+      "end": 41.791,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 41.811,
+      "end": 41.871,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "greater",
+      "start": 41.911,
+      "end": 42.132,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "good,",
+      "start": 42.152,
+      "end": 42.672,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 42.752,
+      "end": 42.812,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 42.852,
+      "end": 43.292,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "view.",
+      "start": 43.372,
+      "end": 43.592,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Exactly.",
+      "start": 43.852,
+      "end": 44.372,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 44.492,
+      "end": 44.572,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nazi",
+      "start": 44.632,
+      "end": 44.992,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine",
+      "start": 45.012,
+      "end": 45.352,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 45.392,
+      "end": 45.472,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taken",
+      "start": 45.512,
+      "end": 45.752,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 45.792,
+      "end": 45.832,
+      "score": 0.5,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "subtle",
+      "start": 45.932,
+      "end": 46.252,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shift",
+      "start": 46.312,
+      "end": 46.652,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 47.092,
+      "end": 47.272,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treating",
+      "start": 47.372,
+      "end": 47.673,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 47.713,
+      "end": 47.793,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individual",
+      "start": 47.873,
+      "end": 48.333,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vulnerable",
+      "start": 48.393,
+      "end": 48.893,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patient",
+      "start": 48.933,
+      "end": 49.273,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 49.313,
+      "end": 49.373,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "front",
+      "start": 49.433,
+      "end": 49.613,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 49.653,
+      "end": 49.713,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 49.773,
+      "end": 49.873,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 50.513,
+      "end": 50.593,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 50.633,
+      "end": 50.813,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 50.853,
+      "end": 50.893,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 50.953,
+      "end": 51.013,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "service",
+      "start": 51.073,
+      "end": 51.393,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 51.473,
+      "end": 51.553,
+      "score": 0.712,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 51.573,
+      "end": 51.834,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 51.874,
+      "end": 52.134,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 52.174,
+      "end": 52.234,
+      "score": 0.787,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 52.294,
+      "end": 52.374,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "valk,",
+      "start": 52.474,
+      "end": 52.834,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 52.934,
+      "end": 53.094,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "social",
+      "start": 53.594,
+      "end": 53.975,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "organism",
+      "start": 54.155,
+      "end": 54.735,
+      "score": 0.763,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 54.855,
+      "end": 54.935,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 55.035,
+      "end": 55.095,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole,",
+      "start": 55.155,
+      "end": 55.495,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right?",
+      "start": 56.136,
+      "end": 56.336,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Well,",
+      "start": 56.616,
+      "end": 56.816,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 57.076,
+      "end": 57.156,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 57.196,
+      "end": 57.276,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "social",
+      "start": 57.336,
+      "end": 57.616,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "organism",
+      "start": 57.696,
+      "end": 58.096,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 58.517,
+      "end": 58.617,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 58.657,
+      "end": 58.677,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole",
+      "start": 58.777,
+      "end": 59.057,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 59.117,
+      "end": 59.197,
+      "score": 0.517,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 59.217,
+      "end": 59.377,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 59.417,
+      "end": 59.537,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "loyalties",
+      "start": 59.617,
+      "end": 60.097,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lie",
+      "start": 60.137,
+      "end": 60.357,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 60.377,
+      "end": 60.417,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 60.457,
+      "end": 60.497,
+      "score": 0.353,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "physician,",
+      "start": 60.537,
+      "end": 61.118,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 61.558,
+      "end": 61.698,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happens",
+      "start": 61.718,
+      "end": 62.058,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 62.138,
+      "end": 62.218,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 62.258,
+      "end": 62.318,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "social",
+      "start": 62.378,
+      "end": 62.638,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "organism",
+      "start": 62.718,
+      "end": 63.099,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 63.159,
+      "end": 63.279,
+      "score": 0.786,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 63.339,
+      "end": 63.359,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "quote",
+      "start": 63.419,
+      "end": 63.599,
+      "score": 0.674,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unquote",
+      "start": 63.619,
+      "end": 63.939,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cancer",
+      "start": 64.039,
+      "end": 64.579,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 64.659,
+      "end": 64.759,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it?",
+      "start": 64.819,
+      "end": 64.919,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 64.979,
+      "end": 65.039,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there's",
+      "start": 65.059,
+      "end": 65.26,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 66.0,
+      "end": 66.06,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sick,",
+      "start": 66.14,
+      "end": 66.4,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 66.42,
+      "end": 66.54,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disabled,",
+      "start": 66.58,
+      "end": 67.0,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 67.04,
+      "end": 67.1,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 67.14,
+      "end": 67.34,
+      "score": 0.755,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 67.36,
+      "end": 67.441,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 67.481,
+      "end": 67.561,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 67.581,
+      "end": 67.601,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drain",
+      "start": 67.641,
+      "end": 67.881,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 67.921,
+      "end": 67.981,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 68.001,
+      "end": 68.101,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "economy,",
+      "start": 68.161,
+      "end": 68.601,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "well,",
+      "start": 68.621,
+      "end": 68.781,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 68.801,
+      "end": 68.901,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "carve",
+      "start": 68.961,
+      "end": 69.261,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 69.321,
+      "end": 69.441,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 69.521,
+      "end": 69.561,
+      "score": 0.54,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cancer",
+      "start": 69.581,
+      "end": 69.942,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 69.982,
+      "end": 70.042,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 70.062,
+      "end": 70.202,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "do",
+      "start": 70.302,
+      "end": 70.442,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "away",
+      "start": 70.502,
+      "end": 70.702,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 70.742,
+      "end": 70.882,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 70.942,
+      "end": 71.002,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 71.042,
+      "end": 71.122,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 71.162,
+      "end": 71.302,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "led",
+      "start": 71.362,
+      "end": 71.602,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 72.103,
+      "end": 72.203,
+      "score": 0.918,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 72.223,
+      "end": 72.283,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "euthanasia",
+      "start": 72.303,
+      "end": 73.043,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "regime.",
+      "start": 73.423,
+      "end": 73.783,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That",
+      "start": 73.803,
+      "end": 73.963,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "led",
+      "start": 74.043,
+      "end": 74.244,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 74.304,
+      "end": 74.524,
+      "score": 0.796,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "600,000",
+      "start": 74.544,
+      "end": 75.564,
+      "score": 0.64,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 75.584,
+      "end": 75.844,
+      "score": 0.73,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "involuntarily",
+      "start": 75.884,
+      "end": 76.605,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sterilized.",
+      "start": 76.665,
+      "end": 77.265,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 77.645,
+      "end": 77.745,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 77.785,
+      "end": 77.845,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nazi",
+      "start": 77.905,
+      "end": 78.225,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doctors,",
+      "start": 78.265,
+      "end": 78.566,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "even",
+      "start": 78.766,
+      "end": 78.966,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "before",
+      "start": 79.026,
+      "end": 79.506,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 79.526,
+      "end": 79.586,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Nazis",
+      "start": 80.007,
+      "end": 80.467,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "came",
+      "start": 80.587,
+      "end": 81.188,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 81.328,
+      "end": 81.448,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "power.",
+      "start": 81.488,
+      "end": 81.868,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 81.888,
+      "end": 82.048,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 82.068,
+      "end": 82.128,
+      "score": 0.479,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "German",
+      "start": 82.228,
+      "end": 82.629,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine.",
+      "start": 82.689,
+      "end": 83.189,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 83.67,
+      "end": 83.77,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "best,",
+      "start": 83.83,
+      "end": 84.15,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 84.23,
+      "end": 84.43,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "advanced",
+      "start": 84.49,
+      "end": 84.87,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 84.91,
+      "end": 85.231,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system",
+      "start": 85.291,
+      "end": 85.671,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 86.031,
+      "end": 86.111,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 86.171,
+      "end": 86.452,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "institutions",
+      "start": 86.492,
+      "end": 87.112,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 87.152,
+      "end": 87.212,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 87.232,
+      "end": 87.312,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world",
+      "start": 87.372,
+      "end": 87.713,
+      "score": 0.711,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went",
+      "start": 88.273,
+      "end": 88.493,
+      "score": 0.942,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "down",
+      "start": 88.553,
+      "end": 88.773,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 88.813,
+      "end": 88.954,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "path",
+      "start": 89.034,
+      "end": 89.474,
+      "score": 0.664,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 89.554,
+      "end": 89.794,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 89.834,
+      "end": 89.954,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "began",
+      "start": 90.014,
+      "end": 90.435,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 90.515,
+      "end": 90.635,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "see",
+      "start": 90.715,
+      "end": 90.895,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 90.935,
+      "end": 91.095,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "job",
+      "start": 91.135,
+      "end": 91.495,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as,",
+      "start": 91.956,
+      "end": 92.056,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rather",
+      "start": 92.116,
+      "end": 92.376,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 92.416,
+      "end": 92.556,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 92.596,
+      "end": 92.696,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "traditional",
+      "start": 93.177,
+      "end": 93.637,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Hippocratic",
+      "start": 93.677,
+      "end": 94.217,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ethic,",
+      "start": 94.318,
+      "end": 94.598,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 94.678,
+      "end": 94.818,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "loyalty",
+      "start": 94.878,
+      "end": 95.338,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 95.398,
+      "end": 95.478,
+      "score": 0.656,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 95.538,
+      "end": 95.659,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 95.679,
+      "end": 95.779,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sick",
+      "start": 95.879,
+      "end": 96.079,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patient",
+      "start": 96.179,
+      "end": 96.559,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 96.92,
+      "end": 97.04,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "deserves",
+      "start": 97.08,
+      "end": 97.46,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 97.5,
+      "end": 97.58,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "best",
+      "start": 97.62,
+      "end": 97.82,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "care",
+      "start": 97.86,
+      "end": 98.06,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "possible.",
+      "start": 98.1,
+      "end": 98.521,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "No,",
+      "start": 98.901,
+      "end": 99.021,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 99.041,
+      "end": 99.161,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "loyalty",
+      "start": 99.201,
+      "end": 99.662,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 99.722,
+      "end": 99.822,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to,",
+      "start": 99.922,
+      "end": 100.142,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "again,",
+      "start": 100.822,
+      "end": 101.063,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 101.083,
+      "end": 101.163,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "social",
+      "start": 101.223,
+      "end": 101.543,
+      "score": 0.66,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "organism",
+      "start": 101.583,
+      "end": 102.003,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 102.043,
+      "end": 102.123,
+      "score": 0.519,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 102.163,
+      "end": 102.183,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole,",
+      "start": 102.284,
+      "end": 102.604,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Well,",
+      "start": 103.064,
+      "end": 103.664,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 103.764,
+      "end": 103.905,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 103.925,
+      "end": 104.005,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "state",
+      "start": 104.065,
+      "end": 104.465,
+      "score": 0.742,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 104.625,
+      "end": 104.685,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 104.725,
+      "end": 104.805,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "social",
+      "start": 104.845,
+      "end": 105.165,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "program",
+      "start": 105.245,
+      "end": 105.826,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "becomes",
+      "start": 106.146,
+      "end": 106.546,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disordered",
+      "start": 106.646,
+      "end": 107.166,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 107.186,
+      "end": 107.286,
+      "score": 0.711,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "misdirected,",
+      "start": 107.326,
+      "end": 108.087,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "then",
+      "start": 108.527,
+      "end": 108.687,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 108.707,
+      "end": 108.787,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whole",
+      "start": 108.827,
+      "end": 109.127,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 109.408,
+      "end": 109.708,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "profession",
+      "start": 109.748,
+      "end": 110.308,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "starts",
+      "start": 110.548,
+      "end": 110.808,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "following",
+      "start": 110.868,
+      "end": 111.309,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 112.209,
+      "end": 112.289,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 112.329,
+      "end": 112.469,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wrong",
+      "start": 112.529,
+      "end": 112.749,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "direction.",
+      "start": 112.769,
+      "end": 113.15,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 113.17,
+      "end": 113.23,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 113.27,
+      "end": 113.43,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 113.45,
+      "end": 113.57,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happened",
+      "start": 113.63,
+      "end": 113.99,
+      "score": 0.696,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 114.05,
+      "end": 114.25,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "German",
+      "start": 114.671,
+      "end": 114.991,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine",
+      "start": 115.031,
+      "end": 116.091,
+      "score": 0.608,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "starting",
+      "start": 116.532,
+      "end": 116.772,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 116.792,
+      "end": 116.832,
+      "score": 0.403,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 116.852,
+      "end": 117.212,
+      "score": 0.437,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1920s,",
+      "start": 117.352,
+      "end": 117.612,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually,",
+      "start": 117.652,
+      "end": 117.932,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Tucker,",
+      "start": 117.972,
+      "end": 118.293,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 118.313,
+      "end": 118.413,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 118.513,
+      "end": 118.593,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "into",
+      "start": 118.653,
+      "end": 118.833,
+      "score": 0.18,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 118.853,
+      "end": 118.913,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1930s",
+      "start": 118.993,
+      "end": 119.593,
+      "score": 0.532,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 119.653,
+      "end": 119.733,
+      "score": 0.695,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 119.753,
+      "end": 120.013,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 120.053,
+      "end": 120.154,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Second",
+      "start": 120.174,
+      "end": 120.434,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "World",
+      "start": 120.474,
+      "end": 120.654,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "War.",
+      "start": 120.694,
+      "end": 120.834,
+      "score": 0.417,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

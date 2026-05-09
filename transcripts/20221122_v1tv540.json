@@ -1,687 +1,2605 @@
 {
-  "text": " I was one of the first people to have the COVID-19 vaccine. I helped out in the vaccine center. I was in Good Morning Britain helping tackle vaccine hesitancy. I did not conceive of the possibility that a vaccine could cause any real harm at all. It wasn't even part of it. It wasn't even anywhere in my brain. What we're dealing with now with hindsight is perhaps the greatest miscarriage of medical science we will witness in our lifetime. What in the world is going on? What's changed? And this is worldwide. It's worldwide. What's changed in the world all at the same time, all working to suppress the free interchange of information around SARS-CoV-2, COVID-19, and the vaccines? Two of the world's biggest voices in heart health are now standing together discussing COVID and the vaccine. On November 29th, the Vaccine Safety Research Foundation presents Deep in the Heart of Texas with Dr. Peter McCullough and Dr. Essi Malhotra, speaking live in Dallas, along with a performance by Five Times August. I'm gonna stand here and I'll fight for every word I'm gonna shout the truth until you know it's heard. Get your tickets now at vaccine-safety.org slash events.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.04,
+      "start": 0.051,
+      "end": 2.693,
       "text": " I was one of the first people to have the COVID-19 vaccine.",
-      "tokens": [
-        50364,
-        286,
-        390,
-        472,
-        295,
-        264,
-        700,
-        561,
-        281,
-        362,
-        264,
-        4566,
-        12,
-        3405,
-        7007,
-        13,
-        50516
+      "words": [
+        {
+          "word": "I",
+          "start": 0.051,
+          "end": 0.111,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 0.151,
+          "end": 0.251,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 0.311,
+          "end": 0.411,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 0.431,
+          "end": 0.471,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 0.511,
+          "end": 0.571,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 0.611,
+          "end": 0.832,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 0.872,
+          "end": 1.132,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 1.152,
+          "end": 1.232,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 1.272,
+          "end": 1.452,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 1.492,
+          "end": 1.572,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID-19",
+          "start": 1.612,
+          "end": 2.232,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine.",
+          "start": 2.272,
+          "end": 2.693,
+          "score": 0.602,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
+      "avg_logprob": -0.0640190994573964,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.04,
-      "end": 4.4,
-      "text": " I helped out in the vaccine center.",
-      "tokens": [
-        50516,
-        286,
-        4254,
-        484,
-        294,
-        264,
-        7007,
-        3056,
-        13,
-        50584
+      "start": 3.113,
+      "end": 4.394,
+      "text": "I helped out in a vaccine centre.",
+      "words": [
+        {
+          "word": "I",
+          "start": 3.113,
+          "end": 3.153,
+          "score": 0.793,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "helped",
+          "start": 3.173,
+          "end": 3.313,
+          "score": 0.594,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "out",
+          "start": 3.333,
+          "end": 3.393,
+          "score": 0.014,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "in",
+          "start": 3.413,
+          "end": 3.513,
+          "score": 0.578,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "a",
+          "start": 3.553,
+          "end": 3.593,
+          "score": 0.001,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "vaccine",
+          "start": 3.613,
+          "end": 3.934,
+          "score": 0.589,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "centre.",
+          "start": 3.954,
+          "end": 4.394,
+          "score": 0.872,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
+      "avg_logprob": -0.0640190994573964,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 4.4,
-      "end": 6.0,
-      "text": " I was in Good Morning Britain helping",
-      "tokens": [
-        50584,
-        286,
-        390,
-        294,
-        2205,
-        17967,
-        12960,
-        4315,
-        50664
+      "start": 4.434,
+      "end": 7.496,
+      "text": "I was in Good Morning Britain helping tackle vaccine hesitancy.",
+      "words": [
+        {
+          "word": "I",
+          "start": 4.434,
+          "end": 4.494,
+          "score": 0.599,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "was",
+          "start": 4.514,
+          "end": 4.614,
+          "score": 0.68,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "in",
+          "start": 4.654,
+          "end": 4.714,
+          "score": 0.614,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "Good",
+          "start": 4.754,
+          "end": 4.874,
+          "score": 0.999,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "Morning",
+          "start": 4.914,
+          "end": 5.134,
+          "score": 0.863,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "Britain",
+          "start": 5.174,
+          "end": 5.535,
+          "score": 0.651,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "helping",
+          "start": 5.595,
+          "end": 5.975,
+          "score": 0.898,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "tackle",
+          "start": 6.035,
+          "end": 6.415,
+          "score": 0.791,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "vaccine",
+          "start": 6.435,
+          "end": 6.816,
+          "score": 0.658,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "hesitancy.",
+          "start": 6.836,
+          "end": 7.496,
+          "score": 0.956,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
+      "avg_logprob": -0.0640190994573964,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 6.0,
-      "end": 7.76,
-      "text": " tackle vaccine hesitancy.",
-      "tokens": [
-        50664,
-        14896,
-        7007,
-        28336,
-        6717,
-        13,
-        50752
+      "start": 7.936,
+      "end": 15.962,
+      "text": "I did not conceive of the possibility that a vaccine could cause any real harm at all.",
+      "words": [
+        {
+          "word": "I",
+          "start": 7.936,
+          "end": 7.996,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "did",
+          "start": 8.056,
+          "end": 8.196,
+          "score": 0.943,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "not",
+          "start": 8.236,
+          "end": 8.397,
+          "score": 0.979,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "conceive",
+          "start": 8.497,
+          "end": 9.137,
+          "score": 0.869,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "of",
+          "start": 9.657,
+          "end": 9.737,
+          "score": 0.906,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "the",
+          "start": 9.777,
+          "end": 9.878,
+          "score": 0.909,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "possibility",
+          "start": 9.978,
+          "end": 10.698,
+          "score": 0.864,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "that",
+          "start": 10.758,
+          "end": 10.898,
+          "score": 0.911,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "a",
+          "start": 11.018,
+          "end": 11.138,
+          "score": 0.735,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "vaccine",
+          "start": 11.218,
+          "end": 11.739,
+          "score": 0.789,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "could",
+          "start": 11.779,
+          "end": 11.939,
+          "score": 0.882,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "cause",
+          "start": 11.979,
+          "end": 12.219,
+          "score": 0.877,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "any",
+          "start": 12.419,
+          "end": 12.599,
+          "score": 0.814,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "real",
+          "start": 12.679,
+          "end": 12.9,
+          "score": 0.941,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "harm",
+          "start": 12.96,
+          "end": 14.861,
+          "score": 0.859,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "at",
+          "start": 14.961,
+          "end": 15.401,
+          "score": 0.524,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "all.",
+          "start": 15.661,
+          "end": 15.962,
+          "score": 0.696,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
+      "avg_logprob": -0.0640190994573964,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 7.76,
-      "end": 10.72,
-      "text": " I did not conceive of the possibility",
-      "tokens": [
-        50752,
-        286,
-        630,
-        406,
-        48605,
-        295,
-        264,
-        7959,
-        50900
+      "start": 16.362,
+      "end": 18.363,
+      "text": "It wasn't even anywhere in my brain.",
+      "words": [
+        {
+          "word": "It",
+          "start": 16.362,
+          "end": 16.422,
+          "score": 0.963,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "wasn't",
+          "start": 16.462,
+          "end": 16.682,
+          "score": 0.867,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "even",
+          "start": 16.782,
+          "end": 17.002,
+          "score": 0.481,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "anywhere",
+          "start": 17.443,
+          "end": 17.823,
+          "score": 0.836,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "in",
+          "start": 17.863,
+          "end": 17.923,
+          "score": 0.722,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "my",
+          "start": 17.963,
+          "end": 18.103,
+          "score": 0.785,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "brain.",
+          "start": 18.123,
+          "end": 18.363,
+          "score": 0.559,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
+      "avg_logprob": -0.0640190994573964,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 10.72,
-      "end": 14.68,
-      "text": " that a vaccine could cause any real harm at all.",
-      "tokens": [
-        50900,
-        300,
-        257,
-        7007,
-        727,
-        3082,
-        604,
-        957,
-        6491,
-        412,
-        439,
-        13,
-        51098
+      "start": 18.523,
+      "end": 26.569,
+      "text": "What we're dealing with now, with hindsight, is perhaps the greatest miscarriage of medical science we will witness in our lifetime.",
+      "words": [
+        {
+          "word": "What",
+          "start": 18.523,
+          "end": 18.663,
+          "score": 0.757,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "we're",
+          "start": 18.683,
+          "end": 18.823,
+          "score": 0.574,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "dealing",
+          "start": 18.843,
+          "end": 19.064,
+          "score": 0.818,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "with",
+          "start": 19.104,
+          "end": 19.224,
+          "score": 0.902,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "now,",
+          "start": 19.304,
+          "end": 19.644,
+          "score": 0.894,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "with",
+          "start": 19.804,
+          "end": 20.625,
+          "score": 0.88,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "hindsight,",
+          "start": 20.665,
+          "end": 21.245,
+          "score": 0.839,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "is",
+          "start": 22.006,
+          "end": 22.166,
+          "score": 0.707,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "perhaps",
+          "start": 22.726,
+          "end": 23.066,
+          "score": 0.855,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "the",
+          "start": 23.166,
+          "end": 23.286,
+          "score": 0.882,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "greatest",
+          "start": 23.326,
+          "end": 23.687,
+          "score": 0.892,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "miscarriage",
+          "start": 23.807,
+          "end": 24.367,
+          "score": 0.886,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "of",
+          "start": 24.387,
+          "end": 24.467,
+          "score": 0.666,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "medical",
+          "start": 24.527,
+          "end": 24.887,
+          "score": 0.915,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "science",
+          "start": 24.948,
+          "end": 25.328,
+          "score": 0.831,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "we",
+          "start": 25.388,
+          "end": 25.508,
+          "score": 0.806,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "will",
+          "start": 25.528,
+          "end": 25.668,
+          "score": 0.425,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "witness",
+          "start": 25.688,
+          "end": 26.008,
+          "score": 0.761,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "in",
+          "start": 26.048,
+          "end": 26.108,
+          "score": 0.797,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "our",
+          "start": 26.168,
+          "end": 26.248,
+          "score": 0.963,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "lifetime.",
+          "start": 26.288,
+          "end": 26.569,
+          "score": 0.499,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
+      "avg_logprob": -0.0640190994573964,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 14.68,
-      "end": 16.4,
-      "text": " It wasn't even part of it.",
-      "tokens": [
-        51098,
-        467,
-        2067,
-        380,
-        754,
-        644,
-        295,
-        309,
-        13,
-        51184
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 16.4,
-      "end": 18.48,
-      "text": " It wasn't even anywhere in my brain.",
-      "tokens": [
-        51184,
-        467,
-        2067,
-        380,
-        754,
-        4992,
-        294,
-        452,
-        3567,
-        13,
-        51288
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
-    },
-    {
-      "id": 8,
-      "seek": 0,
-      "start": 18.48,
-      "end": 21.84,
-      "text": " What we're dealing with now with hindsight",
-      "tokens": [
-        51288,
-        708,
-        321,
-        434,
-        6260,
-        365,
-        586,
-        365,
-        44357,
-        51456
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
-    },
-    {
-      "id": 9,
-      "seek": 0,
-      "start": 21.84,
-      "end": 25.36,
-      "text": " is perhaps the greatest miscarriage of medical science",
-      "tokens": [
-        51456,
-        307,
-        4317,
-        264,
-        6636,
-        3346,
-        6166,
-        6200,
-        295,
-        4625,
-        3497,
-        51632
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
-    },
-    {
-      "id": 10,
-      "seek": 0,
-      "start": 25.36,
-      "end": 27.240000000000002,
-      "text": " we will witness in our lifetime.",
-      "tokens": [
-        51632,
-        321,
-        486,
-        7286,
-        294,
-        527,
-        11364,
-        13,
-        51726
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
-    },
-    {
-      "id": 11,
-      "seek": 0,
-      "start": 27.240000000000002,
-      "end": 29.28,
+      "start": 27.353,
+      "end": 29.254,
       "text": " What in the world is going on?",
-      "tokens": [
-        51726,
-        708,
-        294,
-        264,
-        1002,
-        307,
-        516,
-        322,
-        30,
-        51828
+      "words": [
+        {
+          "word": "What",
+          "start": 27.353,
+          "end": 27.573,
+          "score": 0.891,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 27.733,
+          "end": 27.813,
+          "score": 0.836,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 27.853,
+          "end": 27.953,
+          "score": 0.723,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "world",
+          "start": 28.053,
+          "end": 28.394,
+          "score": 0.649,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 28.514,
+          "end": 28.594,
+          "score": 0.669,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "going",
+          "start": 28.674,
+          "end": 28.994,
+          "score": 0.657,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "on?",
+          "start": 29.134,
+          "end": 29.254,
+          "score": 0.748,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15147839036098745,
-      "compression_ratio": 1.656140350877193,
-      "no_speech_prob": 0.11717963218688965
+      "avg_logprob": -0.10501302269597848,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 12,
-      "seek": 2928,
-      "start": 29.28,
-      "end": 30.240000000000002,
-      "text": " What's changed?",
-      "tokens": [
-        50364,
-        708,
-        311,
-        3105,
-        30,
-        50412
+      "start": 29.354,
+      "end": 30.234,
+      "text": "What's changed?",
+      "words": [
+        {
+          "word": "What's",
+          "start": 29.354,
+          "end": 29.594,
+          "score": 0.809,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "changed?",
+          "start": 29.774,
+          "end": 30.234,
+          "score": 0.809,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
+      "avg_logprob": -0.10501302269597848,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 13,
-      "seek": 2928,
-      "start": 30.240000000000002,
-      "end": 31.92,
-      "text": " And this is worldwide.",
-      "tokens": [
-        50412,
-        400,
-        341,
-        307,
-        13485,
-        13,
-        50496
+      "start": 30.294,
+      "end": 31.455,
+      "text": "And this is worldwide.",
+      "words": [
+        {
+          "word": "And",
+          "start": 30.294,
+          "end": 30.374,
+          "score": 0.95,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "this",
+          "start": 30.414,
+          "end": 30.695,
+          "score": 0.869,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 30.715,
+          "end": 30.755,
+          "score": 0.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "worldwide.",
+          "start": 30.815,
+          "end": 31.455,
+          "score": 0.689,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
+      "avg_logprob": -0.10501302269597848,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 14,
-      "seek": 2928,
-      "start": 31.92,
-      "end": 32.72,
-      "text": " It's worldwide.",
-      "tokens": [
-        50496,
-        467,
-        311,
-        13485,
-        13,
-        50536
+      "start": 31.635,
+      "end": 31.855,
+      "text": "Yeah.",
+      "words": [
+        {
+          "word": "Yeah.",
+          "start": 31.635,
+          "end": 31.855,
+          "score": 0.616,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
+      "avg_logprob": -0.10501302269597848,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 15,
-      "seek": 2928,
-      "start": 32.72,
-      "end": 36.36,
-      "text": " What's changed in the world all at the same time,",
-      "tokens": [
-        50536,
-        708,
-        311,
-        3105,
-        294,
-        264,
-        1002,
-        439,
-        412,
-        264,
-        912,
-        565,
-        11,
-        50718
+      "start": 32.015,
+      "end": 32.735,
+      "text": "It's worldwide.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 32.015,
+          "end": 32.135,
+          "score": 0.248,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "worldwide.",
+          "start": 32.195,
+          "end": 32.735,
+          "score": 0.872,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
+      "avg_logprob": -0.10501302269597848,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 16,
-      "seek": 2928,
-      "start": 36.36,
-      "end": 40.0,
-      "text": " all working to suppress the free interchange of information",
-      "tokens": [
-        50718,
-        439,
-        1364,
-        281,
-        26835,
-        264,
-        1737,
-        30358,
-        295,
-        1589,
-        50900
+      "start": 32.815,
+      "end": 43.02,
+      "text": "What's changed in the world all at the same time, all working to suppress the free interchange of information around SARS-CoV-2, COVID-19 and the vaccines?",
+      "words": [
+        {
+          "word": "What's",
+          "start": 32.815,
+          "end": 33.056,
+          "score": 0.826,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "changed",
+          "start": 33.196,
+          "end": 33.596,
+          "score": 0.692,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 33.676,
+          "end": 33.756,
+          "score": 0.817,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 33.776,
+          "end": 33.856,
+          "score": 0.835,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "world",
+          "start": 33.916,
+          "end": 34.196,
+          "score": 0.758,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "all",
+          "start": 34.476,
+          "end": 34.636,
+          "score": 0.876,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "at",
+          "start": 34.736,
+          "end": 34.816,
+          "score": 0.765,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 34.876,
+          "end": 34.996,
+          "score": 0.889,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "same",
+          "start": 35.056,
+          "end": 35.317,
+          "score": 0.734,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "time,",
+          "start": 35.397,
+          "end": 35.697,
+          "score": 0.814,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "all",
+          "start": 36.517,
+          "end": 36.697,
+          "score": 0.716,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "working",
+          "start": 36.757,
+          "end": 37.097,
+          "score": 0.936,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 37.157,
+          "end": 37.317,
+          "score": 0.75,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "suppress",
+          "start": 37.397,
+          "end": 38.018,
+          "score": 0.89,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 38.158,
+          "end": 38.278,
+          "score": 0.887,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "free",
+          "start": 38.358,
+          "end": 38.638,
+          "score": 0.864,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "interchange",
+          "start": 38.718,
+          "end": 39.218,
+          "score": 0.84,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 39.258,
+          "end": 39.318,
+          "score": 0.75,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "information",
+          "start": 39.378,
+          "end": 39.899,
+          "score": 0.909,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "around",
+          "start": 40.139,
+          "end": 40.619,
+          "score": 0.87,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "SARS-CoV-2,",
+          "start": 40.699,
+          "end": 41.539,
+          "score": 0.825,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "COVID-19",
+          "start": 41.639,
+          "end": 42.36,
+          "score": 0.685,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 42.4,
+          "end": 42.48,
+          "score": 0.831,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 42.5,
+          "end": 42.56,
+          "score": 0.904,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccines?",
+          "start": 42.6,
+          "end": 43.02,
+          "score": 0.732,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
+      "avg_logprob": -0.10501302269597848,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 17,
-      "seek": 2928,
-      "start": 40.0,
-      "end": 43.28,
-      "text": " around SARS-CoV-2, COVID-19, and the vaccines?",
-      "tokens": [
-        50900,
-        926,
-        34233,
-        12,
-        21141,
-        53,
-        12,
-        17,
-        11,
-        4566,
-        12,
-        3405,
-        11,
-        293,
-        264,
-        12164,
-        30,
-        51064
+      "start": 43.34,
+      "end": 48.464,
+      "text": " Two of the world's biggest voices in heart health are now standing together discussing COVID and the vaccine.",
+      "words": [
+        {
+          "word": "Two",
+          "start": 43.34,
+          "end": 43.48,
+          "score": 0.925,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 43.52,
+          "end": 43.56,
+          "score": 0.995,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 43.62,
+          "end": 43.7,
+          "score": 0.834,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "world's",
+          "start": 43.72,
+          "end": 44.021,
+          "score": 0.625,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "biggest",
+          "start": 44.061,
+          "end": 44.341,
+          "score": 0.93,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "voices",
+          "start": 44.401,
+          "end": 44.761,
+          "score": 0.814,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 44.821,
+          "end": 44.901,
+          "score": 0.723,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "heart",
+          "start": 44.941,
+          "end": 45.121,
+          "score": 0.762,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "health",
+          "start": 45.161,
+          "end": 45.381,
+          "score": 0.732,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "are",
+          "start": 45.422,
+          "end": 45.502,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "now",
+          "start": 45.542,
+          "end": 45.682,
+          "score": 0.731,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "standing",
+          "start": 45.742,
+          "end": 46.142,
+          "score": 0.861,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "together",
+          "start": 46.202,
+          "end": 46.582,
+          "score": 0.841,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "discussing",
+          "start": 46.702,
+          "end": 47.163,
+          "score": 0.874,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "COVID",
+          "start": 47.243,
+          "end": 47.623,
+          "score": 0.916,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 47.703,
+          "end": 47.783,
+          "score": 0.868,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 47.803,
+          "end": 47.863,
+          "score": 0.994,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "vaccine.",
+          "start": 47.923,
+          "end": 48.464,
+          "score": 0.817,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
+      "avg_logprob": -0.09194263282106883,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 18,
-      "seek": 2928,
-      "start": 43.28,
-      "end": 45.36,
-      "text": " Two of the world's biggest voices in heart health",
-      "tokens": [
-        51064,
-        4453,
-        295,
-        264,
-        1002,
-        311,
-        3880,
-        9802,
-        294,
-        1917,
-        1585,
-        51168
+      "start": 48.824,
+      "end": 60.972,
+      "text": "On November 29th, the Vaccine Safety Research Foundation presents Deep in the Heart of Texas with Dr. Peter McCullough and Dr. Racine Malhotra speaking live in Dallas along with a performance by Five Times August.",
+      "words": [
+        {
+          "word": "On",
+          "start": 48.824,
+          "end": 48.884,
+          "score": 0.984,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "November",
+          "start": 48.924,
+          "end": 49.564,
+          "score": 0.807,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "29th,",
+          "start": 49.704,
+          "end": 49.885,
+          "score": 0.916,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 50.165,
+          "end": 50.265,
+          "score": 0.89,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Vaccine",
+          "start": 50.285,
+          "end": 50.665,
+          "score": 0.707,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Safety",
+          "start": 50.705,
+          "end": 51.025,
+          "score": 0.822,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Research",
+          "start": 51.065,
+          "end": 51.446,
+          "score": 0.809,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Foundation",
+          "start": 51.486,
+          "end": 52.006,
+          "score": 0.873,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "presents",
+          "start": 52.066,
+          "end": 52.506,
+          "score": 0.852,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Deep",
+          "start": 52.646,
+          "end": 52.907,
+          "score": 0.799,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 52.967,
+          "end": 53.027,
+          "score": 0.768,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 53.067,
+          "end": 53.147,
+          "score": 0.834,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Heart",
+          "start": 53.207,
+          "end": 53.427,
+          "score": 0.863,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 53.447,
+          "end": 53.507,
+          "score": 0.748,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Texas",
+          "start": 53.587,
+          "end": 54.027,
+          "score": 0.912,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "with",
+          "start": 54.307,
+          "end": 54.448,
+          "score": 0.886,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Dr.",
+          "start": 54.508,
+          "end": 54.788,
+          "score": 0.685,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Peter",
+          "start": 54.828,
+          "end": 55.068,
+          "score": 0.828,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "McCullough",
+          "start": 55.108,
+          "end": 55.508,
+          "score": 0.638,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "and",
+          "start": 55.628,
+          "end": 55.708,
+          "score": 0.6,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Dr.",
+          "start": 55.728,
+          "end": 55.949,
+          "score": 0.608,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Racine",
+          "start": 55.969,
+          "end": 56.349,
+          "score": 0.531,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Malhotra",
+          "start": 56.369,
+          "end": 56.949,
+          "score": 0.887,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "speaking",
+          "start": 57.149,
+          "end": 57.49,
+          "score": 0.814,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "live",
+          "start": 57.57,
+          "end": 57.87,
+          "score": 0.97,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "in",
+          "start": 57.93,
+          "end": 58.01,
+          "score": 0.825,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Dallas",
+          "start": 58.03,
+          "end": 58.47,
+          "score": 0.809,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "along",
+          "start": 58.75,
+          "end": 58.991,
+          "score": 0.766,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "with",
+          "start": 59.011,
+          "end": 59.111,
+          "score": 0.873,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "a",
+          "start": 59.151,
+          "end": 59.191,
+          "score": 0.122,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "performance",
+          "start": 59.231,
+          "end": 59.751,
+          "score": 0.849,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "by",
+          "start": 59.811,
+          "end": 59.931,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Five",
+          "start": 59.991,
+          "end": 60.231,
+          "score": 0.892,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Times",
+          "start": 60.271,
+          "end": 60.552,
+          "score": 0.765,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "August.",
+          "start": 60.632,
+          "end": 60.972,
+          "score": 0.865,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
+      "avg_logprob": -0.09194263282106883,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 19,
-      "seek": 2928,
-      "start": 45.36,
-      "end": 48.72,
-      "text": " are now standing together discussing COVID and the vaccine.",
-      "tokens": [
-        51168,
-        366,
-        586,
-        4877,
-        1214,
-        10850,
-        4566,
-        293,
-        264,
-        7007,
-        13,
-        51336
+      "start": 70.71,
+      "end": 73.957,
+      "text": " Get your tickets now at backsafety.org slash events.",
+      "words": [
+        {
+          "word": "Get",
+          "start": 70.71,
+          "end": 70.83,
+          "score": 0.669,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "your",
+          "start": 70.87,
+          "end": 70.991,
+          "score": 0.579,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "tickets",
+          "start": 71.031,
+          "end": 71.311,
+          "score": 0.664,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "now",
+          "start": 71.371,
+          "end": 71.632,
+          "score": 0.905,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "at",
+          "start": 71.852,
+          "end": 71.933,
+          "score": 0.833,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "backsafety.org",
+          "start": 71.953,
+          "end": 72.995,
+          "score": 0.751,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "slash",
+          "start": 73.255,
+          "end": 73.516,
+          "score": 0.844,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "events.",
+          "start": 73.556,
+          "end": 73.957,
+          "score": 0.564,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
-    },
-    {
-      "id": 20,
-      "seek": 2928,
-      "start": 48.72,
-      "end": 52.0,
-      "text": " On November 29th, the Vaccine Safety Research Foundation",
-      "tokens": [
-        51336,
-        1282,
-        7674,
-        9413,
-        392,
-        11,
-        264,
-        48579,
-        533,
-        21340,
-        10303,
-        10335,
-        51500
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
-    },
-    {
-      "id": 21,
-      "seek": 2928,
-      "start": 52.0,
-      "end": 54.24,
-      "text": " presents Deep in the Heart of Texas",
-      "tokens": [
-        51500,
-        13533,
-        14895,
-        294,
-        264,
-        13569,
-        295,
-        7885,
-        51612
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
-    },
-    {
-      "id": 22,
-      "seek": 2928,
-      "start": 54.24,
-      "end": 57.08,
-      "text": " with Dr. Peter McCullough and Dr. Essi Malhotra,",
-      "tokens": [
-        51612,
-        365,
-        2491,
-        13,
-        6508,
-        12061,
-        858,
-        581,
-        293,
-        2491,
-        13,
-        2313,
-        7691,
-        5746,
-        12194,
-        424,
-        11,
-        51754
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1604277789592743,
-      "compression_ratio": 1.596551724137931,
-      "no_speech_prob": 0.0019600193481892347
-    },
-    {
-      "id": 23,
-      "seek": 5708,
-      "start": 57.12,
-      "end": 59.8,
-      "text": " speaking live in Dallas, along with a performance",
-      "tokens": [
-        50366,
-        4124,
-        1621,
-        294,
-        22923,
-        11,
-        2051,
-        365,
-        257,
-        3389,
-        50500
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38239707946777346,
-      "compression_ratio": 1.380952380952381,
-      "no_speech_prob": 0.11918848007917404
-    },
-    {
-      "id": 24,
-      "seek": 5708,
-      "start": 59.8,
-      "end": 61.28,
-      "text": " by Five Times August.",
-      "tokens": [
-        50500,
-        538,
-        9436,
-        11366,
-        6897,
-        13,
-        50574
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38239707946777346,
-      "compression_ratio": 1.380952380952381,
-      "no_speech_prob": 0.11918848007917404
-    },
-    {
-      "id": 25,
-      "seek": 5708,
-      "start": 61.28,
-      "end": 65.52,
-      "text": " I'm gonna stand here and I'll fight for every word",
-      "tokens": [
-        50574,
-        286,
-        478,
-        799,
-        1463,
-        510,
-        293,
-        286,
-        603,
-        2092,
-        337,
-        633,
-        1349,
-        50786
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38239707946777346,
-      "compression_ratio": 1.380952380952381,
-      "no_speech_prob": 0.11918848007917404
-    },
-    {
-      "id": 26,
-      "seek": 5708,
-      "start": 65.52,
-      "end": 70.52,
-      "text": " I'm gonna shout the truth until you know it's heard.",
-      "tokens": [
-        50786,
-        286,
-        478,
-        799,
-        8043,
-        264,
-        3494,
-        1826,
-        291,
-        458,
-        309,
-        311,
-        2198,
-        13,
-        51036
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38239707946777346,
-      "compression_ratio": 1.380952380952381,
-      "no_speech_prob": 0.11918848007917404
-    },
-    {
-      "id": 27,
-      "seek": 5708,
-      "start": 70.72,
-      "end": 74.32,
-      "text": " Get your tickets now at vaccine-safety.org slash events.",
-      "tokens": [
-        51046,
-        3240,
-        428,
-        12628,
-        586,
-        412,
-        7007,
-        12,
-        82,
-        2792,
-        2210,
-        13,
-        4646,
-        17330,
-        3931,
-        13,
-        51226
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38239707946777346,
-      "compression_ratio": 1.380952380952381,
-      "no_speech_prob": 0.11918848007917404
+      "avg_logprob": -0.16354166865348815,
+      "speaker": "SPEAKER_02"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "I",
+      "start": 0.051,
+      "end": 0.111,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 0.151,
+      "end": 0.251,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 0.311,
+      "end": 0.411,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 0.431,
+      "end": 0.471,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 0.511,
+      "end": 0.571,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 0.611,
+      "end": 0.832,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 0.872,
+      "end": 1.132,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 1.152,
+      "end": 1.232,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 1.272,
+      "end": 1.452,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 1.492,
+      "end": 1.572,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID-19",
+      "start": 1.612,
+      "end": 2.232,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine.",
+      "start": 2.272,
+      "end": 2.693,
+      "score": 0.602,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 3.113,
+      "end": 3.153,
+      "score": 0.793,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "helped",
+      "start": 3.173,
+      "end": 3.313,
+      "score": 0.594,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "out",
+      "start": 3.333,
+      "end": 3.393,
+      "score": 0.014,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "in",
+      "start": 3.413,
+      "end": 3.513,
+      "score": 0.578,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "a",
+      "start": 3.553,
+      "end": 3.593,
+      "score": 0.001,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "vaccine",
+      "start": 3.613,
+      "end": 3.934,
+      "score": 0.589,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "centre.",
+      "start": 3.954,
+      "end": 4.394,
+      "score": 0.872,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "I",
+      "start": 4.434,
+      "end": 4.494,
+      "score": 0.599,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "was",
+      "start": 4.514,
+      "end": 4.614,
+      "score": 0.68,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "in",
+      "start": 4.654,
+      "end": 4.714,
+      "score": 0.614,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "Good",
+      "start": 4.754,
+      "end": 4.874,
+      "score": 0.999,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "Morning",
+      "start": 4.914,
+      "end": 5.134,
+      "score": 0.863,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "Britain",
+      "start": 5.174,
+      "end": 5.535,
+      "score": 0.651,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "helping",
+      "start": 5.595,
+      "end": 5.975,
+      "score": 0.898,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "tackle",
+      "start": 6.035,
+      "end": 6.415,
+      "score": 0.791,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "vaccine",
+      "start": 6.435,
+      "end": 6.816,
+      "score": 0.658,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "hesitancy.",
+      "start": 6.836,
+      "end": 7.496,
+      "score": 0.956,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "I",
+      "start": 7.936,
+      "end": 7.996,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "did",
+      "start": 8.056,
+      "end": 8.196,
+      "score": 0.943,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "not",
+      "start": 8.236,
+      "end": 8.397,
+      "score": 0.979,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "conceive",
+      "start": 8.497,
+      "end": 9.137,
+      "score": 0.869,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "of",
+      "start": 9.657,
+      "end": 9.737,
+      "score": 0.906,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "the",
+      "start": 9.777,
+      "end": 9.878,
+      "score": 0.909,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "possibility",
+      "start": 9.978,
+      "end": 10.698,
+      "score": 0.864,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "that",
+      "start": 10.758,
+      "end": 10.898,
+      "score": 0.911,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "a",
+      "start": 11.018,
+      "end": 11.138,
+      "score": 0.735,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "vaccine",
+      "start": 11.218,
+      "end": 11.739,
+      "score": 0.789,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "could",
+      "start": 11.779,
+      "end": 11.939,
+      "score": 0.882,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "cause",
+      "start": 11.979,
+      "end": 12.219,
+      "score": 0.877,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "any",
+      "start": 12.419,
+      "end": 12.599,
+      "score": 0.814,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "real",
+      "start": 12.679,
+      "end": 12.9,
+      "score": 0.941,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "harm",
+      "start": 12.96,
+      "end": 14.861,
+      "score": 0.859,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "at",
+      "start": 14.961,
+      "end": 15.401,
+      "score": 0.524,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "all.",
+      "start": 15.661,
+      "end": 15.962,
+      "score": 0.696,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "It",
+      "start": 16.362,
+      "end": 16.422,
+      "score": 0.963,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "wasn't",
+      "start": 16.462,
+      "end": 16.682,
+      "score": 0.867,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "even",
+      "start": 16.782,
+      "end": 17.002,
+      "score": 0.481,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "anywhere",
+      "start": 17.443,
+      "end": 17.823,
+      "score": 0.836,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "in",
+      "start": 17.863,
+      "end": 17.923,
+      "score": 0.722,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "my",
+      "start": 17.963,
+      "end": 18.103,
+      "score": 0.785,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "brain.",
+      "start": 18.123,
+      "end": 18.363,
+      "score": 0.559,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "What",
+      "start": 18.523,
+      "end": 18.663,
+      "score": 0.757,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "we're",
+      "start": 18.683,
+      "end": 18.823,
+      "score": 0.574,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "dealing",
+      "start": 18.843,
+      "end": 19.064,
+      "score": 0.818,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "with",
+      "start": 19.104,
+      "end": 19.224,
+      "score": 0.902,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "now,",
+      "start": 19.304,
+      "end": 19.644,
+      "score": 0.894,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "with",
+      "start": 19.804,
+      "end": 20.625,
+      "score": 0.88,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "hindsight,",
+      "start": 20.665,
+      "end": 21.245,
+      "score": 0.839,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "is",
+      "start": 22.006,
+      "end": 22.166,
+      "score": 0.707,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "perhaps",
+      "start": 22.726,
+      "end": 23.066,
+      "score": 0.855,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "the",
+      "start": 23.166,
+      "end": 23.286,
+      "score": 0.882,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "greatest",
+      "start": 23.326,
+      "end": 23.687,
+      "score": 0.892,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "miscarriage",
+      "start": 23.807,
+      "end": 24.367,
+      "score": 0.886,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "of",
+      "start": 24.387,
+      "end": 24.467,
+      "score": 0.666,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "medical",
+      "start": 24.527,
+      "end": 24.887,
+      "score": 0.915,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "science",
+      "start": 24.948,
+      "end": 25.328,
+      "score": 0.831,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "we",
+      "start": 25.388,
+      "end": 25.508,
+      "score": 0.806,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "will",
+      "start": 25.528,
+      "end": 25.668,
+      "score": 0.425,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "witness",
+      "start": 25.688,
+      "end": 26.008,
+      "score": 0.761,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "in",
+      "start": 26.048,
+      "end": 26.108,
+      "score": 0.797,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "our",
+      "start": 26.168,
+      "end": 26.248,
+      "score": 0.963,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "lifetime.",
+      "start": 26.288,
+      "end": 26.569,
+      "score": 0.499,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "What",
+      "start": 27.353,
+      "end": 27.573,
+      "score": 0.891,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 27.733,
+      "end": 27.813,
+      "score": 0.836,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 27.853,
+      "end": 27.953,
+      "score": 0.723,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "world",
+      "start": 28.053,
+      "end": 28.394,
+      "score": 0.649,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 28.514,
+      "end": 28.594,
+      "score": 0.669,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "going",
+      "start": 28.674,
+      "end": 28.994,
+      "score": 0.657,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "on?",
+      "start": 29.134,
+      "end": 29.254,
+      "score": 0.748,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "What's",
+      "start": 29.354,
+      "end": 29.594,
+      "score": 0.809,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "changed?",
+      "start": 29.774,
+      "end": 30.234,
+      "score": 0.809,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 30.294,
+      "end": 30.374,
+      "score": 0.95,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "this",
+      "start": 30.414,
+      "end": 30.695,
+      "score": 0.869,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 30.715,
+      "end": 30.755,
+      "score": 0.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "worldwide.",
+      "start": 30.815,
+      "end": 31.455,
+      "score": 0.689,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Yeah.",
+      "start": 31.635,
+      "end": 31.855,
+      "score": 0.616,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 32.015,
+      "end": 32.135,
+      "score": 0.248,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "worldwide.",
+      "start": 32.195,
+      "end": 32.735,
+      "score": 0.872,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "What's",
+      "start": 32.815,
+      "end": 33.056,
+      "score": 0.826,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "changed",
+      "start": 33.196,
+      "end": 33.596,
+      "score": 0.692,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 33.676,
+      "end": 33.756,
+      "score": 0.817,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 33.776,
+      "end": 33.856,
+      "score": 0.835,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "world",
+      "start": 33.916,
+      "end": 34.196,
+      "score": 0.758,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "all",
+      "start": 34.476,
+      "end": 34.636,
+      "score": 0.876,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "at",
+      "start": 34.736,
+      "end": 34.816,
+      "score": 0.765,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 34.876,
+      "end": 34.996,
+      "score": 0.889,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "same",
+      "start": 35.056,
+      "end": 35.317,
+      "score": 0.734,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "time,",
+      "start": 35.397,
+      "end": 35.697,
+      "score": 0.814,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "all",
+      "start": 36.517,
+      "end": 36.697,
+      "score": 0.716,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "working",
+      "start": 36.757,
+      "end": 37.097,
+      "score": 0.936,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 37.157,
+      "end": 37.317,
+      "score": 0.75,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "suppress",
+      "start": 37.397,
+      "end": 38.018,
+      "score": 0.89,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 38.158,
+      "end": 38.278,
+      "score": 0.887,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "free",
+      "start": 38.358,
+      "end": 38.638,
+      "score": 0.864,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "interchange",
+      "start": 38.718,
+      "end": 39.218,
+      "score": 0.84,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 39.258,
+      "end": 39.318,
+      "score": 0.75,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "information",
+      "start": 39.378,
+      "end": 39.899,
+      "score": 0.909,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "around",
+      "start": 40.139,
+      "end": 40.619,
+      "score": 0.87,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "SARS-CoV-2,",
+      "start": 40.699,
+      "end": 41.539,
+      "score": 0.825,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "COVID-19",
+      "start": 41.639,
+      "end": 42.36,
+      "score": 0.685,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 42.4,
+      "end": 42.48,
+      "score": 0.831,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 42.5,
+      "end": 42.56,
+      "score": 0.904,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccines?",
+      "start": 42.6,
+      "end": 43.02,
+      "score": 0.732,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Two",
+      "start": 43.34,
+      "end": 43.48,
+      "score": 0.925,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 43.52,
+      "end": 43.56,
+      "score": 0.995,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 43.62,
+      "end": 43.7,
+      "score": 0.834,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "world's",
+      "start": 43.72,
+      "end": 44.021,
+      "score": 0.625,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "biggest",
+      "start": 44.061,
+      "end": 44.341,
+      "score": 0.93,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "voices",
+      "start": 44.401,
+      "end": 44.761,
+      "score": 0.814,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 44.821,
+      "end": 44.901,
+      "score": 0.723,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "heart",
+      "start": 44.941,
+      "end": 45.121,
+      "score": 0.762,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "health",
+      "start": 45.161,
+      "end": 45.381,
+      "score": 0.732,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "are",
+      "start": 45.422,
+      "end": 45.502,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "now",
+      "start": 45.542,
+      "end": 45.682,
+      "score": 0.731,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "standing",
+      "start": 45.742,
+      "end": 46.142,
+      "score": 0.861,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "together",
+      "start": 46.202,
+      "end": 46.582,
+      "score": 0.841,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "discussing",
+      "start": 46.702,
+      "end": 47.163,
+      "score": 0.874,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "COVID",
+      "start": 47.243,
+      "end": 47.623,
+      "score": 0.916,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 47.703,
+      "end": 47.783,
+      "score": 0.868,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 47.803,
+      "end": 47.863,
+      "score": 0.994,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "vaccine.",
+      "start": 47.923,
+      "end": 48.464,
+      "score": 0.817,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "On",
+      "start": 48.824,
+      "end": 48.884,
+      "score": 0.984,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "November",
+      "start": 48.924,
+      "end": 49.564,
+      "score": 0.807,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "29th,",
+      "start": 49.704,
+      "end": 49.885,
+      "score": 0.916,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 50.165,
+      "end": 50.265,
+      "score": 0.89,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Vaccine",
+      "start": 50.285,
+      "end": 50.665,
+      "score": 0.707,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Safety",
+      "start": 50.705,
+      "end": 51.025,
+      "score": 0.822,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Research",
+      "start": 51.065,
+      "end": 51.446,
+      "score": 0.809,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Foundation",
+      "start": 51.486,
+      "end": 52.006,
+      "score": 0.873,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "presents",
+      "start": 52.066,
+      "end": 52.506,
+      "score": 0.852,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Deep",
+      "start": 52.646,
+      "end": 52.907,
+      "score": 0.799,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 52.967,
+      "end": 53.027,
+      "score": 0.768,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 53.067,
+      "end": 53.147,
+      "score": 0.834,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Heart",
+      "start": 53.207,
+      "end": 53.427,
+      "score": 0.863,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 53.447,
+      "end": 53.507,
+      "score": 0.748,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Texas",
+      "start": 53.587,
+      "end": 54.027,
+      "score": 0.912,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "with",
+      "start": 54.307,
+      "end": 54.448,
+      "score": 0.886,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Dr.",
+      "start": 54.508,
+      "end": 54.788,
+      "score": 0.685,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Peter",
+      "start": 54.828,
+      "end": 55.068,
+      "score": 0.828,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "McCullough",
+      "start": 55.108,
+      "end": 55.508,
+      "score": 0.638,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "and",
+      "start": 55.628,
+      "end": 55.708,
+      "score": 0.6,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Dr.",
+      "start": 55.728,
+      "end": 55.949,
+      "score": 0.608,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Racine",
+      "start": 55.969,
+      "end": 56.349,
+      "score": 0.531,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Malhotra",
+      "start": 56.369,
+      "end": 56.949,
+      "score": 0.887,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "speaking",
+      "start": 57.149,
+      "end": 57.49,
+      "score": 0.814,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "live",
+      "start": 57.57,
+      "end": 57.87,
+      "score": 0.97,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "in",
+      "start": 57.93,
+      "end": 58.01,
+      "score": 0.825,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Dallas",
+      "start": 58.03,
+      "end": 58.47,
+      "score": 0.809,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "along",
+      "start": 58.75,
+      "end": 58.991,
+      "score": 0.766,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "with",
+      "start": 59.011,
+      "end": 59.111,
+      "score": 0.873,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "a",
+      "start": 59.151,
+      "end": 59.191,
+      "score": 0.122,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "performance",
+      "start": 59.231,
+      "end": 59.751,
+      "score": 0.849,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "by",
+      "start": 59.811,
+      "end": 59.931,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Five",
+      "start": 59.991,
+      "end": 60.231,
+      "score": 0.892,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Times",
+      "start": 60.271,
+      "end": 60.552,
+      "score": 0.765,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "August.",
+      "start": 60.632,
+      "end": 60.972,
+      "score": 0.865,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Get",
+      "start": 70.71,
+      "end": 70.83,
+      "score": 0.669,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "your",
+      "start": 70.87,
+      "end": 70.991,
+      "score": 0.579,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "tickets",
+      "start": 71.031,
+      "end": 71.311,
+      "score": 0.664,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "now",
+      "start": 71.371,
+      "end": 71.632,
+      "score": 0.905,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "at",
+      "start": 71.852,
+      "end": 71.933,
+      "score": 0.833,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "backsafety.org",
+      "start": 71.953,
+      "end": 72.995,
+      "score": 0.751,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "slash",
+      "start": 73.255,
+      "end": 73.516,
+      "score": 0.844,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "events.",
+      "start": 73.556,
+      "end": 73.957,
+      "score": 0.564,
+      "speaker": "SPEAKER_02"
+    }
+  ]
 }

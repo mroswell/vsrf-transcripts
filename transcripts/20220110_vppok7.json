@@ -1,319 +1,1843 @@
 {
-  "text": " So, you know, my position all the way through this comes off of the platform of bioethics and the importance of informed consent. So my position is that people should have the freedom of choice, particularly for their children, and that in order to appropriately choose to participate in a medical experiment, they have to be fully informed of the risks as well as the benefits. And so I've tried really hard to make sure that people have access to the information about those risks and potential benefits, the true unfiltered academic papers and raw data, etc. And the policy that's being implemented is one in which no discussion of the risks are allowed because by definition they will elicit vaccine hesitance. So it can't be discussed.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.48,
-      "text": " So, you know, my position all the way through this comes off of the platform of bioethics",
-      "tokens": [
-        50364,
-        407,
-        11,
-        291,
-        458,
-        11,
-        452,
-        2535,
-        439,
-        264,
-        636,
-        807,
-        341,
-        1487,
-        766,
-        295,
-        264,
-        3663,
-        295,
-        12198,
-        3293,
-        1167,
-        50738
+      "start": 0.831,
+      "end": 9.255,
+      "text": " So, you know, my position all the way through this comes off of the platform of bioethics and the importance of informed consent.",
+      "words": [
+        {
+          "word": "So,",
+          "start": 0.831,
+          "end": 1.071,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 1.712,
+          "end": 1.792,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know,",
+          "start": 1.812,
+          "end": 1.932,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 2.272,
+          "end": 2.452,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "position",
+          "start": 2.512,
+          "end": 2.852,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 2.872,
+          "end": 2.972,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 2.992,
+          "end": 3.052,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "way",
+          "start": 3.092,
+          "end": 3.172,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "through",
+          "start": 3.232,
+          "end": 3.472,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 3.492,
+          "end": 3.732,
+          "score": 0.655,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "comes",
+          "start": 4.293,
+          "end": 4.553,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "off",
+          "start": 4.713,
+          "end": 4.873,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 4.933,
+          "end": 5.013,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 5.073,
+          "end": 5.153,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "platform",
+          "start": 5.213,
+          "end": 5.853,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 5.893,
+          "end": 5.953,
+          "score": 0.699,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bioethics",
+          "start": 6.033,
+          "end": 6.634,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 7.614,
+          "end": 7.694,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 7.714,
+          "end": 7.794,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "importance",
+          "start": 7.834,
+          "end": 8.214,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 8.254,
+          "end": 8.334,
+          "score": 0.436,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "informed",
+          "start": 8.374,
+          "end": 8.754,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "consent.",
+          "start": 8.774,
+          "end": 9.255,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1472008365324174,
-      "compression_ratio": 1.6506550218340612,
-      "no_speech_prob": 0.019195154309272766
+      "avg_logprob": -0.03505345360424958,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.48,
-      "end": 10.16,
-      "text": " and the importance of informed consent.",
-      "tokens": [
-        50738,
-        293,
-        264,
-        7379,
-        295,
-        11740,
-        14546,
-        13,
-        50872
+      "start": 10.075,
+      "end": 27.482,
+      "text": "So my position is that people should have the freedom of choice, particularly for their children, and that in order to appropriately choose to participate in a medical experiment, they have to be fully informed of the risks as well as the benefits.",
+      "words": [
+        {
+          "word": "So",
+          "start": 10.075,
+          "end": 10.195,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 10.235,
+          "end": 10.375,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "position",
+          "start": 10.415,
+          "end": 10.915,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 11.055,
+          "end": 11.175,
+          "score": 0.648,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 11.215,
+          "end": 11.335,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 11.355,
+          "end": 11.555,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "should",
+          "start": 11.575,
+          "end": 11.716,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 11.736,
+          "end": 11.856,
+          "score": 0.751,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 11.896,
+          "end": 11.956,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "freedom",
+          "start": 11.996,
+          "end": 12.356,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 12.876,
+          "end": 12.956,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "choice,",
+          "start": 13.016,
+          "end": 13.336,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "particularly",
+          "start": 13.616,
+          "end": 13.916,
+          "score": 0.396,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 13.936,
+          "end": 13.996,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 14.036,
+          "end": 14.156,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children,",
+          "start": 14.176,
+          "end": 14.497,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 16.537,
+          "end": 16.657,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 16.697,
+          "end": 16.898,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 17.118,
+          "end": 17.178,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "order",
+          "start": 17.238,
+          "end": 17.438,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 17.538,
+          "end": 17.798,
+          "score": 0.698,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "appropriately",
+          "start": 20.639,
+          "end": 21.379,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "choose",
+          "start": 21.639,
+          "end": 22.02,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 22.08,
+          "end": 22.18,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "participate",
+          "start": 22.24,
+          "end": 22.92,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 22.94,
+          "end": 23.0,
+          "score": 0.545,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 23.04,
+          "end": 23.1,
+          "score": 0.145,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medical",
+          "start": 23.14,
+          "end": 23.46,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "experiment,",
+          "start": 23.52,
+          "end": 24.04,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 24.08,
+          "end": 24.2,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 24.24,
+          "end": 24.36,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 24.38,
+          "end": 24.44,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 24.48,
+          "end": 24.58,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fully",
+          "start": 24.641,
+          "end": 24.881,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "informed",
+          "start": 24.921,
+          "end": 25.241,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 25.261,
+          "end": 25.301,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 25.341,
+          "end": 25.421,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risks",
+          "start": 25.461,
+          "end": 25.761,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 26.541,
+          "end": 26.601,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "well",
+          "start": 26.641,
+          "end": 26.801,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 26.841,
+          "end": 26.921,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 26.941,
+          "end": 27.001,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "benefits.",
+          "start": 27.041,
+          "end": 27.482,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1472008365324174,
-      "compression_ratio": 1.6506550218340612,
-      "no_speech_prob": 0.019195154309272766
+      "avg_logprob": -0.03505345360424958,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 10.16,
-      "end": 15.36,
-      "text": " So my position is that people should have the freedom of choice, particularly for their",
-      "tokens": [
-        50872,
-        407,
-        452,
-        2535,
-        307,
-        300,
-        561,
-        820,
-        362,
-        264,
-        5645,
-        295,
-        3922,
-        11,
-        4098,
-        337,
-        641,
-        51132
+      "start": 28.642,
+      "end": 41.317,
+      "text": " And so I've tried really hard to make sure that people have access to the information about those risks and potential benefits, the true unfiltered academic papers and raw data, et cetera.",
+      "words": [
+        {
+          "word": "And",
+          "start": 28.642,
+          "end": 28.742,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 28.822,
+          "end": 29.043,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 29.203,
+          "end": 29.363,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tried",
+          "start": 29.383,
+          "end": 29.603,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 29.643,
+          "end": 29.884,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hard",
+          "start": 29.924,
+          "end": 30.224,
+          "score": 0.751,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 30.384,
+          "end": 30.464,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "make",
+          "start": 30.524,
+          "end": 30.685,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sure",
+          "start": 30.765,
+          "end": 30.965,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 31.025,
+          "end": 31.145,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 31.205,
+          "end": 31.546,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 31.626,
+          "end": 31.926,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "access",
+          "start": 32.166,
+          "end": 32.567,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 32.587,
+          "end": 32.667,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 32.687,
+          "end": 32.767,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "information",
+          "start": 32.827,
+          "end": 33.468,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 34.409,
+          "end": 34.689,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 34.729,
+          "end": 34.95,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risks",
+          "start": 35.03,
+          "end": 35.35,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 35.65,
+          "end": 35.75,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "potential",
+          "start": 35.811,
+          "end": 36.211,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "benefits,",
+          "start": 36.271,
+          "end": 36.772,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 37.412,
+          "end": 37.492,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "true",
+          "start": 37.553,
+          "end": 37.753,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unfiltered",
+          "start": 37.853,
+          "end": 38.394,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "academic",
+          "start": 38.494,
+          "end": 39.054,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "papers",
+          "start": 39.215,
+          "end": 39.795,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 39.975,
+          "end": 40.076,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "raw",
+          "start": 40.136,
+          "end": 40.376,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data,",
+          "start": 40.396,
+          "end": 40.756,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "et",
+          "start": 40.836,
+          "end": 40.896,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cetera.",
+          "start": 40.937,
+          "end": 41.317,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1472008365324174,
-      "compression_ratio": 1.6506550218340612,
-      "no_speech_prob": 0.019195154309272766
+      "avg_logprob": -0.0440848223961793,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 15.36,
-      "end": 24.12,
-      "text": " children, and that in order to appropriately choose to participate in a medical experiment,",
-      "tokens": [
-        51132,
-        2227,
-        11,
-        293,
-        300,
-        294,
-        1668,
-        281,
-        23505,
-        2826,
-        281,
-        8197,
-        294,
-        257,
-        4625,
-        5120,
-        11,
-        51570
+      "start": 42.358,
+      "end": 54.112,
+      "text": "And the policy that's being implemented is one in which no discussion of the risks are allowed, because by definition, they will elicit vaccine hesitance.",
+      "words": [
+        {
+          "word": "And",
+          "start": 42.358,
+          "end": 42.538,
+          "score": 0.618,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 43.159,
+          "end": 43.259,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "policy",
+          "start": 43.299,
+          "end": 43.8,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that's",
+          "start": 43.84,
+          "end": 44.04,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "being",
+          "start": 44.1,
+          "end": 44.381,
+          "score": 0.698,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "implemented",
+          "start": 44.841,
+          "end": 45.382,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 46.463,
+          "end": 46.563,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "one",
+          "start": 46.843,
+          "end": 46.984,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 47.204,
+          "end": 47.304,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 47.384,
+          "end": 47.644,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 48.245,
+          "end": 48.425,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "discussion",
+          "start": 48.485,
+          "end": 49.086,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 49.126,
+          "end": 49.186,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 49.226,
+          "end": 49.326,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risks",
+          "start": 49.366,
+          "end": 49.687,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 49.747,
+          "end": 49.847,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "allowed,",
+          "start": 49.887,
+          "end": 50.267,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 50.988,
+          "end": 51.289,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 51.349,
+          "end": 51.489,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "definition,",
+          "start": 51.549,
+          "end": 52.19,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 52.23,
+          "end": 52.37,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 52.41,
+          "end": 52.57,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "elicit",
+          "start": 52.65,
+          "end": 53.071,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine",
+          "start": 53.111,
+          "end": 53.531,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hesitance.",
+          "start": 53.571,
+          "end": 54.112,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1472008365324174,
-      "compression_ratio": 1.6506550218340612,
-      "no_speech_prob": 0.019195154309272766
+      "avg_logprob": -0.0440848223961793,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 24.12,
-      "end": 28.76,
-      "text": " they have to be fully informed of the risks as well as the benefits.",
-      "tokens": [
-        51570,
-        436,
-        362,
-        281,
-        312,
-        4498,
-        11740,
-        295,
-        264,
-        10888,
-        382,
-        731,
-        382,
-        264,
-        5311,
-        13,
-        51802
+      "start": 55.213,
+      "end": 56.395,
+      "text": "So it can't be discussed.",
+      "words": [
+        {
+          "word": "So",
+          "start": 55.213,
+          "end": 55.353,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 55.393,
+          "end": 55.433,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 55.473,
+          "end": 55.674,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 55.714,
+          "end": 55.814,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "discussed.",
+          "start": 55.854,
+          "end": 56.395,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1472008365324174,
-      "compression_ratio": 1.6506550218340612,
-      "no_speech_prob": 0.019195154309272766
-    },
-    {
-      "id": 5,
-      "seek": 2876,
-      "start": 28.76,
-      "end": 34.28,
-      "text": " And so I've tried really hard to make sure that people have access to the information",
-      "tokens": [
-        50364,
-        400,
-        370,
-        286,
-        600,
-        3031,
-        534,
-        1152,
-        281,
-        652,
-        988,
-        300,
-        561,
-        362,
-        2105,
-        281,
-        264,
-        1589,
-        50640
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18803013288057768,
-      "compression_ratio": 1.536697247706422,
-      "no_speech_prob": 0.0007048631086945534
-    },
-    {
-      "id": 6,
-      "seek": 2876,
-      "start": 34.28,
-      "end": 40.24,
-      "text": " about those risks and potential benefits, the true unfiltered academic papers and raw",
-      "tokens": [
-        50640,
-        466,
-        729,
-        10888,
-        293,
-        3995,
-        5311,
-        11,
-        264,
-        2074,
-        3971,
-        388,
-        40665,
-        7778,
-        10577,
-        293,
-        8936,
-        50938
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18803013288057768,
-      "compression_ratio": 1.536697247706422,
-      "no_speech_prob": 0.0007048631086945534
-    },
-    {
-      "id": 7,
-      "seek": 2876,
-      "start": 40.24,
-      "end": 42.56,
-      "text": " data, etc.",
-      "tokens": [
-        50938,
-        1412,
-        11,
-        5183,
-        13,
-        51054
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18803013288057768,
-      "compression_ratio": 1.536697247706422,
-      "no_speech_prob": 0.0007048631086945534
-    },
-    {
-      "id": 8,
-      "seek": 2876,
-      "start": 42.56,
-      "end": 49.8,
-      "text": " And the policy that's being implemented is one in which no discussion of the risks are",
-      "tokens": [
-        51054,
-        400,
-        264,
-        3897,
-        300,
-        311,
-        885,
-        12270,
-        307,
-        472,
-        294,
-        597,
-        572,
-        5017,
-        295,
-        264,
-        10888,
-        366,
-        51416
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18803013288057768,
-      "compression_ratio": 1.536697247706422,
-      "no_speech_prob": 0.0007048631086945534
-    },
-    {
-      "id": 9,
-      "seek": 2876,
-      "start": 49.8,
-      "end": 55.28,
-      "text": " allowed because by definition they will elicit vaccine hesitance.",
-      "tokens": [
-        51416,
-        4350,
-        570,
-        538,
-        7123,
-        436,
-        486,
-        806,
-        8876,
-        7007,
-        28336,
-        719,
-        13,
-        51690
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18803013288057768,
-      "compression_ratio": 1.536697247706422,
-      "no_speech_prob": 0.0007048631086945534
-    },
-    {
-      "id": 10,
-      "seek": 5528,
-      "start": 55.28,
-      "end": 56.44,
-      "text": " So it can't be discussed.",
-      "tokens": [
-        50364,
-        407,
-        309,
-        393,
-        380,
-        312,
-        7152,
-        13,
-        50422
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3308915853500366,
-      "compression_ratio": 0.7575757575757576,
-      "no_speech_prob": 0.9955516457557678
+      "avg_logprob": -0.0440848223961793,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "So,",
+      "start": 0.831,
+      "end": 1.071,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 1.712,
+      "end": 1.792,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know,",
+      "start": 1.812,
+      "end": 1.932,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 2.272,
+      "end": 2.452,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "position",
+      "start": 2.512,
+      "end": 2.852,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 2.872,
+      "end": 2.972,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 2.992,
+      "end": 3.052,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "way",
+      "start": 3.092,
+      "end": 3.172,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "through",
+      "start": 3.232,
+      "end": 3.472,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 3.492,
+      "end": 3.732,
+      "score": 0.655,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "comes",
+      "start": 4.293,
+      "end": 4.553,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "off",
+      "start": 4.713,
+      "end": 4.873,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 4.933,
+      "end": 5.013,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 5.073,
+      "end": 5.153,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "platform",
+      "start": 5.213,
+      "end": 5.853,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 5.893,
+      "end": 5.953,
+      "score": 0.699,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bioethics",
+      "start": 6.033,
+      "end": 6.634,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 7.614,
+      "end": 7.694,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 7.714,
+      "end": 7.794,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "importance",
+      "start": 7.834,
+      "end": 8.214,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 8.254,
+      "end": 8.334,
+      "score": 0.436,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "informed",
+      "start": 8.374,
+      "end": 8.754,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "consent.",
+      "start": 8.774,
+      "end": 9.255,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 10.075,
+      "end": 10.195,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 10.235,
+      "end": 10.375,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "position",
+      "start": 10.415,
+      "end": 10.915,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 11.055,
+      "end": 11.175,
+      "score": 0.648,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 11.215,
+      "end": 11.335,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 11.355,
+      "end": 11.555,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "should",
+      "start": 11.575,
+      "end": 11.716,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 11.736,
+      "end": 11.856,
+      "score": 0.751,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 11.896,
+      "end": 11.956,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "freedom",
+      "start": 11.996,
+      "end": 12.356,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 12.876,
+      "end": 12.956,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "choice,",
+      "start": 13.016,
+      "end": 13.336,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "particularly",
+      "start": 13.616,
+      "end": 13.916,
+      "score": 0.396,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 13.936,
+      "end": 13.996,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 14.036,
+      "end": 14.156,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children,",
+      "start": 14.176,
+      "end": 14.497,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 16.537,
+      "end": 16.657,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 16.697,
+      "end": 16.898,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 17.118,
+      "end": 17.178,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "order",
+      "start": 17.238,
+      "end": 17.438,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 17.538,
+      "end": 17.798,
+      "score": 0.698,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "appropriately",
+      "start": 20.639,
+      "end": 21.379,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "choose",
+      "start": 21.639,
+      "end": 22.02,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 22.08,
+      "end": 22.18,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "participate",
+      "start": 22.24,
+      "end": 22.92,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 22.94,
+      "end": 23.0,
+      "score": 0.545,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 23.04,
+      "end": 23.1,
+      "score": 0.145,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medical",
+      "start": 23.14,
+      "end": 23.46,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "experiment,",
+      "start": 23.52,
+      "end": 24.04,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 24.08,
+      "end": 24.2,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 24.24,
+      "end": 24.36,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 24.38,
+      "end": 24.44,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 24.48,
+      "end": 24.58,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fully",
+      "start": 24.641,
+      "end": 24.881,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "informed",
+      "start": 24.921,
+      "end": 25.241,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 25.261,
+      "end": 25.301,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 25.341,
+      "end": 25.421,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risks",
+      "start": 25.461,
+      "end": 25.761,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 26.541,
+      "end": 26.601,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "well",
+      "start": 26.641,
+      "end": 26.801,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 26.841,
+      "end": 26.921,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 26.941,
+      "end": 27.001,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "benefits.",
+      "start": 27.041,
+      "end": 27.482,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 28.642,
+      "end": 28.742,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 28.822,
+      "end": 29.043,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 29.203,
+      "end": 29.363,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tried",
+      "start": 29.383,
+      "end": 29.603,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 29.643,
+      "end": 29.884,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hard",
+      "start": 29.924,
+      "end": 30.224,
+      "score": 0.751,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 30.384,
+      "end": 30.464,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "make",
+      "start": 30.524,
+      "end": 30.685,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sure",
+      "start": 30.765,
+      "end": 30.965,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 31.025,
+      "end": 31.145,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 31.205,
+      "end": 31.546,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 31.626,
+      "end": 31.926,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "access",
+      "start": 32.166,
+      "end": 32.567,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 32.587,
+      "end": 32.667,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 32.687,
+      "end": 32.767,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "information",
+      "start": 32.827,
+      "end": 33.468,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 34.409,
+      "end": 34.689,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 34.729,
+      "end": 34.95,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risks",
+      "start": 35.03,
+      "end": 35.35,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 35.65,
+      "end": 35.75,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "potential",
+      "start": 35.811,
+      "end": 36.211,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "benefits,",
+      "start": 36.271,
+      "end": 36.772,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 37.412,
+      "end": 37.492,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "true",
+      "start": 37.553,
+      "end": 37.753,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unfiltered",
+      "start": 37.853,
+      "end": 38.394,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "academic",
+      "start": 38.494,
+      "end": 39.054,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "papers",
+      "start": 39.215,
+      "end": 39.795,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 39.975,
+      "end": 40.076,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "raw",
+      "start": 40.136,
+      "end": 40.376,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data,",
+      "start": 40.396,
+      "end": 40.756,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "et",
+      "start": 40.836,
+      "end": 40.896,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cetera.",
+      "start": 40.937,
+      "end": 41.317,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 42.358,
+      "end": 42.538,
+      "score": 0.618,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 43.159,
+      "end": 43.259,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "policy",
+      "start": 43.299,
+      "end": 43.8,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that's",
+      "start": 43.84,
+      "end": 44.04,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "being",
+      "start": 44.1,
+      "end": 44.381,
+      "score": 0.698,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "implemented",
+      "start": 44.841,
+      "end": 45.382,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 46.463,
+      "end": 46.563,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "one",
+      "start": 46.843,
+      "end": 46.984,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 47.204,
+      "end": 47.304,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 47.384,
+      "end": 47.644,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 48.245,
+      "end": 48.425,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "discussion",
+      "start": 48.485,
+      "end": 49.086,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 49.126,
+      "end": 49.186,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 49.226,
+      "end": 49.326,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risks",
+      "start": 49.366,
+      "end": 49.687,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 49.747,
+      "end": 49.847,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "allowed,",
+      "start": 49.887,
+      "end": 50.267,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 50.988,
+      "end": 51.289,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 51.349,
+      "end": 51.489,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "definition,",
+      "start": 51.549,
+      "end": 52.19,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 52.23,
+      "end": 52.37,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 52.41,
+      "end": 52.57,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "elicit",
+      "start": 52.65,
+      "end": 53.071,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine",
+      "start": 53.111,
+      "end": 53.531,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hesitance.",
+      "start": 53.571,
+      "end": 54.112,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 55.213,
+      "end": 55.353,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 55.393,
+      "end": 55.433,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 55.473,
+      "end": 55.674,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 55.714,
+      "end": 55.814,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "discussed.",
+      "start": 55.854,
+      "end": 56.395,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

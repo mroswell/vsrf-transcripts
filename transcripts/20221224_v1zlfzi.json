@@ -1,137 +1,691 @@
 {
-  "text": " There's no study in the world that shows that masks work that well. So you're never going to get the kind of benefit from mandatory year-round masking as you would from making substantial improvements in indoor air and cooling. But it's a lot easier to implement as well.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.2,
+      "start": 0.031,
+      "end": 2.755,
       "text": " There's no study in the world that shows that masks work that well.",
-      "tokens": [
-        50364,
-        821,
-        311,
-        572,
-        2979,
-        294,
-        264,
-        1002,
-        300,
-        3110,
-        300,
-        11830,
-        589,
-        300,
-        731,
-        13,
-        50524
+      "words": [
+        {
+          "word": "There's",
+          "start": 0.031,
+          "end": 0.251,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 0.392,
+          "end": 0.572,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "study",
+          "start": 0.672,
+          "end": 0.912,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 0.932,
+          "end": 0.992,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 1.013,
+          "end": 1.093,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world",
+          "start": 1.133,
+          "end": 1.293,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 1.333,
+          "end": 1.433,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shows",
+          "start": 1.453,
+          "end": 1.633,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 1.674,
+          "end": 1.794,
+          "score": 0.626,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "masks",
+          "start": 1.834,
+          "end": 2.114,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work",
+          "start": 2.154,
+          "end": 2.335,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 2.375,
+          "end": 2.535,
+          "score": 0.546,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "well.",
+          "start": 2.575,
+          "end": 2.755,
+          "score": 0.603,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3874743732053842,
-      "compression_ratio": 1.5055555555555555,
-      "no_speech_prob": 0.0009140747133642435
+      "avg_logprob": -0.17475328529090212,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.2,
-      "end": 7.46,
-      "text": " So you're never going to get the kind of benefit from mandatory year-round",
-      "tokens": [
-        50524,
-        407,
-        291,
-        434,
-        1128,
-        516,
-        281,
-        483,
-        264,
-        733,
-        295,
-        5121,
-        490,
-        22173,
-        1064,
-        12,
-        5453,
-        50737
+      "start": 3.296,
+      "end": 11.449,
+      "text": "So you're never going to get the kind of benefit from mandatory year-round masking, as you would from making substantial improvements in indoor air quality.",
+      "words": [
+        {
+          "word": "So",
+          "start": 3.296,
+          "end": 3.456,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you're",
+          "start": 3.877,
+          "end": 4.057,
+          "score": 0.86,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 4.157,
+          "end": 4.398,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 4.458,
+          "end": 4.598,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 4.618,
+          "end": 4.658,
+          "score": 0.562,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 4.698,
+          "end": 4.838,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.899,
+          "end": 4.979,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kind",
+          "start": 5.019,
+          "end": 5.159,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 5.179,
+          "end": 5.219,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "benefit",
+          "start": 5.279,
+          "end": 5.64,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 5.66,
+          "end": 5.82,
+          "score": 0.699,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mandatory",
+          "start": 5.9,
+          "end": 6.721,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "year-round",
+          "start": 6.922,
+          "end": 7.462,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "masking,",
+          "start": 7.503,
+          "end": 8.043,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 8.584,
+          "end": 8.664,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 8.724,
+          "end": 8.865,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 8.885,
+          "end": 9.165,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 9.486,
+          "end": 9.626,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "making",
+          "start": 9.666,
+          "end": 9.946,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "substantial",
+          "start": 9.986,
+          "end": 10.407,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "improvements",
+          "start": 10.427,
+          "end": 10.728,
+          "score": 0.249,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 10.748,
+          "end": 10.828,
+          "score": 0.39,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "indoor",
+          "start": 10.848,
+          "end": 10.988,
+          "score": 0.364,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "air",
+          "start": 11.008,
+          "end": 11.168,
+          "score": 0.473,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "quality.",
+          "start": 11.208,
+          "end": 11.449,
+          "score": 0.329,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3874743732053842,
-      "compression_ratio": 1.5055555555555555,
-      "no_speech_prob": 0.0009140747133642435
+      "avg_logprob": -0.17475328529090212,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 7.46,
-      "end": 11.14,
-      "text": " masking as you would from making substantial improvements in indoor air",
-      "tokens": [
-        50737,
-        31226,
-        382,
-        291,
-        576,
-        490,
-        1455,
-        16726,
-        13797,
-        294,
-        24029,
-        1988,
-        50921
+      "start": 11.529,
+      "end": 12.991,
+      "text": "But it's a lot easier to implement as well.",
+      "words": [
+        {
+          "word": "But",
+          "start": 11.529,
+          "end": 11.629,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 11.649,
+          "end": 11.729,
+          "score": 0.004,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 11.749,
+          "end": 11.769,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 11.789,
+          "end": 11.949,
+          "score": 0.599,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "easier",
+          "start": 11.969,
+          "end": 12.19,
+          "score": 0.59,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 12.21,
+          "end": 12.25,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "implement",
+          "start": 12.27,
+          "end": 12.63,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 12.711,
+          "end": 12.791,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "well.",
+          "start": 12.831,
+          "end": 12.991,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3874743732053842,
-      "compression_ratio": 1.5055555555555555,
-      "no_speech_prob": 0.0009140747133642435
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 11.14,
-      "end": 11.46,
-      "text": " and cooling.",
-      "tokens": [
-        50921,
-        293,
-        14785,
-        13,
-        50937
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3874743732053842,
-      "compression_ratio": 1.5055555555555555,
-      "no_speech_prob": 0.0009140747133642435
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 11.46,
-      "end": 13.02,
-      "text": " But it's a lot easier to implement as well.",
-      "tokens": [
-        50937,
-        583,
-        309,
-        311,
-        257,
-        688,
-        3571,
-        281,
-        4445,
-        382,
-        731,
-        13,
-        51015
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3874743732053842,
-      "compression_ratio": 1.5055555555555555,
-      "no_speech_prob": 0.0009140747133642435
+      "avg_logprob": -0.17475328529090212,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "There's",
+      "start": 0.031,
+      "end": 0.251,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 0.392,
+      "end": 0.572,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "study",
+      "start": 0.672,
+      "end": 0.912,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 0.932,
+      "end": 0.992,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 1.013,
+      "end": 1.093,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world",
+      "start": 1.133,
+      "end": 1.293,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 1.333,
+      "end": 1.433,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shows",
+      "start": 1.453,
+      "end": 1.633,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 1.674,
+      "end": 1.794,
+      "score": 0.626,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "masks",
+      "start": 1.834,
+      "end": 2.114,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work",
+      "start": 2.154,
+      "end": 2.335,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 2.375,
+      "end": 2.535,
+      "score": 0.546,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "well.",
+      "start": 2.575,
+      "end": 2.755,
+      "score": 0.603,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 3.296,
+      "end": 3.456,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you're",
+      "start": 3.877,
+      "end": 4.057,
+      "score": 0.86,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 4.157,
+      "end": 4.398,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 4.458,
+      "end": 4.598,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 4.618,
+      "end": 4.658,
+      "score": 0.562,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 4.698,
+      "end": 4.838,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.899,
+      "end": 4.979,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kind",
+      "start": 5.019,
+      "end": 5.159,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 5.179,
+      "end": 5.219,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "benefit",
+      "start": 5.279,
+      "end": 5.64,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 5.66,
+      "end": 5.82,
+      "score": 0.699,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mandatory",
+      "start": 5.9,
+      "end": 6.721,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "year-round",
+      "start": 6.922,
+      "end": 7.462,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "masking,",
+      "start": 7.503,
+      "end": 8.043,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 8.584,
+      "end": 8.664,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 8.724,
+      "end": 8.865,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 8.885,
+      "end": 9.165,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 9.486,
+      "end": 9.626,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "making",
+      "start": 9.666,
+      "end": 9.946,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "substantial",
+      "start": 9.986,
+      "end": 10.407,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "improvements",
+      "start": 10.427,
+      "end": 10.728,
+      "score": 0.249,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 10.748,
+      "end": 10.828,
+      "score": 0.39,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "indoor",
+      "start": 10.848,
+      "end": 10.988,
+      "score": 0.364,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "air",
+      "start": 11.008,
+      "end": 11.168,
+      "score": 0.473,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "quality.",
+      "start": 11.208,
+      "end": 11.449,
+      "score": 0.329,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 11.529,
+      "end": 11.629,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 11.649,
+      "end": 11.729,
+      "score": 0.004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 11.749,
+      "end": 11.769,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 11.789,
+      "end": 11.949,
+      "score": 0.599,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "easier",
+      "start": 11.969,
+      "end": 12.19,
+      "score": 0.59,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 12.21,
+      "end": 12.25,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "implement",
+      "start": 12.27,
+      "end": 12.63,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 12.711,
+      "end": 12.791,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "well.",
+      "start": 12.831,
+      "end": 12.991,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

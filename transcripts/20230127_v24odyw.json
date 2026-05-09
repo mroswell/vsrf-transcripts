@@ -1,1071 +1,6739 @@
 {
-  "text": " This is the example of what you get when you choose to attack all members of the human family. This is what you get when you decide to go after a person's child. And I have to make it very clear that they really didn't expect all of this. The message for many on Sunday was not anti-vaccine, but the right to choose. Thank all of you for coming out today to stand up for our children. Our grandchildren and our great-grandchildren. The determination to preserve medical freedom is in your hands. We're fighting for ourselves, our patients and all of you. We are fighting against big pharma. They have always put profits before patients. You know here in the United States, really it's going to be black people who really should get it first. To my African-American brothers and sisters, the vaccine that you're going to take was developed by an African-American woman. As an African-American, I come here as one of the most vaccine-hesitant groups. If you choose to take the vaccination, do you take it? We should have a choice. The vaccine passports and the vaccine mandates take us back to the days of segregation. It's back to the slave passports. Are you free or you're not free? You can't go there if you're not free or you're clean and not clean. I'm tired of these people that sit in the White House that stimulate race wars. We're going to come together and we're going to fight these mandates together. I'm tired that we are being experimented on. We are going to see. I'm tired that we are being manipulated. They used our artists. They used our athletes, our singers, our rappers. Celebrities are under a tremendous amount of pressure because they use celebrities to control the black community. We are the people. Oh, yeah, I forgot. They made that phrase racist too. But as you see in the audience, those who are Muslims, Christians, those in the Jewish community, Democrats, Republicans, white, black, everyone all in between, this is the example that they do not want to see, but they have no choice. This mall is so beautiful. Look at all of you. Look at you. The world sees us. We are 17,000 doctors. We are the last beacon of hope. We will not stop fighting for truth and for life. I believe in you. Are we ready to reclaim the dream? Now the people rise up. Let's reclaim our country. The truth is like a lion. You don't have to defend it. Let it loose. It will defend itself.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.0,
+      "start": 2.838,
+      "end": 7.624,
       "text": " This is the example of what you get when you choose to attack all members of the human family.",
-      "tokens": [
-        50364,
-        639,
-        307,
-        264,
-        1365,
-        295,
-        437,
-        291,
-        483,
-        562,
-        291,
-        2826,
-        281,
-        2690,
-        439,
-        2679,
-        295,
-        264,
-        1952,
-        1605,
-        13,
-        50714
+      "words": [
+        {
+          "word": "This",
+          "start": 2.838,
+          "end": 3.098,
+          "score": 0.815,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "is",
+          "start": 3.239,
+          "end": 3.319,
+          "score": 0.868,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 3.359,
+          "end": 3.479,
+          "score": 0.895,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "example",
+          "start": 3.559,
+          "end": 4.04,
+          "score": 0.975,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 4.1,
+          "end": 4.16,
+          "score": 0.75,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "what",
+          "start": 4.24,
+          "end": 4.42,
+          "score": 0.854,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 4.48,
+          "end": 4.66,
+          "score": 0.629,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "get",
+          "start": 4.721,
+          "end": 4.901,
+          "score": 0.889,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "when",
+          "start": 4.941,
+          "end": 5.061,
+          "score": 0.984,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 5.081,
+          "end": 5.241,
+          "score": 0.931,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "choose",
+          "start": 5.281,
+          "end": 5.622,
+          "score": 0.818,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 5.662,
+          "end": 5.782,
+          "score": 0.833,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "attack",
+          "start": 5.842,
+          "end": 6.182,
+          "score": 0.933,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "all",
+          "start": 6.323,
+          "end": 6.463,
+          "score": 0.71,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "members",
+          "start": 6.503,
+          "end": 6.763,
+          "score": 0.809,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 6.803,
+          "end": 6.863,
+          "score": 0.753,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 6.883,
+          "end": 6.964,
+          "score": 0.837,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "human",
+          "start": 7.004,
+          "end": 7.244,
+          "score": 0.836,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "family.",
+          "start": 7.304,
+          "end": 7.624,
+          "score": 0.959,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1598735470925608,
-      "compression_ratio": 1.515923566878981,
-      "no_speech_prob": 0.3138037323951721
+      "avg_logprob": -0.015110085193406451,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.0,
-      "end": 12.0,
-      "text": " This is what you get when you decide to go after a person's child.",
-      "tokens": [
-        50714,
-        639,
-        307,
-        437,
-        291,
-        483,
-        562,
-        291,
-        4536,
-        281,
-        352,
-        934,
-        257,
-        954,
-        311,
-        1440,
-        13,
-        50964
+      "start": 8.425,
+      "end": 12.251,
+      "text": "This is what you get when you decide to go after a person's child.",
+      "words": [
+        {
+          "word": "This",
+          "start": 8.425,
+          "end": 8.666,
+          "score": 0.84,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "is",
+          "start": 8.746,
+          "end": 8.846,
+          "score": 0.823,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "what",
+          "start": 8.886,
+          "end": 9.066,
+          "score": 0.923,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 9.106,
+          "end": 9.267,
+          "score": 0.995,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "get",
+          "start": 9.307,
+          "end": 9.467,
+          "score": 0.809,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "when",
+          "start": 9.507,
+          "end": 9.627,
+          "score": 0.951,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 9.667,
+          "end": 9.867,
+          "score": 0.775,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "decide",
+          "start": 9.907,
+          "end": 10.428,
+          "score": 0.911,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 10.448,
+          "end": 10.568,
+          "score": 0.865,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "go",
+          "start": 10.608,
+          "end": 10.769,
+          "score": 0.964,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "after",
+          "start": 10.949,
+          "end": 11.189,
+          "score": 0.883,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "a",
+          "start": 11.229,
+          "end": 11.249,
+          "score": 0.999,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "person's",
+          "start": 11.309,
+          "end": 11.73,
+          "score": 0.916,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "child.",
+          "start": 11.83,
+          "end": 12.251,
+          "score": 0.925,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1598735470925608,
-      "compression_ratio": 1.515923566878981,
-      "no_speech_prob": 0.3138037323951721
+      "avg_logprob": -0.015110085193406451,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 12.0,
-      "end": 18.0,
-      "text": " And I have to make it very clear that they really didn't expect all of this.",
-      "tokens": [
-        50964,
-        400,
-        286,
-        362,
-        281,
-        652,
-        309,
-        588,
-        1850,
-        300,
-        436,
-        534,
-        994,
-        380,
-        2066,
-        439,
-        295,
-        341,
-        13,
-        51264
+      "start": 13.752,
+      "end": 17.638,
+      "text": "And I have to make it very clear that they really didn't expect all of this.",
+      "words": [
+        {
+          "word": "And",
+          "start": 13.752,
+          "end": 13.833,
+          "score": 0.958,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "I",
+          "start": 13.873,
+          "end": 13.953,
+          "score": 0.991,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "have",
+          "start": 13.993,
+          "end": 14.133,
+          "score": 0.878,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 14.153,
+          "end": 14.233,
+          "score": 0.994,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "make",
+          "start": 14.273,
+          "end": 14.433,
+          "score": 0.775,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "it",
+          "start": 14.473,
+          "end": 14.534,
+          "score": 0.748,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "very",
+          "start": 14.594,
+          "end": 14.854,
+          "score": 0.742,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "clear",
+          "start": 14.954,
+          "end": 15.234,
+          "score": 0.766,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "that",
+          "start": 15.295,
+          "end": 15.475,
+          "score": 0.85,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "they",
+          "start": 15.955,
+          "end": 16.116,
+          "score": 0.893,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "really",
+          "start": 16.276,
+          "end": 16.556,
+          "score": 0.896,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "didn't",
+          "start": 16.596,
+          "end": 16.817,
+          "score": 0.818,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "expect",
+          "start": 16.877,
+          "end": 17.237,
+          "score": 0.834,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "all",
+          "start": 17.317,
+          "end": 17.437,
+          "score": 0.783,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 17.457,
+          "end": 17.497,
+          "score": 0.001,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "this.",
+          "start": 17.517,
+          "end": 17.638,
+          "score": 0.3,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1598735470925608,
-      "compression_ratio": 1.515923566878981,
-      "no_speech_prob": 0.3138037323951721
+      "avg_logprob": -0.015110085193406451,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 3,
-      "seek": 1800,
-      "start": 18.0,
-      "end": 40.0,
-      "text": " The message for many on Sunday was not anti-vaccine, but the right to choose.",
-      "tokens": [
-        50364,
-        440,
-        3636,
-        337,
-        867,
-        322,
-        7776,
-        390,
-        406,
-        6061,
-        12,
-        48976,
-        533,
-        11,
-        457,
-        264,
-        558,
-        281,
-        2826,
-        13,
-        51464
+      "start": 27.456,
+      "end": 31.284,
+      "text": " thousands from across the country rallied today in Washington DC.",
+      "words": [
+        {
+          "word": "thousands",
+          "start": 27.456,
+          "end": 28.097,
+          "score": 0.853,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "from",
+          "start": 28.158,
+          "end": 28.298,
+          "score": 0.769,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "across",
+          "start": 28.358,
+          "end": 28.599,
+          "score": 0.815,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "the",
+          "start": 28.619,
+          "end": 28.699,
+          "score": 0.804,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "country",
+          "start": 28.719,
+          "end": 29.039,
+          "score": 0.654,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "rallied",
+          "start": 29.14,
+          "end": 29.521,
+          "score": 0.686,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "today",
+          "start": 29.541,
+          "end": 29.921,
+          "score": 0.741,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "in",
+          "start": 29.982,
+          "end": 30.062,
+          "score": 0.754,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "Washington",
+          "start": 30.122,
+          "end": 30.663,
+          "score": 0.962,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "DC.",
+          "start": 30.703,
+          "end": 31.284,
+          "score": 0.794,
+          "speaker": "SPEAKER_04"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25906691551208494,
-      "compression_ratio": 1.2831858407079646,
-      "no_speech_prob": 0.5192295908927917
+      "avg_logprob": -0.1839021432556604,
+      "speaker": "SPEAKER_04"
     },
     {
-      "id": 4,
-      "seek": 1800,
-      "start": 40.0,
-      "end": 45.0,
-      "text": " Thank all of you for coming out today to stand up for our children.",
-      "tokens": [
-        51464,
-        1044,
-        439,
-        295,
-        291,
-        337,
-        1348,
-        484,
-        965,
-        281,
-        1463,
-        493,
-        337,
-        527,
-        2227,
-        13,
-        51714
+      "start": 31.304,
+      "end": 33.188,
+      "text": "A rally against COVID-19 mandates.",
+      "words": [
+        {
+          "word": "A",
+          "start": 31.304,
+          "end": 31.324,
+          "score": 0.052,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "rally",
+          "start": 31.385,
+          "end": 31.705,
+          "score": 0.86,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "against",
+          "start": 31.745,
+          "end": 31.966,
+          "score": 0.859,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "COVID-19",
+          "start": 32.026,
+          "end": 32.387,
+          "score": 0.62,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "mandates.",
+          "start": 32.427,
+          "end": 33.188,
+          "score": 0.7,
+          "speaker": "SPEAKER_04"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.25906691551208494,
-      "compression_ratio": 1.2831858407079646,
-      "no_speech_prob": 0.5192295908927917
+      "avg_logprob": -0.1839021432556604,
+      "speaker": "SPEAKER_04"
     },
     {
-      "id": 5,
-      "seek": 4500,
-      "start": 45.0,
-      "end": 48.0,
-      "text": " Our grandchildren and our great-grandchildren.",
-      "tokens": [
-        50364,
-        2621,
-        28112,
-        293,
-        527,
-        869,
-        12,
-        32902,
-        21172,
-        13,
-        50514
+      "start": 33.309,
+      "end": 38.179,
+      "text": "The message for many on Sunday was not anti vaccine, but the right to choose.",
+      "words": [
+        {
+          "word": "The",
+          "start": 33.309,
+          "end": 33.369,
+          "score": 0.025,
+          "speaker": "SPEAKER_04"
+        },
+        {
+          "word": "message",
+          "start": 33.429,
+          "end": 33.77,
+          "score": 0.834,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 33.81,
+          "end": 33.95,
+          "score": 0.871,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "many",
+          "start": 33.99,
+          "end": 34.191,
+          "score": 0.842,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "on",
+          "start": 34.251,
+          "end": 34.331,
+          "score": 0.832,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "Sunday",
+          "start": 34.391,
+          "end": 34.692,
+          "score": 0.828,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "was",
+          "start": 34.752,
+          "end": 34.912,
+          "score": 0.848,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "not",
+          "start": 35.052,
+          "end": 35.293,
+          "score": 0.802,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "anti",
+          "start": 35.413,
+          "end": 35.774,
+          "score": 0.828,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "vaccine,",
+          "start": 35.814,
+          "end": 36.395,
+          "score": 0.826,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "but",
+          "start": 36.415,
+          "end": 36.476,
+          "score": 0.031,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "the",
+          "start": 37.357,
+          "end": 37.438,
+          "score": 0.759,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "right",
+          "start": 37.478,
+          "end": 37.658,
+          "score": 0.749,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "to",
+          "start": 37.698,
+          "end": 37.778,
+          "score": 0.975,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "choose.",
+          "start": 37.838,
+          "end": 38.179,
+          "score": 0.762,
+          "speaker": "SPEAKER_02"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07993967034095942,
-      "compression_ratio": 1.5822222222222222,
-      "no_speech_prob": 0.5802544951438904
+      "avg_logprob": -0.1839021432556604,
+      "speaker": "SPEAKER_02"
     },
     {
-      "id": 6,
-      "seek": 4500,
-      "start": 48.0,
-      "end": 54.0,
-      "text": " The determination to preserve medical freedom is in your hands.",
-      "tokens": [
-        50514,
-        440,
-        18432,
-        281,
-        15665,
-        4625,
-        5645,
-        307,
-        294,
-        428,
-        2377,
-        13,
-        50814
+      "start": 40.618,
+      "end": 47.987,
+      "text": " Thank all of you for coming out today to stand up for our children, our grandchildren, and our great-grandchildren.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 40.618,
+          "end": 40.898,
+          "score": 0.974,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "all",
+          "start": 41.059,
+          "end": 41.219,
+          "score": 0.873,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "of",
+          "start": 41.239,
+          "end": 41.279,
+          "score": 0.742,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "you",
+          "start": 41.339,
+          "end": 41.719,
+          "score": 0.723,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "for",
+          "start": 41.799,
+          "end": 41.94,
+          "score": 0.983,
+          "speaker": "SPEAKER_02"
+        },
+        {
+          "word": "coming",
+          "start": 42.0,
+          "end": 42.3,
+          "score": 0.932,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "out",
+          "start": 42.42,
+          "end": 42.54,
+          "score": 0.784,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "today",
+          "start": 42.6,
+          "end": 42.961,
+          "score": 0.804,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "to",
+          "start": 43.181,
+          "end": 43.281,
+          "score": 0.896,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "stand",
+          "start": 43.341,
+          "end": 43.822,
+          "score": 0.862,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "up",
+          "start": 44.042,
+          "end": 44.122,
+          "score": 0.993,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "for",
+          "start": 44.263,
+          "end": 44.423,
+          "score": 0.88,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "our",
+          "start": 44.503,
+          "end": 44.623,
+          "score": 0.617,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "children,",
+          "start": 44.703,
+          "end": 45.204,
+          "score": 0.88,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "our",
+          "start": 45.464,
+          "end": 45.544,
+          "score": 0.976,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "grandchildren,",
+          "start": 45.604,
+          "end": 46.485,
+          "score": 0.918,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "and",
+          "start": 46.505,
+          "end": 46.726,
+          "score": 0.603,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "our",
+          "start": 46.766,
+          "end": 46.886,
+          "score": 0.878,
+          "speaker": "SPEAKER_03"
+        },
+        {
+          "word": "great-grandchildren.",
+          "start": 46.926,
+          "end": 47.987,
+          "score": 0.838,
+          "speaker": "SPEAKER_03"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07993967034095942,
-      "compression_ratio": 1.5822222222222222,
-      "no_speech_prob": 0.5802544951438904
+      "avg_logprob": -0.08818855856434774,
+      "speaker": "SPEAKER_03"
     },
     {
-      "id": 7,
-      "seek": 4500,
-      "start": 54.0,
-      "end": 57.0,
-      "text": " We're fighting for ourselves, our patients and all of you.",
-      "tokens": [
-        50814,
-        492,
-        434,
-        5237,
-        337,
-        4175,
-        11,
-        527,
-        4209,
-        293,
-        439,
-        295,
-        291,
-        13,
-        50964
+      "start": 48.187,
+      "end": 53.914,
+      "text": "The determination to preserve medical freedom is in your hands.",
+      "words": [
+        {
+          "word": "The",
+          "start": 48.187,
+          "end": 48.328,
+          "score": 0.942,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "determination",
+          "start": 48.488,
+          "end": 49.749,
+          "score": 0.811,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 50.15,
+          "end": 50.29,
+          "score": 0.874,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "preserve",
+          "start": 50.35,
+          "end": 50.831,
+          "score": 0.863,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "medical",
+          "start": 50.931,
+          "end": 51.371,
+          "score": 0.83,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "freedom",
+          "start": 51.451,
+          "end": 51.832,
+          "score": 0.887,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "is",
+          "start": 52.032,
+          "end": 52.132,
+          "score": 0.886,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "in",
+          "start": 52.393,
+          "end": 52.533,
+          "score": 0.592,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "your",
+          "start": 52.873,
+          "end": 53.274,
+          "score": 0.677,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "hands.",
+          "start": 53.514,
+          "end": 53.914,
+          "score": 0.953,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07993967034095942,
-      "compression_ratio": 1.5822222222222222,
-      "no_speech_prob": 0.5802544951438904
+      "avg_logprob": -0.08818855856434774,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 8,
-      "seek": 4500,
-      "start": 57.0,
-      "end": 60.0,
-      "text": " We are fighting against big pharma.",
-      "tokens": [
-        50964,
-        492,
-        366,
-        5237,
-        1970,
-        955,
-        903,
-        36159,
-        13,
-        51114
+      "start": 54.195,
+      "end": 56.938,
+      "text": "We're fighting for ourselves, our patients, and all of you.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 54.195,
+          "end": 54.375,
+          "score": 0.802,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "fighting",
+          "start": 54.435,
+          "end": 54.735,
+          "score": 0.878,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "for",
+          "start": 54.776,
+          "end": 54.896,
+          "score": 0.999,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "ourselves,",
+          "start": 54.956,
+          "end": 55.436,
+          "score": 0.874,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "our",
+          "start": 55.516,
+          "end": 55.617,
+          "score": 0.833,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "patients,",
+          "start": 55.657,
+          "end": 56.117,
+          "score": 0.768,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "and",
+          "start": 56.177,
+          "end": 56.257,
+          "score": 0.742,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "all",
+          "start": 56.458,
+          "end": 56.618,
+          "score": 0.864,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 56.658,
+          "end": 56.698,
+          "score": 0.994,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you.",
+          "start": 56.758,
+          "end": 56.938,
+          "score": 0.99,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07993967034095942,
-      "compression_ratio": 1.5822222222222222,
-      "no_speech_prob": 0.5802544951438904
+      "avg_logprob": -0.08818855856434774,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 9,
-      "seek": 4500,
-      "start": 60.0,
-      "end": 64.0,
+      "start": 57.138,
+      "end": 59.381,
+      "text": "We are fighting against Big Pharma.",
+      "words": [
+        {
+          "word": "We",
+          "start": 57.138,
+          "end": 57.259,
+          "score": 0.675,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "are",
+          "start": 57.319,
+          "end": 57.419,
+          "score": 0.634,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "fighting",
+          "start": 57.519,
+          "end": 57.899,
+          "score": 0.817,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "against",
+          "start": 57.959,
+          "end": 58.42,
+          "score": 0.69,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "Big",
+          "start": 58.54,
+          "end": 58.76,
+          "score": 0.838,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "Pharma.",
+          "start": 58.901,
+          "end": 59.381,
+          "score": 0.546,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.08818855856434774,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 60.162,
+      "end": 63.724,
       "text": " They have always put profits before patients.",
-      "tokens": [
-        51114,
-        814,
-        362,
-        1009,
-        829,
-        17982,
-        949,
-        4209,
-        13,
-        51314
+      "words": [
+        {
+          "word": "They",
+          "start": 60.162,
+          "end": 60.322,
+          "score": 0.848,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "have",
+          "start": 60.382,
+          "end": 60.602,
+          "score": 0.82,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "always",
+          "start": 60.922,
+          "end": 61.463,
+          "score": 0.919,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "put",
+          "start": 61.943,
+          "end": 62.143,
+          "score": 0.855,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "profits",
+          "start": 62.223,
+          "end": 62.723,
+          "score": 0.894,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "before",
+          "start": 62.783,
+          "end": 63.184,
+          "score": 0.689,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "patients.",
+          "start": 63.224,
+          "end": 63.724,
+          "score": 0.89,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07993967034095942,
-      "compression_ratio": 1.5822222222222222,
-      "no_speech_prob": 0.5802544951438904
+      "avg_logprob": -0.07024515381660955,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 10,
-      "seek": 4500,
-      "start": 64.0,
-      "end": 69.0,
-      "text": " You know here in the United States, really it's going to be black people who really should get it first.",
-      "tokens": [
-        51314,
-        509,
-        458,
-        510,
-        294,
-        264,
-        2824,
-        3040,
-        11,
-        534,
-        309,
-        311,
-        516,
-        281,
-        312,
-        2211,
-        561,
-        567,
-        534,
-        820,
-        483,
-        309,
-        700,
-        13,
-        51564
+      "start": 64.104,
+      "end": 68.927,
+      "text": "You know, here in the United States, really, it's going to be black people who really should get it first.",
+      "words": [
+        {
+          "word": "You",
+          "start": 64.104,
+          "end": 64.184,
+          "score": 0.45,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know,",
+          "start": 64.204,
+          "end": 64.324,
+          "score": 0.671,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "here",
+          "start": 64.344,
+          "end": 64.484,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 64.504,
+          "end": 64.544,
+          "score": 0.56,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 64.564,
+          "end": 64.624,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "United",
+          "start": 64.664,
+          "end": 64.925,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "States,",
+          "start": 64.985,
+          "end": 65.385,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really,",
+          "start": 65.485,
+          "end": 65.785,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 65.825,
+          "end": 65.965,
+          "score": 0.682,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "going",
+          "start": 66.025,
+          "end": 66.225,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 66.265,
+          "end": 66.305,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 66.345,
+          "end": 66.445,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "black",
+          "start": 66.685,
+          "end": 66.966,
+          "score": 0.96,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 67.026,
+          "end": 67.366,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 67.486,
+          "end": 67.646,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 67.726,
+          "end": 67.966,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "should",
+          "start": 68.026,
+          "end": 68.206,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 68.246,
+          "end": 68.406,
+          "score": 0.478,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 68.426,
+          "end": 68.466,
+          "score": 0.552,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first.",
+          "start": 68.586,
+          "end": 68.927,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07993967034095942,
-      "compression_ratio": 1.5822222222222222,
-      "no_speech_prob": 0.5802544951438904
+      "avg_logprob": -0.07024515381660955,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 11,
-      "seek": 6900,
-      "start": 69.0,
-      "end": 75.0,
-      "text": " To my African-American brothers and sisters, the vaccine that you're going to take was developed by an African-American woman.",
-      "tokens": [
-        50364,
-        1407,
-        452,
-        7312,
-        12,
-        14604,
-        8452,
-        293,
-        11589,
-        11,
-        264,
-        7007,
-        300,
-        291,
-        434,
-        516,
-        281,
-        747,
-        390,
-        4743,
-        538,
-        364,
-        7312,
-        12,
-        14604,
-        3059,
-        13,
-        50664
+      "start": 69.167,
+      "end": 75.45,
+      "text": "To my African American brothers and sisters, the vaccine that you're going to take was developed by an African American woman.",
+      "words": [
+        {
+          "word": "To",
+          "start": 69.167,
+          "end": 69.267,
+          "score": 0.98,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "my",
+          "start": 69.287,
+          "end": 69.447,
+          "score": 0.944,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "African",
+          "start": 69.547,
+          "end": 69.867,
+          "score": 0.849,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "American",
+          "start": 69.907,
+          "end": 70.347,
+          "score": 0.789,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "brothers",
+          "start": 70.387,
+          "end": 70.708,
+          "score": 0.822,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "and",
+          "start": 70.768,
+          "end": 70.848,
+          "score": 0.838,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "sisters,",
+          "start": 70.908,
+          "end": 71.348,
+          "score": 0.895,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 71.648,
+          "end": 71.748,
+          "score": 0.91,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "vaccine",
+          "start": 71.768,
+          "end": 72.228,
+          "score": 0.739,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "that",
+          "start": 72.248,
+          "end": 72.348,
+          "score": 0.911,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you're",
+          "start": 72.368,
+          "end": 72.488,
+          "score": 0.0,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "going",
+          "start": 72.508,
+          "end": 72.608,
+          "score": 0.189,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 72.629,
+          "end": 72.729,
+          "score": 0.401,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "take",
+          "start": 72.769,
+          "end": 73.069,
+          "score": 0.756,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "was",
+          "start": 73.289,
+          "end": 73.429,
+          "score": 0.852,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "developed",
+          "start": 73.469,
+          "end": 73.909,
+          "score": 0.841,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "by",
+          "start": 73.949,
+          "end": 74.089,
+          "score": 0.833,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "an",
+          "start": 74.129,
+          "end": 74.189,
+          "score": 0.744,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "African",
+          "start": 74.289,
+          "end": 74.61,
+          "score": 0.851,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "American",
+          "start": 74.65,
+          "end": 75.09,
+          "score": 0.797,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "woman.",
+          "start": 75.13,
+          "end": 75.45,
+          "score": 0.974,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07375896250018636,
-      "compression_ratio": 1.9172932330827068,
-      "no_speech_prob": 0.7305417656898499
+      "avg_logprob": -0.07024515381660955,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 12,
-      "seek": 6900,
-      "start": 75.0,
-      "end": 80.0,
-      "text": " As an African-American, I come here as one of the most vaccine-hesitant groups.",
-      "tokens": [
-        50664,
-        1018,
-        364,
-        7312,
-        12,
-        14604,
-        11,
-        286,
-        808,
-        510,
-        382,
-        472,
-        295,
-        264,
-        881,
-        7007,
-        12,
-        8076,
-        270,
-        394,
-        3935,
-        13,
-        50914
+      "start": 75.63,
+      "end": 80.454,
+      "text": " As an African-American, I come here as one of the most vaccine-hesitant group.",
+      "words": [
+        {
+          "word": "As",
+          "start": 75.63,
+          "end": 75.73,
+          "score": 0.827,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "an",
+          "start": 75.79,
+          "end": 75.85,
+          "score": 0.779,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "African-American,",
+          "start": 75.97,
+          "end": 76.931,
+          "score": 0.843,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "I",
+          "start": 77.231,
+          "end": 77.311,
+          "score": 0.966,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "come",
+          "start": 77.351,
+          "end": 77.572,
+          "score": 0.774,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "here",
+          "start": 77.612,
+          "end": 77.772,
+          "score": 0.756,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "as",
+          "start": 77.832,
+          "end": 77.932,
+          "score": 0.558,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "one",
+          "start": 78.052,
+          "end": 78.192,
+          "score": 0.866,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 78.252,
+          "end": 78.352,
+          "score": 0.732,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 78.392,
+          "end": 78.492,
+          "score": 0.953,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "most",
+          "start": 78.552,
+          "end": 78.873,
+          "score": 0.688,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccine-hesitant",
+          "start": 78.933,
+          "end": 80.114,
+          "score": 0.604,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "group.",
+          "start": 80.154,
+          "end": 80.454,
+          "score": 0.673,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07375896250018636,
-      "compression_ratio": 1.9172932330827068,
-      "no_speech_prob": 0.7305417656898499
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 13,
-      "seek": 6900,
-      "start": 80.0,
-      "end": 85.0,
-      "text": " If you choose to take the vaccination, do you take it? We should have a choice.",
-      "tokens": [
-        50914,
-        759,
-        291,
-        2826,
-        281,
-        747,
-        264,
-        16498,
-        11,
-        360,
-        291,
-        747,
-        309,
-        30,
-        492,
-        820,
-        362,
-        257,
-        3922,
-        13,
-        51164
+      "start": 80.634,
+      "end": 83.637,
+      "text": "If you choose to take the vaccination, do you take it?",
+      "words": [
+        {
+          "word": "If",
+          "start": 80.634,
+          "end": 80.694,
+          "score": 0.894,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 80.734,
+          "end": 80.914,
+          "score": 0.837,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "choose",
+          "start": 80.954,
+          "end": 81.335,
+          "score": 0.787,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 81.355,
+          "end": 81.795,
+          "score": 0.67,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "take",
+          "start": 81.815,
+          "end": 81.895,
+          "score": 0.001,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 81.975,
+          "end": 82.175,
+          "score": 0.567,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "vaccination,",
+          "start": 82.296,
+          "end": 82.936,
+          "score": 0.886,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "do",
+          "start": 82.956,
+          "end": 83.076,
+          "score": 0.848,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 83.096,
+          "end": 83.196,
+          "score": 0.977,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "take",
+          "start": 83.256,
+          "end": 83.477,
+          "score": 0.938,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "it?",
+          "start": 83.557,
+          "end": 83.637,
+          "score": 0.807,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07375896250018636,
-      "compression_ratio": 1.9172932330827068,
-      "no_speech_prob": 0.7305417656898499
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 14,
-      "seek": 6900,
-      "start": 85.0,
-      "end": 90.0,
-      "text": " The vaccine passports and the vaccine mandates take us back to the days of segregation.",
-      "tokens": [
-        51164,
-        440,
-        7007,
-        1320,
-        17845,
-        293,
-        264,
-        7007,
-        48662,
-        747,
-        505,
-        646,
-        281,
-        264,
-        1708,
-        295,
-        34317,
-        13,
-        51414
+      "start": 83.877,
+      "end": 84.878,
+      "text": "We should have a choice.",
+      "words": [
+        {
+          "word": "We",
+          "start": 83.877,
+          "end": 83.957,
+          "score": 0.99,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "should",
+          "start": 83.997,
+          "end": 84.157,
+          "score": 0.916,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "have",
+          "start": 84.197,
+          "end": 84.317,
+          "score": 0.919,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "a",
+          "start": 84.357,
+          "end": 84.377,
+          "score": 0.962,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "choice.",
+          "start": 84.457,
+          "end": 84.878,
+          "score": 0.906,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07375896250018636,
-      "compression_ratio": 1.9172932330827068,
-      "no_speech_prob": 0.7305417656898499
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 15,
-      "seek": 6900,
-      "start": 90.0,
-      "end": 95.0,
-      "text": " It's back to the slave passports. Are you free or you're not free? You can't go there if you're not free or you're clean and not clean.",
-      "tokens": [
-        51414,
-        467,
-        311,
-        646,
-        281,
-        264,
-        14777,
-        1320,
-        17845,
-        13,
-        2014,
-        291,
-        1737,
-        420,
-        291,
-        434,
-        406,
-        1737,
-        30,
-        509,
-        393,
-        380,
-        352,
-        456,
-        498,
-        291,
-        434,
-        406,
-        1737,
-        420,
-        291,
-        434,
-        2541,
-        293,
-        406,
-        2541,
-        13,
-        51664
+      "start": 84.958,
+      "end": 89.922,
+      "text": "The vaccine passports and the vaccine mandates take us back to the days of segregation.",
+      "words": [
+        {
+          "word": "The",
+          "start": 84.958,
+          "end": 85.078,
+          "score": 0.848,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "vaccine",
+          "start": 85.118,
+          "end": 85.638,
+          "score": 0.55,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "passports",
+          "start": 85.698,
+          "end": 86.319,
+          "score": 0.858,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "and",
+          "start": 86.379,
+          "end": 86.459,
+          "score": 0.391,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 86.479,
+          "end": 86.579,
+          "score": 0.607,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "vaccine",
+          "start": 86.619,
+          "end": 87.08,
+          "score": 0.625,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "mandates",
+          "start": 87.14,
+          "end": 87.64,
+          "score": 0.671,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "take",
+          "start": 87.68,
+          "end": 87.88,
+          "score": 0.73,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "us",
+          "start": 87.94,
+          "end": 88.02,
+          "score": 0.32,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "back",
+          "start": 88.08,
+          "end": 88.341,
+          "score": 0.906,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 88.361,
+          "end": 88.501,
+          "score": 0.861,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 88.521,
+          "end": 88.621,
+          "score": 0.789,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "days",
+          "start": 88.661,
+          "end": 88.901,
+          "score": 0.841,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 88.981,
+          "end": 89.061,
+          "score": 0.6,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "segregation.",
+          "start": 89.121,
+          "end": 89.922,
+          "score": 0.796,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.07375896250018636,
-      "compression_ratio": 1.9172932330827068,
-      "no_speech_prob": 0.7305417656898499
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 16,
-      "seek": 9500,
-      "start": 95.0,
-      "end": 100.0,
-      "text": " I'm tired of these people that sit in the White House that stimulate race wars.",
-      "tokens": [
-        50364,
-        286,
-        478,
-        5868,
-        295,
-        613,
-        561,
-        300,
-        1394,
-        294,
-        264,
-        5552,
-        4928,
-        300,
-        31269,
-        4569,
-        13718,
-        13,
-        50614
+      "start": 89.962,
+      "end": 91.223,
+      "text": "It's back to the safe passports.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 89.962,
+          "end": 90.062,
+          "score": 0.14,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "back",
+          "start": 90.102,
+          "end": 90.282,
+          "score": 0.914,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 90.302,
+          "end": 90.362,
+          "score": 0.35,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 90.382,
+          "end": 90.442,
+          "score": 0.018,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "safe",
+          "start": 90.482,
+          "end": 90.662,
+          "score": 0.533,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "passports.",
+          "start": 90.702,
+          "end": 91.223,
+          "score": 0.913,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08452814275568182,
-      "compression_ratio": 1.8875,
-      "no_speech_prob": 0.5748354196548462
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 17,
-      "seek": 9500,
-      "start": 100.0,
-      "end": 103.0,
+      "start": 91.563,
+      "end": 92.564,
+      "text": "Are you free or you're not free?",
+      "words": [
+        {
+          "word": "Are",
+          "start": 91.563,
+          "end": 91.623,
+          "score": 0.139,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 91.643,
+          "end": 91.783,
+          "score": 0.533,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "free",
+          "start": 91.823,
+          "end": 92.024,
+          "score": 0.926,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "or",
+          "start": 92.044,
+          "end": 92.104,
+          "score": 0.218,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you're",
+          "start": 92.124,
+          "end": 92.244,
+          "score": 0.079,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "not",
+          "start": 92.284,
+          "end": 92.424,
+          "score": 0.679,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "free?",
+          "start": 92.444,
+          "end": 92.564,
+          "score": 0.443,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 92.584,
+      "end": 94.706,
+      "text": "You can't go here if you're not free or you're clean and not clean.",
+      "words": [
+        {
+          "word": "You",
+          "start": 92.584,
+          "end": 92.644,
+          "score": 0.056,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "can't",
+          "start": 92.724,
+          "end": 92.904,
+          "score": 0.389,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "go",
+          "start": 92.944,
+          "end": 93.084,
+          "score": 0.618,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "here",
+          "start": 93.104,
+          "end": 93.205,
+          "score": 0.348,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "if",
+          "start": 93.225,
+          "end": 93.265,
+          "score": 0.005,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you're",
+          "start": 93.285,
+          "end": 93.405,
+          "score": 0.047,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "not",
+          "start": 93.445,
+          "end": 93.585,
+          "score": 0.809,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "free",
+          "start": 93.625,
+          "end": 93.745,
+          "score": 0.318,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "or",
+          "start": 93.805,
+          "end": 93.845,
+          "score": 0.007,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you're",
+          "start": 93.865,
+          "end": 93.985,
+          "score": 0.005,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "clean",
+          "start": 94.025,
+          "end": 94.165,
+          "score": 0.258,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "and",
+          "start": 94.245,
+          "end": 94.325,
+          "score": 0.212,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "not",
+          "start": 94.366,
+          "end": 94.506,
+          "score": 0.806,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "clean.",
+          "start": 94.546,
+          "end": 94.706,
+          "score": 0.214,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 94.866,
+      "end": 99.81,
+      "text": "I'm tired of these people that sit in the White House that stimulate race wars.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 94.866,
+          "end": 95.006,
+          "score": 0.781,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "tired",
+          "start": 95.066,
+          "end": 95.506,
+          "score": 0.792,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 95.727,
+          "end": 95.827,
+          "score": 0.956,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "these",
+          "start": 95.887,
+          "end": 96.087,
+          "score": 0.912,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "people",
+          "start": 96.167,
+          "end": 96.487,
+          "score": 0.844,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "that",
+          "start": 96.547,
+          "end": 96.747,
+          "score": 0.97,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "sit",
+          "start": 96.828,
+          "end": 97.068,
+          "score": 0.903,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "in",
+          "start": 97.128,
+          "end": 97.228,
+          "score": 0.864,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 97.268,
+          "end": 97.348,
+          "score": 0.865,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "White",
+          "start": 97.408,
+          "end": 97.628,
+          "score": 0.949,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "House",
+          "start": 97.668,
+          "end": 97.908,
+          "score": 0.995,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "that",
+          "start": 98.009,
+          "end": 98.229,
+          "score": 0.873,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "stimulate",
+          "start": 98.289,
+          "end": 98.909,
+          "score": 0.907,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "race",
+          "start": 99.009,
+          "end": 99.29,
+          "score": 0.942,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "wars.",
+          "start": 99.37,
+          "end": 99.81,
+          "score": 0.821,
+          "speaker": "SPEAKER_07"
+        }
+      ],
+      "avg_logprob": -0.047332489745573955,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 99.85,
+      "end": 102.392,
       "text": " We're going to come together and we're going to fight these mandates together.",
-      "tokens": [
-        50614,
-        492,
-        434,
-        516,
-        281,
-        808,
-        1214,
-        293,
-        321,
-        434,
-        516,
-        281,
-        2092,
-        613,
-        48662,
-        1214,
-        13,
-        50764
+      "words": [
+        {
+          "word": "We're",
+          "start": 99.85,
+          "end": 99.97,
+          "score": 0.514,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "going",
+          "start": 99.99,
+          "end": 100.09,
+          "score": 0.95,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "to",
+          "start": 100.11,
+          "end": 100.17,
+          "score": 0.747,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "come",
+          "start": 100.21,
+          "end": 100.39,
+          "score": 0.799,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "together",
+          "start": 100.43,
+          "end": 100.751,
+          "score": 0.859,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "and",
+          "start": 100.771,
+          "end": 100.831,
+          "score": 0.972,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "we're",
+          "start": 100.871,
+          "end": 101.091,
+          "score": 0.593,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "going",
+          "start": 101.111,
+          "end": 101.271,
+          "score": 0.277,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "to",
+          "start": 101.291,
+          "end": 101.371,
+          "score": 0.412,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "fight",
+          "start": 101.391,
+          "end": 101.571,
+          "score": 0.256,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "these",
+          "start": 101.591,
+          "end": 101.751,
+          "score": 0.393,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "mandates",
+          "start": 101.791,
+          "end": 101.952,
+          "score": 0.067,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "together.",
+          "start": 101.972,
+          "end": 102.392,
+          "score": 0.838,
+          "speaker": "SPEAKER_07"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08452814275568182,
-      "compression_ratio": 1.8875,
-      "no_speech_prob": 0.5748354196548462
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_07"
     },
     {
-      "id": 18,
-      "seek": 9500,
-      "start": 103.0,
-      "end": 106.0,
-      "text": " I'm tired that we are being experimented on.",
-      "tokens": [
-        50764,
-        286,
-        478,
-        5868,
-        300,
-        321,
-        366,
-        885,
-        5120,
-        292,
-        322,
-        13,
-        50914
+      "start": 102.492,
+      "end": 105.574,
+      "text": "Tired that we are being experimented on.",
+      "words": [
+        {
+          "word": "Tired",
+          "start": 102.492,
+          "end": 102.892,
+          "score": 0.799,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "that",
+          "start": 102.932,
+          "end": 103.092,
+          "score": 0.886,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "we",
+          "start": 103.153,
+          "end": 103.293,
+          "score": 0.994,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "are",
+          "start": 103.373,
+          "end": 103.473,
+          "score": 0.757,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "being",
+          "start": 103.533,
+          "end": 103.853,
+          "score": 0.765,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "experimented",
+          "start": 104.213,
+          "end": 105.274,
+          "score": 0.845,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "on.",
+          "start": 105.454,
+          "end": 105.574,
+          "score": 0.864,
+          "speaker": "SPEAKER_07"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08452814275568182,
-      "compression_ratio": 1.8875,
-      "no_speech_prob": 0.5748354196548462
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_07"
     },
     {
-      "id": 19,
-      "seek": 9500,
-      "start": 106.0,
-      "end": 108.0,
-      "text": " We are going to see.",
-      "tokens": [
-        50914,
-        492,
-        366,
-        516,
-        281,
-        536,
-        13,
-        51014
+      "start": 105.654,
+      "end": 107.816,
+      "text": "We are being deceived.",
+      "words": [
+        {
+          "word": "We",
+          "start": 105.654,
+          "end": 105.815,
+          "score": 0.666,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "are",
+          "start": 105.855,
+          "end": 106.715,
+          "score": 0.829,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "being",
+          "start": 107.035,
+          "end": 107.216,
+          "score": 0.252,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "deceived.",
+          "start": 107.256,
+          "end": 107.816,
+          "score": 0.565,
+          "speaker": "SPEAKER_07"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08452814275568182,
-      "compression_ratio": 1.8875,
-      "no_speech_prob": 0.5748354196548462
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_07"
     },
     {
-      "id": 20,
-      "seek": 9500,
-      "start": 108.0,
-      "end": 111.0,
-      "text": " I'm tired that we are being manipulated.",
-      "tokens": [
-        51014,
-        286,
-        478,
-        5868,
-        300,
-        321,
-        366,
-        885,
-        37161,
-        13,
-        51164
+      "start": 108.116,
+      "end": 110.518,
+      "text": "I'm tired that we are being manipulated.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 108.116,
+          "end": 108.236,
+          "score": 0.604,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "tired",
+          "start": 108.276,
+          "end": 108.697,
+          "score": 0.776,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "that",
+          "start": 108.757,
+          "end": 108.917,
+          "score": 0.845,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "we",
+          "start": 108.977,
+          "end": 109.117,
+          "score": 0.962,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "are",
+          "start": 109.177,
+          "end": 109.297,
+          "score": 0.806,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "being",
+          "start": 109.337,
+          "end": 109.597,
+          "score": 0.917,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "manipulated.",
+          "start": 109.637,
+          "end": 110.518,
+          "score": 0.914,
+          "speaker": "SPEAKER_07"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08452814275568182,
-      "compression_ratio": 1.8875,
-      "no_speech_prob": 0.5748354196548462
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_07"
     },
     {
-      "id": 21,
-      "seek": 9500,
-      "start": 111.0,
-      "end": 116.0,
-      "text": " They used our artists. They used our athletes, our singers, our rappers.",
-      "tokens": [
-        51164,
-        814,
-        1143,
-        527,
-        6910,
-        13,
-        814,
-        1143,
-        527,
-        13820,
-        11,
-        527,
-        24275,
-        11,
-        527,
-        45025,
-        13,
-        51414
+      "start": 110.658,
+      "end": 112.48,
+      "text": "They used our artists.",
+      "words": [
+        {
+          "word": "They",
+          "start": 110.658,
+          "end": 110.878,
+          "score": 0.773,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "used",
+          "start": 111.098,
+          "end": 111.379,
+          "score": 0.794,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "our",
+          "start": 111.619,
+          "end": 111.759,
+          "score": 0.915,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "artists.",
+          "start": 111.939,
+          "end": 112.48,
+          "score": 0.657,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08452814275568182,
-      "compression_ratio": 1.8875,
-      "no_speech_prob": 0.5748354196548462
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 22,
-      "seek": 9500,
-      "start": 116.0,
-      "end": 122.0,
-      "text": " Celebrities are under a tremendous amount of pressure because they use celebrities to control the black community.",
-      "tokens": [
-        51414,
-        30413,
-        1088,
-        366,
-        833,
-        257,
-        10048,
-        2372,
-        295,
-        3321,
-        570,
-        436,
-        764,
-        23200,
-        281,
-        1969,
-        264,
-        2211,
-        1768,
-        13,
-        51714
+      "start": 112.86,
+      "end": 115.702,
+      "text": "They used our athletes, our singers, our rappers.",
+      "words": [
+        {
+          "word": "They",
+          "start": 112.86,
+          "end": 113.0,
+          "score": 0.772,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "used",
+          "start": 113.16,
+          "end": 113.4,
+          "score": 0.688,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "our",
+          "start": 113.48,
+          "end": 113.6,
+          "score": 0.755,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "athletes,",
+          "start": 113.72,
+          "end": 114.181,
+          "score": 0.772,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "our",
+          "start": 114.341,
+          "end": 114.481,
+          "score": 0.883,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "singers,",
+          "start": 114.601,
+          "end": 115.001,
+          "score": 0.802,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "our",
+          "start": 115.102,
+          "end": 115.242,
+          "score": 0.911,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "rappers.",
+          "start": 115.262,
+          "end": 115.702,
+          "score": 0.592,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08452814275568182,
-      "compression_ratio": 1.8875,
-      "no_speech_prob": 0.5748354196548462
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 23,
-      "seek": 12200,
-      "start": 122.0,
-      "end": 126.0,
-      "text": " We are the people. Oh, yeah, I forgot. They made that phrase racist too.",
-      "tokens": [
-        50364,
-        492,
-        366,
-        264,
-        561,
-        13,
-        876,
-        11,
-        1338,
-        11,
-        286,
-        5298,
-        13,
-        814,
-        1027,
-        300,
-        9535,
-        16419,
-        886,
-        13,
-        50564
+      "start": 115.822,
+      "end": 122.047,
+      "text": "Celebrities are under a tremendous amount of pressure because they use celebrities to control the black community.",
+      "words": [
+        {
+          "word": "Celebrities",
+          "start": 115.822,
+          "end": 116.322,
+          "score": 0.409,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "are",
+          "start": 116.362,
+          "end": 116.463,
+          "score": 0.504,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "under",
+          "start": 116.543,
+          "end": 116.763,
+          "score": 0.842,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "a",
+          "start": 116.803,
+          "end": 116.843,
+          "score": 0.188,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "tremendous",
+          "start": 116.923,
+          "end": 117.383,
+          "score": 0.834,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "amount",
+          "start": 117.423,
+          "end": 117.643,
+          "score": 0.887,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "of",
+          "start": 117.683,
+          "end": 117.723,
+          "score": 0.996,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "pressure",
+          "start": 117.784,
+          "end": 118.104,
+          "score": 0.929,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "because",
+          "start": 118.124,
+          "end": 118.664,
+          "score": 0.488,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "they",
+          "start": 118.684,
+          "end": 118.804,
+          "score": 0.962,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "use",
+          "start": 118.944,
+          "end": 119.105,
+          "score": 0.923,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "celebrities",
+          "start": 119.145,
+          "end": 119.865,
+          "score": 0.527,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "to",
+          "start": 119.925,
+          "end": 120.065,
+          "score": 0.912,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "control",
+          "start": 120.105,
+          "end": 120.486,
+          "score": 0.715,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "the",
+          "start": 120.506,
+          "end": 120.566,
+          "score": 0.001,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "black",
+          "start": 120.726,
+          "end": 120.926,
+          "score": 0.601,
+          "speaker": "SPEAKER_05"
+        },
+        {
+          "word": "community.",
+          "start": 120.946,
+          "end": 122.047,
+          "score": 0.409,
+          "speaker": "SPEAKER_07"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1455213215725481,
-      "compression_ratio": 1.5842293906810037,
-      "no_speech_prob": 0.1374693363904953
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_05"
     },
     {
-      "id": 24,
-      "seek": 12200,
-      "start": 126.0,
-      "end": 135.0,
-      "text": " But as you see in the audience, those who are Muslims, Christians, those in the Jewish community, Democrats, Republicans, white, black, everyone all in between,",
-      "tokens": [
-        50564,
-        583,
-        382,
-        291,
-        536,
-        294,
-        264,
-        4034,
-        11,
-        729,
-        567,
-        366,
-        14793,
-        11,
-        12254,
-        11,
-        729,
-        294,
-        264,
-        9246,
-        1768,
-        11,
-        12217,
-        11,
-        12017,
-        11,
-        2418,
-        11,
-        2211,
-        11,
-        1518,
-        439,
-        294,
-        1296,
-        11,
-        51014
+      "start": 122.067,
+      "end": 123.368,
+      "text": "Shout out to We The People.",
+      "words": [
+        {
+          "word": "Shout",
+          "start": 122.067,
+          "end": 122.247,
+          "score": 0.36,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "out",
+          "start": 122.347,
+          "end": 122.447,
+          "score": 0.234,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "to",
+          "start": 122.467,
+          "end": 122.527,
+          "score": 0.22,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "We",
+          "start": 122.587,
+          "end": 122.727,
+          "score": 0.634,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "The",
+          "start": 122.747,
+          "end": 122.907,
+          "score": 0.258,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "People.",
+          "start": 123.027,
+          "end": 123.368,
+          "score": 0.448,
+          "speaker": "SPEAKER_07"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1455213215725481,
-      "compression_ratio": 1.5842293906810037,
-      "no_speech_prob": 0.1374693363904953
+      "avg_logprob": -0.07916039336158569,
+      "speaker": "SPEAKER_07"
     },
     {
-      "id": 25,
-      "seek": 12200,
-      "start": 135.0,
-      "end": 141.0,
-      "text": " this is the example that they do not want to see, but they have no choice.",
-      "tokens": [
-        51014,
-        341,
-        307,
-        264,
-        1365,
-        300,
-        436,
-        360,
-        406,
-        528,
-        281,
-        536,
-        11,
-        457,
-        436,
-        362,
-        572,
-        3922,
-        13,
-        51314
+      "start": 124.118,
+      "end": 126.419,
+      "text": " Oh yeah, I forgot, they made that phrase racist too.",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 124.118,
+          "end": 124.238,
+          "score": 0.588,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "yeah,",
+          "start": 124.258,
+          "end": 124.538,
+          "score": 0.433,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "I",
+          "start": 124.578,
+          "end": 124.598,
+          "score": 0.001,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "forgot,",
+          "start": 124.618,
+          "end": 124.939,
+          "score": 0.423,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "they",
+          "start": 124.959,
+          "end": 125.099,
+          "score": 0.332,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "made",
+          "start": 125.139,
+          "end": 125.359,
+          "score": 0.212,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "that",
+          "start": 125.379,
+          "end": 125.599,
+          "score": 0.498,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "phrase",
+          "start": 125.639,
+          "end": 125.879,
+          "score": 0.253,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "racist",
+          "start": 125.959,
+          "end": 126.079,
+          "score": 0.003,
+          "speaker": "SPEAKER_07"
+        },
+        {
+          "word": "too.",
+          "start": 126.119,
+          "end": 126.419,
+          "score": 0.525,
+          "speaker": "SPEAKER_07"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1455213215725481,
-      "compression_ratio": 1.5842293906810037,
-      "no_speech_prob": 0.1374693363904953
+      "avg_logprob": -0.10857371632487346,
+      "speaker": "SPEAKER_07"
     },
     {
-      "id": 26,
-      "seek": 12200,
-      "start": 141.0,
-      "end": 145.0,
-      "text": " This mall is so beautiful. Look at all of you. Look at you. The world sees us.",
-      "tokens": [
-        51314,
-        639,
-        16026,
-        307,
-        370,
-        2238,
-        13,
-        2053,
-        412,
-        439,
-        295,
-        291,
-        13,
-        2053,
-        412,
-        291,
-        13,
-        440,
-        1002,
-        8194,
-        505,
-        13,
-        51514
+      "start": 126.8,
+      "end": 140.787,
+      "text": "But as you see in the audience, those who are Muslims, Christians, those in the Jewish community, Democrats, Republicans, white, black, everyone all in between, this is the example that they do not want to see, but they have no choice.",
+      "words": [
+        {
+          "word": "But",
+          "start": 126.8,
+          "end": 126.9,
+          "score": 0.874,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "as",
+          "start": 126.96,
+          "end": 127.04,
+          "score": 0.728,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you",
+          "start": 127.06,
+          "end": 127.18,
+          "score": 0.892,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "see",
+          "start": 127.22,
+          "end": 127.36,
+          "score": 0.883,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "in",
+          "start": 127.38,
+          "end": 127.42,
+          "score": 0.736,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 127.46,
+          "end": 127.54,
+          "score": 0.836,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "audience,",
+          "start": 127.64,
+          "end": 128.02,
+          "score": 0.921,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "those",
+          "start": 128.14,
+          "end": 128.38,
+          "score": 0.973,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "who",
+          "start": 128.42,
+          "end": 128.541,
+          "score": 0.887,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "are",
+          "start": 128.661,
+          "end": 128.781,
+          "score": 0.65,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "Muslims,",
+          "start": 129.021,
+          "end": 129.521,
+          "score": 0.853,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "Christians,",
+          "start": 129.581,
+          "end": 130.081,
+          "score": 0.764,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "those",
+          "start": 130.161,
+          "end": 130.402,
+          "score": 0.856,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "in",
+          "start": 130.442,
+          "end": 130.522,
+          "score": 0.827,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 130.542,
+          "end": 130.602,
+          "score": 0.727,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "Jewish",
+          "start": 130.862,
+          "end": 131.102,
+          "score": 0.392,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "community,",
+          "start": 131.122,
+          "end": 131.522,
+          "score": 0.931,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "Democrats,",
+          "start": 131.722,
+          "end": 132.303,
+          "score": 0.874,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "Republicans,",
+          "start": 132.363,
+          "end": 133.083,
+          "score": 0.874,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "white,",
+          "start": 133.303,
+          "end": 133.643,
+          "score": 0.796,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "black,",
+          "start": 133.883,
+          "end": 134.224,
+          "score": 0.49,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "everyone",
+          "start": 134.604,
+          "end": 134.984,
+          "score": 0.875,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "all",
+          "start": 135.084,
+          "end": 135.164,
+          "score": 0.249,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "in",
+          "start": 135.204,
+          "end": 135.284,
+          "score": 0.489,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "between,",
+          "start": 135.304,
+          "end": 135.705,
+          "score": 0.944,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "this",
+          "start": 135.765,
+          "end": 136.045,
+          "score": 0.89,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "is",
+          "start": 136.185,
+          "end": 136.265,
+          "score": 0.936,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 136.305,
+          "end": 136.425,
+          "score": 0.543,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "example",
+          "start": 136.505,
+          "end": 137.085,
+          "score": 0.921,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "that",
+          "start": 137.445,
+          "end": 137.606,
+          "score": 0.871,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "they",
+          "start": 137.666,
+          "end": 137.846,
+          "score": 0.881,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "do",
+          "start": 137.966,
+          "end": 138.106,
+          "score": 0.885,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "not",
+          "start": 138.226,
+          "end": 138.446,
+          "score": 0.75,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "want",
+          "start": 138.546,
+          "end": 138.746,
+          "score": 0.84,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 138.786,
+          "end": 138.906,
+          "score": 0.838,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "see,",
+          "start": 138.966,
+          "end": 139.246,
+          "score": 0.959,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "but",
+          "start": 139.467,
+          "end": 139.587,
+          "score": 0.806,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "they",
+          "start": 139.607,
+          "end": 139.747,
+          "score": 0.84,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "have",
+          "start": 139.787,
+          "end": 140.107,
+          "score": 0.853,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "no",
+          "start": 140.227,
+          "end": 140.427,
+          "score": 0.732,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "choice.",
+          "start": 140.467,
+          "end": 140.787,
+          "score": 0.44,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1455213215725481,
-      "compression_ratio": 1.5842293906810037,
-      "no_speech_prob": 0.1374693363904953
+      "avg_logprob": -0.10857371632487346,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 27,
-      "seek": 12200,
-      "start": 145.0,
-      "end": 148.0,
-      "text": " We are 17,000 doctors.",
-      "tokens": [
-        51514,
-        492,
-        366,
-        3282,
-        11,
-        1360,
-        8778,
-        13,
-        51664
+      "start": 141.087,
+      "end": 143.009,
+      "text": "This mall is so beautiful, look at all of you.",
+      "words": [
+        {
+          "word": "This",
+          "start": 141.087,
+          "end": 141.268,
+          "score": 0.681,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "mall",
+          "start": 141.328,
+          "end": 141.628,
+          "score": 0.79,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "is",
+          "start": 141.708,
+          "end": 141.788,
+          "score": 0.354,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "so",
+          "start": 141.808,
+          "end": 142.008,
+          "score": 0.774,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "beautiful,",
+          "start": 142.028,
+          "end": 142.468,
+          "score": 0.897,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "look",
+          "start": 142.488,
+          "end": 142.628,
+          "score": 0.768,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "at",
+          "start": 142.668,
+          "end": 142.728,
+          "score": 0.783,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "all",
+          "start": 142.748,
+          "end": 142.808,
+          "score": 0.017,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 142.828,
+          "end": 142.888,
+          "score": 0.396,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you.",
+          "start": 142.909,
+          "end": 143.009,
+          "score": 0.36,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1455213215725481,
-      "compression_ratio": 1.5842293906810037,
-      "no_speech_prob": 0.1374693363904953
+      "avg_logprob": -0.10857371632487346,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 28,
-      "seek": 12200,
-      "start": 148.0,
-      "end": 151.0,
-      "text": " We are the last beacon of hope.",
-      "tokens": [
-        51664,
-        492,
-        366,
-        264,
-        1036,
-        41669,
-        295,
-        1454,
-        13,
-        51814
+      "start": 143.949,
+      "end": 144.389,
+      "text": " Look at you.",
+      "words": [
+        {
+          "word": "Look",
+          "start": 143.949,
+          "end": 144.089,
+          "score": 0.549,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "at",
+          "start": 144.169,
+          "end": 144.229,
+          "score": 0.451,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you.",
+          "start": 144.249,
+          "end": 144.389,
+          "score": 0.345,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1455213215725481,
-      "compression_ratio": 1.5842293906810037,
-      "no_speech_prob": 0.1374693363904953
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 29,
-      "seek": 15100,
-      "start": 151.0,
-      "end": 154.0,
-      "text": " We will not stop fighting for truth and for life.",
-      "tokens": [
-        50364,
-        492,
-        486,
-        406,
-        1590,
-        5237,
-        337,
-        3494,
-        293,
-        337,
-        993,
-        13,
-        50514
+      "start": 144.409,
+      "end": 145.549,
+      "text": "The world sees us.",
+      "words": [
+        {
+          "word": "The",
+          "start": 144.409,
+          "end": 144.569,
+          "score": 0.393,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "world",
+          "start": 144.609,
+          "end": 144.889,
+          "score": 0.729,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "sees",
+          "start": 144.969,
+          "end": 145.269,
+          "score": 0.729,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "us.",
+          "start": 145.389,
+          "end": 145.549,
+          "score": 0.878,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11065263617528628,
-      "compression_ratio": 1.4583333333333333,
-      "no_speech_prob": 0.03986453264951706
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 30,
-      "seek": 15100,
-      "start": 154.0,
-      "end": 156.0,
-      "text": " I believe in you.",
-      "tokens": [
-        50514,
-        286,
-        1697,
-        294,
-        291,
-        13,
-        50614
+      "start": 145.569,
+      "end": 146.55,
+      "text": "We are 17,000 doctors.",
+      "words": [
+        {
+          "word": "We",
+          "start": 145.569,
+          "end": 145.609,
+          "score": 0.001,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "are",
+          "start": 145.629,
+          "end": 145.789,
+          "score": 0.578,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "17,000",
+          "start": 145.85,
+          "end": 145.99,
+          "score": 0.906,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "doctors.",
+          "start": 146.11,
+          "end": 146.55,
+          "score": 0.498,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11065263617528628,
-      "compression_ratio": 1.4583333333333333,
-      "no_speech_prob": 0.03986453264951706
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 31,
-      "seek": 15100,
-      "start": 156.0,
-      "end": 158.0,
-      "text": " Are we ready to reclaim the dream?",
-      "tokens": [
-        50614,
-        2014,
-        321,
-        1919,
-        281,
-        40074,
-        264,
-        3055,
-        30,
-        50714
+      "start": 146.61,
+      "end": 150.991,
+      "text": "We are the last vegan of hope.",
+      "words": [
+        {
+          "word": "We",
+          "start": 146.61,
+          "end": 146.93,
+          "score": 0.785,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "are",
+          "start": 147.25,
+          "end": 147.35,
+          "score": 0.24,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 147.39,
+          "end": 147.61,
+          "score": 0.557,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "last",
+          "start": 147.67,
+          "end": 147.95,
+          "score": 0.566,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "vegan",
+          "start": 147.99,
+          "end": 148.65,
+          "score": 0.597,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "of",
+          "start": 149.17,
+          "end": 149.23,
+          "score": 0.25,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "hope.",
+          "start": 149.29,
+          "end": 150.991,
+          "score": 0.686,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11065263617528628,
-      "compression_ratio": 1.4583333333333333,
-      "no_speech_prob": 0.03986453264951706
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 32,
-      "seek": 15100,
-      "start": 158.0,
-      "end": 159.0,
-      "text": " Now the people rise up.",
-      "tokens": [
-        50714,
-        823,
-        264,
-        561,
-        6272,
-        493,
-        13,
-        50764
+      "start": 151.111,
+      "end": 154.132,
+      "text": "We will not stop fighting for truth and for life.",
+      "words": [
+        {
+          "word": "We",
+          "start": 151.111,
+          "end": 151.211,
+          "score": 0.994,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "will",
+          "start": 151.251,
+          "end": 151.431,
+          "score": 0.839,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "not",
+          "start": 151.471,
+          "end": 151.711,
+          "score": 0.89,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "stop",
+          "start": 151.771,
+          "end": 152.011,
+          "score": 0.659,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "fighting",
+          "start": 152.051,
+          "end": 152.391,
+          "score": 0.497,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "for",
+          "start": 152.431,
+          "end": 152.551,
+          "score": 0.476,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "truth",
+          "start": 152.571,
+          "end": 152.971,
+          "score": 0.622,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 153.451,
+          "end": 153.531,
+          "score": 0.964,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "for",
+          "start": 153.611,
+          "end": 153.791,
+          "score": 0.579,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "life.",
+          "start": 153.831,
+          "end": 154.132,
+          "score": 0.531,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11065263617528628,
-      "compression_ratio": 1.4583333333333333,
-      "no_speech_prob": 0.03986453264951706
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 33,
-      "seek": 15100,
-      "start": 159.0,
-      "end": 162.0,
-      "text": " Let's reclaim our country.",
-      "tokens": [
-        50764,
-        961,
-        311,
-        40074,
-        527,
-        1941,
-        13,
-        50914
+      "start": 154.512,
+      "end": 155.672,
+      "text": "I believe in you.",
+      "words": [
+        {
+          "word": "I",
+          "start": 154.512,
+          "end": 154.632,
+          "score": 0.812,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "believe",
+          "start": 154.692,
+          "end": 155.152,
+          "score": 0.851,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "in",
+          "start": 155.212,
+          "end": 155.272,
+          "score": 0.764,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "you.",
+          "start": 155.332,
+          "end": 155.672,
+          "score": 0.914,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11065263617528628,
-      "compression_ratio": 1.4583333333333333,
-      "no_speech_prob": 0.03986453264951706
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
     },
     {
-      "id": 34,
-      "seek": 15100,
-      "start": 166.0,
-      "end": 172.0,
-      "text": " The truth is like a lion. You don't have to defend it. Let it loose. It will defend itself.",
-      "tokens": [
-        51114,
-        440,
-        3494,
-        307,
-        411,
-        257,
-        17226,
-        13,
-        509,
-        500,
-        380,
-        362,
-        281,
-        8602,
-        309,
-        13,
-        961,
-        309,
-        9612,
-        13,
-        467,
-        486,
-        8602,
-        2564,
-        13,
-        51414
+      "start": 155.972,
+      "end": 157.452,
+      "text": "Are we ready to reclaim the dream?",
+      "words": [
+        {
+          "word": "Are",
+          "start": 155.972,
+          "end": 156.072,
+          "score": 0.484,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "we",
+          "start": 156.092,
+          "end": 156.212,
+          "score": 0.566,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "ready",
+          "start": 156.232,
+          "end": 156.372,
+          "score": 0.204,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 156.392,
+          "end": 156.492,
+          "score": 0.612,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "reclaim",
+          "start": 156.532,
+          "end": 156.912,
+          "score": 0.507,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 156.932,
+          "end": 157.032,
+          "score": 0.479,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "dream?",
+          "start": 157.052,
+          "end": 157.452,
+          "score": 0.62,
+          "speaker": "SPEAKER_06"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11065263617528628,
-      "compression_ratio": 1.4583333333333333,
-      "no_speech_prob": 0.03986453264951706
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 157.532,
+      "end": 158.953,
+      "text": "Now the people rise up.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 157.532,
+          "end": 157.792,
+          "score": 0.787,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "the",
+          "start": 157.812,
+          "end": 157.932,
+          "score": 0.811,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "people",
+          "start": 157.972,
+          "end": 158.313,
+          "score": 0.918,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "rise",
+          "start": 158.393,
+          "end": 158.713,
+          "score": 0.793,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "up.",
+          "start": 158.813,
+          "end": 158.953,
+          "score": 0.724,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 159.013,
+      "end": 161.173,
+      "text": "Let's reclaim our country.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 159.013,
+          "end": 159.213,
+          "score": 0.292,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "reclaim",
+          "start": 159.313,
+          "end": 159.993,
+          "score": 0.846,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "our",
+          "start": 160.393,
+          "end": 160.533,
+          "score": 0.636,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "country.",
+          "start": 160.573,
+          "end": 161.173,
+          "score": 0.525,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 165.734,
+      "end": 167.235,
+      "text": "The truth is like a lion.",
+      "words": [
+        {
+          "word": "The",
+          "start": 165.734,
+          "end": 165.834,
+          "score": 0.991,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "truth",
+          "start": 165.894,
+          "end": 166.195,
+          "score": 0.668,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "is",
+          "start": 166.295,
+          "end": 166.375,
+          "score": 0.693,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "like",
+          "start": 166.435,
+          "end": 166.655,
+          "score": 0.711,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "a",
+          "start": 166.715,
+          "end": 166.735,
+          "score": 0.997,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "lion.",
+          "start": 166.795,
+          "end": 167.235,
+          "score": 0.827,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 167.895,
+      "end": 169.195,
+      "text": "You don't have to defend it.",
+      "words": [
+        {
+          "word": "You",
+          "start": 167.895,
+          "end": 167.995,
+          "score": 0.818,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "don't",
+          "start": 168.035,
+          "end": 168.195,
+          "score": 0.802,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "have",
+          "start": 168.255,
+          "end": 168.435,
+          "score": 0.857,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "to",
+          "start": 168.475,
+          "end": 168.555,
+          "score": 1.0,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "defend",
+          "start": 168.615,
+          "end": 169.035,
+          "score": 0.904,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "it.",
+          "start": 169.115,
+          "end": 169.195,
+          "score": 0.94,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 169.995,
+      "end": 170.676,
+      "text": "Let it loose.",
+      "words": [
+        {
+          "word": "Let",
+          "start": 169.995,
+          "end": 170.176,
+          "score": 0.886,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "it",
+          "start": 170.216,
+          "end": 170.276,
+          "score": 0.96,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "loose.",
+          "start": 170.336,
+          "end": 170.676,
+          "score": 0.854,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "start": 170.796,
+      "end": 171.876,
+      "text": "It will defend itself.",
+      "words": [
+        {
+          "word": "It",
+          "start": 170.796,
+          "end": 170.856,
+          "score": 0.756,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "will",
+          "start": 170.876,
+          "end": 171.036,
+          "score": 0.817,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "defend",
+          "start": 171.056,
+          "end": 171.396,
+          "score": 0.923,
+          "speaker": "SPEAKER_06"
+        },
+        {
+          "word": "itself.",
+          "start": 171.456,
+          "end": 171.876,
+          "score": 0.927,
+          "speaker": "SPEAKER_06"
+        }
+      ],
+      "avg_logprob": -0.06608455707045162,
+      "speaker": "SPEAKER_06"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "This",
+      "start": 2.838,
+      "end": 3.098,
+      "score": 0.815,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "is",
+      "start": 3.239,
+      "end": 3.319,
+      "score": 0.868,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 3.359,
+      "end": 3.479,
+      "score": 0.895,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "example",
+      "start": 3.559,
+      "end": 4.04,
+      "score": 0.975,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 4.1,
+      "end": 4.16,
+      "score": 0.75,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "what",
+      "start": 4.24,
+      "end": 4.42,
+      "score": 0.854,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 4.48,
+      "end": 4.66,
+      "score": 0.629,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "get",
+      "start": 4.721,
+      "end": 4.901,
+      "score": 0.889,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "when",
+      "start": 4.941,
+      "end": 5.061,
+      "score": 0.984,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 5.081,
+      "end": 5.241,
+      "score": 0.931,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "choose",
+      "start": 5.281,
+      "end": 5.622,
+      "score": 0.818,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 5.662,
+      "end": 5.782,
+      "score": 0.833,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "attack",
+      "start": 5.842,
+      "end": 6.182,
+      "score": 0.933,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "all",
+      "start": 6.323,
+      "end": 6.463,
+      "score": 0.71,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "members",
+      "start": 6.503,
+      "end": 6.763,
+      "score": 0.809,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 6.803,
+      "end": 6.863,
+      "score": 0.753,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 6.883,
+      "end": 6.964,
+      "score": 0.837,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "human",
+      "start": 7.004,
+      "end": 7.244,
+      "score": 0.836,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "family.",
+      "start": 7.304,
+      "end": 7.624,
+      "score": 0.959,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "This",
+      "start": 8.425,
+      "end": 8.666,
+      "score": 0.84,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "is",
+      "start": 8.746,
+      "end": 8.846,
+      "score": 0.823,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "what",
+      "start": 8.886,
+      "end": 9.066,
+      "score": 0.923,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 9.106,
+      "end": 9.267,
+      "score": 0.995,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "get",
+      "start": 9.307,
+      "end": 9.467,
+      "score": 0.809,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "when",
+      "start": 9.507,
+      "end": 9.627,
+      "score": 0.951,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 9.667,
+      "end": 9.867,
+      "score": 0.775,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "decide",
+      "start": 9.907,
+      "end": 10.428,
+      "score": 0.911,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 10.448,
+      "end": 10.568,
+      "score": 0.865,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "go",
+      "start": 10.608,
+      "end": 10.769,
+      "score": 0.964,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "after",
+      "start": 10.949,
+      "end": 11.189,
+      "score": 0.883,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "a",
+      "start": 11.229,
+      "end": 11.249,
+      "score": 0.999,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "person's",
+      "start": 11.309,
+      "end": 11.73,
+      "score": 0.916,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "child.",
+      "start": 11.83,
+      "end": 12.251,
+      "score": 0.925,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "And",
+      "start": 13.752,
+      "end": 13.833,
+      "score": 0.958,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "I",
+      "start": 13.873,
+      "end": 13.953,
+      "score": 0.991,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "have",
+      "start": 13.993,
+      "end": 14.133,
+      "score": 0.878,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 14.153,
+      "end": 14.233,
+      "score": 0.994,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "make",
+      "start": 14.273,
+      "end": 14.433,
+      "score": 0.775,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "it",
+      "start": 14.473,
+      "end": 14.534,
+      "score": 0.748,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "very",
+      "start": 14.594,
+      "end": 14.854,
+      "score": 0.742,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "clear",
+      "start": 14.954,
+      "end": 15.234,
+      "score": 0.766,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "that",
+      "start": 15.295,
+      "end": 15.475,
+      "score": 0.85,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "they",
+      "start": 15.955,
+      "end": 16.116,
+      "score": 0.893,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "really",
+      "start": 16.276,
+      "end": 16.556,
+      "score": 0.896,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "didn't",
+      "start": 16.596,
+      "end": 16.817,
+      "score": 0.818,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "expect",
+      "start": 16.877,
+      "end": 17.237,
+      "score": 0.834,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "all",
+      "start": 17.317,
+      "end": 17.437,
+      "score": 0.783,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 17.457,
+      "end": 17.497,
+      "score": 0.001,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "this.",
+      "start": 17.517,
+      "end": 17.638,
+      "score": 0.3,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "thousands",
+      "start": 27.456,
+      "end": 28.097,
+      "score": 0.853,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "from",
+      "start": 28.158,
+      "end": 28.298,
+      "score": 0.769,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "across",
+      "start": 28.358,
+      "end": 28.599,
+      "score": 0.815,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "the",
+      "start": 28.619,
+      "end": 28.699,
+      "score": 0.804,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "country",
+      "start": 28.719,
+      "end": 29.039,
+      "score": 0.654,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "rallied",
+      "start": 29.14,
+      "end": 29.521,
+      "score": 0.686,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "today",
+      "start": 29.541,
+      "end": 29.921,
+      "score": 0.741,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "in",
+      "start": 29.982,
+      "end": 30.062,
+      "score": 0.754,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "Washington",
+      "start": 30.122,
+      "end": 30.663,
+      "score": 0.962,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "DC.",
+      "start": 30.703,
+      "end": 31.284,
+      "score": 0.794,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "A",
+      "start": 31.304,
+      "end": 31.324,
+      "score": 0.052,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "rally",
+      "start": 31.385,
+      "end": 31.705,
+      "score": 0.86,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "against",
+      "start": 31.745,
+      "end": 31.966,
+      "score": 0.859,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "COVID-19",
+      "start": 32.026,
+      "end": 32.387,
+      "score": 0.62,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "mandates.",
+      "start": 32.427,
+      "end": 33.188,
+      "score": 0.7,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "The",
+      "start": 33.309,
+      "end": 33.369,
+      "score": 0.025,
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "word": "message",
+      "start": 33.429,
+      "end": 33.77,
+      "score": 0.834,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 33.81,
+      "end": 33.95,
+      "score": 0.871,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "many",
+      "start": 33.99,
+      "end": 34.191,
+      "score": 0.842,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "on",
+      "start": 34.251,
+      "end": 34.331,
+      "score": 0.832,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Sunday",
+      "start": 34.391,
+      "end": 34.692,
+      "score": 0.828,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "was",
+      "start": 34.752,
+      "end": 34.912,
+      "score": 0.848,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "not",
+      "start": 35.052,
+      "end": 35.293,
+      "score": 0.802,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "anti",
+      "start": 35.413,
+      "end": 35.774,
+      "score": 0.828,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "vaccine,",
+      "start": 35.814,
+      "end": 36.395,
+      "score": 0.826,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "but",
+      "start": 36.415,
+      "end": 36.476,
+      "score": 0.031,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "the",
+      "start": 37.357,
+      "end": 37.438,
+      "score": 0.759,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "right",
+      "start": 37.478,
+      "end": 37.658,
+      "score": 0.749,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "to",
+      "start": 37.698,
+      "end": 37.778,
+      "score": 0.975,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "choose.",
+      "start": 37.838,
+      "end": 38.179,
+      "score": 0.762,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "Thank",
+      "start": 40.618,
+      "end": 40.898,
+      "score": 0.974,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "all",
+      "start": 41.059,
+      "end": 41.219,
+      "score": 0.873,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "of",
+      "start": 41.239,
+      "end": 41.279,
+      "score": 0.742,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "you",
+      "start": 41.339,
+      "end": 41.719,
+      "score": 0.723,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "for",
+      "start": 41.799,
+      "end": 41.94,
+      "score": 0.983,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "word": "coming",
+      "start": 42.0,
+      "end": 42.3,
+      "score": 0.932,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "out",
+      "start": 42.42,
+      "end": 42.54,
+      "score": 0.784,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "today",
+      "start": 42.6,
+      "end": 42.961,
+      "score": 0.804,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "to",
+      "start": 43.181,
+      "end": 43.281,
+      "score": 0.896,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "stand",
+      "start": 43.341,
+      "end": 43.822,
+      "score": 0.862,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "up",
+      "start": 44.042,
+      "end": 44.122,
+      "score": 0.993,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "for",
+      "start": 44.263,
+      "end": 44.423,
+      "score": 0.88,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "our",
+      "start": 44.503,
+      "end": 44.623,
+      "score": 0.617,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "children,",
+      "start": 44.703,
+      "end": 45.204,
+      "score": 0.88,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "our",
+      "start": 45.464,
+      "end": 45.544,
+      "score": 0.976,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "grandchildren,",
+      "start": 45.604,
+      "end": 46.485,
+      "score": 0.918,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "and",
+      "start": 46.505,
+      "end": 46.726,
+      "score": 0.603,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "our",
+      "start": 46.766,
+      "end": 46.886,
+      "score": 0.878,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "great-grandchildren.",
+      "start": 46.926,
+      "end": 47.987,
+      "score": 0.838,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "word": "The",
+      "start": 48.187,
+      "end": 48.328,
+      "score": 0.942,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "determination",
+      "start": 48.488,
+      "end": 49.749,
+      "score": 0.811,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 50.15,
+      "end": 50.29,
+      "score": 0.874,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "preserve",
+      "start": 50.35,
+      "end": 50.831,
+      "score": 0.863,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "medical",
+      "start": 50.931,
+      "end": 51.371,
+      "score": 0.83,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "freedom",
+      "start": 51.451,
+      "end": 51.832,
+      "score": 0.887,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "is",
+      "start": 52.032,
+      "end": 52.132,
+      "score": 0.886,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "in",
+      "start": 52.393,
+      "end": 52.533,
+      "score": 0.592,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "your",
+      "start": 52.873,
+      "end": 53.274,
+      "score": 0.677,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "hands.",
+      "start": 53.514,
+      "end": 53.914,
+      "score": 0.953,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "We're",
+      "start": 54.195,
+      "end": 54.375,
+      "score": 0.802,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "fighting",
+      "start": 54.435,
+      "end": 54.735,
+      "score": 0.878,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "for",
+      "start": 54.776,
+      "end": 54.896,
+      "score": 0.999,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "ourselves,",
+      "start": 54.956,
+      "end": 55.436,
+      "score": 0.874,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "our",
+      "start": 55.516,
+      "end": 55.617,
+      "score": 0.833,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "patients,",
+      "start": 55.657,
+      "end": 56.117,
+      "score": 0.768,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "and",
+      "start": 56.177,
+      "end": 56.257,
+      "score": 0.742,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "all",
+      "start": 56.458,
+      "end": 56.618,
+      "score": 0.864,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 56.658,
+      "end": 56.698,
+      "score": 0.994,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you.",
+      "start": 56.758,
+      "end": 56.938,
+      "score": 0.99,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "We",
+      "start": 57.138,
+      "end": 57.259,
+      "score": 0.675,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "are",
+      "start": 57.319,
+      "end": 57.419,
+      "score": 0.634,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "fighting",
+      "start": 57.519,
+      "end": 57.899,
+      "score": 0.817,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "against",
+      "start": 57.959,
+      "end": 58.42,
+      "score": 0.69,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Big",
+      "start": 58.54,
+      "end": 58.76,
+      "score": 0.838,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Pharma.",
+      "start": 58.901,
+      "end": 59.381,
+      "score": 0.546,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "They",
+      "start": 60.162,
+      "end": 60.322,
+      "score": 0.848,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "have",
+      "start": 60.382,
+      "end": 60.602,
+      "score": 0.82,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "always",
+      "start": 60.922,
+      "end": 61.463,
+      "score": 0.919,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "put",
+      "start": 61.943,
+      "end": 62.143,
+      "score": 0.855,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "profits",
+      "start": 62.223,
+      "end": 62.723,
+      "score": 0.894,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "before",
+      "start": 62.783,
+      "end": 63.184,
+      "score": 0.689,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "patients.",
+      "start": 63.224,
+      "end": 63.724,
+      "score": 0.89,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "You",
+      "start": 64.104,
+      "end": 64.184,
+      "score": 0.45,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know,",
+      "start": 64.204,
+      "end": 64.324,
+      "score": 0.671,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "here",
+      "start": 64.344,
+      "end": 64.484,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 64.504,
+      "end": 64.544,
+      "score": 0.56,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 64.564,
+      "end": 64.624,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "United",
+      "start": 64.664,
+      "end": 64.925,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "States,",
+      "start": 64.985,
+      "end": 65.385,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really,",
+      "start": 65.485,
+      "end": 65.785,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 65.825,
+      "end": 65.965,
+      "score": 0.682,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "going",
+      "start": 66.025,
+      "end": 66.225,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 66.265,
+      "end": 66.305,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 66.345,
+      "end": 66.445,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "black",
+      "start": 66.685,
+      "end": 66.966,
+      "score": 0.96,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 67.026,
+      "end": 67.366,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 67.486,
+      "end": 67.646,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 67.726,
+      "end": 67.966,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "should",
+      "start": 68.026,
+      "end": 68.206,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 68.246,
+      "end": 68.406,
+      "score": 0.478,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 68.426,
+      "end": 68.466,
+      "score": 0.552,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first.",
+      "start": 68.586,
+      "end": 68.927,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "To",
+      "start": 69.167,
+      "end": 69.267,
+      "score": 0.98,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "my",
+      "start": 69.287,
+      "end": 69.447,
+      "score": 0.944,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "African",
+      "start": 69.547,
+      "end": 69.867,
+      "score": 0.849,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "American",
+      "start": 69.907,
+      "end": 70.347,
+      "score": 0.789,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "brothers",
+      "start": 70.387,
+      "end": 70.708,
+      "score": 0.822,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "and",
+      "start": 70.768,
+      "end": 70.848,
+      "score": 0.838,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "sisters,",
+      "start": 70.908,
+      "end": 71.348,
+      "score": 0.895,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 71.648,
+      "end": 71.748,
+      "score": 0.91,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "vaccine",
+      "start": 71.768,
+      "end": 72.228,
+      "score": 0.739,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "that",
+      "start": 72.248,
+      "end": 72.348,
+      "score": 0.911,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you're",
+      "start": 72.368,
+      "end": 72.488,
+      "score": 0.0,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "going",
+      "start": 72.508,
+      "end": 72.608,
+      "score": 0.189,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 72.629,
+      "end": 72.729,
+      "score": 0.401,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "take",
+      "start": 72.769,
+      "end": 73.069,
+      "score": 0.756,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "was",
+      "start": 73.289,
+      "end": 73.429,
+      "score": 0.852,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "developed",
+      "start": 73.469,
+      "end": 73.909,
+      "score": 0.841,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "by",
+      "start": 73.949,
+      "end": 74.089,
+      "score": 0.833,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "an",
+      "start": 74.129,
+      "end": 74.189,
+      "score": 0.744,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "African",
+      "start": 74.289,
+      "end": 74.61,
+      "score": 0.851,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "American",
+      "start": 74.65,
+      "end": 75.09,
+      "score": 0.797,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "woman.",
+      "start": 75.13,
+      "end": 75.45,
+      "score": 0.974,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "As",
+      "start": 75.63,
+      "end": 75.73,
+      "score": 0.827,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "an",
+      "start": 75.79,
+      "end": 75.85,
+      "score": 0.779,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "African-American,",
+      "start": 75.97,
+      "end": 76.931,
+      "score": 0.843,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "I",
+      "start": 77.231,
+      "end": 77.311,
+      "score": 0.966,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "come",
+      "start": 77.351,
+      "end": 77.572,
+      "score": 0.774,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "here",
+      "start": 77.612,
+      "end": 77.772,
+      "score": 0.756,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "as",
+      "start": 77.832,
+      "end": 77.932,
+      "score": 0.558,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "one",
+      "start": 78.052,
+      "end": 78.192,
+      "score": 0.866,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 78.252,
+      "end": 78.352,
+      "score": 0.732,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 78.392,
+      "end": 78.492,
+      "score": 0.953,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "most",
+      "start": 78.552,
+      "end": 78.873,
+      "score": 0.688,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccine-hesitant",
+      "start": 78.933,
+      "end": 80.114,
+      "score": 0.604,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "group.",
+      "start": 80.154,
+      "end": 80.454,
+      "score": 0.673,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "If",
+      "start": 80.634,
+      "end": 80.694,
+      "score": 0.894,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 80.734,
+      "end": 80.914,
+      "score": 0.837,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "choose",
+      "start": 80.954,
+      "end": 81.335,
+      "score": 0.787,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 81.355,
+      "end": 81.795,
+      "score": 0.67,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "take",
+      "start": 81.815,
+      "end": 81.895,
+      "score": 0.001,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 81.975,
+      "end": 82.175,
+      "score": 0.567,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "vaccination,",
+      "start": 82.296,
+      "end": 82.936,
+      "score": 0.886,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "do",
+      "start": 82.956,
+      "end": 83.076,
+      "score": 0.848,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 83.096,
+      "end": 83.196,
+      "score": 0.977,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "take",
+      "start": 83.256,
+      "end": 83.477,
+      "score": 0.938,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "it?",
+      "start": 83.557,
+      "end": 83.637,
+      "score": 0.807,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "We",
+      "start": 83.877,
+      "end": 83.957,
+      "score": 0.99,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "should",
+      "start": 83.997,
+      "end": 84.157,
+      "score": 0.916,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "have",
+      "start": 84.197,
+      "end": 84.317,
+      "score": 0.919,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "a",
+      "start": 84.357,
+      "end": 84.377,
+      "score": 0.962,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "choice.",
+      "start": 84.457,
+      "end": 84.878,
+      "score": 0.906,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "The",
+      "start": 84.958,
+      "end": 85.078,
+      "score": 0.848,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "vaccine",
+      "start": 85.118,
+      "end": 85.638,
+      "score": 0.55,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "passports",
+      "start": 85.698,
+      "end": 86.319,
+      "score": 0.858,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "and",
+      "start": 86.379,
+      "end": 86.459,
+      "score": 0.391,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 86.479,
+      "end": 86.579,
+      "score": 0.607,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "vaccine",
+      "start": 86.619,
+      "end": 87.08,
+      "score": 0.625,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "mandates",
+      "start": 87.14,
+      "end": 87.64,
+      "score": 0.671,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "take",
+      "start": 87.68,
+      "end": 87.88,
+      "score": 0.73,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "us",
+      "start": 87.94,
+      "end": 88.02,
+      "score": 0.32,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "back",
+      "start": 88.08,
+      "end": 88.341,
+      "score": 0.906,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 88.361,
+      "end": 88.501,
+      "score": 0.861,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 88.521,
+      "end": 88.621,
+      "score": 0.789,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "days",
+      "start": 88.661,
+      "end": 88.901,
+      "score": 0.841,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 88.981,
+      "end": 89.061,
+      "score": 0.6,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "segregation.",
+      "start": 89.121,
+      "end": 89.922,
+      "score": 0.796,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "It's",
+      "start": 89.962,
+      "end": 90.062,
+      "score": 0.14,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "back",
+      "start": 90.102,
+      "end": 90.282,
+      "score": 0.914,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 90.302,
+      "end": 90.362,
+      "score": 0.35,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 90.382,
+      "end": 90.442,
+      "score": 0.018,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "safe",
+      "start": 90.482,
+      "end": 90.662,
+      "score": 0.533,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "passports.",
+      "start": 90.702,
+      "end": 91.223,
+      "score": 0.913,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Are",
+      "start": 91.563,
+      "end": 91.623,
+      "score": 0.139,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 91.643,
+      "end": 91.783,
+      "score": 0.533,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "free",
+      "start": 91.823,
+      "end": 92.024,
+      "score": 0.926,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "or",
+      "start": 92.044,
+      "end": 92.104,
+      "score": 0.218,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you're",
+      "start": 92.124,
+      "end": 92.244,
+      "score": 0.079,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "not",
+      "start": 92.284,
+      "end": 92.424,
+      "score": 0.679,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "free?",
+      "start": 92.444,
+      "end": 92.564,
+      "score": 0.443,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "You",
+      "start": 92.584,
+      "end": 92.644,
+      "score": 0.056,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "can't",
+      "start": 92.724,
+      "end": 92.904,
+      "score": 0.389,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "go",
+      "start": 92.944,
+      "end": 93.084,
+      "score": 0.618,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "here",
+      "start": 93.104,
+      "end": 93.205,
+      "score": 0.348,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "if",
+      "start": 93.225,
+      "end": 93.265,
+      "score": 0.005,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you're",
+      "start": 93.285,
+      "end": 93.405,
+      "score": 0.047,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "not",
+      "start": 93.445,
+      "end": 93.585,
+      "score": 0.809,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "free",
+      "start": 93.625,
+      "end": 93.745,
+      "score": 0.318,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "or",
+      "start": 93.805,
+      "end": 93.845,
+      "score": 0.007,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you're",
+      "start": 93.865,
+      "end": 93.985,
+      "score": 0.005,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "clean",
+      "start": 94.025,
+      "end": 94.165,
+      "score": 0.258,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "and",
+      "start": 94.245,
+      "end": 94.325,
+      "score": 0.212,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "not",
+      "start": 94.366,
+      "end": 94.506,
+      "score": 0.806,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "clean.",
+      "start": 94.546,
+      "end": 94.706,
+      "score": 0.214,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "I'm",
+      "start": 94.866,
+      "end": 95.006,
+      "score": 0.781,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "tired",
+      "start": 95.066,
+      "end": 95.506,
+      "score": 0.792,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 95.727,
+      "end": 95.827,
+      "score": 0.956,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "these",
+      "start": 95.887,
+      "end": 96.087,
+      "score": 0.912,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "people",
+      "start": 96.167,
+      "end": 96.487,
+      "score": 0.844,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "that",
+      "start": 96.547,
+      "end": 96.747,
+      "score": 0.97,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "sit",
+      "start": 96.828,
+      "end": 97.068,
+      "score": 0.903,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "in",
+      "start": 97.128,
+      "end": 97.228,
+      "score": 0.864,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 97.268,
+      "end": 97.348,
+      "score": 0.865,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "White",
+      "start": 97.408,
+      "end": 97.628,
+      "score": 0.949,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "House",
+      "start": 97.668,
+      "end": 97.908,
+      "score": 0.995,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "that",
+      "start": 98.009,
+      "end": 98.229,
+      "score": 0.873,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "stimulate",
+      "start": 98.289,
+      "end": 98.909,
+      "score": 0.907,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "race",
+      "start": 99.009,
+      "end": 99.29,
+      "score": 0.942,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "wars.",
+      "start": 99.37,
+      "end": 99.81,
+      "score": 0.821,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "We're",
+      "start": 99.85,
+      "end": 99.97,
+      "score": 0.514,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "going",
+      "start": 99.99,
+      "end": 100.09,
+      "score": 0.95,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "to",
+      "start": 100.11,
+      "end": 100.17,
+      "score": 0.747,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "come",
+      "start": 100.21,
+      "end": 100.39,
+      "score": 0.799,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "together",
+      "start": 100.43,
+      "end": 100.751,
+      "score": 0.859,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "and",
+      "start": 100.771,
+      "end": 100.831,
+      "score": 0.972,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "we're",
+      "start": 100.871,
+      "end": 101.091,
+      "score": 0.593,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "going",
+      "start": 101.111,
+      "end": 101.271,
+      "score": 0.277,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "to",
+      "start": 101.291,
+      "end": 101.371,
+      "score": 0.412,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "fight",
+      "start": 101.391,
+      "end": 101.571,
+      "score": 0.256,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "these",
+      "start": 101.591,
+      "end": 101.751,
+      "score": 0.393,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "mandates",
+      "start": 101.791,
+      "end": 101.952,
+      "score": 0.067,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "together.",
+      "start": 101.972,
+      "end": 102.392,
+      "score": 0.838,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "Tired",
+      "start": 102.492,
+      "end": 102.892,
+      "score": 0.799,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "that",
+      "start": 102.932,
+      "end": 103.092,
+      "score": 0.886,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "we",
+      "start": 103.153,
+      "end": 103.293,
+      "score": 0.994,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "are",
+      "start": 103.373,
+      "end": 103.473,
+      "score": 0.757,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "being",
+      "start": 103.533,
+      "end": 103.853,
+      "score": 0.765,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "experimented",
+      "start": 104.213,
+      "end": 105.274,
+      "score": 0.845,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "on.",
+      "start": 105.454,
+      "end": 105.574,
+      "score": 0.864,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "We",
+      "start": 105.654,
+      "end": 105.815,
+      "score": 0.666,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "are",
+      "start": 105.855,
+      "end": 106.715,
+      "score": 0.829,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "being",
+      "start": 107.035,
+      "end": 107.216,
+      "score": 0.252,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "deceived.",
+      "start": 107.256,
+      "end": 107.816,
+      "score": 0.565,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "I'm",
+      "start": 108.116,
+      "end": 108.236,
+      "score": 0.604,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "tired",
+      "start": 108.276,
+      "end": 108.697,
+      "score": 0.776,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "that",
+      "start": 108.757,
+      "end": 108.917,
+      "score": 0.845,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "we",
+      "start": 108.977,
+      "end": 109.117,
+      "score": 0.962,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "are",
+      "start": 109.177,
+      "end": 109.297,
+      "score": 0.806,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "being",
+      "start": 109.337,
+      "end": 109.597,
+      "score": 0.917,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "manipulated.",
+      "start": 109.637,
+      "end": 110.518,
+      "score": 0.914,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "They",
+      "start": 110.658,
+      "end": 110.878,
+      "score": 0.773,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "used",
+      "start": 111.098,
+      "end": 111.379,
+      "score": 0.794,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "our",
+      "start": 111.619,
+      "end": 111.759,
+      "score": 0.915,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "artists.",
+      "start": 111.939,
+      "end": 112.48,
+      "score": 0.657,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "They",
+      "start": 112.86,
+      "end": 113.0,
+      "score": 0.772,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "used",
+      "start": 113.16,
+      "end": 113.4,
+      "score": 0.688,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "our",
+      "start": 113.48,
+      "end": 113.6,
+      "score": 0.755,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "athletes,",
+      "start": 113.72,
+      "end": 114.181,
+      "score": 0.772,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "our",
+      "start": 114.341,
+      "end": 114.481,
+      "score": 0.883,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "singers,",
+      "start": 114.601,
+      "end": 115.001,
+      "score": 0.802,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "our",
+      "start": 115.102,
+      "end": 115.242,
+      "score": 0.911,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "rappers.",
+      "start": 115.262,
+      "end": 115.702,
+      "score": 0.592,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Celebrities",
+      "start": 115.822,
+      "end": 116.322,
+      "score": 0.409,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "are",
+      "start": 116.362,
+      "end": 116.463,
+      "score": 0.504,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "under",
+      "start": 116.543,
+      "end": 116.763,
+      "score": 0.842,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "a",
+      "start": 116.803,
+      "end": 116.843,
+      "score": 0.188,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "tremendous",
+      "start": 116.923,
+      "end": 117.383,
+      "score": 0.834,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "amount",
+      "start": 117.423,
+      "end": 117.643,
+      "score": 0.887,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "of",
+      "start": 117.683,
+      "end": 117.723,
+      "score": 0.996,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "pressure",
+      "start": 117.784,
+      "end": 118.104,
+      "score": 0.929,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "because",
+      "start": 118.124,
+      "end": 118.664,
+      "score": 0.488,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "they",
+      "start": 118.684,
+      "end": 118.804,
+      "score": 0.962,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "use",
+      "start": 118.944,
+      "end": 119.105,
+      "score": 0.923,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "celebrities",
+      "start": 119.145,
+      "end": 119.865,
+      "score": 0.527,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "to",
+      "start": 119.925,
+      "end": 120.065,
+      "score": 0.912,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "control",
+      "start": 120.105,
+      "end": 120.486,
+      "score": 0.715,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "the",
+      "start": 120.506,
+      "end": 120.566,
+      "score": 0.001,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "black",
+      "start": 120.726,
+      "end": 120.926,
+      "score": 0.601,
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "word": "community.",
+      "start": 120.946,
+      "end": 122.047,
+      "score": 0.409,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "Shout",
+      "start": 122.067,
+      "end": 122.247,
+      "score": 0.36,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "out",
+      "start": 122.347,
+      "end": 122.447,
+      "score": 0.234,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "to",
+      "start": 122.467,
+      "end": 122.527,
+      "score": 0.22,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "We",
+      "start": 122.587,
+      "end": 122.727,
+      "score": 0.634,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "The",
+      "start": 122.747,
+      "end": 122.907,
+      "score": 0.258,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "People.",
+      "start": 123.027,
+      "end": 123.368,
+      "score": 0.448,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "Oh",
+      "start": 124.118,
+      "end": 124.238,
+      "score": 0.588,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "yeah,",
+      "start": 124.258,
+      "end": 124.538,
+      "score": 0.433,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "I",
+      "start": 124.578,
+      "end": 124.598,
+      "score": 0.001,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "forgot,",
+      "start": 124.618,
+      "end": 124.939,
+      "score": 0.423,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "they",
+      "start": 124.959,
+      "end": 125.099,
+      "score": 0.332,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "made",
+      "start": 125.139,
+      "end": 125.359,
+      "score": 0.212,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "that",
+      "start": 125.379,
+      "end": 125.599,
+      "score": 0.498,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "phrase",
+      "start": 125.639,
+      "end": 125.879,
+      "score": 0.253,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "racist",
+      "start": 125.959,
+      "end": 126.079,
+      "score": 0.003,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "too.",
+      "start": 126.119,
+      "end": 126.419,
+      "score": 0.525,
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "word": "But",
+      "start": 126.8,
+      "end": 126.9,
+      "score": 0.874,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "as",
+      "start": 126.96,
+      "end": 127.04,
+      "score": 0.728,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you",
+      "start": 127.06,
+      "end": 127.18,
+      "score": 0.892,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "see",
+      "start": 127.22,
+      "end": 127.36,
+      "score": 0.883,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "in",
+      "start": 127.38,
+      "end": 127.42,
+      "score": 0.736,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 127.46,
+      "end": 127.54,
+      "score": 0.836,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "audience,",
+      "start": 127.64,
+      "end": 128.02,
+      "score": 0.921,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "those",
+      "start": 128.14,
+      "end": 128.38,
+      "score": 0.973,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "who",
+      "start": 128.42,
+      "end": 128.541,
+      "score": 0.887,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "are",
+      "start": 128.661,
+      "end": 128.781,
+      "score": 0.65,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Muslims,",
+      "start": 129.021,
+      "end": 129.521,
+      "score": 0.853,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Christians,",
+      "start": 129.581,
+      "end": 130.081,
+      "score": 0.764,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "those",
+      "start": 130.161,
+      "end": 130.402,
+      "score": 0.856,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "in",
+      "start": 130.442,
+      "end": 130.522,
+      "score": 0.827,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 130.542,
+      "end": 130.602,
+      "score": 0.727,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Jewish",
+      "start": 130.862,
+      "end": 131.102,
+      "score": 0.392,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "community,",
+      "start": 131.122,
+      "end": 131.522,
+      "score": 0.931,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Democrats,",
+      "start": 131.722,
+      "end": 132.303,
+      "score": 0.874,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Republicans,",
+      "start": 132.363,
+      "end": 133.083,
+      "score": 0.874,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "white,",
+      "start": 133.303,
+      "end": 133.643,
+      "score": 0.796,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "black,",
+      "start": 133.883,
+      "end": 134.224,
+      "score": 0.49,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "everyone",
+      "start": 134.604,
+      "end": 134.984,
+      "score": 0.875,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "all",
+      "start": 135.084,
+      "end": 135.164,
+      "score": 0.249,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "in",
+      "start": 135.204,
+      "end": 135.284,
+      "score": 0.489,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "between,",
+      "start": 135.304,
+      "end": 135.705,
+      "score": 0.944,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "this",
+      "start": 135.765,
+      "end": 136.045,
+      "score": 0.89,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "is",
+      "start": 136.185,
+      "end": 136.265,
+      "score": 0.936,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 136.305,
+      "end": 136.425,
+      "score": 0.543,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "example",
+      "start": 136.505,
+      "end": 137.085,
+      "score": 0.921,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "that",
+      "start": 137.445,
+      "end": 137.606,
+      "score": 0.871,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "they",
+      "start": 137.666,
+      "end": 137.846,
+      "score": 0.881,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "do",
+      "start": 137.966,
+      "end": 138.106,
+      "score": 0.885,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "not",
+      "start": 138.226,
+      "end": 138.446,
+      "score": 0.75,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "want",
+      "start": 138.546,
+      "end": 138.746,
+      "score": 0.84,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 138.786,
+      "end": 138.906,
+      "score": 0.838,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "see,",
+      "start": 138.966,
+      "end": 139.246,
+      "score": 0.959,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "but",
+      "start": 139.467,
+      "end": 139.587,
+      "score": 0.806,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "they",
+      "start": 139.607,
+      "end": 139.747,
+      "score": 0.84,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "have",
+      "start": 139.787,
+      "end": 140.107,
+      "score": 0.853,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "no",
+      "start": 140.227,
+      "end": 140.427,
+      "score": 0.732,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "choice.",
+      "start": 140.467,
+      "end": 140.787,
+      "score": 0.44,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "This",
+      "start": 141.087,
+      "end": 141.268,
+      "score": 0.681,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "mall",
+      "start": 141.328,
+      "end": 141.628,
+      "score": 0.79,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "is",
+      "start": 141.708,
+      "end": 141.788,
+      "score": 0.354,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "so",
+      "start": 141.808,
+      "end": 142.008,
+      "score": 0.774,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "beautiful,",
+      "start": 142.028,
+      "end": 142.468,
+      "score": 0.897,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "look",
+      "start": 142.488,
+      "end": 142.628,
+      "score": 0.768,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "at",
+      "start": 142.668,
+      "end": 142.728,
+      "score": 0.783,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "all",
+      "start": 142.748,
+      "end": 142.808,
+      "score": 0.017,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 142.828,
+      "end": 142.888,
+      "score": 0.396,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you.",
+      "start": 142.909,
+      "end": 143.009,
+      "score": 0.36,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Look",
+      "start": 143.949,
+      "end": 144.089,
+      "score": 0.549,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "at",
+      "start": 144.169,
+      "end": 144.229,
+      "score": 0.451,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you.",
+      "start": 144.249,
+      "end": 144.389,
+      "score": 0.345,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "The",
+      "start": 144.409,
+      "end": 144.569,
+      "score": 0.393,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "world",
+      "start": 144.609,
+      "end": 144.889,
+      "score": 0.729,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "sees",
+      "start": 144.969,
+      "end": 145.269,
+      "score": 0.729,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "us.",
+      "start": 145.389,
+      "end": 145.549,
+      "score": 0.878,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "We",
+      "start": 145.569,
+      "end": 145.609,
+      "score": 0.001,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "are",
+      "start": 145.629,
+      "end": 145.789,
+      "score": 0.578,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "17,000",
+      "start": 145.85,
+      "end": 145.99,
+      "score": 0.906,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "doctors.",
+      "start": 146.11,
+      "end": 146.55,
+      "score": 0.498,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "We",
+      "start": 146.61,
+      "end": 146.93,
+      "score": 0.785,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "are",
+      "start": 147.25,
+      "end": 147.35,
+      "score": 0.24,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 147.39,
+      "end": 147.61,
+      "score": 0.557,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "last",
+      "start": 147.67,
+      "end": 147.95,
+      "score": 0.566,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "vegan",
+      "start": 147.99,
+      "end": 148.65,
+      "score": 0.597,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "of",
+      "start": 149.17,
+      "end": 149.23,
+      "score": 0.25,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "hope.",
+      "start": 149.29,
+      "end": 150.991,
+      "score": 0.686,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "We",
+      "start": 151.111,
+      "end": 151.211,
+      "score": 0.994,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "will",
+      "start": 151.251,
+      "end": 151.431,
+      "score": 0.839,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "not",
+      "start": 151.471,
+      "end": 151.711,
+      "score": 0.89,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "stop",
+      "start": 151.771,
+      "end": 152.011,
+      "score": 0.659,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "fighting",
+      "start": 152.051,
+      "end": 152.391,
+      "score": 0.497,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "for",
+      "start": 152.431,
+      "end": 152.551,
+      "score": 0.476,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "truth",
+      "start": 152.571,
+      "end": 152.971,
+      "score": 0.622,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 153.451,
+      "end": 153.531,
+      "score": 0.964,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "for",
+      "start": 153.611,
+      "end": 153.791,
+      "score": 0.579,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "life.",
+      "start": 153.831,
+      "end": 154.132,
+      "score": 0.531,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "I",
+      "start": 154.512,
+      "end": 154.632,
+      "score": 0.812,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "believe",
+      "start": 154.692,
+      "end": 155.152,
+      "score": 0.851,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "in",
+      "start": 155.212,
+      "end": 155.272,
+      "score": 0.764,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "you.",
+      "start": 155.332,
+      "end": 155.672,
+      "score": 0.914,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Are",
+      "start": 155.972,
+      "end": 156.072,
+      "score": 0.484,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "we",
+      "start": 156.092,
+      "end": 156.212,
+      "score": 0.566,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "ready",
+      "start": 156.232,
+      "end": 156.372,
+      "score": 0.204,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 156.392,
+      "end": 156.492,
+      "score": 0.612,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "reclaim",
+      "start": 156.532,
+      "end": 156.912,
+      "score": 0.507,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 156.932,
+      "end": 157.032,
+      "score": 0.479,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "dream?",
+      "start": 157.052,
+      "end": 157.452,
+      "score": 0.62,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Now",
+      "start": 157.532,
+      "end": 157.792,
+      "score": 0.787,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "the",
+      "start": 157.812,
+      "end": 157.932,
+      "score": 0.811,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "people",
+      "start": 157.972,
+      "end": 158.313,
+      "score": 0.918,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "rise",
+      "start": 158.393,
+      "end": 158.713,
+      "score": 0.793,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "up.",
+      "start": 158.813,
+      "end": 158.953,
+      "score": 0.724,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Let's",
+      "start": 159.013,
+      "end": 159.213,
+      "score": 0.292,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "reclaim",
+      "start": 159.313,
+      "end": 159.993,
+      "score": 0.846,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "our",
+      "start": 160.393,
+      "end": 160.533,
+      "score": 0.636,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "country.",
+      "start": 160.573,
+      "end": 161.173,
+      "score": 0.525,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "The",
+      "start": 165.734,
+      "end": 165.834,
+      "score": 0.991,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "truth",
+      "start": 165.894,
+      "end": 166.195,
+      "score": 0.668,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "is",
+      "start": 166.295,
+      "end": 166.375,
+      "score": 0.693,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "like",
+      "start": 166.435,
+      "end": 166.655,
+      "score": 0.711,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "a",
+      "start": 166.715,
+      "end": 166.735,
+      "score": 0.997,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "lion.",
+      "start": 166.795,
+      "end": 167.235,
+      "score": 0.827,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "You",
+      "start": 167.895,
+      "end": 167.995,
+      "score": 0.818,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "don't",
+      "start": 168.035,
+      "end": 168.195,
+      "score": 0.802,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "have",
+      "start": 168.255,
+      "end": 168.435,
+      "score": 0.857,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "to",
+      "start": 168.475,
+      "end": 168.555,
+      "score": 1.0,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "defend",
+      "start": 168.615,
+      "end": 169.035,
+      "score": 0.904,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "it.",
+      "start": 169.115,
+      "end": 169.195,
+      "score": 0.94,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "Let",
+      "start": 169.995,
+      "end": 170.176,
+      "score": 0.886,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "it",
+      "start": 170.216,
+      "end": 170.276,
+      "score": 0.96,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "loose.",
+      "start": 170.336,
+      "end": 170.676,
+      "score": 0.854,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "It",
+      "start": 170.796,
+      "end": 170.856,
+      "score": 0.756,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "will",
+      "start": 170.876,
+      "end": 171.036,
+      "score": 0.817,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "defend",
+      "start": 171.056,
+      "end": 171.396,
+      "score": 0.923,
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "word": "itself.",
+      "start": 171.456,
+      "end": 171.876,
+      "score": 0.927,
+      "speaker": "SPEAKER_06"
+    }
+  ]
 }

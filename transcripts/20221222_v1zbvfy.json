@@ -1,387 +1,1692 @@
 {
-  "text": " I'm an orthopedic surgeon from Milwaukee, Wisconsin. I was injured by the Moderna shot that I received in December 30th of 2020. Unfortunately, since that time, I developed transverse myelitis, which is an injury to my spinal cord. Unfortunately, because of that, I haven't been able to return to work in my really beloved profession of orthopedic surgery. I'll be honest with you, I didn't think about it enough. I trusted the federal healthcare agencies that were supposed to protect me. I was naive. I admit that. My world and my mind has changed. My vision of how I trust people like the NIH and FDA and CDC has dramatically changed.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.0,
-      "text": " I'm an orthopedic surgeon from Milwaukee, Wisconsin.",
-      "tokens": [
-        50364,
-        286,
-        478,
-        364,
-        19052,
-        27277,
-        299,
-        22913,
-        490,
-        35321,
-        11,
-        17977,
-        13,
-        50514
+      "start": 0.031,
+      "end": 0.752,
+      "text": " I'm Michael Walscock.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 0.031,
+          "end": 0.151,
+          "score": 0.398,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Michael",
+          "start": 0.171,
+          "end": 0.331,
+          "score": 0.352,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Walscock.",
+          "start": 0.351,
+          "end": 0.752,
+          "score": 0.543,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.15560963114754098,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.0,
-      "end": 6.0,
-      "text": " I was injured by the Moderna shot that I received",
-      "tokens": [
-        50514,
-        286,
-        390,
-        13408,
-        538,
-        264,
-        6583,
-        22250,
-        3347,
-        300,
-        286,
-        4613,
-        50664
+      "start": 0.932,
+      "end": 3.034,
+      "text": "I'm an orthopedic surgeon from Milwaukee, Wisconsin.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 0.932,
+          "end": 0.992,
+          "score": 0.219,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 1.032,
+          "end": 1.092,
+          "score": 0.295,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "orthopedic",
+          "start": 1.112,
+          "end": 1.533,
+          "score": 0.598,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "surgeon",
+          "start": 1.553,
+          "end": 1.893,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 1.913,
+          "end": 2.053,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Milwaukee,",
+          "start": 2.093,
+          "end": 2.454,
+          "score": 0.483,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Wisconsin.",
+          "start": 2.474,
+          "end": 3.034,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.15560963114754098,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 6.0,
-      "end": 8.0,
-      "text": " in December 30th of 2020.",
-      "tokens": [
-        50664,
-        294,
-        7687,
-        2217,
-        392,
-        295,
-        4808,
-        13,
-        50764
+      "start": 3.735,
+      "end": 8.24,
+      "text": "I was injured by the Moderna shot that I received on December 30th of 2020.",
+      "words": [
+        {
+          "word": "I",
+          "start": 3.735,
+          "end": 3.775,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 3.815,
+          "end": 3.935,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "injured",
+          "start": 4.035,
+          "end": 4.235,
+          "score": 0.339,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 4.296,
+          "end": 4.756,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.896,
+          "end": 4.996,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Moderna",
+          "start": 5.016,
+          "end": 5.377,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shot",
+          "start": 5.397,
+          "end": 5.617,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 5.657,
+          "end": 5.837,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 5.857,
+          "end": 5.877,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "received",
+          "start": 5.917,
+          "end": 6.298,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 6.358,
+          "end": 6.418,
+          "score": 0.607,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "December",
+          "start": 6.478,
+          "end": 6.898,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "30th",
+          "start": 6.938,
+          "end": 7.299,
+          "score": 0.594,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 7.339,
+          "end": 7.379,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2020.",
+          "start": 7.419,
+          "end": 8.24,
+          "score": 0.701,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.15560963114754098,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 8.0,
-      "end": 10.0,
-      "text": " Unfortunately, since that time,",
-      "tokens": [
-        50764,
-        8590,
-        11,
-        1670,
-        300,
-        565,
-        11,
-        50864
+      "start": 8.94,
+      "end": 14.366,
+      "text": "Unfortunately, since that time, I developed transverse myelitis, which is an injury to my spinal cord.",
+      "words": [
+        {
+          "word": "Unfortunately,",
+          "start": 8.94,
+          "end": 9.541,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "since",
+          "start": 9.581,
+          "end": 9.801,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 9.841,
+          "end": 10.022,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "time,",
+          "start": 10.062,
+          "end": 10.342,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 10.362,
+          "end": 10.382,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "developed",
+          "start": 11.123,
+          "end": 11.483,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "transverse",
+          "start": 11.503,
+          "end": 12.004,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "myelitis,",
+          "start": 12.064,
+          "end": 12.524,
+          "score": 0.789,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 12.544,
+          "end": 12.725,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 12.925,
+          "end": 13.045,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 13.105,
+          "end": 13.185,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "injury",
+          "start": 13.225,
+          "end": 13.485,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 13.505,
+          "end": 13.565,
+          "score": 0.318,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 13.605,
+          "end": 13.726,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "spinal",
+          "start": 13.746,
+          "end": 14.066,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cord.",
+          "start": 14.086,
+          "end": 14.366,
+          "score": 0.806,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.15560963114754098,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 10.0,
-      "end": 12.0,
-      "text": " I developed transverse myelitis,",
-      "tokens": [
-        50864,
-        286,
-        4743,
-        1145,
-        4308,
-        452,
-        338,
-        16074,
-        11,
-        50964
+      "start": 15.187,
+      "end": 20.794,
+      "text": " Unfortunately, because of that, I haven't been able to return to work in my really beloved profession of orthopedic surgery.",
+      "words": [
+        {
+          "word": "Unfortunately,",
+          "start": 15.187,
+          "end": 15.668,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "because",
+          "start": 15.688,
+          "end": 15.908,
+          "score": 0.571,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 15.948,
+          "end": 16.008,
+          "score": 0.743,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that,",
+          "start": 16.048,
+          "end": 16.248,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 16.268,
+          "end": 16.308,
+          "score": 0.498,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "haven't",
+          "start": 16.349,
+          "end": 16.529,
+          "score": 0.955,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "been",
+          "start": 16.549,
+          "end": 16.689,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "able",
+          "start": 16.709,
+          "end": 16.889,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 16.929,
+          "end": 16.989,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "return",
+          "start": 17.009,
+          "end": 17.49,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 17.53,
+          "end": 17.59,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "work",
+          "start": 17.63,
+          "end": 17.83,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 17.991,
+          "end": 18.091,
+          "score": 0.607,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 18.291,
+          "end": 18.451,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "really",
+          "start": 18.531,
+          "end": 18.771,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "beloved",
+          "start": 18.852,
+          "end": 19.232,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "profession",
+          "start": 19.292,
+          "end": 19.753,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 19.773,
+          "end": 19.833,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "orthopedic",
+          "start": 19.913,
+          "end": 20.333,
+          "score": 0.717,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "surgery.",
+          "start": 20.373,
+          "end": 20.794,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.056399228532662556,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 12.0,
-      "end": 14.0,
-      "text": " which is an injury to my spinal cord.",
-      "tokens": [
-        50964,
-        597,
-        307,
-        364,
-        10454,
-        281,
-        452,
-        28022,
-        12250,
-        13,
-        51064
+      "start": 20.934,
+      "end": 22.476,
+      "text": "I'll be honest with you, I didn't think about it enough.",
+      "words": [
+        {
+          "word": "I'll",
+          "start": 20.934,
+          "end": 21.014,
+          "score": 0.02,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 21.034,
+          "end": 21.094,
+          "score": 0.708,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "honest",
+          "start": 21.134,
+          "end": 21.254,
+          "score": 0.027,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 21.274,
+          "end": 21.355,
+          "score": 0.029,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you,",
+          "start": 21.375,
+          "end": 21.455,
+          "score": 0.233,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 21.475,
+          "end": 21.495,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "didn't",
+          "start": 21.515,
+          "end": 21.755,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "think",
+          "start": 21.775,
+          "end": 21.955,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 21.995,
+          "end": 22.176,
+          "score": 0.963,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 22.196,
+          "end": 22.236,
+          "score": 0.002,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "enough.",
+          "start": 22.256,
+          "end": 22.476,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.056399228532662556,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 14.0,
-      "end": 16.0,
-      "text": " Unfortunately, because of that,",
-      "tokens": [
-        51064,
-        8590,
-        11,
-        570,
-        295,
-        300,
-        11,
-        51164
+      "start": 22.756,
+      "end": 27.642,
+      "text": "I trusted the federal healthcare agencies that were supposed to protect me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 22.756,
+          "end": 22.836,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trusted",
+          "start": 22.977,
+          "end": 23.557,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.198,
+          "end": 24.298,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "federal",
+          "start": 24.398,
+          "end": 24.759,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "healthcare",
+          "start": 24.819,
+          "end": 25.259,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "agencies",
+          "start": 25.339,
+          "end": 25.88,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 25.94,
+          "end": 26.06,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 26.1,
+          "end": 26.24,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "supposed",
+          "start": 26.301,
+          "end": 26.821,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 26.861,
+          "end": 26.961,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "protect",
+          "start": 27.021,
+          "end": 27.462,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me.",
+          "start": 27.502,
+          "end": 27.642,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.056399228532662556,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 16.0,
-      "end": 18.0,
-      "text": " I haven't been able to return to work",
-      "tokens": [
-        51164,
-        286,
-        2378,
-        380,
-        668,
-        1075,
-        281,
-        2736,
-        281,
-        589,
-        51264
+      "start": 28.083,
+      "end": 29.524,
+      "text": "I was naive, I admit that.",
+      "words": [
+        {
+          "word": "I",
+          "start": 28.083,
+          "end": 28.143,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 28.183,
+          "end": 28.343,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "naive,",
+          "start": 28.403,
+          "end": 28.844,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 28.984,
+          "end": 29.064,
+          "score": 0.629,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admit",
+          "start": 29.104,
+          "end": 29.324,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that.",
+          "start": 29.384,
+          "end": 29.524,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.056399228532662556,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 18.0,
-      "end": 20.0,
-      "text": " in my really beloved profession of orthopedic surgery.",
-      "tokens": [
-        51264,
-        294,
-        452,
-        534,
-        14553,
-        7032,
-        295,
-        19052,
-        27277,
-        299,
-        7930,
-        13,
-        51364
+      "start": 30.085,
+      "end": 32.047,
+      "text": "My world and my mind has changed.",
+      "words": [
+        {
+          "word": "My",
+          "start": 30.085,
+          "end": 30.245,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "world",
+          "start": 30.325,
+          "end": 30.686,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 30.746,
+          "end": 30.806,
+          "score": 0.347,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 30.866,
+          "end": 31.006,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mind",
+          "start": 31.066,
+          "end": 31.347,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 31.387,
+          "end": 31.507,
+          "score": 0.697,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "changed.",
+          "start": 31.587,
+          "end": 32.047,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
+      "avg_logprob": -0.056399228532662556,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 0,
-      "start": 20.0,
-      "end": 22.0,
-      "text": " I'll be honest with you, I didn't think about it enough.",
-      "tokens": [
-        51364,
-        286,
-        603,
-        312,
-        3245,
-        365,
-        291,
-        11,
-        286,
-        994,
-        380,
-        519,
-        466,
-        309,
-        1547,
-        13,
-        51464
+      "start": 32.108,
+      "end": 39.757,
+      "text": "My vision of how I trust people like the NIH and FDA and CDC has dramatically changed.",
+      "words": [
+        {
+          "word": "My",
+          "start": 32.108,
+          "end": 32.268,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vision",
+          "start": 32.388,
+          "end": 32.748,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 32.848,
+          "end": 32.909,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 33.349,
+          "end": 33.529,
+          "score": 0.968,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 33.609,
+          "end": 33.689,
+          "score": 0.97,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trust",
+          "start": 33.79,
+          "end": 34.13,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 34.51,
+          "end": 34.811,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like",
+          "start": 34.831,
+          "end": 34.971,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 35.011,
+          "end": 35.091,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "NIH",
+          "start": 35.251,
+          "end": 35.391,
+          "score": 0.659,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 35.452,
+          "end": 35.732,
+          "score": 0.557,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "FDA",
+          "start": 35.912,
+          "end": 36.212,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 36.273,
+          "end": 36.353,
+          "score": 0.706,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "CDC",
+          "start": 36.393,
+          "end": 37.033,
+          "score": 0.673,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 37.694,
+          "end": 38.575,
+          "score": 0.637,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dramatically",
+          "start": 38.635,
+          "end": 39.316,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "changed.",
+          "start": 39.356,
+          "end": 39.757,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
-    },
-    {
-      "id": 10,
-      "seek": 0,
-      "start": 22.0,
-      "end": 25.0,
-      "text": " I trusted the federal healthcare agencies",
-      "tokens": [
-        51464,
-        286,
-        16034,
-        264,
-        6019,
-        8884,
-        9504,
-        51614
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
-    },
-    {
-      "id": 11,
-      "seek": 0,
-      "start": 25.0,
-      "end": 27.0,
-      "text": " that were supposed to protect me.",
-      "tokens": [
-        51614,
-        300,
-        645,
-        3442,
-        281,
-        2371,
-        385,
-        13,
-        51714
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
-    },
-    {
-      "id": 12,
-      "seek": 0,
-      "start": 27.0,
-      "end": 29.0,
-      "text": " I was naive. I admit that.",
-      "tokens": [
-        51714,
-        286,
-        390,
-        29052,
-        13,
-        286,
-        9796,
-        300,
-        13,
-        51814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10614357794915046,
-      "compression_ratio": 1.638095238095238,
-      "no_speech_prob": 0.2285304218530655
-    },
-    {
-      "id": 13,
-      "seek": 2900,
-      "start": 29.0,
-      "end": 31.0,
-      "text": " My world and my mind has changed.",
-      "tokens": [
-        50364,
-        1222,
-        1002,
-        293,
-        452,
-        1575,
-        575,
-        3105,
-        13,
-        50464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1438147515961618,
-      "compression_ratio": 1.1650485436893203,
-      "no_speech_prob": 0.01210679579526186
-    },
-    {
-      "id": 14,
-      "seek": 2900,
-      "start": 31.0,
-      "end": 35.0,
-      "text": " My vision of how I trust people like the NIH",
-      "tokens": [
-        50464,
-        1222,
-        5201,
-        295,
-        577,
-        286,
-        3361,
-        561,
-        411,
-        264,
-        28716,
-        50664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1438147515961618,
-      "compression_ratio": 1.1650485436893203,
-      "no_speech_prob": 0.01210679579526186
-    },
-    {
-      "id": 15,
-      "seek": 2900,
-      "start": 35.0,
-      "end": 39.0,
-      "text": " and FDA and CDC has dramatically changed.",
-      "tokens": [
-        50664,
-        293,
-        18933,
-        293,
-        17133,
-        575,
-        17548,
-        3105,
-        13,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1438147515961618,
-      "compression_ratio": 1.1650485436893203,
-      "no_speech_prob": 0.01210679579526186
+      "avg_logprob": -0.056399228532662556,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "I'm",
+      "start": 0.031,
+      "end": 0.151,
+      "score": 0.398,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Michael",
+      "start": 0.171,
+      "end": 0.331,
+      "score": 0.352,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Walscock.",
+      "start": 0.351,
+      "end": 0.752,
+      "score": 0.543,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'm",
+      "start": 0.932,
+      "end": 0.992,
+      "score": 0.219,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 1.032,
+      "end": 1.092,
+      "score": 0.295,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "orthopedic",
+      "start": 1.112,
+      "end": 1.533,
+      "score": 0.598,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "surgeon",
+      "start": 1.553,
+      "end": 1.893,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 1.913,
+      "end": 2.053,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Milwaukee,",
+      "start": 2.093,
+      "end": 2.454,
+      "score": 0.483,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wisconsin.",
+      "start": 2.474,
+      "end": 3.034,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 3.735,
+      "end": 3.775,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 3.815,
+      "end": 3.935,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "injured",
+      "start": 4.035,
+      "end": 4.235,
+      "score": 0.339,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 4.296,
+      "end": 4.756,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.896,
+      "end": 4.996,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Moderna",
+      "start": 5.016,
+      "end": 5.377,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shot",
+      "start": 5.397,
+      "end": 5.617,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 5.657,
+      "end": 5.837,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 5.857,
+      "end": 5.877,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "received",
+      "start": 5.917,
+      "end": 6.298,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 6.358,
+      "end": 6.418,
+      "score": 0.607,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "December",
+      "start": 6.478,
+      "end": 6.898,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "30th",
+      "start": 6.938,
+      "end": 7.299,
+      "score": 0.594,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 7.339,
+      "end": 7.379,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2020.",
+      "start": 7.419,
+      "end": 8.24,
+      "score": 0.701,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Unfortunately,",
+      "start": 8.94,
+      "end": 9.541,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "since",
+      "start": 9.581,
+      "end": 9.801,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 9.841,
+      "end": 10.022,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "time,",
+      "start": 10.062,
+      "end": 10.342,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 10.362,
+      "end": 10.382,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "developed",
+      "start": 11.123,
+      "end": 11.483,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "transverse",
+      "start": 11.503,
+      "end": 12.004,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "myelitis,",
+      "start": 12.064,
+      "end": 12.524,
+      "score": 0.789,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 12.544,
+      "end": 12.725,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 12.925,
+      "end": 13.045,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 13.105,
+      "end": 13.185,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "injury",
+      "start": 13.225,
+      "end": 13.485,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 13.505,
+      "end": 13.565,
+      "score": 0.318,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 13.605,
+      "end": 13.726,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "spinal",
+      "start": 13.746,
+      "end": 14.066,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cord.",
+      "start": 14.086,
+      "end": 14.366,
+      "score": 0.806,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Unfortunately,",
+      "start": 15.187,
+      "end": 15.668,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "because",
+      "start": 15.688,
+      "end": 15.908,
+      "score": 0.571,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 15.948,
+      "end": 16.008,
+      "score": 0.743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that,",
+      "start": 16.048,
+      "end": 16.248,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 16.268,
+      "end": 16.308,
+      "score": 0.498,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "haven't",
+      "start": 16.349,
+      "end": 16.529,
+      "score": 0.955,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "been",
+      "start": 16.549,
+      "end": 16.689,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "able",
+      "start": 16.709,
+      "end": 16.889,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 16.929,
+      "end": 16.989,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "return",
+      "start": 17.009,
+      "end": 17.49,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 17.53,
+      "end": 17.59,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "work",
+      "start": 17.63,
+      "end": 17.83,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 17.991,
+      "end": 18.091,
+      "score": 0.607,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 18.291,
+      "end": 18.451,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "really",
+      "start": 18.531,
+      "end": 18.771,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "beloved",
+      "start": 18.852,
+      "end": 19.232,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "profession",
+      "start": 19.292,
+      "end": 19.753,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 19.773,
+      "end": 19.833,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "orthopedic",
+      "start": 19.913,
+      "end": 20.333,
+      "score": 0.717,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "surgery.",
+      "start": 20.373,
+      "end": 20.794,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I'll",
+      "start": 20.934,
+      "end": 21.014,
+      "score": 0.02,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 21.034,
+      "end": 21.094,
+      "score": 0.708,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "honest",
+      "start": 21.134,
+      "end": 21.254,
+      "score": 0.027,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 21.274,
+      "end": 21.355,
+      "score": 0.029,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you,",
+      "start": 21.375,
+      "end": 21.455,
+      "score": 0.233,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 21.475,
+      "end": 21.495,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "didn't",
+      "start": 21.515,
+      "end": 21.755,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "think",
+      "start": 21.775,
+      "end": 21.955,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 21.995,
+      "end": 22.176,
+      "score": 0.963,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 22.196,
+      "end": 22.236,
+      "score": 0.002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "enough.",
+      "start": 22.256,
+      "end": 22.476,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 22.756,
+      "end": 22.836,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trusted",
+      "start": 22.977,
+      "end": 23.557,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.198,
+      "end": 24.298,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "federal",
+      "start": 24.398,
+      "end": 24.759,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "healthcare",
+      "start": 24.819,
+      "end": 25.259,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "agencies",
+      "start": 25.339,
+      "end": 25.88,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 25.94,
+      "end": 26.06,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 26.1,
+      "end": 26.24,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "supposed",
+      "start": 26.301,
+      "end": 26.821,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 26.861,
+      "end": 26.961,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "protect",
+      "start": 27.021,
+      "end": 27.462,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me.",
+      "start": 27.502,
+      "end": 27.642,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 28.083,
+      "end": 28.143,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 28.183,
+      "end": 28.343,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "naive,",
+      "start": 28.403,
+      "end": 28.844,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 28.984,
+      "end": 29.064,
+      "score": 0.629,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admit",
+      "start": 29.104,
+      "end": 29.324,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that.",
+      "start": 29.384,
+      "end": 29.524,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "My",
+      "start": 30.085,
+      "end": 30.245,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "world",
+      "start": 30.325,
+      "end": 30.686,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 30.746,
+      "end": 30.806,
+      "score": 0.347,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 30.866,
+      "end": 31.006,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mind",
+      "start": 31.066,
+      "end": 31.347,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 31.387,
+      "end": 31.507,
+      "score": 0.697,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "changed.",
+      "start": 31.587,
+      "end": 32.047,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "My",
+      "start": 32.108,
+      "end": 32.268,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vision",
+      "start": 32.388,
+      "end": 32.748,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 32.848,
+      "end": 32.909,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 33.349,
+      "end": 33.529,
+      "score": 0.968,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 33.609,
+      "end": 33.689,
+      "score": 0.97,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trust",
+      "start": 33.79,
+      "end": 34.13,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 34.51,
+      "end": 34.811,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like",
+      "start": 34.831,
+      "end": 34.971,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 35.011,
+      "end": 35.091,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "NIH",
+      "start": 35.251,
+      "end": 35.391,
+      "score": 0.659,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 35.452,
+      "end": 35.732,
+      "score": 0.557,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "FDA",
+      "start": 35.912,
+      "end": 36.212,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 36.273,
+      "end": 36.353,
+      "score": 0.706,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "CDC",
+      "start": 36.393,
+      "end": 37.033,
+      "score": 0.673,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 37.694,
+      "end": 38.575,
+      "score": 0.637,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dramatically",
+      "start": 38.635,
+      "end": 39.316,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "changed.",
+      "start": 39.356,
+      "end": 39.757,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

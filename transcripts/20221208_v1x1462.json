@@ -1,414 +1,2080 @@
 {
-  "text": " In my hospital I was banned or discouraged from using off-label drugs which we use every day, methylprednisolone, vitamin C. My hospital would not allow me to use vitamin C. We're talking about basic safe drugs and it's an outrage. What they wanted me to use was Remdesivir. Remdesivir we know and this is not controversial. We know according to the WHO Remdesivir increases your risk of kidney failure 20-fold. Remdesivir will increase your risk of developing renal failure 20-fold. It increases your risk of dying by about 4%. It has no place in medicine yet the federal government will give hospitals a 20% bonus on the entire hospital bowl if you prescribe this toxic medication. So you can see how the hospitals and the healthcare systems are now subservient to industry rather than doing what's best for their patients.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.8,
-      "text": " In my hospital I was banned or discouraged from using",
-      "tokens": [
-        50364,
-        682,
-        452,
-        4530,
-        286,
-        390,
-        19564,
-        420,
-        35010,
-        490,
-        1228,
-        50604
+      "start": 0.198,
+      "end": 19.364,
+      "text": " In my hospital, I was banned or discouraged from using off-label drugs, which we use every day, methylprednisolone, vitamin C. My hospital would not allow me to use vitamin C. We're talking about basic safe drugs, and it's an outrage.",
+      "words": [
+        {
+          "word": "In",
+          "start": 0.198,
+          "end": 0.298,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 0.358,
+          "end": 0.578,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital,",
+          "start": 0.658,
+          "end": 1.118,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 1.198,
+          "end": 1.218,
+          "score": 0.066,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 1.278,
+          "end": 1.478,
+          "score": 0.574,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "banned",
+          "start": 1.618,
+          "end": 2.059,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 2.299,
+          "end": 2.379,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "discouraged",
+          "start": 2.559,
+          "end": 3.299,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 3.379,
+          "end": 3.519,
+          "score": 0.781,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "using",
+          "start": 3.679,
+          "end": 3.959,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "off-label",
+          "start": 4.96,
+          "end": 5.78,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drugs,",
+          "start": 5.86,
+          "end": 6.2,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 6.26,
+          "end": 6.42,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 6.46,
+          "end": 6.56,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "use",
+          "start": 6.68,
+          "end": 6.84,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "every",
+          "start": 6.9,
+          "end": 7.12,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "day,",
+          "start": 7.16,
+          "end": 7.36,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "methylprednisolone,",
+          "start": 7.44,
+          "end": 8.961,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vitamin",
+          "start": 9.401,
+          "end": 10.101,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "C.",
+          "start": 10.241,
+          "end": 10.541,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "My",
+          "start": 10.661,
+          "end": 10.881,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital",
+          "start": 11.001,
+          "end": 11.542,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "would",
+          "start": 11.602,
+          "end": 11.762,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 11.802,
+          "end": 11.942,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "allow",
+          "start": 12.022,
+          "end": 12.302,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 12.342,
+          "end": 12.462,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 12.542,
+          "end": 12.662,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "use",
+          "start": 12.822,
+          "end": 12.982,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vitamin",
+          "start": 13.422,
+          "end": 14.022,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "C.",
+          "start": 14.102,
+          "end": 14.282,
+          "score": 0.669,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "We're",
+          "start": 14.302,
+          "end": 14.462,
+          "score": 0.367,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talking",
+          "start": 14.482,
+          "end": 14.803,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 14.863,
+          "end": 15.103,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "basic",
+          "start": 15.303,
+          "end": 15.843,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "safe",
+          "start": 16.043,
+          "end": 16.463,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drugs,",
+          "start": 16.643,
+          "end": 17.123,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 17.904,
+          "end": 18.084,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 18.324,
+          "end": 18.524,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 18.564,
+          "end": 18.644,
+          "score": 0.504,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "outrage.",
+          "start": 18.804,
+          "end": 19.364,
+          "score": 0.934,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19347483986302427,
-      "compression_ratio": 1.5586854460093897,
-      "no_speech_prob": 0.02393023669719696
+      "avg_logprob": -0.10376320653398272,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.8,
-      "end": 9.36,
-      "text": " off-label drugs which we use every day, methylprednisolone,",
-      "tokens": [
-        50604,
-        766,
-        12,
-        75,
-        18657,
-        7766,
-        597,
-        321,
-        764,
-        633,
-        786,
-        11,
-        48441,
-        79,
-        986,
-        10661,
-        401,
-        546,
-        11,
-        50832
+      "start": 19.464,
+      "end": 22.385,
+      "text": "What they wanted me to use was remdesivir.",
+      "words": [
+        {
+          "word": "What",
+          "start": 19.464,
+          "end": 19.644,
+          "score": 0.777,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 19.684,
+          "end": 19.844,
+          "score": 0.674,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "wanted",
+          "start": 19.884,
+          "end": 20.204,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "me",
+          "start": 20.264,
+          "end": 20.404,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 20.484,
+          "end": 20.584,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "use",
+          "start": 20.804,
+          "end": 21.004,
+          "score": 0.605,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 21.084,
+          "end": 21.325,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "remdesivir.",
+          "start": 21.465,
+          "end": 22.385,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19347483986302427,
-      "compression_ratio": 1.5586854460093897,
-      "no_speech_prob": 0.02393023669719696
+      "avg_logprob": -0.10376320653398272,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 9.36,
-      "end": 13.36,
-      "text": " vitamin C. My hospital would not allow me to use",
-      "tokens": [
-        50832,
-        17163,
-        383,
-        13,
-        1222,
-        4530,
-        576,
-        406,
-        2089,
-        385,
-        281,
-        764,
-        51032
+      "start": 23.655,
+      "end": 33.342,
+      "text": " where remdesivir we know, and this is not controversial, we know according to the WHO, remdesivir increases your risk of kidney failure 20-fold.",
+      "words": [
+        {
+          "word": "where",
+          "start": 23.655,
+          "end": 23.855,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "remdesivir",
+          "start": 23.895,
+          "end": 24.636,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 24.696,
+          "end": 24.856,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know,",
+          "start": 24.876,
+          "end": 25.116,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 25.136,
+          "end": 25.236,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 25.276,
+          "end": 25.416,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 25.516,
+          "end": 25.596,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 25.657,
+          "end": 25.837,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "controversial,",
+          "start": 25.937,
+          "end": 26.857,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 27.298,
+          "end": 27.438,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 27.458,
+          "end": 27.678,
+          "score": 0.614,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "according",
+          "start": 27.738,
+          "end": 28.118,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 28.198,
+          "end": 28.298,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 28.338,
+          "end": 28.399,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "WHO,",
+          "start": 28.799,
+          "end": 29.439,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "remdesivir",
+          "start": 30.12,
+          "end": 30.86,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "increases",
+          "start": 30.94,
+          "end": 31.481,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 31.521,
+          "end": 31.701,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 31.741,
+          "end": 32.001,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 32.041,
+          "end": 32.121,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kidney",
+          "start": 32.241,
+          "end": 32.602,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "failure",
+          "start": 32.702,
+          "end": 33.102,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "20-fold.",
+          "start": 33.122,
+          "end": 33.342,
+          "score": 0.489,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19347483986302427,
-      "compression_ratio": 1.5586854460093897,
-      "no_speech_prob": 0.02393023669719696
+      "avg_logprob": -0.14702691386143366,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 13.36,
-      "end": 17.68,
-      "text": " vitamin C. We're talking about basic safe drugs",
-      "tokens": [
-        51032,
-        17163,
-        383,
-        13,
-        492,
-        434,
-        1417,
-        466,
-        3875,
-        3273,
-        7766,
-        51248
+      "start": 35.056,
+      "end": 39.258,
+      "text": " Remdesivir will increase your risk of developing renal failure twenty-fold.",
+      "words": [
+        {
+          "word": "Remdesivir",
+          "start": 35.056,
+          "end": 35.816,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 35.836,
+          "end": 35.997,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "increase",
+          "start": 36.037,
+          "end": 36.417,
+          "score": 0.915,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 36.437,
+          "end": 36.597,
+          "score": 0.718,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 36.637,
+          "end": 36.857,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 36.917,
+          "end": 36.977,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "developing",
+          "start": 37.037,
+          "end": 37.557,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "renal",
+          "start": 37.677,
+          "end": 37.998,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "failure",
+          "start": 38.078,
+          "end": 38.438,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "twenty-fold.",
+          "start": 38.498,
+          "end": 39.258,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19347483986302427,
-      "compression_ratio": 1.5586854460093897,
-      "no_speech_prob": 0.02393023669719696
+      "avg_logprob": -0.07817925274786022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 17.68,
-      "end": 21.36,
-      "text": " and it's an outrage. What they wanted me to use was",
-      "tokens": [
-        51248,
-        293,
-        309,
-        311,
-        364,
-        25933,
-        13,
-        708,
-        436,
-        1415,
-        385,
-        281,
-        764,
-        390,
-        51432
+      "start": 39.698,
+      "end": 43.62,
+      "text": "It increases your risk of dying by about four percent.",
+      "words": [
+        {
+          "word": "It",
+          "start": 39.698,
+          "end": 39.778,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "increases",
+          "start": 39.899,
+          "end": 40.459,
+          "score": 0.721,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "your",
+          "start": 40.619,
+          "end": 40.819,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 40.879,
+          "end": 41.139,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 41.199,
+          "end": 41.279,
+          "score": 0.676,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dying",
+          "start": 41.399,
+          "end": 41.88,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 41.9,
+          "end": 41.94,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 42.46,
+          "end": 42.76,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "four",
+          "start": 42.88,
+          "end": 43.1,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "percent.",
+          "start": 43.14,
+          "end": 43.62,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19347483986302427,
-      "compression_ratio": 1.5586854460093897,
-      "no_speech_prob": 0.02393023669719696
+      "avg_logprob": -0.07817925274786022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 21.36,
-      "end": 27.6,
-      "text": " Remdesivir. Remdesivir we know and this is not controversial. We know",
-      "tokens": [
-        51432,
-        4080,
-        14792,
-        592,
-        347,
-        13,
-        4080,
-        14792,
-        592,
-        347,
-        321,
-        458,
-        293,
-        341,
-        307,
-        406,
-        17323,
-        13,
-        492,
-        458,
-        51744
+      "start": 44.261,
+      "end": 57.368,
+      "text": "It has no place in medicine, yet the federal government will give hospitals a twenty percent bonus on the entire hospital bill if you prescribe this toxic medication.",
+      "words": [
+        {
+          "word": "It",
+          "start": 44.261,
+          "end": 44.321,
+          "score": 0.176,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 44.361,
+          "end": 44.521,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 44.541,
+          "end": 44.581,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "place",
+          "start": 45.421,
+          "end": 45.782,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 45.962,
+          "end": 46.042,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medicine,",
+          "start": 46.142,
+          "end": 46.682,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "yet",
+          "start": 47.162,
+          "end": 47.402,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 47.502,
+          "end": 47.603,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "federal",
+          "start": 47.683,
+          "end": 48.103,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "government",
+          "start": 48.183,
+          "end": 48.643,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 48.763,
+          "end": 48.943,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "give",
+          "start": 48.983,
+          "end": 49.163,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospitals",
+          "start": 49.263,
+          "end": 49.884,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 50.024,
+          "end": 50.104,
+          "score": 0.523,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "twenty",
+          "start": 50.224,
+          "end": 50.544,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "percent",
+          "start": 50.604,
+          "end": 51.004,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bonus",
+          "start": 51.084,
+          "end": 51.565,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 52.065,
+          "end": 52.125,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 52.185,
+          "end": 52.285,
+          "score": 0.987,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "entire",
+          "start": 52.365,
+          "end": 52.845,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital",
+          "start": 52.945,
+          "end": 53.466,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bill",
+          "start": 53.526,
+          "end": 53.806,
+          "score": 0.666,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 54.306,
+          "end": 54.406,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 54.526,
+          "end": 54.766,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "prescribe",
+          "start": 54.846,
+          "end": 55.467,
+          "score": 0.739,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 55.487,
+          "end": 55.727,
+          "score": 0.46,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "toxic",
+          "start": 55.867,
+          "end": 56.347,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medication.",
+          "start": 56.607,
+          "end": 57.368,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19347483986302427,
-      "compression_ratio": 1.5586854460093897,
-      "no_speech_prob": 0.02393023669719696
+      "avg_logprob": -0.07817925274786022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2760,
-      "start": 27.6,
-      "end": 32.08,
-      "text": " according to the WHO Remdesivir increases your risk of",
-      "tokens": [
-        50364,
-        4650,
-        281,
-        264,
-        23256,
-        4080,
-        14792,
-        592,
-        347,
-        8637,
-        428,
-        3148,
-        295,
-        50588
+      "start": 57.948,
+      "end": 61.67,
+      "text": "So you can see how the hospitals and the healthcare systems are now",
+      "words": [
+        {
+          "word": "So",
+          "start": 57.948,
+          "end": 58.088,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 58.148,
+          "end": 58.288,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can",
+          "start": 58.328,
+          "end": 58.508,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "see",
+          "start": 58.608,
+          "end": 58.828,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "how",
+          "start": 58.908,
+          "end": 59.068,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 59.108,
+          "end": 59.229,
+          "score": 0.804,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospitals",
+          "start": 59.349,
+          "end": 59.929,
+          "score": 0.753,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 60.009,
+          "end": 60.109,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 60.129,
+          "end": 60.189,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "healthcare",
+          "start": 60.249,
+          "end": 60.769,
+          "score": 0.551,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "systems",
+          "start": 60.809,
+          "end": 61.27,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 61.39,
+          "end": 61.49,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "now",
+          "start": 61.53,
+          "end": 61.67,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12629504536473474,
-      "compression_ratio": 1.681592039800995,
-      "no_speech_prob": 0.01873491331934929
+      "avg_logprob": -0.07817925274786022,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2760,
-      "start": 32.08,
-      "end": 36.88,
-      "text": " kidney failure 20-fold. Remdesivir will increase your risk of",
-      "tokens": [
-        50588,
-        19000,
-        7763,
-        945,
-        12,
-        18353,
-        13,
-        4080,
-        14792,
-        592,
-        347,
-        486,
-        3488,
-        428,
-        3148,
-        295,
-        50828
+      "start": 62.25,
+      "end": 67.0,
+      "text": " subservient to industry rather than doing what's best for their patients.",
+      "words": [
+        {
+          "word": "subservient",
+          "start": 62.25,
+          "end": 63.172,
+          "score": 0.939,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 63.353,
+          "end": 63.533,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "industry",
+          "start": 63.653,
+          "end": 64.195,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "rather",
+          "start": 64.395,
+          "end": 64.756,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 64.816,
+          "end": 64.996,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "doing",
+          "start": 65.076,
+          "end": 65.317,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what's",
+          "start": 65.377,
+          "end": 65.618,
+          "score": 0.746,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "best",
+          "start": 65.718,
+          "end": 66.018,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 66.099,
+          "end": 66.239,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 66.279,
+          "end": 66.439,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients.",
+          "start": 66.479,
+          "end": 67.0,
+          "score": 0.677,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12629504536473474,
-      "compression_ratio": 1.681592039800995,
-      "no_speech_prob": 0.01873491331934929
-    },
-    {
-      "id": 8,
-      "seek": 2760,
-      "start": 36.88,
-      "end": 41.28,
-      "text": " developing renal failure 20-fold. It increases your risk of",
-      "tokens": [
-        50828,
-        6416,
-        319,
-        4660,
-        7763,
-        945,
-        12,
-        18353,
-        13,
-        467,
-        8637,
-        428,
-        3148,
-        295,
-        51048
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12629504536473474,
-      "compression_ratio": 1.681592039800995,
-      "no_speech_prob": 0.01873491331934929
-    },
-    {
-      "id": 9,
-      "seek": 2760,
-      "start": 41.28,
-      "end": 47.52,
-      "text": " dying by about 4%. It has no place in medicine yet the",
-      "tokens": [
-        51048,
-        8639,
-        538,
-        466,
-        1017,
-        6856,
-        467,
-        575,
-        572,
-        1081,
-        294,
-        7195,
-        1939,
-        264,
-        51360
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12629504536473474,
-      "compression_ratio": 1.681592039800995,
-      "no_speech_prob": 0.01873491331934929
-    },
-    {
-      "id": 10,
-      "seek": 2760,
-      "start": 47.52,
-      "end": 52.24,
-      "text": " federal government will give hospitals a 20% bonus on the",
-      "tokens": [
-        51360,
-        6019,
-        2463,
-        486,
-        976,
-        13014,
-        257,
-        945,
-        4,
-        10882,
-        322,
-        264,
-        51596
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12629504536473474,
-      "compression_ratio": 1.681592039800995,
-      "no_speech_prob": 0.01873491331934929
-    },
-    {
-      "id": 11,
-      "seek": 2760,
-      "start": 52.24,
-      "end": 56.480000000000004,
-      "text": " entire hospital bowl if you prescribe this toxic",
-      "tokens": [
-        51596,
-        2302,
-        4530,
-        6571,
-        498,
-        291,
-        49292,
-        341,
-        12786,
-        51808
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12629504536473474,
-      "compression_ratio": 1.681592039800995,
-      "no_speech_prob": 0.01873491331934929
-    },
-    {
-      "id": 12,
-      "seek": 5648,
-      "start": 56.48,
-      "end": 60.08,
-      "text": " medication. So you can see how the hospitals and the",
-      "tokens": [
-        50364,
-        13851,
-        13,
-        407,
-        291,
-        393,
-        536,
-        577,
-        264,
-        13014,
-        293,
-        264,
-        50544
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14911409326501796,
-      "compression_ratio": 1.3076923076923077,
-      "no_speech_prob": 0.0038191748317331076
-    },
-    {
-      "id": 13,
-      "seek": 5648,
-      "start": 60.08,
-      "end": 64.64,
-      "text": " healthcare systems are now subservient to industry rather",
-      "tokens": [
-        50544,
-        8884,
-        3652,
-        366,
-        586,
-        2090,
-        1978,
-        1196,
-        281,
-        3518,
-        2831,
-        50772
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14911409326501796,
-      "compression_ratio": 1.3076923076923077,
-      "no_speech_prob": 0.0038191748317331076
-    },
-    {
-      "id": 14,
-      "seek": 5648,
-      "start": 64.64,
-      "end": 69.03999999999999,
-      "text": " than doing what's best for their patients.",
-      "tokens": [
-        50772,
-        813,
-        884,
-        437,
-        311,
-        1151,
-        337,
-        641,
-        4209,
-        13,
-        50992
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.14911409326501796,
-      "compression_ratio": 1.3076923076923077,
-      "no_speech_prob": 0.0038191748317331076
+      "avg_logprob": -0.053436277667060494,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "In",
+      "start": 0.198,
+      "end": 0.298,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 0.358,
+      "end": 0.578,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital,",
+      "start": 0.658,
+      "end": 1.118,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 1.198,
+      "end": 1.218,
+      "score": 0.066,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 1.278,
+      "end": 1.478,
+      "score": 0.574,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "banned",
+      "start": 1.618,
+      "end": 2.059,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 2.299,
+      "end": 2.379,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "discouraged",
+      "start": 2.559,
+      "end": 3.299,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 3.379,
+      "end": 3.519,
+      "score": 0.781,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "using",
+      "start": 3.679,
+      "end": 3.959,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "off-label",
+      "start": 4.96,
+      "end": 5.78,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drugs,",
+      "start": 5.86,
+      "end": 6.2,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 6.26,
+      "end": 6.42,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 6.46,
+      "end": 6.56,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "use",
+      "start": 6.68,
+      "end": 6.84,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "every",
+      "start": 6.9,
+      "end": 7.12,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "day,",
+      "start": 7.16,
+      "end": 7.36,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "methylprednisolone,",
+      "start": 7.44,
+      "end": 8.961,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vitamin",
+      "start": 9.401,
+      "end": 10.101,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "C.",
+      "start": 10.241,
+      "end": 10.541,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "My",
+      "start": 10.661,
+      "end": 10.881,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital",
+      "start": 11.001,
+      "end": 11.542,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "would",
+      "start": 11.602,
+      "end": 11.762,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 11.802,
+      "end": 11.942,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "allow",
+      "start": 12.022,
+      "end": 12.302,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 12.342,
+      "end": 12.462,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 12.542,
+      "end": 12.662,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "use",
+      "start": 12.822,
+      "end": 12.982,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vitamin",
+      "start": 13.422,
+      "end": 14.022,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "C.",
+      "start": 14.102,
+      "end": 14.282,
+      "score": 0.669,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "We're",
+      "start": 14.302,
+      "end": 14.462,
+      "score": 0.367,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talking",
+      "start": 14.482,
+      "end": 14.803,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 14.863,
+      "end": 15.103,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "basic",
+      "start": 15.303,
+      "end": 15.843,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "safe",
+      "start": 16.043,
+      "end": 16.463,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drugs,",
+      "start": 16.643,
+      "end": 17.123,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 17.904,
+      "end": 18.084,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 18.324,
+      "end": 18.524,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 18.564,
+      "end": 18.644,
+      "score": 0.504,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "outrage.",
+      "start": 18.804,
+      "end": 19.364,
+      "score": 0.934,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "What",
+      "start": 19.464,
+      "end": 19.644,
+      "score": 0.777,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 19.684,
+      "end": 19.844,
+      "score": 0.674,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "wanted",
+      "start": 19.884,
+      "end": 20.204,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "me",
+      "start": 20.264,
+      "end": 20.404,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 20.484,
+      "end": 20.584,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "use",
+      "start": 20.804,
+      "end": 21.004,
+      "score": 0.605,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 21.084,
+      "end": 21.325,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "remdesivir.",
+      "start": 21.465,
+      "end": 22.385,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 23.655,
+      "end": 23.855,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "remdesivir",
+      "start": 23.895,
+      "end": 24.636,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 24.696,
+      "end": 24.856,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know,",
+      "start": 24.876,
+      "end": 25.116,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 25.136,
+      "end": 25.236,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 25.276,
+      "end": 25.416,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 25.516,
+      "end": 25.596,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 25.657,
+      "end": 25.837,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "controversial,",
+      "start": 25.937,
+      "end": 26.857,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 27.298,
+      "end": 27.438,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 27.458,
+      "end": 27.678,
+      "score": 0.614,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "according",
+      "start": 27.738,
+      "end": 28.118,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 28.198,
+      "end": 28.298,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 28.338,
+      "end": 28.399,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "WHO,",
+      "start": 28.799,
+      "end": 29.439,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "remdesivir",
+      "start": 30.12,
+      "end": 30.86,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "increases",
+      "start": 30.94,
+      "end": 31.481,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 31.521,
+      "end": 31.701,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 31.741,
+      "end": 32.001,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 32.041,
+      "end": 32.121,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kidney",
+      "start": 32.241,
+      "end": 32.602,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "failure",
+      "start": 32.702,
+      "end": 33.102,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "20-fold.",
+      "start": 33.122,
+      "end": 33.342,
+      "score": 0.489,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Remdesivir",
+      "start": 35.056,
+      "end": 35.816,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 35.836,
+      "end": 35.997,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "increase",
+      "start": 36.037,
+      "end": 36.417,
+      "score": 0.915,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 36.437,
+      "end": 36.597,
+      "score": 0.718,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 36.637,
+      "end": 36.857,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 36.917,
+      "end": 36.977,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "developing",
+      "start": 37.037,
+      "end": 37.557,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "renal",
+      "start": 37.677,
+      "end": 37.998,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "failure",
+      "start": 38.078,
+      "end": 38.438,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "twenty-fold.",
+      "start": 38.498,
+      "end": 39.258,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 39.698,
+      "end": 39.778,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "increases",
+      "start": 39.899,
+      "end": 40.459,
+      "score": 0.721,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "your",
+      "start": 40.619,
+      "end": 40.819,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 40.879,
+      "end": 41.139,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 41.199,
+      "end": 41.279,
+      "score": 0.676,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dying",
+      "start": 41.399,
+      "end": 41.88,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 41.9,
+      "end": 41.94,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 42.46,
+      "end": 42.76,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "four",
+      "start": 42.88,
+      "end": 43.1,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "percent.",
+      "start": 43.14,
+      "end": 43.62,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 44.261,
+      "end": 44.321,
+      "score": 0.176,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 44.361,
+      "end": 44.521,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 44.541,
+      "end": 44.581,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "place",
+      "start": 45.421,
+      "end": 45.782,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 45.962,
+      "end": 46.042,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medicine,",
+      "start": 46.142,
+      "end": 46.682,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "yet",
+      "start": 47.162,
+      "end": 47.402,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 47.502,
+      "end": 47.603,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "federal",
+      "start": 47.683,
+      "end": 48.103,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "government",
+      "start": 48.183,
+      "end": 48.643,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 48.763,
+      "end": 48.943,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "give",
+      "start": 48.983,
+      "end": 49.163,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospitals",
+      "start": 49.263,
+      "end": 49.884,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 50.024,
+      "end": 50.104,
+      "score": 0.523,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "twenty",
+      "start": 50.224,
+      "end": 50.544,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "percent",
+      "start": 50.604,
+      "end": 51.004,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bonus",
+      "start": 51.084,
+      "end": 51.565,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 52.065,
+      "end": 52.125,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 52.185,
+      "end": 52.285,
+      "score": 0.987,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "entire",
+      "start": 52.365,
+      "end": 52.845,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital",
+      "start": 52.945,
+      "end": 53.466,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bill",
+      "start": 53.526,
+      "end": 53.806,
+      "score": 0.666,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 54.306,
+      "end": 54.406,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 54.526,
+      "end": 54.766,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "prescribe",
+      "start": 54.846,
+      "end": 55.467,
+      "score": 0.739,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 55.487,
+      "end": 55.727,
+      "score": 0.46,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "toxic",
+      "start": 55.867,
+      "end": 56.347,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medication.",
+      "start": 56.607,
+      "end": 57.368,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 57.948,
+      "end": 58.088,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 58.148,
+      "end": 58.288,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can",
+      "start": 58.328,
+      "end": 58.508,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "see",
+      "start": 58.608,
+      "end": 58.828,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "how",
+      "start": 58.908,
+      "end": 59.068,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 59.108,
+      "end": 59.229,
+      "score": 0.804,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospitals",
+      "start": 59.349,
+      "end": 59.929,
+      "score": 0.753,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 60.009,
+      "end": 60.109,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 60.129,
+      "end": 60.189,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "healthcare",
+      "start": 60.249,
+      "end": 60.769,
+      "score": 0.551,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "systems",
+      "start": 60.809,
+      "end": 61.27,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 61.39,
+      "end": 61.49,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "now",
+      "start": 61.53,
+      "end": 61.67,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "subservient",
+      "start": 62.25,
+      "end": 63.172,
+      "score": 0.939,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 63.353,
+      "end": 63.533,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "industry",
+      "start": 63.653,
+      "end": 64.195,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "rather",
+      "start": 64.395,
+      "end": 64.756,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 64.816,
+      "end": 64.996,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "doing",
+      "start": 65.076,
+      "end": 65.317,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what's",
+      "start": 65.377,
+      "end": 65.618,
+      "score": 0.746,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "best",
+      "start": 65.718,
+      "end": 66.018,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 66.099,
+      "end": 66.239,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 66.279,
+      "end": 66.439,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients.",
+      "start": 66.479,
+      "end": 67.0,
+      "score": 0.677,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

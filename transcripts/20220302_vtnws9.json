@@ -1,232 +1,1251 @@
 {
-  "text": " I'm going to, he covered a lot of the other things, as you said, there's 700,000 people in the study in Israel, just so you know, that showed that the double-vax were 27 times more likely to get reinfected. So it's not the vaccine, even if we just talk about that, is not stopping infection, it's not stopping transmission. If you look at the studies in England, in Scotland, in the northern countries in Europe, where they get real data, that they're actually the triple-vaccinated, the most likely to die.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.6000000000000005,
-      "text": " I'm going to, he covered a lot of the other things, as you said, there's 700,000 people",
-      "tokens": [
-        50364,
-        286,
-        478,
-        516,
-        281,
-        11,
-        415,
-        5343,
-        257,
-        688,
-        295,
-        264,
-        661,
-        721,
-        11,
-        382,
-        291,
-        848,
-        11,
-        456,
-        311,
-        15204,
-        11,
-        1360,
-        561,
-        50594
+      "start": 0.832,
+      "end": 11.307,
+      "text": " He covered a lot of the other things, as you said, there's 700,000 people in the study in Israel, just so you know, that showed that the double vacs were 27 times more likely to get reinfected.",
+      "words": [
+        {
+          "word": "He",
+          "start": 0.832,
+          "end": 0.972,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "covered",
+          "start": 0.992,
+          "end": 1.253,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 1.273,
+          "end": 1.313,
+          "score": 0.499,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 1.353,
+          "end": 1.453,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 1.473,
+          "end": 1.513,
+          "score": 0.981,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 1.533,
+          "end": 1.593,
+          "score": 0.544,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 1.613,
+          "end": 1.814,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "things,",
+          "start": 1.834,
+          "end": 2.094,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 2.154,
+          "end": 2.214,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 2.234,
+          "end": 2.354,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "said,",
+          "start": 2.374,
+          "end": 2.495,
+          "score": 0.224,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there's",
+          "start": 2.515,
+          "end": 3.035,
+          "score": 0.596,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "700,000",
+          "start": 3.095,
+          "end": 3.817,
+          "score": 0.68,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 3.877,
+          "end": 4.257,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 4.678,
+          "end": 4.758,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 4.778,
+          "end": 4.838,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "study",
+          "start": 4.878,
+          "end": 5.158,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 5.199,
+          "end": 5.299,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Israel,",
+          "start": 5.379,
+          "end": 5.719,
+          "score": 0.72,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 5.759,
+          "end": 5.88,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 5.92,
+          "end": 6.08,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 6.1,
+          "end": 6.2,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know,",
+          "start": 6.24,
+          "end": 6.42,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 6.761,
+          "end": 6.901,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "showed",
+          "start": 6.941,
+          "end": 7.161,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 7.181,
+          "end": 7.302,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 7.322,
+          "end": 7.422,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "double",
+          "start": 7.462,
+          "end": 7.722,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vacs",
+          "start": 7.762,
+          "end": 8.003,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 8.023,
+          "end": 8.483,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "27",
+          "start": 8.523,
+          "end": 8.844,
+          "score": 0.638,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "times",
+          "start": 8.904,
+          "end": 9.244,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "more",
+          "start": 9.325,
+          "end": 9.525,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "likely",
+          "start": 9.625,
+          "end": 10.046,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 10.386,
+          "end": 10.486,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 10.526,
+          "end": 10.666,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reinfected.",
+          "start": 10.727,
+          "end": 11.307,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21081475650562959,
-      "compression_ratio": 1.707070707070707,
-      "no_speech_prob": 0.042649541050195694
+      "avg_logprob": -0.11279297074569124,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.6000000000000005,
-      "end": 9.16,
-      "text": " in the study in Israel, just so you know, that showed that the double-vax were 27 times",
-      "tokens": [
-        50594,
-        294,
-        264,
-        2979,
-        294,
-        5674,
-        11,
-        445,
-        370,
-        291,
-        458,
-        11,
-        300,
-        4712,
-        300,
-        264,
-        3834,
-        12,
-        2757,
-        87,
-        645,
-        7634,
-        1413,
-        50822
+      "start": 11.327,
+      "end": 16.835,
+      "text": "So the vaccine, even if we just talk about that, is not stopping infection, it's not stopping transmission.",
+      "words": [
+        {
+          "word": "So",
+          "start": 11.327,
+          "end": 11.608,
+          "score": 0.642,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 11.808,
+          "end": 12.389,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine,",
+          "start": 12.429,
+          "end": 12.87,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "even",
+          "start": 12.97,
+          "end": 13.13,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "if",
+          "start": 13.17,
+          "end": 13.21,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 13.25,
+          "end": 13.33,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 13.37,
+          "end": 13.511,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "talk",
+          "start": 13.551,
+          "end": 13.751,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "about",
+          "start": 13.791,
+          "end": 13.971,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that,",
+          "start": 14.011,
+          "end": 14.172,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 14.252,
+          "end": 14.332,
+          "score": 0.667,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 14.392,
+          "end": 14.532,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stopping",
+          "start": 14.572,
+          "end": 14.973,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "infection,",
+          "start": 15.013,
+          "end": 15.574,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it's",
+          "start": 15.674,
+          "end": 15.774,
+          "score": 0.374,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 15.794,
+          "end": 15.854,
+          "score": 0.113,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stopping",
+          "start": 15.914,
+          "end": 16.255,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "transmission.",
+          "start": 16.295,
+          "end": 16.835,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21081475650562959,
-      "compression_ratio": 1.707070707070707,
-      "no_speech_prob": 0.042649541050195694
+      "avg_logprob": -0.11279297074569124,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 9.16,
-      "end": 11.36,
-      "text": " more likely to get reinfected.",
-      "tokens": [
-        50822,
-        544,
-        3700,
-        281,
-        483,
-        6561,
-        1836,
-        292,
-        13,
-        50932
+      "start": 16.896,
+      "end": 25.308,
+      "text": "If you look at the studies in England, in Scotland, and in northern countries in Europe, where they get real data, that they're actually the triple vaccinator, the most likely to die.",
+      "words": [
+        {
+          "word": "If",
+          "start": 16.896,
+          "end": 16.956,
+          "score": 0.956,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you",
+          "start": 16.976,
+          "end": 17.076,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "look",
+          "start": 17.116,
+          "end": 17.256,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 17.276,
+          "end": 17.336,
+          "score": 0.601,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 17.356,
+          "end": 17.416,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "studies",
+          "start": 17.476,
+          "end": 17.777,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 18.398,
+          "end": 18.498,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "England,",
+          "start": 18.698,
+          "end": 19.099,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 19.519,
+          "end": 19.6,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Scotland,",
+          "start": 19.66,
+          "end": 20.14,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 20.22,
+          "end": 20.341,
+          "score": 0.269,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 20.361,
+          "end": 20.401,
+          "score": 0.018,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "northern",
+          "start": 20.461,
+          "end": 20.741,
+          "score": 0.788,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "countries",
+          "start": 20.761,
+          "end": 21.062,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 21.102,
+          "end": 21.162,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Europe,",
+          "start": 21.242,
+          "end": 21.462,
+          "score": 0.735,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 21.482,
+          "end": 21.602,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 21.622,
+          "end": 21.743,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 21.763,
+          "end": 21.883,
+          "score": 0.877,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "real",
+          "start": 21.943,
+          "end": 22.123,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "data,",
+          "start": 22.163,
+          "end": 22.444,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 22.944,
+          "end": 23.085,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they're",
+          "start": 23.105,
+          "end": 23.285,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "actually",
+          "start": 23.305,
+          "end": 23.545,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 23.565,
+          "end": 23.625,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "triple",
+          "start": 23.665,
+          "end": 23.906,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinator,",
+          "start": 23.966,
+          "end": 24.407,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 24.427,
+          "end": 24.487,
+          "score": 0.931,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "most",
+          "start": 24.527,
+          "end": 24.667,
+          "score": 0.622,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "likely",
+          "start": 24.707,
+          "end": 24.987,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 25.007,
+          "end": 25.067,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "die.",
+          "start": 25.108,
+          "end": 25.308,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21081475650562959,
-      "compression_ratio": 1.707070707070707,
-      "no_speech_prob": 0.042649541050195694
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 11.36,
-      "end": 15.52,
-      "text": " So it's not the vaccine, even if we just talk about that, is not stopping infection, it's",
-      "tokens": [
-        50932,
-        407,
-        309,
-        311,
-        406,
-        264,
-        7007,
-        11,
-        754,
-        498,
-        321,
-        445,
-        751,
-        466,
-        300,
-        11,
-        307,
-        406,
-        12767,
-        11764,
-        11,
-        309,
-        311,
-        51140
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21081475650562959,
-      "compression_ratio": 1.707070707070707,
-      "no_speech_prob": 0.042649541050195694
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 15.52,
-      "end": 16.88,
-      "text": " not stopping transmission.",
-      "tokens": [
-        51140,
-        406,
-        12767,
-        11574,
-        13,
-        51208
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21081475650562959,
-      "compression_ratio": 1.707070707070707,
-      "no_speech_prob": 0.042649541050195694
-    },
-    {
-      "id": 5,
-      "seek": 0,
-      "start": 16.88,
-      "end": 21.52,
-      "text": " If you look at the studies in England, in Scotland, in the northern countries in Europe,",
-      "tokens": [
-        51208,
-        759,
-        291,
-        574,
-        412,
-        264,
-        5313,
-        294,
-        8196,
-        11,
-        294,
-        11180,
-        11,
-        294,
-        264,
-        14197,
-        3517,
-        294,
-        3315,
-        11,
-        51440
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21081475650562959,
-      "compression_ratio": 1.707070707070707,
-      "no_speech_prob": 0.042649541050195694
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 21.52,
-      "end": 25.36,
-      "text": " where they get real data, that they're actually the triple-vaccinated, the most likely to die.",
-      "tokens": [
-        51440,
-        689,
-        436,
-        483,
-        957,
-        1412,
-        11,
-        300,
-        436,
-        434,
-        767,
-        264,
-        15508,
-        12,
-        48976,
-        5410,
-        11,
-        264,
-        881,
-        3700,
-        281,
-        978,
-        13,
-        51632
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21081475650562959,
-      "compression_ratio": 1.707070707070707,
-      "no_speech_prob": 0.042649541050195694
+      "avg_logprob": -0.11279297074569124,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "He",
+      "start": 0.832,
+      "end": 0.972,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "covered",
+      "start": 0.992,
+      "end": 1.253,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 1.273,
+      "end": 1.313,
+      "score": 0.499,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 1.353,
+      "end": 1.453,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 1.473,
+      "end": 1.513,
+      "score": 0.981,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 1.533,
+      "end": 1.593,
+      "score": 0.544,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 1.613,
+      "end": 1.814,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "things,",
+      "start": 1.834,
+      "end": 2.094,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 2.154,
+      "end": 2.214,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 2.234,
+      "end": 2.354,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "said,",
+      "start": 2.374,
+      "end": 2.495,
+      "score": 0.224,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there's",
+      "start": 2.515,
+      "end": 3.035,
+      "score": 0.596,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "700,000",
+      "start": 3.095,
+      "end": 3.817,
+      "score": 0.68,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 3.877,
+      "end": 4.257,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 4.678,
+      "end": 4.758,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 4.778,
+      "end": 4.838,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "study",
+      "start": 4.878,
+      "end": 5.158,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 5.199,
+      "end": 5.299,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Israel,",
+      "start": 5.379,
+      "end": 5.719,
+      "score": 0.72,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 5.759,
+      "end": 5.88,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 5.92,
+      "end": 6.08,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 6.1,
+      "end": 6.2,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know,",
+      "start": 6.24,
+      "end": 6.42,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 6.761,
+      "end": 6.901,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "showed",
+      "start": 6.941,
+      "end": 7.161,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 7.181,
+      "end": 7.302,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 7.322,
+      "end": 7.422,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "double",
+      "start": 7.462,
+      "end": 7.722,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vacs",
+      "start": 7.762,
+      "end": 8.003,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 8.023,
+      "end": 8.483,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "27",
+      "start": 8.523,
+      "end": 8.844,
+      "score": 0.638,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "times",
+      "start": 8.904,
+      "end": 9.244,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "more",
+      "start": 9.325,
+      "end": 9.525,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "likely",
+      "start": 9.625,
+      "end": 10.046,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 10.386,
+      "end": 10.486,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 10.526,
+      "end": 10.666,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reinfected.",
+      "start": 10.727,
+      "end": 11.307,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 11.327,
+      "end": 11.608,
+      "score": 0.642,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 11.808,
+      "end": 12.389,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine,",
+      "start": 12.429,
+      "end": 12.87,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "even",
+      "start": 12.97,
+      "end": 13.13,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "if",
+      "start": 13.17,
+      "end": 13.21,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 13.25,
+      "end": 13.33,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 13.37,
+      "end": 13.511,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "talk",
+      "start": 13.551,
+      "end": 13.751,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "about",
+      "start": 13.791,
+      "end": 13.971,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that,",
+      "start": 14.011,
+      "end": 14.172,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 14.252,
+      "end": 14.332,
+      "score": 0.667,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 14.392,
+      "end": 14.532,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stopping",
+      "start": 14.572,
+      "end": 14.973,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "infection,",
+      "start": 15.013,
+      "end": 15.574,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it's",
+      "start": 15.674,
+      "end": 15.774,
+      "score": 0.374,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 15.794,
+      "end": 15.854,
+      "score": 0.113,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stopping",
+      "start": 15.914,
+      "end": 16.255,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "transmission.",
+      "start": 16.295,
+      "end": 16.835,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 16.896,
+      "end": 16.956,
+      "score": 0.956,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you",
+      "start": 16.976,
+      "end": 17.076,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "look",
+      "start": 17.116,
+      "end": 17.256,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 17.276,
+      "end": 17.336,
+      "score": 0.601,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 17.356,
+      "end": 17.416,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "studies",
+      "start": 17.476,
+      "end": 17.777,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 18.398,
+      "end": 18.498,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "England,",
+      "start": 18.698,
+      "end": 19.099,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 19.519,
+      "end": 19.6,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Scotland,",
+      "start": 19.66,
+      "end": 20.14,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 20.22,
+      "end": 20.341,
+      "score": 0.269,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 20.361,
+      "end": 20.401,
+      "score": 0.018,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "northern",
+      "start": 20.461,
+      "end": 20.741,
+      "score": 0.788,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "countries",
+      "start": 20.761,
+      "end": 21.062,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 21.102,
+      "end": 21.162,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Europe,",
+      "start": 21.242,
+      "end": 21.462,
+      "score": 0.735,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 21.482,
+      "end": 21.602,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 21.622,
+      "end": 21.743,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 21.763,
+      "end": 21.883,
+      "score": 0.877,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "real",
+      "start": 21.943,
+      "end": 22.123,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "data,",
+      "start": 22.163,
+      "end": 22.444,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 22.944,
+      "end": 23.085,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they're",
+      "start": 23.105,
+      "end": 23.285,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "actually",
+      "start": 23.305,
+      "end": 23.545,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 23.565,
+      "end": 23.625,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "triple",
+      "start": 23.665,
+      "end": 23.906,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinator,",
+      "start": 23.966,
+      "end": 24.407,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 24.427,
+      "end": 24.487,
+      "score": 0.931,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "most",
+      "start": 24.527,
+      "end": 24.667,
+      "score": 0.622,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "likely",
+      "start": 24.707,
+      "end": 24.987,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 25.007,
+      "end": 25.067,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "die.",
+      "start": 25.108,
+      "end": 25.308,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

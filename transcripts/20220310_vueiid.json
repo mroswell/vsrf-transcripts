@@ -1,259 +1,1258 @@
 {
-  "text": " The first individuals who died in gas chambers in Germany were not individuals in concentration camps. They were not ethnic minorities like Jews. That came later. The first gas chambers were found in psychiatric hospitals in Germany, and the first people gassed were medically, physically, and mentally disabled patients. It was physicians signing off on that euthanasia program of, quote, unquote, defective individuals. Physicians who believed they were serving some good. Believed they were serving the greater good. That's exactly right.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 8.06,
-      "text": " The first individuals who died in gas chambers in Germany were not individuals in concentration",
-      "tokens": [
-        50364,
-        440,
-        700,
-        5346,
-        567,
-        4539,
-        294,
-        4211,
-        34513,
-        294,
-        7244,
-        645,
-        406,
-        5346,
-        294,
-        9856,
-        50767
+      "start": 0.031,
+      "end": 8.497,
+      "text": " The first individuals who died in gas chambers in Germany were not individuals in concentration camps.",
+      "words": [
+        {
+          "word": "The",
+          "start": 0.031,
+          "end": 0.091,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 0.111,
+          "end": 0.471,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individuals",
+          "start": 0.812,
+          "end": 1.472,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 1.852,
+          "end": 2.092,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "died",
+          "start": 2.853,
+          "end": 3.213,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 3.634,
+          "end": 3.714,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gas",
+          "start": 3.774,
+          "end": 4.054,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chambers",
+          "start": 4.094,
+          "end": 4.494,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 4.714,
+          "end": 4.794,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Germany",
+          "start": 4.854,
+          "end": 5.275,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 5.955,
+          "end": 6.135,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 6.215,
+          "end": 6.476,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individuals",
+          "start": 6.776,
+          "end": 7.216,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 7.256,
+          "end": 7.336,
+          "score": 0.653,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concentration",
+          "start": 7.376,
+          "end": 8.057,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "camps.",
+          "start": 8.117,
+          "end": 8.497,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13709750645597216,
-      "compression_ratio": 1.7074468085106382,
-      "no_speech_prob": 0.01105647161602974
+      "avg_logprob": -0.054247359364805084,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 8.06,
-      "end": 9.06,
-      "text": " camps.",
-      "tokens": [
-        50767,
-        16573,
-        13,
-        50817
+      "start": 8.537,
+      "end": 10.318,
+      "text": "They were not ethnic minorities like Jews.",
+      "words": [
+        {
+          "word": "They",
+          "start": 8.537,
+          "end": 8.637,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 8.657,
+          "end": 8.757,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 8.777,
+          "end": 8.877,
+          "score": 0.839,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ethnic",
+          "start": 8.957,
+          "end": 9.257,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "minorities",
+          "start": 9.297,
+          "end": 9.718,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like",
+          "start": 9.758,
+          "end": 9.938,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Jews.",
+          "start": 10.018,
+          "end": 10.318,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13709750645597216,
-      "compression_ratio": 1.7074468085106382,
-      "no_speech_prob": 0.01105647161602974
+      "avg_logprob": -0.054247359364805084,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 9.06,
-      "end": 10.5,
-      "text": " They were not ethnic minorities like Jews.",
-      "tokens": [
-        50817,
-        814,
-        645,
-        406,
-        14363,
-        30373,
-        411,
-        11041,
-        13,
-        50889
+      "start": 10.378,
+      "end": 11.199,
+      "text": "That came later.",
+      "words": [
+        {
+          "word": "That",
+          "start": 10.378,
+          "end": 10.518,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "came",
+          "start": 10.578,
+          "end": 10.819,
+          "score": 0.652,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "later.",
+          "start": 10.899,
+          "end": 11.199,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13709750645597216,
-      "compression_ratio": 1.7074468085106382,
-      "no_speech_prob": 0.01105647161602974
+      "avg_logprob": -0.054247359364805084,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 10.5,
-      "end": 11.74,
-      "text": " That came later.",
-      "tokens": [
-        50889,
-        663,
-        1361,
-        1780,
-        13,
-        50951
+      "start": 11.699,
+      "end": 15.362,
+      "text": "The first gas chambers were found in psychiatric hospitals in Germany.",
+      "words": [
+        {
+          "word": "The",
+          "start": 11.699,
+          "end": 11.799,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 11.839,
+          "end": 12.039,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gas",
+          "start": 12.079,
+          "end": 12.34,
+          "score": 0.688,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "chambers",
+          "start": 12.38,
+          "end": 12.78,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 12.86,
+          "end": 12.98,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "found",
+          "start": 13.04,
+          "end": 13.28,
+          "score": 0.805,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 13.38,
+          "end": 13.48,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "psychiatric",
+          "start": 13.781,
+          "end": 14.301,
+          "score": 0.764,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospitals",
+          "start": 14.341,
+          "end": 14.841,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 14.901,
+          "end": 14.961,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Germany.",
+          "start": 14.981,
+          "end": 15.362,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13709750645597216,
-      "compression_ratio": 1.7074468085106382,
-      "no_speech_prob": 0.01105647161602974
+      "avg_logprob": -0.054247359364805084,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 11.74,
-      "end": 16.2,
-      "text": " The first gas chambers were found in psychiatric hospitals in Germany, and the first people",
-      "tokens": [
-        50951,
-        440,
-        700,
-        4211,
-        34513,
-        645,
-        1352,
-        294,
-        40123,
-        13014,
-        294,
-        7244,
-        11,
-        293,
-        264,
-        700,
-        561,
-        51174
+      "start": 15.442,
+      "end": 22.227,
+      "text": "And the first people gassed were medically, physically, and mentally disabled patients.",
+      "words": [
+        {
+          "word": "And",
+          "start": 15.442,
+          "end": 15.522,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 15.542,
+          "end": 15.602,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first",
+          "start": 15.682,
+          "end": 15.922,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 15.962,
+          "end": 16.262,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "gassed",
+          "start": 16.342,
+          "end": 16.843,
+          "score": 0.783,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 17.363,
+          "end": 17.623,
+          "score": 0.752,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medically,",
+          "start": 19.164,
+          "end": 19.725,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "physically,",
+          "start": 19.865,
+          "end": 20.385,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 20.485,
+          "end": 20.565,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mentally",
+          "start": 20.645,
+          "end": 21.026,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disabled",
+          "start": 21.106,
+          "end": 21.626,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients.",
+          "start": 21.706,
+          "end": 22.227,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13709750645597216,
-      "compression_ratio": 1.7074468085106382,
-      "no_speech_prob": 0.01105647161602974
+      "avg_logprob": -0.054247359364805084,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 16.2,
-      "end": 22.66,
-      "text": " gassed were medically, physically, and mentally disabled patients.",
-      "tokens": [
-        51174,
-        290,
-        46447,
-        645,
-        49230,
-        11,
-        9762,
-        11,
-        293,
-        17072,
-        15191,
-        4209,
-        13,
-        51497
+      "start": 22.567,
+      "end": 27.19,
+      "text": "And it was physicians signing off on that euthanasia program",
+      "words": [
+        {
+          "word": "And",
+          "start": 22.567,
+          "end": 22.647,
+          "score": 0.949,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 22.687,
+          "end": 22.727,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 22.767,
+          "end": 22.867,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "physicians",
+          "start": 22.927,
+          "end": 23.527,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "signing",
+          "start": 23.587,
+          "end": 23.928,
+          "score": 0.748,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "off",
+          "start": 24.088,
+          "end": 24.228,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 24.868,
+          "end": 24.968,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 26.029,
+          "end": 26.149,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "euthanasia",
+          "start": 26.249,
+          "end": 26.79,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "program",
+          "start": 26.83,
+          "end": 27.19,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.13709750645597216,
-      "compression_ratio": 1.7074468085106382,
-      "no_speech_prob": 0.01105647161602974
+      "avg_logprob": -0.054247359364805084,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2266,
-      "start": 22.66,
-      "end": 33.82,
-      "text": " It was physicians signing off on that euthanasia program of, quote, unquote, defective individuals.",
-      "tokens": [
-        50364,
-        467,
-        390,
-        21966,
-        13393,
-        766,
-        322,
-        300,
-        308,
-        2910,
-        14292,
-        654,
-        1461,
-        295,
-        11,
-        6513,
-        11,
-        37557,
-        11,
-        16445,
-        488,
-        5346,
-        13,
-        50922
+      "start": 28.731,
+      "end": 33.244,
+      "text": " quote unquote, defective, defective individuals.",
+      "words": [
+        {
+          "word": "quote",
+          "start": 28.731,
+          "end": 28.932,
+          "score": 0.69,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "unquote,",
+          "start": 28.952,
+          "end": 29.333,
+          "score": 0.639,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "defective,",
+          "start": 29.855,
+          "end": 30.436,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "defective",
+          "start": 32.101,
+          "end": 32.542,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "individuals.",
+          "start": 32.583,
+          "end": 33.244,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.26179017153653233,
-      "compression_ratio": 1.489795918367347,
-      "no_speech_prob": 0.6182301044464111
+      "avg_logprob": -0.1621651794229235,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2266,
-      "start": 33.82,
-      "end": 35.74,
-      "text": " Physicians who believed they were serving some good.",
-      "tokens": [
-        50922,
-        15542,
-        8455,
-        567,
-        7847,
-        436,
-        645,
-        8148,
-        512,
-        665,
-        13,
-        51018
+      "start": 33.325,
+      "end": 35.511,
+      "text": "Physicians who believed they were serving some good.",
+      "words": [
+        {
+          "word": "Physicians",
+          "start": 33.325,
+          "end": 33.926,
+          "score": 0.714,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "who",
+          "start": 33.987,
+          "end": 34.147,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "believed",
+          "start": 34.207,
+          "end": 34.568,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 34.588,
+          "end": 34.709,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 34.729,
+          "end": 34.869,
+          "score": 0.741,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "serving",
+          "start": 34.929,
+          "end": 35.25,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "some",
+          "start": 35.27,
+          "end": 35.371,
+          "score": 0.125,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "good.",
+          "start": 35.391,
+          "end": 35.511,
+          "score": 0.435,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.26179017153653233,
-      "compression_ratio": 1.489795918367347,
-      "no_speech_prob": 0.6182301044464111
+      "avg_logprob": -0.1621651794229235,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2266,
-      "start": 35.74,
-      "end": 37.7,
-      "text": " Believed they were serving the greater good.",
-      "tokens": [
-        51018,
-        6248,
-        46515,
-        436,
-        645,
-        8148,
-        264,
-        5044,
-        665,
-        13,
-        51116
+      "start": 35.551,
+      "end": 37.577,
+      "text": "Who believed they were serving the greater good.",
+      "words": [
+        {
+          "word": "Who",
+          "start": 35.551,
+          "end": 35.652,
+          "score": 0.226,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "believed",
+          "start": 35.672,
+          "end": 35.832,
+          "score": 0.05,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 35.852,
+          "end": 35.972,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 35.993,
+          "end": 36.133,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "serving",
+          "start": 36.193,
+          "end": 36.594,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 36.634,
+          "end": 36.735,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "greater",
+          "start": 36.775,
+          "end": 37.136,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "good.",
+          "start": 37.357,
+          "end": 37.577,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.26179017153653233,
-      "compression_ratio": 1.489795918367347,
-      "no_speech_prob": 0.6182301044464111
+      "avg_logprob": -0.1621651794229235,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 2266,
-      "start": 37.7,
-      "end": 38.5,
-      "text": " That's exactly right.",
-      "tokens": [
-        51116,
-        663,
-        311,
-        2293,
-        558,
-        13,
-        51156
+      "start": 37.597,
+      "end": 38.54,
+      "text": "That's exactly right.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 37.597,
+          "end": 37.798,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "exactly",
+          "start": 37.838,
+          "end": 38.299,
+          "score": 0.824,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "right.",
+          "start": 38.359,
+          "end": 38.54,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.26179017153653233,
-      "compression_ratio": 1.489795918367347,
-      "no_speech_prob": 0.6182301044464111
+      "avg_logprob": -0.1621651794229235,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "The",
+      "start": 0.031,
+      "end": 0.091,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 0.111,
+      "end": 0.471,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individuals",
+      "start": 0.812,
+      "end": 1.472,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 1.852,
+      "end": 2.092,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "died",
+      "start": 2.853,
+      "end": 3.213,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 3.634,
+      "end": 3.714,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gas",
+      "start": 3.774,
+      "end": 4.054,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chambers",
+      "start": 4.094,
+      "end": 4.494,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 4.714,
+      "end": 4.794,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Germany",
+      "start": 4.854,
+      "end": 5.275,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 5.955,
+      "end": 6.135,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 6.215,
+      "end": 6.476,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individuals",
+      "start": 6.776,
+      "end": 7.216,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 7.256,
+      "end": 7.336,
+      "score": 0.653,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concentration",
+      "start": 7.376,
+      "end": 8.057,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "camps.",
+      "start": 8.117,
+      "end": 8.497,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 8.537,
+      "end": 8.637,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 8.657,
+      "end": 8.757,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 8.777,
+      "end": 8.877,
+      "score": 0.839,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ethnic",
+      "start": 8.957,
+      "end": 9.257,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "minorities",
+      "start": 9.297,
+      "end": 9.718,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like",
+      "start": 9.758,
+      "end": 9.938,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Jews.",
+      "start": 10.018,
+      "end": 10.318,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That",
+      "start": 10.378,
+      "end": 10.518,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "came",
+      "start": 10.578,
+      "end": 10.819,
+      "score": 0.652,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "later.",
+      "start": 10.899,
+      "end": 11.199,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 11.699,
+      "end": 11.799,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 11.839,
+      "end": 12.039,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gas",
+      "start": 12.079,
+      "end": 12.34,
+      "score": 0.688,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "chambers",
+      "start": 12.38,
+      "end": 12.78,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 12.86,
+      "end": 12.98,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "found",
+      "start": 13.04,
+      "end": 13.28,
+      "score": 0.805,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 13.38,
+      "end": 13.48,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "psychiatric",
+      "start": 13.781,
+      "end": 14.301,
+      "score": 0.764,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospitals",
+      "start": 14.341,
+      "end": 14.841,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 14.901,
+      "end": 14.961,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Germany.",
+      "start": 14.981,
+      "end": 15.362,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 15.442,
+      "end": 15.522,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 15.542,
+      "end": 15.602,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first",
+      "start": 15.682,
+      "end": 15.922,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 15.962,
+      "end": 16.262,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "gassed",
+      "start": 16.342,
+      "end": 16.843,
+      "score": 0.783,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 17.363,
+      "end": 17.623,
+      "score": 0.752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medically,",
+      "start": 19.164,
+      "end": 19.725,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "physically,",
+      "start": 19.865,
+      "end": 20.385,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 20.485,
+      "end": 20.565,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mentally",
+      "start": 20.645,
+      "end": 21.026,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disabled",
+      "start": 21.106,
+      "end": 21.626,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients.",
+      "start": 21.706,
+      "end": 22.227,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 22.567,
+      "end": 22.647,
+      "score": 0.949,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 22.687,
+      "end": 22.727,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 22.767,
+      "end": 22.867,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "physicians",
+      "start": 22.927,
+      "end": 23.527,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "signing",
+      "start": 23.587,
+      "end": 23.928,
+      "score": 0.748,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "off",
+      "start": 24.088,
+      "end": 24.228,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 24.868,
+      "end": 24.968,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 26.029,
+      "end": 26.149,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "euthanasia",
+      "start": 26.249,
+      "end": 26.79,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "program",
+      "start": 26.83,
+      "end": 27.19,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "quote",
+      "start": 28.731,
+      "end": 28.932,
+      "score": 0.69,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "unquote,",
+      "start": 28.952,
+      "end": 29.333,
+      "score": 0.639,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "defective,",
+      "start": 29.855,
+      "end": 30.436,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "defective",
+      "start": 32.101,
+      "end": 32.542,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "individuals.",
+      "start": 32.583,
+      "end": 33.244,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Physicians",
+      "start": 33.325,
+      "end": 33.926,
+      "score": 0.714,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "who",
+      "start": 33.987,
+      "end": 34.147,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "believed",
+      "start": 34.207,
+      "end": 34.568,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 34.588,
+      "end": 34.709,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 34.729,
+      "end": 34.869,
+      "score": 0.741,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "serving",
+      "start": 34.929,
+      "end": 35.25,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "some",
+      "start": 35.27,
+      "end": 35.371,
+      "score": 0.125,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "good.",
+      "start": 35.391,
+      "end": 35.511,
+      "score": 0.435,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Who",
+      "start": 35.551,
+      "end": 35.652,
+      "score": 0.226,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "believed",
+      "start": 35.672,
+      "end": 35.832,
+      "score": 0.05,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 35.852,
+      "end": 35.972,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 35.993,
+      "end": 36.133,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "serving",
+      "start": 36.193,
+      "end": 36.594,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 36.634,
+      "end": 36.735,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "greater",
+      "start": 36.775,
+      "end": 37.136,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "good.",
+      "start": 37.357,
+      "end": 37.577,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 37.597,
+      "end": 37.798,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "exactly",
+      "start": 37.838,
+      "end": 38.299,
+      "score": 0.824,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "right.",
+      "start": 38.359,
+      "end": 38.54,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

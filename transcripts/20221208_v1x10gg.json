@@ -1,702 +1,4615 @@
 {
-  "text": " A pandemic with relatively low mortality is not managed by counting the cases. It's managed by preventing hospitalization and mortality. And so this slide that you see now shows the breakdown, the distribution of mortality through September of last year before Omicron by age group. And you can see that there are almost no bars in the youngest age groups and that's because there is almost no mortality. And the mortality that exists in those age groups is due to chronic conditions such as obesity, diabetes, chronic heart disease, chronic kidney disease, immunocompromise, almost entirely in those age groups. And even in the older age groups, the mortality is among people who have multiple chronic conditions. But the point of this is that when you have such low or non-existent mortality in these low age groups, the potential serious adverse effects of the vaccine will surmount the non-existent mortality of these age groups. And therefore, what we've been told that everybody has to be vaccinated, that all these approvals for the vaccines that have pushed their way down into the youngest age groups had no reason to be there in the first place because there was no mortality that they were trying to prevent. We already know that the vaccines don't prevent spread as the CDC said on August 11th. They don't prevent transmission. So the only point of them is for personal protection as treatment if one wants to choose that. And yet there's no reason to choose that when the mortality from the infection is orders of magnitude less than it would be from the vaccine. And that's what this chart shows. So real quick to look at the numbers. Standard flu season has what level of mortality compared to it? Again, you've got 017.01, 1829.05, 3039.15. What's the standard flu season? It's comparable to this. Is that possibly plus or minus?",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 6.8,
+      "start": 0.231,
+      "end": 6.655,
       "text": " A pandemic with relatively low mortality is not managed by counting the cases.",
-      "tokens": [
-        50364,
-        316,
-        5388,
-        365,
-        7226,
-        2295,
-        23330,
-        307,
-        406,
-        6453,
-        538,
-        13251,
-        264,
-        3331,
-        13,
-        50704
+      "words": [
+        {
+          "word": "A",
+          "start": 0.231,
+          "end": 0.271,
+          "score": 0.594,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "pandemic",
+          "start": 0.331,
+          "end": 0.892,
+          "score": 0.967,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "with",
+          "start": 1.432,
+          "end": 1.692,
+          "score": 0.958,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "relatively",
+          "start": 2.152,
+          "end": 2.653,
+          "score": 0.908,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "low",
+          "start": 2.733,
+          "end": 2.933,
+          "score": 0.989,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 3.013,
+          "end": 3.673,
+          "score": 0.768,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 4.434,
+          "end": 4.514,
+          "score": 0.667,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "not",
+          "start": 4.594,
+          "end": 4.794,
+          "score": 0.771,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "managed",
+          "start": 4.914,
+          "end": 5.354,
+          "score": 0.764,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "by",
+          "start": 5.434,
+          "end": 5.594,
+          "score": 0.825,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "counting",
+          "start": 5.715,
+          "end": 6.035,
+          "score": 0.93,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 6.055,
+          "end": 6.135,
+          "score": 0.271,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "cases.",
+          "start": 6.195,
+          "end": 6.655,
+          "score": 0.84,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2273377463931129,
-      "compression_ratio": 1.5080213903743316,
-      "no_speech_prob": 0.14158359169960022
+      "avg_logprob": -0.06756981731729304,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 6.8,
-      "end": 11.76,
-      "text": " It's managed by preventing hospitalization and mortality.",
-      "tokens": [
-        50704,
-        467,
-        311,
-        6453,
-        538,
-        19965,
-        4530,
-        2144,
-        293,
-        23330,
-        13,
-        50952
+      "start": 6.955,
+      "end": 11.118,
+      "text": "It's managed by preventing hospitalization and mortality.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 6.955,
+          "end": 7.095,
+          "score": 0.633,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "managed",
+          "start": 7.155,
+          "end": 7.536,
+          "score": 0.871,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "by",
+          "start": 8.056,
+          "end": 8.436,
+          "score": 0.832,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "preventing",
+          "start": 8.736,
+          "end": 9.257,
+          "score": 0.883,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "hospitalization",
+          "start": 9.317,
+          "end": 10.217,
+          "score": 0.763,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 10.297,
+          "end": 10.397,
+          "score": 0.865,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality.",
+          "start": 10.457,
+          "end": 11.118,
+          "score": 0.791,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2273377463931129,
-      "compression_ratio": 1.5080213903743316,
-      "no_speech_prob": 0.14158359169960022
+      "avg_logprob": -0.06756981731729304,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 11.76,
-      "end": 17.6,
-      "text": " And so this slide that you see now shows the breakdown,",
-      "tokens": [
-        50952,
-        400,
-        370,
-        341,
-        4137,
-        300,
-        291,
-        536,
-        586,
-        3110,
-        264,
-        18188,
-        11,
-        51244
+      "start": 12.078,
+      "end": 22.025,
+      "text": "And so this slide that you see now shows the breakdown, the distribution of mortality through September of last year.",
+      "words": [
+        {
+          "word": "And",
+          "start": 12.078,
+          "end": 12.279,
+          "score": 0.595,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "so",
+          "start": 12.979,
+          "end": 13.219,
+          "score": 0.89,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "this",
+          "start": 13.339,
+          "end": 13.579,
+          "score": 0.81,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "slide",
+          "start": 14.1,
+          "end": 14.54,
+          "score": 0.848,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 14.68,
+          "end": 14.86,
+          "score": 0.844,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "you",
+          "start": 14.92,
+          "end": 15.04,
+          "score": 0.721,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "see",
+          "start": 15.06,
+          "end": 15.22,
+          "score": 0.918,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "now",
+          "start": 15.24,
+          "end": 15.541,
+          "score": 0.786,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "shows",
+          "start": 16.181,
+          "end": 16.561,
+          "score": 0.761,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 16.581,
+          "end": 16.861,
+          "score": 0.427,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "breakdown,",
+          "start": 17.202,
+          "end": 17.682,
+          "score": 0.919,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 17.702,
+          "end": 17.762,
+          "score": 0.509,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "distribution",
+          "start": 17.822,
+          "end": 18.482,
+          "score": 0.915,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 18.763,
+          "end": 18.863,
+          "score": 0.749,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 19.023,
+          "end": 19.703,
+          "score": 0.751,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "through",
+          "start": 20.204,
+          "end": 20.604,
+          "score": 0.55,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "September",
+          "start": 21.044,
+          "end": 21.484,
+          "score": 0.868,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 21.504,
+          "end": 21.544,
+          "score": 0.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "last",
+          "start": 21.564,
+          "end": 21.805,
+          "score": 0.954,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "year.",
+          "start": 21.865,
+          "end": 22.025,
+          "score": 0.895,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2273377463931129,
-      "compression_ratio": 1.5080213903743316,
-      "no_speech_prob": 0.14158359169960022
+      "avg_logprob": -0.06756981731729304,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 17.6,
-      "end": 26.400000000000002,
-      "text": " the distribution of mortality through September of last year before Omicron by age group.",
-      "tokens": [
-        51244,
-        264,
-        7316,
-        295,
-        23330,
-        807,
-        7216,
-        295,
-        1036,
-        1064,
-        949,
-        9757,
-        299,
-        2044,
-        538,
-        3205,
-        1594,
-        13,
-        51684
+      "start": 23.351,
+      "end": 25.632,
+      "text": " for Omicron by age group.",
+      "words": [
+        {
+          "word": "for",
+          "start": 23.351,
+          "end": 23.591,
+          "score": 0.856,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Omicron",
+          "start": 23.771,
+          "end": 24.271,
+          "score": 0.761,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "by",
+          "start": 24.871,
+          "end": 25.132,
+          "score": 0.903,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 25.252,
+          "end": 25.412,
+          "score": 0.47,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "group.",
+          "start": 25.452,
+          "end": 25.632,
+          "score": 0.55,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.2273377463931129,
-      "compression_ratio": 1.5080213903743316,
-      "no_speech_prob": 0.14158359169960022
+      "avg_logprob": -0.06994047450522582,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 4,
-      "seek": 2640,
-      "start": 26.4,
-      "end": 33.36,
-      "text": " And you can see that there are almost no bars in the youngest age groups and that's because",
-      "tokens": [
-        50364,
-        400,
-        291,
-        393,
-        536,
-        300,
-        456,
-        366,
-        1920,
-        572,
-        10228,
-        294,
-        264,
-        17747,
-        3205,
-        3935,
-        293,
-        300,
-        311,
-        570,
-        50712
+      "start": 26.772,
+      "end": 35.094,
+      "text": "And you can see that there are almost no bars in the youngest age groups, and that's because there is almost no mortality.",
+      "words": [
+        {
+          "word": "And",
+          "start": 26.772,
+          "end": 26.932,
+          "score": 0.743,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "you",
+          "start": 27.392,
+          "end": 27.512,
+          "score": 0.957,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "can",
+          "start": 27.552,
+          "end": 27.692,
+          "score": 0.99,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "see",
+          "start": 27.772,
+          "end": 28.052,
+          "score": 0.828,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 28.072,
+          "end": 28.573,
+          "score": 0.262,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "there",
+          "start": 28.633,
+          "end": 28.793,
+          "score": 0.7,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "are",
+          "start": 28.833,
+          "end": 28.933,
+          "score": 0.689,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "almost",
+          "start": 28.973,
+          "end": 29.273,
+          "score": 0.79,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "no",
+          "start": 29.433,
+          "end": 29.613,
+          "score": 0.94,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "bars",
+          "start": 29.673,
+          "end": 30.073,
+          "score": 0.733,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 30.833,
+          "end": 30.933,
+          "score": 0.75,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 31.093,
+          "end": 31.173,
+          "score": 0.99,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "youngest",
+          "start": 31.213,
+          "end": 31.573,
+          "score": 0.789,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 31.593,
+          "end": 31.653,
+          "score": 0.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "groups,",
+          "start": 32.014,
+          "end": 32.314,
+          "score": 0.726,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 32.374,
+          "end": 32.474,
+          "score": 0.783,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that's",
+          "start": 32.494,
+          "end": 32.694,
+          "score": 0.911,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "because",
+          "start": 32.754,
+          "end": 33.214,
+          "score": 0.842,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "there",
+          "start": 33.534,
+          "end": 33.694,
+          "score": 0.797,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 33.754,
+          "end": 33.834,
+          "score": 0.67,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "almost",
+          "start": 33.914,
+          "end": 34.214,
+          "score": 0.905,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "no",
+          "start": 34.334,
+          "end": 34.474,
+          "score": 0.966,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality.",
+          "start": 34.534,
+          "end": 35.094,
+          "score": 0.855,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12227976690862596,
-      "compression_ratio": 1.9680365296803652,
-      "no_speech_prob": 0.005596141796559095
+      "avg_logprob": -0.06994047450522582,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 5,
-      "seek": 2640,
-      "start": 33.36,
-      "end": 39.519999999999996,
-      "text": " there is almost no mortality. And the mortality that exists in those age groups is due to chronic",
-      "tokens": [
-        50712,
-        456,
-        307,
-        1920,
-        572,
-        23330,
-        13,
-        400,
-        264,
-        23330,
-        300,
-        8198,
-        294,
-        729,
-        3205,
-        3935,
-        307,
-        3462,
-        281,
-        14493,
-        51020
+      "start": 35.114,
+      "end": 45.938,
+      "text": "And the mortality that exists in those age groups is due to chronic conditions such as obesity, diabetes, chronic heart disease, chronic kidney disease, immunocompromised.",
+      "words": [
+        {
+          "word": "And",
+          "start": 35.114,
+          "end": 35.174,
+          "score": 0.792,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 35.194,
+          "end": 35.255,
+          "score": 0.862,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 35.315,
+          "end": 35.855,
+          "score": 0.798,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 36.255,
+          "end": 36.415,
+          "score": 0.681,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "exists",
+          "start": 36.475,
+          "end": 36.875,
+          "score": 0.862,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 36.935,
+          "end": 37.015,
+          "score": 0.68,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "those",
+          "start": 37.055,
+          "end": 37.255,
+          "score": 0.895,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 37.355,
+          "end": 37.495,
+          "score": 0.547,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "groups",
+          "start": 37.515,
+          "end": 37.795,
+          "score": 0.614,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 38.255,
+          "end": 38.355,
+          "score": 0.673,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "due",
+          "start": 38.435,
+          "end": 38.676,
+          "score": 0.625,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 38.776,
+          "end": 38.976,
+          "score": 0.663,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "chronic",
+          "start": 39.176,
+          "end": 39.536,
+          "score": 0.937,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "conditions",
+          "start": 39.656,
+          "end": 40.196,
+          "score": 0.742,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "such",
+          "start": 40.256,
+          "end": 40.436,
+          "score": 0.909,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "as",
+          "start": 40.496,
+          "end": 40.616,
+          "score": 0.637,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "obesity,",
+          "start": 40.876,
+          "end": 41.476,
+          "score": 0.853,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "diabetes,",
+          "start": 41.536,
+          "end": 42.257,
+          "score": 0.778,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "chronic",
+          "start": 42.377,
+          "end": 42.697,
+          "score": 0.791,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "heart",
+          "start": 42.717,
+          "end": 42.917,
+          "score": 0.876,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "disease,",
+          "start": 42.957,
+          "end": 43.337,
+          "score": 0.873,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "chronic",
+          "start": 43.377,
+          "end": 43.637,
+          "score": 0.677,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "kidney",
+          "start": 43.657,
+          "end": 43.977,
+          "score": 0.581,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "disease,",
+          "start": 43.997,
+          "end": 44.377,
+          "score": 0.902,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "immunocompromised.",
+          "start": 44.977,
+          "end": 45.938,
+          "score": 0.791,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12227976690862596,
-      "compression_ratio": 1.9680365296803652,
-      "no_speech_prob": 0.005596141796559095
+      "avg_logprob": -0.06994047450522582,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 6,
-      "seek": 2640,
-      "start": 39.519999999999996,
-      "end": 44.8,
-      "text": " conditions such as obesity, diabetes, chronic heart disease, chronic kidney disease,",
-      "tokens": [
-        51020,
-        4487,
-        1270,
-        382,
-        29744,
-        11,
-        13881,
-        11,
-        14493,
-        1917,
-        4752,
-        11,
-        14493,
-        19000,
-        4752,
-        11,
-        51284
+      "start": 46.578,
+      "end": 50.439,
+      "text": "Almost entirely in those age groups, and even in the older age groups,",
+      "words": [
+        {
+          "word": "Almost",
+          "start": 46.578,
+          "end": 46.858,
+          "score": 0.802,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "entirely",
+          "start": 46.958,
+          "end": 47.478,
+          "score": 0.808,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 47.878,
+          "end": 47.938,
+          "score": 0.778,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "those",
+          "start": 47.978,
+          "end": 48.198,
+          "score": 0.79,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 48.258,
+          "end": 48.418,
+          "score": 0.521,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "groups,",
+          "start": 48.438,
+          "end": 48.698,
+          "score": 0.794,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 48.778,
+          "end": 48.898,
+          "score": 0.526,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "even",
+          "start": 48.959,
+          "end": 49.179,
+          "score": 0.69,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 49.379,
+          "end": 49.439,
+          "score": 0.778,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 49.519,
+          "end": 49.599,
+          "score": 0.832,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "older",
+          "start": 49.679,
+          "end": 49.919,
+          "score": 0.889,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 49.979,
+          "end": 50.119,
+          "score": 0.684,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "groups,",
+          "start": 50.159,
+          "end": 50.439,
+          "score": 0.781,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12227976690862596,
-      "compression_ratio": 1.9680365296803652,
-      "no_speech_prob": 0.005596141796559095
+      "avg_logprob": -0.06994047450522582,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 7,
-      "seek": 2640,
-      "start": 44.8,
-      "end": 50.72,
-      "text": " immunocompromise, almost entirely in those age groups. And even in the older age groups,",
-      "tokens": [
-        51284,
-        13154,
-        905,
-        298,
-        28722,
-        908,
-        11,
-        1920,
-        7696,
-        294,
-        729,
-        3205,
-        3935,
-        13,
-        400,
-        754,
-        294,
-        264,
-        4906,
-        3205,
-        3935,
-        11,
-        51580
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12227976690862596,
-      "compression_ratio": 1.9680365296803652,
-      "no_speech_prob": 0.005596141796559095
-    },
-    {
-      "id": 8,
-      "seek": 2640,
-      "start": 50.72,
-      "end": 54.480000000000004,
+      "start": 50.899,
+      "end": 54.544,
       "text": " the mortality is among people who have multiple chronic conditions.",
-      "tokens": [
-        51580,
-        264,
-        23330,
-        307,
-        3654,
-        561,
-        567,
-        362,
-        3866,
-        14493,
-        4487,
-        13,
-        51768
+      "words": [
+        {
+          "word": "the",
+          "start": 50.899,
+          "end": 50.999,
+          "score": 0.959,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 51.039,
+          "end": 51.68,
+          "score": 0.828,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 51.74,
+          "end": 51.84,
+          "score": 0.736,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "among",
+          "start": 51.941,
+          "end": 52.221,
+          "score": 0.878,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "people",
+          "start": 52.261,
+          "end": 52.561,
+          "score": 0.831,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "who",
+          "start": 52.581,
+          "end": 52.641,
+          "score": 0.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 52.922,
+          "end": 53.082,
+          "score": 0.848,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "multiple",
+          "start": 53.162,
+          "end": 53.583,
+          "score": 0.877,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "chronic",
+          "start": 53.643,
+          "end": 53.963,
+          "score": 0.914,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "conditions.",
+          "start": 54.003,
+          "end": 54.544,
+          "score": 0.969,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.12227976690862596,
-      "compression_ratio": 1.9680365296803652,
-      "no_speech_prob": 0.005596141796559095
+      "avg_logprob": -0.11197916542490323,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 9,
-      "seek": 5448,
-      "start": 55.36,
-      "end": 61.68,
-      "text": " But the point of this is that when you have such low or non-existent mortality in these low age",
-      "tokens": [
-        50408,
-        583,
-        264,
-        935,
-        295,
-        341,
-        307,
-        300,
-        562,
-        291,
-        362,
-        1270,
-        2295,
-        420,
-        2107,
-        12,
-        18217,
-        317,
-        23330,
-        294,
-        613,
-        2295,
-        3205,
-        50724
+      "start": 55.565,
+      "end": 62.053,
+      "text": "But the point of this is that when you have such low or non-existent mortality in these low age groups,",
+      "words": [
+        {
+          "word": "But",
+          "start": 55.565,
+          "end": 55.685,
+          "score": 0.847,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 55.745,
+          "end": 55.825,
+          "score": 0.998,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "point",
+          "start": 55.865,
+          "end": 56.106,
+          "score": 0.911,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 56.146,
+          "end": 56.186,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "this",
+          "start": 56.246,
+          "end": 56.406,
+          "score": 0.771,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 56.606,
+          "end": 56.826,
+          "score": 0.762,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 56.987,
+          "end": 57.267,
+          "score": 0.915,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "when",
+          "start": 57.948,
+          "end": 58.088,
+          "score": 0.733,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "you",
+          "start": 58.108,
+          "end": 58.228,
+          "score": 0.854,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 58.268,
+          "end": 58.448,
+          "score": 0.786,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "such",
+          "start": 58.488,
+          "end": 58.689,
+          "score": 0.837,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "low",
+          "start": 59.029,
+          "end": 59.309,
+          "score": 0.802,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "or",
+          "start": 59.369,
+          "end": 59.45,
+          "score": 0.85,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "non-existent",
+          "start": 59.49,
+          "end": 60.11,
+          "score": 0.647,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 60.15,
+          "end": 60.771,
+          "score": 0.807,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 60.811,
+          "end": 60.891,
+          "score": 0.715,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "these",
+          "start": 60.931,
+          "end": 61.092,
+          "score": 0.72,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "low",
+          "start": 61.192,
+          "end": 61.452,
+          "score": 0.727,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 61.552,
+          "end": 61.732,
+          "score": 0.964,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "groups,",
+          "start": 61.792,
+          "end": 62.053,
+          "score": 0.871,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.061740182166875796,
-      "compression_ratio": 1.7289719626168225,
-      "no_speech_prob": 0.003657716093584895
+      "avg_logprob": -0.11197916542490323,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 10,
-      "seek": 5448,
-      "start": 61.68,
-      "end": 70.08,
-      "text": " groups, the potential serious adverse effects of the vaccine will surmount the non-existent",
-      "tokens": [
-        50724,
-        3935,
-        11,
-        264,
-        3995,
-        3156,
-        27590,
-        5065,
-        295,
-        264,
-        7007,
-        486,
-        1022,
-        45275,
-        264,
-        2107,
-        12,
-        18217,
-        317,
-        51144
+      "start": 63.085,
+      "end": 71.587,
+      "text": " the potential serious adverse effects of the vaccine will surmount the non-existent mortality of these age groups.",
+      "words": [
+        {
+          "word": "the",
+          "start": 63.085,
+          "end": 63.225,
+          "score": 0.974,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "potential",
+          "start": 63.565,
+          "end": 64.145,
+          "score": 0.935,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "serious",
+          "start": 64.765,
+          "end": 65.165,
+          "score": 0.795,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "adverse",
+          "start": 65.285,
+          "end": 65.646,
+          "score": 0.754,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "effects",
+          "start": 65.806,
+          "end": 66.166,
+          "score": 0.882,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 66.326,
+          "end": 66.426,
+          "score": 0.788,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 66.466,
+          "end": 66.566,
+          "score": 0.873,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccine",
+          "start": 66.646,
+          "end": 67.166,
+          "score": 0.843,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "will",
+          "start": 67.606,
+          "end": 68.026,
+          "score": 0.799,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "surmount",
+          "start": 68.246,
+          "end": 68.746,
+          "score": 0.927,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 69.026,
+          "end": 69.206,
+          "score": 0.928,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "non-existent",
+          "start": 69.566,
+          "end": 70.186,
+          "score": 0.89,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 70.246,
+          "end": 70.827,
+          "score": 0.824,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 70.867,
+          "end": 70.927,
+          "score": 0.874,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "these",
+          "start": 70.987,
+          "end": 71.147,
+          "score": 0.767,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 71.227,
+          "end": 71.307,
+          "score": 0.332,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "groups.",
+          "start": 71.327,
+          "end": 71.587,
+          "score": 0.665,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.061740182166875796,
-      "compression_ratio": 1.7289719626168225,
-      "no_speech_prob": 0.003657716093584895
+      "avg_logprob": -0.0695708075278922,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 11,
-      "seek": 5448,
-      "start": 70.08,
-      "end": 74.96,
-      "text": " mortality of these age groups. And therefore, what we've been told that everybody has to be",
-      "tokens": [
-        51144,
-        23330,
-        295,
-        613,
-        3205,
-        3935,
-        13,
-        400,
-        4412,
-        11,
-        437,
-        321,
-        600,
-        668,
-        1907,
-        300,
-        2201,
-        575,
-        281,
-        312,
-        51388
+      "start": 72.067,
+      "end": 86.87,
+      "text": "And therefore, what we've been told that everybody has to be vaccinated, that all these approvals for the vaccines that have pushed their way down into the youngest age groups had no reason to be there in the first place because there was no mortality that they were trying to prevent.",
+      "words": [
+        {
+          "word": "And",
+          "start": 72.067,
+          "end": 72.147,
+          "score": 0.932,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "therefore,",
+          "start": 72.207,
+          "end": 72.707,
+          "score": 0.8,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "what",
+          "start": 73.047,
+          "end": 73.187,
+          "score": 0.91,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "we've",
+          "start": 73.207,
+          "end": 73.367,
+          "score": 0.799,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "been",
+          "start": 73.387,
+          "end": 73.567,
+          "score": 0.833,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "told",
+          "start": 73.627,
+          "end": 73.927,
+          "score": 0.773,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 74.047,
+          "end": 74.207,
+          "score": 0.696,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "everybody",
+          "start": 74.287,
+          "end": 74.667,
+          "score": 0.879,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "has",
+          "start": 74.707,
+          "end": 74.847,
+          "score": 0.722,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 74.867,
+          "end": 74.927,
+          "score": 0.748,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "be",
+          "start": 74.947,
+          "end": 75.027,
+          "score": 0.828,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccinated,",
+          "start": 75.087,
+          "end": 75.708,
+          "score": 0.956,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 75.748,
+          "end": 75.888,
+          "score": 0.752,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "all",
+          "start": 75.928,
+          "end": 76.068,
+          "score": 0.679,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "these",
+          "start": 76.108,
+          "end": 76.248,
+          "score": 0.83,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "approvals",
+          "start": 76.308,
+          "end": 76.828,
+          "score": 0.802,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "for",
+          "start": 76.908,
+          "end": 77.048,
+          "score": 0.846,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 77.088,
+          "end": 77.148,
+          "score": 0.997,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccines",
+          "start": 77.188,
+          "end": 77.808,
+          "score": 0.776,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 77.908,
+          "end": 78.088,
+          "score": 0.904,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 78.128,
+          "end": 78.248,
+          "score": 0.953,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "pushed",
+          "start": 78.868,
+          "end": 79.088,
+          "score": 0.826,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "their",
+          "start": 79.108,
+          "end": 79.268,
+          "score": 0.787,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "way",
+          "start": 79.308,
+          "end": 79.428,
+          "score": 0.952,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "down",
+          "start": 79.548,
+          "end": 79.808,
+          "score": 0.917,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "into",
+          "start": 79.868,
+          "end": 80.069,
+          "score": 0.858,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 80.109,
+          "end": 80.189,
+          "score": 0.831,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "youngest",
+          "start": 80.229,
+          "end": 80.529,
+          "score": 0.746,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "age",
+          "start": 80.549,
+          "end": 80.609,
+          "score": 0.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "groups",
+          "start": 80.829,
+          "end": 81.129,
+          "score": 0.715,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "had",
+          "start": 81.529,
+          "end": 81.669,
+          "score": 0.807,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "no",
+          "start": 81.729,
+          "end": 81.869,
+          "score": 0.902,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "reason",
+          "start": 81.929,
+          "end": 82.229,
+          "score": 0.839,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 82.269,
+          "end": 82.369,
+          "score": 0.594,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "be",
+          "start": 82.409,
+          "end": 82.529,
+          "score": 0.994,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "there",
+          "start": 82.589,
+          "end": 82.809,
+          "score": 0.625,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 82.829,
+          "end": 82.909,
+          "score": 0.499,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 82.949,
+          "end": 83.029,
+          "score": 0.831,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "first",
+          "start": 83.069,
+          "end": 83.269,
+          "score": 0.865,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "place",
+          "start": 83.349,
+          "end": 83.609,
+          "score": 0.786,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "because",
+          "start": 83.689,
+          "end": 83.949,
+          "score": 0.851,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "there",
+          "start": 83.969,
+          "end": 84.109,
+          "score": 0.807,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "was",
+          "start": 84.149,
+          "end": 84.269,
+          "score": 0.612,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "no",
+          "start": 84.329,
+          "end": 84.489,
+          "score": 0.871,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 84.569,
+          "end": 85.15,
+          "score": 0.825,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 85.21,
+          "end": 85.33,
+          "score": 0.801,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "they",
+          "start": 85.37,
+          "end": 85.49,
+          "score": 0.855,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "were",
+          "start": 85.51,
+          "end": 85.61,
+          "score": 0.997,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "trying",
+          "start": 85.65,
+          "end": 85.93,
+          "score": 0.809,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 86.31,
+          "end": 86.41,
+          "score": 0.952,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "prevent.",
+          "start": 86.47,
+          "end": 86.87,
+          "score": 0.899,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.061740182166875796,
-      "compression_ratio": 1.7289719626168225,
-      "no_speech_prob": 0.003657716093584895
+      "avg_logprob": -0.0695708075278922,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 12,
-      "seek": 5448,
-      "start": 74.96,
-      "end": 79.92,
-      "text": " vaccinated, that all these approvals for the vaccines that have pushed their way down into",
-      "tokens": [
-        51388,
-        14686,
-        11,
-        300,
-        439,
-        613,
-        2075,
-        19778,
-        337,
-        264,
-        12164,
-        300,
-        362,
-        9152,
-        641,
-        636,
-        760,
-        666,
-        51636
+      "start": 87.33,
+      "end": 92.392,
+      "text": " We already know that the vaccines don't prevent spread as the CDC said on August 11th.",
+      "words": [
+        {
+          "word": "We",
+          "start": 87.33,
+          "end": 87.43,
+          "score": 0.821,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "already",
+          "start": 87.47,
+          "end": 87.71,
+          "score": 0.797,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "know",
+          "start": 87.75,
+          "end": 87.97,
+          "score": 0.681,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 88.01,
+          "end": 88.13,
+          "score": 0.75,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 88.17,
+          "end": 88.25,
+          "score": 0.921,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccines",
+          "start": 88.29,
+          "end": 88.831,
+          "score": 0.697,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "don't",
+          "start": 88.871,
+          "end": 89.071,
+          "score": 0.63,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "prevent",
+          "start": 89.131,
+          "end": 89.471,
+          "score": 0.786,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "spread",
+          "start": 89.551,
+          "end": 89.931,
+          "score": 0.962,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "as",
+          "start": 90.171,
+          "end": 90.351,
+          "score": 0.642,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 90.451,
+          "end": 90.551,
+          "score": 0.833,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "CDC",
+          "start": 90.591,
+          "end": 91.112,
+          "score": 0.708,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "said",
+          "start": 91.152,
+          "end": 91.372,
+          "score": 0.668,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "on",
+          "start": 91.452,
+          "end": 91.572,
+          "score": 0.61,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "August",
+          "start": 91.652,
+          "end": 91.952,
+          "score": 0.82,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "11th.",
+          "start": 92.092,
+          "end": 92.392,
+          "score": 0.807,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.061740182166875796,
-      "compression_ratio": 1.7289719626168225,
-      "no_speech_prob": 0.003657716093584895
+      "avg_logprob": -0.05709876616795858,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 13,
-      "seek": 7992,
-      "start": 80.0,
-      "end": 84.4,
-      "text": " the youngest age groups had no reason to be there in the first place because there was no",
-      "tokens": [
-        50368,
-        264,
-        17747,
-        3205,
-        3935,
-        632,
-        572,
-        1778,
-        281,
-        312,
-        456,
-        294,
-        264,
-        700,
-        1081,
-        570,
-        456,
-        390,
-        572,
-        50588
+      "start": 92.772,
+      "end": 93.973,
+      "text": "They don't prevent transmission.",
+      "words": [
+        {
+          "word": "They",
+          "start": 92.772,
+          "end": 92.852,
+          "score": 0.626,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "don't",
+          "start": 92.872,
+          "end": 93.012,
+          "score": 0.717,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "prevent",
+          "start": 93.052,
+          "end": 93.332,
+          "score": 0.876,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "transmission.",
+          "start": 93.372,
+          "end": 93.973,
+          "score": 0.864,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06970155913874788,
-      "compression_ratio": 1.7416974169741697,
-      "no_speech_prob": 0.07452638447284698
+      "avg_logprob": -0.05709876616795858,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 14,
-      "seek": 7992,
-      "start": 84.4,
-      "end": 89.44,
-      "text": " mortality that they were trying to prevent. We already know that the vaccines don't prevent",
-      "tokens": [
-        50588,
-        23330,
-        300,
-        436,
-        645,
-        1382,
-        281,
-        4871,
-        13,
-        492,
-        1217,
-        458,
-        300,
-        264,
-        12164,
-        500,
-        380,
-        4871,
-        50840
+      "start": 94.013,
+      "end": 98.895,
+      "text": "So the only point of them is for personal protection as treatment if one wants to choose that.",
+      "words": [
+        {
+          "word": "So",
+          "start": 94.013,
+          "end": 94.153,
+          "score": 0.895,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 94.173,
+          "end": 94.253,
+          "score": 0.834,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "only",
+          "start": 94.313,
+          "end": 94.473,
+          "score": 0.706,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "point",
+          "start": 94.533,
+          "end": 94.753,
+          "score": 0.847,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 94.793,
+          "end": 94.853,
+          "score": 0.994,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "them",
+          "start": 94.893,
+          "end": 95.053,
+          "score": 0.926,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 95.493,
+          "end": 95.593,
+          "score": 0.592,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "for",
+          "start": 95.653,
+          "end": 95.874,
+          "score": 0.801,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "personal",
+          "start": 95.974,
+          "end": 96.354,
+          "score": 0.875,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "protection",
+          "start": 96.394,
+          "end": 96.914,
+          "score": 0.903,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "as",
+          "start": 96.994,
+          "end": 97.114,
+          "score": 0.862,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "treatment",
+          "start": 97.174,
+          "end": 97.574,
+          "score": 0.927,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "if",
+          "start": 97.614,
+          "end": 97.714,
+          "score": 0.775,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "one",
+          "start": 97.854,
+          "end": 97.954,
+          "score": 0.91,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "wants",
+          "start": 97.994,
+          "end": 98.234,
+          "score": 0.722,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 98.274,
+          "end": 98.375,
+          "score": 0.997,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "choose",
+          "start": 98.415,
+          "end": 98.655,
+          "score": 0.871,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that.",
+          "start": 98.695,
+          "end": 98.895,
+          "score": 0.989,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06970155913874788,
-      "compression_ratio": 1.7416974169741697,
-      "no_speech_prob": 0.07452638447284698
+      "avg_logprob": -0.05709876616795858,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 15,
-      "seek": 7992,
-      "start": 89.44,
-      "end": 95.36,
-      "text": " spread as the CDC said on August 11th. They don't prevent transmission. So the only point of them",
-      "tokens": [
-        50840,
-        3974,
-        382,
-        264,
-        17133,
-        848,
-        322,
-        6897,
-        2975,
-        392,
-        13,
-        814,
-        500,
-        380,
-        4871,
-        11574,
-        13,
-        407,
-        264,
-        787,
-        935,
-        295,
-        552,
-        51136
+      "start": 99.335,
+      "end": 107.558,
+      "text": "And yet there's no reason to choose that when the mortality from the infection is orders of magnitude less than it would be from the vaccine.",
+      "words": [
+        {
+          "word": "And",
+          "start": 99.335,
+          "end": 99.415,
+          "score": 0.944,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "yet",
+          "start": 99.455,
+          "end": 99.615,
+          "score": 0.837,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "there's",
+          "start": 99.655,
+          "end": 99.855,
+          "score": 0.881,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "no",
+          "start": 99.895,
+          "end": 100.015,
+          "score": 0.895,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "reason",
+          "start": 100.055,
+          "end": 100.355,
+          "score": 0.731,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 100.395,
+          "end": 100.455,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "choose",
+          "start": 100.495,
+          "end": 100.735,
+          "score": 0.83,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 100.775,
+          "end": 100.976,
+          "score": 0.848,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "when",
+          "start": 101.036,
+          "end": 101.176,
+          "score": 0.953,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 101.216,
+          "end": 101.276,
+          "score": 0.964,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mortality",
+          "start": 101.336,
+          "end": 101.956,
+          "score": 0.787,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "from",
+          "start": 102.516,
+          "end": 102.776,
+          "score": 0.705,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 103.216,
+          "end": 103.317,
+          "score": 0.847,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "infection",
+          "start": 103.377,
+          "end": 103.877,
+          "score": 0.862,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "is",
+          "start": 104.317,
+          "end": 104.437,
+          "score": 0.974,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "orders",
+          "start": 104.997,
+          "end": 105.237,
+          "score": 0.777,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 105.277,
+          "end": 105.337,
+          "score": 0.758,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "magnitude",
+          "start": 105.397,
+          "end": 105.858,
+          "score": 0.918,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "less",
+          "start": 105.898,
+          "end": 106.118,
+          "score": 0.892,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "than",
+          "start": 106.158,
+          "end": 106.278,
+          "score": 0.996,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "it",
+          "start": 106.318,
+          "end": 106.358,
+          "score": 0.995,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "would",
+          "start": 106.398,
+          "end": 106.558,
+          "score": 0.951,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "be",
+          "start": 106.598,
+          "end": 106.718,
+          "score": 0.876,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "from",
+          "start": 106.778,
+          "end": 106.918,
+          "score": 0.9,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 106.938,
+          "end": 107.018,
+          "score": 0.836,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "vaccine.",
+          "start": 107.058,
+          "end": 107.558,
+          "score": 0.758,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06970155913874788,
-      "compression_ratio": 1.7416974169741697,
-      "no_speech_prob": 0.07452638447284698
+      "avg_logprob": -0.05709876616795858,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 16,
-      "seek": 7992,
-      "start": 95.36,
-      "end": 100.24000000000001,
-      "text": " is for personal protection as treatment if one wants to choose that. And yet there's no reason",
-      "tokens": [
-        51136,
-        307,
-        337,
-        2973,
-        6334,
-        382,
-        5032,
-        498,
-        472,
-        2738,
-        281,
-        2826,
-        300,
-        13,
-        400,
-        1939,
-        456,
-        311,
-        572,
-        1778,
-        51380
+      "start": 107.978,
+      "end": 109.259,
+      "text": "And that's what this chart shows.",
+      "words": [
+        {
+          "word": "And",
+          "start": 107.978,
+          "end": 108.078,
+          "score": 0.638,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that's",
+          "start": 108.258,
+          "end": 108.459,
+          "score": 0.87,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "what",
+          "start": 108.479,
+          "end": 108.599,
+          "score": 0.408,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "this",
+          "start": 108.619,
+          "end": 108.759,
+          "score": 0.684,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "chart",
+          "start": 108.779,
+          "end": 108.979,
+          "score": 0.676,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "shows.",
+          "start": 108.999,
+          "end": 109.259,
+          "score": 0.549,
+          "speaker": "SPEAKER_01"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06970155913874788,
-      "compression_ratio": 1.7416974169741697,
-      "no_speech_prob": 0.07452638447284698
+      "avg_logprob": -0.05709876616795858,
+      "speaker": "SPEAKER_01"
     },
     {
-      "id": 17,
-      "seek": 7992,
-      "start": 100.24000000000001,
-      "end": 106.64,
-      "text": " to choose that when the mortality from the infection is orders of magnitude less than it would be",
-      "tokens": [
-        51380,
-        281,
-        2826,
-        300,
-        562,
-        264,
-        23330,
-        490,
-        264,
-        11764,
-        307,
-        9470,
-        295,
-        15668,
-        1570,
-        813,
-        309,
-        576,
-        312,
-        51700
+      "start": 109.654,
+      "end": 124.118,
+      "text": " So real quick to look at the numbers, standard flu season has what level of mortality compared to, again, you've got 0 to 17.01, 18 to 29.05, 30 to 39.15.",
+      "words": [
+        {
+          "word": "So",
+          "start": 109.654,
+          "end": 110.075,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "real",
+          "start": 110.115,
+          "end": 110.315,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "quick",
+          "start": 110.375,
+          "end": 110.616,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 110.636,
+          "end": 110.696,
+          "score": 0.724,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "look",
+          "start": 110.736,
+          "end": 110.856,
+          "score": 0.862,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 110.896,
+          "end": 110.936,
+          "score": 0.634,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 110.956,
+          "end": 111.016,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "numbers,",
+          "start": 111.056,
+          "end": 111.437,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "standard",
+          "start": 112.579,
+          "end": 112.98,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "flu",
+          "start": 113.04,
+          "end": 113.3,
+          "score": 0.762,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "season",
+          "start": 113.34,
+          "end": 113.701,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 113.741,
+          "end": 113.901,
+          "score": 0.775,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 113.961,
+          "end": 114.162,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "level",
+          "start": 114.182,
+          "end": 114.462,
+          "score": 0.759,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 114.482,
+          "end": 114.522,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "mortality",
+          "start": 114.542,
+          "end": 115.083,
+          "score": 0.872,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "compared",
+          "start": 115.123,
+          "end": 115.624,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to,",
+          "start": 115.644,
+          "end": 115.704,
+          "score": 0.308,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "again,",
+          "start": 115.764,
+          "end": 116.065,
+          "score": 0.555,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "you've",
+          "start": 116.105,
+          "end": 116.265,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "got",
+          "start": 116.285,
+          "end": 116.405,
+          "score": 0.98,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "0",
+          "start": 116.425,
+          "end": 116.445,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 116.465,
+          "end": 116.505,
+          "score": 0.004,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "17.01,",
+          "start": 117.066,
+          "end": 118.97,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "18",
+          "start": 118.99,
+          "end": 119.03,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 119.791,
+          "end": 120.312,
+          "score": 0.517,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "29.05,",
+          "start": 120.452,
+          "end": 121.834,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "30",
+          "start": 121.854,
+          "end": 121.895,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 122.475,
+          "end": 122.976,
+          "score": 0.444,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "39.15.",
+          "start": 123.016,
+          "end": 124.118,
+          "score": 0.552,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.06970155913874788,
-      "compression_ratio": 1.7416974169741697,
-      "no_speech_prob": 0.07452638447284698
+      "avg_logprob": -0.1362147184629594,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 18,
-      "seek": 10664,
-      "start": 106.64,
-      "end": 111.36,
-      "text": " from the vaccine. And that's what this chart shows. So real quick to look at the numbers.",
-      "tokens": [
-        50364,
-        490,
-        264,
-        7007,
-        13,
-        400,
-        300,
-        311,
-        437,
-        341,
-        6927,
-        3110,
-        13,
-        407,
-        957,
-        1702,
-        281,
-        574,
-        412,
-        264,
-        3547,
-        13,
-        50600
+      "start": 124.138,
+      "end": 125.36,
+      "text": "What's the standard flu season?",
+      "words": [
+        {
+          "word": "What's",
+          "start": 124.138,
+          "end": 124.319,
+          "score": 0.776,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 124.339,
+          "end": 124.419,
+          "score": 0.209,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "standard",
+          "start": 124.439,
+          "end": 124.779,
+          "score": 0.557,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "flu",
+          "start": 124.799,
+          "end": 125.0,
+          "score": 0.749,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "season?",
+          "start": 125.02,
+          "end": 125.36,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16529217958450318,
-      "compression_ratio": 1.4158415841584158,
-      "no_speech_prob": 0.032108698040246964
+      "avg_logprob": -0.1362147184629594,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 19,
-      "seek": 10664,
-      "start": 112.4,
-      "end": 118.88,
-      "text": " Standard flu season has what level of mortality compared to it? Again, you've got 017.01,",
-      "tokens": [
-        50652,
-        21298,
-        5029,
-        3196,
-        575,
-        437,
-        1496,
-        295,
-        23330,
-        5347,
-        281,
-        309,
-        30,
-        3764,
-        11,
-        291,
-        600,
-        658,
-        1958,
-        7773,
-        13,
-        10607,
-        11,
-        50976
+      "start": 126.442,
+      "end": 129.347,
+      "text": "It's comparable to this, possibly plus or minus.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 126.442,
+          "end": 126.582,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "comparable",
+          "start": 126.703,
+          "end": 127.143,
+          "score": 0.613,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 127.183,
+          "end": 127.284,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this,",
+          "start": 127.344,
+          "end": 128.245,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "possibly",
+          "start": 128.285,
+          "end": 128.746,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "plus",
+          "start": 128.786,
+          "end": 128.946,
+          "score": 0.785,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 129.026,
+          "end": 129.087,
+          "score": 0.678,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "minus.",
+          "start": 129.127,
+          "end": 129.347,
+          "score": 0.716,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16529217958450318,
-      "compression_ratio": 1.4158415841584158,
-      "no_speech_prob": 0.032108698040246964
-    },
-    {
-      "id": 20,
-      "seek": 10664,
-      "start": 119.52,
-      "end": 129.36,
-      "text": " 1829.05, 3039.15. What's the standard flu season? It's comparable to this. Is that possibly plus or minus?",
-      "tokens": [
-        51008,
-        2443,
-        11871,
-        13,
-        13328,
-        11,
-        2217,
-        12493,
-        13,
-        5211,
-        13,
-        708,
-        311,
-        264,
-        3832,
-        5029,
-        3196,
-        30,
-        467,
-        311,
-        25323,
-        281,
-        341,
-        13,
-        1119,
-        300,
-        6264,
-        1804,
-        420,
-        3175,
-        30,
-        51500
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16529217958450318,
-      "compression_ratio": 1.4158415841584158,
-      "no_speech_prob": 0.032108698040246964
+      "avg_logprob": -0.1362147184629594,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "A",
+      "start": 0.231,
+      "end": 0.271,
+      "score": 0.594,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "pandemic",
+      "start": 0.331,
+      "end": 0.892,
+      "score": 0.967,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "with",
+      "start": 1.432,
+      "end": 1.692,
+      "score": 0.958,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "relatively",
+      "start": 2.152,
+      "end": 2.653,
+      "score": 0.908,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "low",
+      "start": 2.733,
+      "end": 2.933,
+      "score": 0.989,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 3.013,
+      "end": 3.673,
+      "score": 0.768,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 4.434,
+      "end": 4.514,
+      "score": 0.667,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "not",
+      "start": 4.594,
+      "end": 4.794,
+      "score": 0.771,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "managed",
+      "start": 4.914,
+      "end": 5.354,
+      "score": 0.764,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "by",
+      "start": 5.434,
+      "end": 5.594,
+      "score": 0.825,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "counting",
+      "start": 5.715,
+      "end": 6.035,
+      "score": 0.93,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 6.055,
+      "end": 6.135,
+      "score": 0.271,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "cases.",
+      "start": 6.195,
+      "end": 6.655,
+      "score": 0.84,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "It's",
+      "start": 6.955,
+      "end": 7.095,
+      "score": 0.633,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "managed",
+      "start": 7.155,
+      "end": 7.536,
+      "score": 0.871,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "by",
+      "start": 8.056,
+      "end": 8.436,
+      "score": 0.832,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "preventing",
+      "start": 8.736,
+      "end": 9.257,
+      "score": 0.883,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "hospitalization",
+      "start": 9.317,
+      "end": 10.217,
+      "score": 0.763,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 10.297,
+      "end": 10.397,
+      "score": 0.865,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality.",
+      "start": 10.457,
+      "end": 11.118,
+      "score": 0.791,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 12.078,
+      "end": 12.279,
+      "score": 0.595,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "so",
+      "start": 12.979,
+      "end": 13.219,
+      "score": 0.89,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "this",
+      "start": 13.339,
+      "end": 13.579,
+      "score": 0.81,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "slide",
+      "start": 14.1,
+      "end": 14.54,
+      "score": 0.848,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 14.68,
+      "end": 14.86,
+      "score": 0.844,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "you",
+      "start": 14.92,
+      "end": 15.04,
+      "score": 0.721,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "see",
+      "start": 15.06,
+      "end": 15.22,
+      "score": 0.918,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "now",
+      "start": 15.24,
+      "end": 15.541,
+      "score": 0.786,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "shows",
+      "start": 16.181,
+      "end": 16.561,
+      "score": 0.761,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 16.581,
+      "end": 16.861,
+      "score": 0.427,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "breakdown,",
+      "start": 17.202,
+      "end": 17.682,
+      "score": 0.919,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 17.702,
+      "end": 17.762,
+      "score": 0.509,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "distribution",
+      "start": 17.822,
+      "end": 18.482,
+      "score": 0.915,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 18.763,
+      "end": 18.863,
+      "score": 0.749,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 19.023,
+      "end": 19.703,
+      "score": 0.751,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "through",
+      "start": 20.204,
+      "end": 20.604,
+      "score": 0.55,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "September",
+      "start": 21.044,
+      "end": 21.484,
+      "score": 0.868,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 21.504,
+      "end": 21.544,
+      "score": 0.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "last",
+      "start": 21.564,
+      "end": 21.805,
+      "score": 0.954,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "year.",
+      "start": 21.865,
+      "end": 22.025,
+      "score": 0.895,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "for",
+      "start": 23.351,
+      "end": 23.591,
+      "score": 0.856,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Omicron",
+      "start": 23.771,
+      "end": 24.271,
+      "score": 0.761,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "by",
+      "start": 24.871,
+      "end": 25.132,
+      "score": 0.903,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 25.252,
+      "end": 25.412,
+      "score": 0.47,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "group.",
+      "start": 25.452,
+      "end": 25.632,
+      "score": 0.55,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 26.772,
+      "end": 26.932,
+      "score": 0.743,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "you",
+      "start": 27.392,
+      "end": 27.512,
+      "score": 0.957,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "can",
+      "start": 27.552,
+      "end": 27.692,
+      "score": 0.99,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "see",
+      "start": 27.772,
+      "end": 28.052,
+      "score": 0.828,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 28.072,
+      "end": 28.573,
+      "score": 0.262,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "there",
+      "start": 28.633,
+      "end": 28.793,
+      "score": 0.7,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "are",
+      "start": 28.833,
+      "end": 28.933,
+      "score": 0.689,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "almost",
+      "start": 28.973,
+      "end": 29.273,
+      "score": 0.79,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "no",
+      "start": 29.433,
+      "end": 29.613,
+      "score": 0.94,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "bars",
+      "start": 29.673,
+      "end": 30.073,
+      "score": 0.733,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 30.833,
+      "end": 30.933,
+      "score": 0.75,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 31.093,
+      "end": 31.173,
+      "score": 0.99,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "youngest",
+      "start": 31.213,
+      "end": 31.573,
+      "score": 0.789,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 31.593,
+      "end": 31.653,
+      "score": 0.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "groups,",
+      "start": 32.014,
+      "end": 32.314,
+      "score": 0.726,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 32.374,
+      "end": 32.474,
+      "score": 0.783,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that's",
+      "start": 32.494,
+      "end": 32.694,
+      "score": 0.911,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "because",
+      "start": 32.754,
+      "end": 33.214,
+      "score": 0.842,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "there",
+      "start": 33.534,
+      "end": 33.694,
+      "score": 0.797,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 33.754,
+      "end": 33.834,
+      "score": 0.67,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "almost",
+      "start": 33.914,
+      "end": 34.214,
+      "score": 0.905,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "no",
+      "start": 34.334,
+      "end": 34.474,
+      "score": 0.966,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality.",
+      "start": 34.534,
+      "end": 35.094,
+      "score": 0.855,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 35.114,
+      "end": 35.174,
+      "score": 0.792,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 35.194,
+      "end": 35.255,
+      "score": 0.862,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 35.315,
+      "end": 35.855,
+      "score": 0.798,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 36.255,
+      "end": 36.415,
+      "score": 0.681,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "exists",
+      "start": 36.475,
+      "end": 36.875,
+      "score": 0.862,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 36.935,
+      "end": 37.015,
+      "score": 0.68,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "those",
+      "start": 37.055,
+      "end": 37.255,
+      "score": 0.895,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 37.355,
+      "end": 37.495,
+      "score": 0.547,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "groups",
+      "start": 37.515,
+      "end": 37.795,
+      "score": 0.614,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 38.255,
+      "end": 38.355,
+      "score": 0.673,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "due",
+      "start": 38.435,
+      "end": 38.676,
+      "score": 0.625,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 38.776,
+      "end": 38.976,
+      "score": 0.663,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "chronic",
+      "start": 39.176,
+      "end": 39.536,
+      "score": 0.937,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "conditions",
+      "start": 39.656,
+      "end": 40.196,
+      "score": 0.742,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "such",
+      "start": 40.256,
+      "end": 40.436,
+      "score": 0.909,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "as",
+      "start": 40.496,
+      "end": 40.616,
+      "score": 0.637,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "obesity,",
+      "start": 40.876,
+      "end": 41.476,
+      "score": 0.853,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "diabetes,",
+      "start": 41.536,
+      "end": 42.257,
+      "score": 0.778,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "chronic",
+      "start": 42.377,
+      "end": 42.697,
+      "score": 0.791,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "heart",
+      "start": 42.717,
+      "end": 42.917,
+      "score": 0.876,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "disease,",
+      "start": 42.957,
+      "end": 43.337,
+      "score": 0.873,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "chronic",
+      "start": 43.377,
+      "end": 43.637,
+      "score": 0.677,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "kidney",
+      "start": 43.657,
+      "end": 43.977,
+      "score": 0.581,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "disease,",
+      "start": 43.997,
+      "end": 44.377,
+      "score": 0.902,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "immunocompromised.",
+      "start": 44.977,
+      "end": 45.938,
+      "score": 0.791,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Almost",
+      "start": 46.578,
+      "end": 46.858,
+      "score": 0.802,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "entirely",
+      "start": 46.958,
+      "end": 47.478,
+      "score": 0.808,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 47.878,
+      "end": 47.938,
+      "score": 0.778,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "those",
+      "start": 47.978,
+      "end": 48.198,
+      "score": 0.79,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 48.258,
+      "end": 48.418,
+      "score": 0.521,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "groups,",
+      "start": 48.438,
+      "end": 48.698,
+      "score": 0.794,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 48.778,
+      "end": 48.898,
+      "score": 0.526,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "even",
+      "start": 48.959,
+      "end": 49.179,
+      "score": 0.69,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 49.379,
+      "end": 49.439,
+      "score": 0.778,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 49.519,
+      "end": 49.599,
+      "score": 0.832,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "older",
+      "start": 49.679,
+      "end": 49.919,
+      "score": 0.889,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 49.979,
+      "end": 50.119,
+      "score": 0.684,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "groups,",
+      "start": 50.159,
+      "end": 50.439,
+      "score": 0.781,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 50.899,
+      "end": 50.999,
+      "score": 0.959,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 51.039,
+      "end": 51.68,
+      "score": 0.828,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 51.74,
+      "end": 51.84,
+      "score": 0.736,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "among",
+      "start": 51.941,
+      "end": 52.221,
+      "score": 0.878,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "people",
+      "start": 52.261,
+      "end": 52.561,
+      "score": 0.831,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "who",
+      "start": 52.581,
+      "end": 52.641,
+      "score": 0.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 52.922,
+      "end": 53.082,
+      "score": 0.848,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "multiple",
+      "start": 53.162,
+      "end": 53.583,
+      "score": 0.877,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "chronic",
+      "start": 53.643,
+      "end": 53.963,
+      "score": 0.914,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "conditions.",
+      "start": 54.003,
+      "end": 54.544,
+      "score": 0.969,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "But",
+      "start": 55.565,
+      "end": 55.685,
+      "score": 0.847,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 55.745,
+      "end": 55.825,
+      "score": 0.998,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "point",
+      "start": 55.865,
+      "end": 56.106,
+      "score": 0.911,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 56.146,
+      "end": 56.186,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "this",
+      "start": 56.246,
+      "end": 56.406,
+      "score": 0.771,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 56.606,
+      "end": 56.826,
+      "score": 0.762,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 56.987,
+      "end": 57.267,
+      "score": 0.915,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "when",
+      "start": 57.948,
+      "end": 58.088,
+      "score": 0.733,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "you",
+      "start": 58.108,
+      "end": 58.228,
+      "score": 0.854,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 58.268,
+      "end": 58.448,
+      "score": 0.786,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "such",
+      "start": 58.488,
+      "end": 58.689,
+      "score": 0.837,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "low",
+      "start": 59.029,
+      "end": 59.309,
+      "score": 0.802,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "or",
+      "start": 59.369,
+      "end": 59.45,
+      "score": 0.85,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "non-existent",
+      "start": 59.49,
+      "end": 60.11,
+      "score": 0.647,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 60.15,
+      "end": 60.771,
+      "score": 0.807,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 60.811,
+      "end": 60.891,
+      "score": 0.715,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "these",
+      "start": 60.931,
+      "end": 61.092,
+      "score": 0.72,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "low",
+      "start": 61.192,
+      "end": 61.452,
+      "score": 0.727,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 61.552,
+      "end": 61.732,
+      "score": 0.964,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "groups,",
+      "start": 61.792,
+      "end": 62.053,
+      "score": 0.871,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 63.085,
+      "end": 63.225,
+      "score": 0.974,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "potential",
+      "start": 63.565,
+      "end": 64.145,
+      "score": 0.935,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "serious",
+      "start": 64.765,
+      "end": 65.165,
+      "score": 0.795,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "adverse",
+      "start": 65.285,
+      "end": 65.646,
+      "score": 0.754,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "effects",
+      "start": 65.806,
+      "end": 66.166,
+      "score": 0.882,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 66.326,
+      "end": 66.426,
+      "score": 0.788,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 66.466,
+      "end": 66.566,
+      "score": 0.873,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccine",
+      "start": 66.646,
+      "end": 67.166,
+      "score": 0.843,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "will",
+      "start": 67.606,
+      "end": 68.026,
+      "score": 0.799,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "surmount",
+      "start": 68.246,
+      "end": 68.746,
+      "score": 0.927,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 69.026,
+      "end": 69.206,
+      "score": 0.928,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "non-existent",
+      "start": 69.566,
+      "end": 70.186,
+      "score": 0.89,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 70.246,
+      "end": 70.827,
+      "score": 0.824,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 70.867,
+      "end": 70.927,
+      "score": 0.874,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "these",
+      "start": 70.987,
+      "end": 71.147,
+      "score": 0.767,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 71.227,
+      "end": 71.307,
+      "score": 0.332,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "groups.",
+      "start": 71.327,
+      "end": 71.587,
+      "score": 0.665,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 72.067,
+      "end": 72.147,
+      "score": 0.932,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "therefore,",
+      "start": 72.207,
+      "end": 72.707,
+      "score": 0.8,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "what",
+      "start": 73.047,
+      "end": 73.187,
+      "score": 0.91,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "we've",
+      "start": 73.207,
+      "end": 73.367,
+      "score": 0.799,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "been",
+      "start": 73.387,
+      "end": 73.567,
+      "score": 0.833,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "told",
+      "start": 73.627,
+      "end": 73.927,
+      "score": 0.773,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 74.047,
+      "end": 74.207,
+      "score": 0.696,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "everybody",
+      "start": 74.287,
+      "end": 74.667,
+      "score": 0.879,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "has",
+      "start": 74.707,
+      "end": 74.847,
+      "score": 0.722,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 74.867,
+      "end": 74.927,
+      "score": 0.748,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "be",
+      "start": 74.947,
+      "end": 75.027,
+      "score": 0.828,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccinated,",
+      "start": 75.087,
+      "end": 75.708,
+      "score": 0.956,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 75.748,
+      "end": 75.888,
+      "score": 0.752,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "all",
+      "start": 75.928,
+      "end": 76.068,
+      "score": 0.679,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "these",
+      "start": 76.108,
+      "end": 76.248,
+      "score": 0.83,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "approvals",
+      "start": 76.308,
+      "end": 76.828,
+      "score": 0.802,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "for",
+      "start": 76.908,
+      "end": 77.048,
+      "score": 0.846,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 77.088,
+      "end": 77.148,
+      "score": 0.997,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccines",
+      "start": 77.188,
+      "end": 77.808,
+      "score": 0.776,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 77.908,
+      "end": 78.088,
+      "score": 0.904,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 78.128,
+      "end": 78.248,
+      "score": 0.953,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "pushed",
+      "start": 78.868,
+      "end": 79.088,
+      "score": 0.826,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "their",
+      "start": 79.108,
+      "end": 79.268,
+      "score": 0.787,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "way",
+      "start": 79.308,
+      "end": 79.428,
+      "score": 0.952,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "down",
+      "start": 79.548,
+      "end": 79.808,
+      "score": 0.917,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "into",
+      "start": 79.868,
+      "end": 80.069,
+      "score": 0.858,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 80.109,
+      "end": 80.189,
+      "score": 0.831,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "youngest",
+      "start": 80.229,
+      "end": 80.529,
+      "score": 0.746,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "age",
+      "start": 80.549,
+      "end": 80.609,
+      "score": 0.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "groups",
+      "start": 80.829,
+      "end": 81.129,
+      "score": 0.715,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "had",
+      "start": 81.529,
+      "end": 81.669,
+      "score": 0.807,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "no",
+      "start": 81.729,
+      "end": 81.869,
+      "score": 0.902,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "reason",
+      "start": 81.929,
+      "end": 82.229,
+      "score": 0.839,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 82.269,
+      "end": 82.369,
+      "score": 0.594,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "be",
+      "start": 82.409,
+      "end": 82.529,
+      "score": 0.994,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "there",
+      "start": 82.589,
+      "end": 82.809,
+      "score": 0.625,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 82.829,
+      "end": 82.909,
+      "score": 0.499,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 82.949,
+      "end": 83.029,
+      "score": 0.831,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "first",
+      "start": 83.069,
+      "end": 83.269,
+      "score": 0.865,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "place",
+      "start": 83.349,
+      "end": 83.609,
+      "score": 0.786,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "because",
+      "start": 83.689,
+      "end": 83.949,
+      "score": 0.851,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "there",
+      "start": 83.969,
+      "end": 84.109,
+      "score": 0.807,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "was",
+      "start": 84.149,
+      "end": 84.269,
+      "score": 0.612,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "no",
+      "start": 84.329,
+      "end": 84.489,
+      "score": 0.871,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 84.569,
+      "end": 85.15,
+      "score": 0.825,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 85.21,
+      "end": 85.33,
+      "score": 0.801,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "they",
+      "start": 85.37,
+      "end": 85.49,
+      "score": 0.855,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "were",
+      "start": 85.51,
+      "end": 85.61,
+      "score": 0.997,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "trying",
+      "start": 85.65,
+      "end": 85.93,
+      "score": 0.809,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 86.31,
+      "end": 86.41,
+      "score": 0.952,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "prevent.",
+      "start": 86.47,
+      "end": 86.87,
+      "score": 0.899,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "We",
+      "start": 87.33,
+      "end": 87.43,
+      "score": 0.821,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "already",
+      "start": 87.47,
+      "end": 87.71,
+      "score": 0.797,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "know",
+      "start": 87.75,
+      "end": 87.97,
+      "score": 0.681,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 88.01,
+      "end": 88.13,
+      "score": 0.75,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 88.17,
+      "end": 88.25,
+      "score": 0.921,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccines",
+      "start": 88.29,
+      "end": 88.831,
+      "score": 0.697,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "don't",
+      "start": 88.871,
+      "end": 89.071,
+      "score": 0.63,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "prevent",
+      "start": 89.131,
+      "end": 89.471,
+      "score": 0.786,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "spread",
+      "start": 89.551,
+      "end": 89.931,
+      "score": 0.962,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "as",
+      "start": 90.171,
+      "end": 90.351,
+      "score": 0.642,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 90.451,
+      "end": 90.551,
+      "score": 0.833,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "CDC",
+      "start": 90.591,
+      "end": 91.112,
+      "score": 0.708,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "said",
+      "start": 91.152,
+      "end": 91.372,
+      "score": 0.668,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "on",
+      "start": 91.452,
+      "end": 91.572,
+      "score": 0.61,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "August",
+      "start": 91.652,
+      "end": 91.952,
+      "score": 0.82,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "11th.",
+      "start": 92.092,
+      "end": 92.392,
+      "score": 0.807,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "They",
+      "start": 92.772,
+      "end": 92.852,
+      "score": 0.626,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "don't",
+      "start": 92.872,
+      "end": 93.012,
+      "score": 0.717,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "prevent",
+      "start": 93.052,
+      "end": 93.332,
+      "score": 0.876,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "transmission.",
+      "start": 93.372,
+      "end": 93.973,
+      "score": 0.864,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "So",
+      "start": 94.013,
+      "end": 94.153,
+      "score": 0.895,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 94.173,
+      "end": 94.253,
+      "score": 0.834,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "only",
+      "start": 94.313,
+      "end": 94.473,
+      "score": 0.706,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "point",
+      "start": 94.533,
+      "end": 94.753,
+      "score": 0.847,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 94.793,
+      "end": 94.853,
+      "score": 0.994,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "them",
+      "start": 94.893,
+      "end": 95.053,
+      "score": 0.926,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 95.493,
+      "end": 95.593,
+      "score": 0.592,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "for",
+      "start": 95.653,
+      "end": 95.874,
+      "score": 0.801,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "personal",
+      "start": 95.974,
+      "end": 96.354,
+      "score": 0.875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "protection",
+      "start": 96.394,
+      "end": 96.914,
+      "score": 0.903,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "as",
+      "start": 96.994,
+      "end": 97.114,
+      "score": 0.862,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "treatment",
+      "start": 97.174,
+      "end": 97.574,
+      "score": 0.927,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "if",
+      "start": 97.614,
+      "end": 97.714,
+      "score": 0.775,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "one",
+      "start": 97.854,
+      "end": 97.954,
+      "score": 0.91,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "wants",
+      "start": 97.994,
+      "end": 98.234,
+      "score": 0.722,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 98.274,
+      "end": 98.375,
+      "score": 0.997,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "choose",
+      "start": 98.415,
+      "end": 98.655,
+      "score": 0.871,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that.",
+      "start": 98.695,
+      "end": 98.895,
+      "score": 0.989,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 99.335,
+      "end": 99.415,
+      "score": 0.944,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "yet",
+      "start": 99.455,
+      "end": 99.615,
+      "score": 0.837,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "there's",
+      "start": 99.655,
+      "end": 99.855,
+      "score": 0.881,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "no",
+      "start": 99.895,
+      "end": 100.015,
+      "score": 0.895,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "reason",
+      "start": 100.055,
+      "end": 100.355,
+      "score": 0.731,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 100.395,
+      "end": 100.455,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "choose",
+      "start": 100.495,
+      "end": 100.735,
+      "score": 0.83,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 100.775,
+      "end": 100.976,
+      "score": 0.848,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "when",
+      "start": 101.036,
+      "end": 101.176,
+      "score": 0.953,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 101.216,
+      "end": 101.276,
+      "score": 0.964,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mortality",
+      "start": 101.336,
+      "end": 101.956,
+      "score": 0.787,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "from",
+      "start": 102.516,
+      "end": 102.776,
+      "score": 0.705,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 103.216,
+      "end": 103.317,
+      "score": 0.847,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "infection",
+      "start": 103.377,
+      "end": 103.877,
+      "score": 0.862,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "is",
+      "start": 104.317,
+      "end": 104.437,
+      "score": 0.974,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "orders",
+      "start": 104.997,
+      "end": 105.237,
+      "score": 0.777,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 105.277,
+      "end": 105.337,
+      "score": 0.758,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "magnitude",
+      "start": 105.397,
+      "end": 105.858,
+      "score": 0.918,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "less",
+      "start": 105.898,
+      "end": 106.118,
+      "score": 0.892,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "than",
+      "start": 106.158,
+      "end": 106.278,
+      "score": 0.996,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "it",
+      "start": 106.318,
+      "end": 106.358,
+      "score": 0.995,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "would",
+      "start": 106.398,
+      "end": 106.558,
+      "score": 0.951,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "be",
+      "start": 106.598,
+      "end": 106.718,
+      "score": 0.876,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "from",
+      "start": 106.778,
+      "end": 106.918,
+      "score": 0.9,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 106.938,
+      "end": 107.018,
+      "score": 0.836,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "vaccine.",
+      "start": 107.058,
+      "end": 107.558,
+      "score": 0.758,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "And",
+      "start": 107.978,
+      "end": 108.078,
+      "score": 0.638,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that's",
+      "start": 108.258,
+      "end": 108.459,
+      "score": 0.87,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "what",
+      "start": 108.479,
+      "end": 108.599,
+      "score": 0.408,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "this",
+      "start": 108.619,
+      "end": 108.759,
+      "score": 0.684,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "chart",
+      "start": 108.779,
+      "end": 108.979,
+      "score": 0.676,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "shows.",
+      "start": 108.999,
+      "end": 109.259,
+      "score": 0.549,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "So",
+      "start": 109.654,
+      "end": 110.075,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "real",
+      "start": 110.115,
+      "end": 110.315,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "quick",
+      "start": 110.375,
+      "end": 110.616,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 110.636,
+      "end": 110.696,
+      "score": 0.724,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "look",
+      "start": 110.736,
+      "end": 110.856,
+      "score": 0.862,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 110.896,
+      "end": 110.936,
+      "score": 0.634,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 110.956,
+      "end": 111.016,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "numbers,",
+      "start": 111.056,
+      "end": 111.437,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "standard",
+      "start": 112.579,
+      "end": 112.98,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "flu",
+      "start": 113.04,
+      "end": 113.3,
+      "score": 0.762,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "season",
+      "start": 113.34,
+      "end": 113.701,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 113.741,
+      "end": 113.901,
+      "score": 0.775,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 113.961,
+      "end": 114.162,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "level",
+      "start": 114.182,
+      "end": 114.462,
+      "score": 0.759,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 114.482,
+      "end": 114.522,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "mortality",
+      "start": 114.542,
+      "end": 115.083,
+      "score": 0.872,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "compared",
+      "start": 115.123,
+      "end": 115.624,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to,",
+      "start": 115.644,
+      "end": 115.704,
+      "score": 0.308,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "again,",
+      "start": 115.764,
+      "end": 116.065,
+      "score": 0.555,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "you've",
+      "start": 116.105,
+      "end": 116.265,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "got",
+      "start": 116.285,
+      "end": 116.405,
+      "score": 0.98,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "0",
+      "start": 116.425,
+      "end": 116.445,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 116.465,
+      "end": 116.505,
+      "score": 0.004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "17.01,",
+      "start": 117.066,
+      "end": 118.97,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "18",
+      "start": 118.99,
+      "end": 119.03,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 119.791,
+      "end": 120.312,
+      "score": 0.517,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "29.05,",
+      "start": 120.452,
+      "end": 121.834,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "30",
+      "start": 121.854,
+      "end": 121.895,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 122.475,
+      "end": 122.976,
+      "score": 0.444,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "39.15.",
+      "start": 123.016,
+      "end": 124.118,
+      "score": 0.552,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "What's",
+      "start": 124.138,
+      "end": 124.319,
+      "score": 0.776,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 124.339,
+      "end": 124.419,
+      "score": 0.209,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "standard",
+      "start": 124.439,
+      "end": 124.779,
+      "score": 0.557,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "flu",
+      "start": 124.799,
+      "end": 125.0,
+      "score": 0.749,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "season?",
+      "start": 125.02,
+      "end": 125.36,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It's",
+      "start": 126.442,
+      "end": 126.582,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "comparable",
+      "start": 126.703,
+      "end": 127.143,
+      "score": 0.613,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 127.183,
+      "end": 127.284,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this,",
+      "start": 127.344,
+      "end": 128.245,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "possibly",
+      "start": 128.285,
+      "end": 128.746,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "plus",
+      "start": 128.786,
+      "end": 128.946,
+      "score": 0.785,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 129.026,
+      "end": 129.087,
+      "score": 0.678,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "minus.",
+      "start": 129.127,
+      "end": 129.347,
+      "score": 0.716,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

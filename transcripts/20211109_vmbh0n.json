@@ -1,177 +1,746 @@
 {
-  "text": " There is no reason to vaccinate children. They don't have a risk of disease. Number two, natural immunity is superior to vaccine induced immunity full stop. And don't vaccinate those that have natural immunity. Number three, don't interfere with physicians that are providing life-saving medications to their patients. Stop it.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 3.44,
+      "start": 0.291,
+      "end": 2.552,
       "text": " There is no reason to vaccinate children.",
-      "tokens": [
-        50364,
-        821,
-        307,
-        572,
-        1778,
-        281,
-        3900,
-        13923,
-        2227,
-        13,
-        50536
+      "words": [
+        {
+          "word": "There",
+          "start": 0.291,
+          "end": 0.451,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 0.511,
+          "end": 0.591,
+          "score": 0.668,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "no",
+          "start": 0.671,
+          "end": 0.831,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "reason",
+          "start": 0.931,
+          "end": 1.311,
+          "score": 0.811,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 1.371,
+          "end": 1.452,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinate",
+          "start": 1.512,
+          "end": 2.072,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "children.",
+          "start": 2.132,
+          "end": 2.552,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5216917196909586,
-      "compression_ratio": 1.0410958904109588,
-      "no_speech_prob": 0.10599704831838608
+      "avg_logprob": -0.06176403726356617,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 3.44,
-      "end": 5.6000000000000005,
-      "text": " They don't have a risk of disease.",
-      "tokens": [
-        50536,
-        814,
-        500,
-        380,
-        362,
-        257,
-        3148,
-        295,
-        4752,
-        13,
-        50644
+      "start": 3.612,
+      "end": 5.313,
+      "text": "They don't have a risk of disease.",
+      "words": [
+        {
+          "word": "They",
+          "start": 3.612,
+          "end": 3.772,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 3.832,
+          "end": 4.073,
+          "score": 0.685,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 4.113,
+          "end": 4.293,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 4.353,
+          "end": 4.373,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "risk",
+          "start": 4.433,
+          "end": 4.653,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 4.713,
+          "end": 4.773,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "disease.",
+          "start": 4.813,
+          "end": 5.313,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5216917196909586,
-      "compression_ratio": 1.0410958904109588,
-      "no_speech_prob": 0.10599704831838608
+      "avg_logprob": -0.06176403726356617,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 560,
-      "start": 5.6,
-      "end": 18.6,
-      "text": " Number two, natural immunity is superior to vaccine induced immunity full stop.",
-      "tokens": [
-        50364,
-        5118,
-        732,
-        11,
-        3303,
-        22701,
-        307,
-        13028,
-        281,
-        7007,
-        33991,
-        22701,
-        1577,
-        1590,
-        13,
-        51014
+      "start": 11.655,
+      "end": 17.718,
+      "text": "Number two, natural immunity is superior to vaccine-induced immunity full stop.",
+      "words": [
+        {
+          "word": "Number",
+          "start": 11.655,
+          "end": 11.915,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "two,",
+          "start": 11.995,
+          "end": 12.296,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 13.636,
+          "end": 14.036,
+          "score": 0.906,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 14.076,
+          "end": 14.496,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 14.616,
+          "end": 14.676,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "superior",
+          "start": 14.736,
+          "end": 15.297,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 15.357,
+          "end": 15.437,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccine-induced",
+          "start": 15.497,
+          "end": 16.397,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity",
+          "start": 16.457,
+          "end": 16.877,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "full",
+          "start": 16.997,
+          "end": 17.237,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stop.",
+          "start": 17.317,
+          "end": 17.718,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3177966101694915,
-      "compression_ratio": 1.4970059880239521,
-      "no_speech_prob": 0.04132973775267601
+      "avg_logprob": -0.06176403726356617,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 560,
-      "start": 18.6,
-      "end": 22.159999999999997,
-      "text": " And don't vaccinate those that have natural immunity.",
-      "tokens": [
-        51014,
-        400,
-        500,
-        380,
-        3900,
-        13923,
-        729,
-        300,
-        362,
-        3303,
-        22701,
-        13,
-        51192
+      "start": 18.518,
+      "end": 21.319,
+      "text": "And don't vaccinate those that have natural immunity.",
+      "words": [
+        {
+          "word": "And",
+          "start": 18.518,
+          "end": 18.618,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 18.718,
+          "end": 18.938,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "vaccinate",
+          "start": 19.018,
+          "end": 19.678,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "those",
+          "start": 19.738,
+          "end": 19.958,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 20.018,
+          "end": 20.138,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 20.199,
+          "end": 20.439,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "natural",
+          "start": 20.519,
+          "end": 20.879,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "immunity.",
+          "start": 20.899,
+          "end": 21.319,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3177966101694915,
-      "compression_ratio": 1.4970059880239521,
-      "no_speech_prob": 0.04132973775267601
+      "avg_logprob": -0.06176403726356617,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 560,
-      "start": 22.159999999999997,
-      "end": 27.4,
-      "text": " Number three, don't interfere with physicians that are providing life-saving medications",
-      "tokens": [
-        51192,
-        5118,
-        1045,
-        11,
-        500,
-        380,
-        23946,
-        365,
-        21966,
-        300,
-        366,
-        6530,
-        993,
-        12,
-        82,
-        6152,
-        17504,
-        51454
+      "start": 21.959,
+      "end": 28.382,
+      "text": "Number three, don't interfere with physicians that are providing life-saving medications to their patients.",
+      "words": [
+        {
+          "word": "Number",
+          "start": 21.959,
+          "end": 22.259,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "three,",
+          "start": 22.359,
+          "end": 22.699,
+          "score": 0.782,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 23.16,
+          "end": 23.42,
+          "score": 0.621,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "interfere",
+          "start": 23.52,
+          "end": 24.0,
+          "score": 0.823,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 24.08,
+          "end": 24.22,
+          "score": 0.709,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "physicians",
+          "start": 24.28,
+          "end": 24.84,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 24.88,
+          "end": 24.98,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 25.02,
+          "end": 25.1,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "providing",
+          "start": 25.14,
+          "end": 25.601,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "life-saving",
+          "start": 25.761,
+          "end": 26.601,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "medications",
+          "start": 26.661,
+          "end": 27.461,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 27.541,
+          "end": 27.641,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 27.681,
+          "end": 27.841,
+          "score": 0.861,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients.",
+          "start": 27.881,
+          "end": 28.382,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3177966101694915,
-      "compression_ratio": 1.4970059880239521,
-      "no_speech_prob": 0.04132973775267601
+      "avg_logprob": -0.06176403726356617,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 560,
-      "start": 27.4,
-      "end": 29.159999999999997,
-      "text": " to their patients.",
-      "tokens": [
-        51454,
-        281,
-        641,
-        4209,
-        13,
-        51542
+      "start": 28.882,
+      "end": 29.342,
+      "text": "Stop it.",
+      "words": [
+        {
+          "word": "Stop",
+          "start": 28.882,
+          "end": 29.222,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 29.282,
+          "end": 29.342,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3177966101694915,
-      "compression_ratio": 1.4970059880239521,
-      "no_speech_prob": 0.04132973775267601
-    },
-    {
-      "id": 6,
-      "seek": 560,
-      "start": 29.159999999999997,
-      "end": 32.160000000000004,
-      "text": " Stop it.",
-      "tokens": [
-        51542,
-        5535,
-        309,
-        13,
-        51692
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3177966101694915,
-      "compression_ratio": 1.4970059880239521,
-      "no_speech_prob": 0.04132973775267601
+      "avg_logprob": -0.06176403726356617,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "There",
+      "start": 0.291,
+      "end": 0.451,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 0.511,
+      "end": 0.591,
+      "score": 0.668,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "no",
+      "start": 0.671,
+      "end": 0.831,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "reason",
+      "start": 0.931,
+      "end": 1.311,
+      "score": 0.811,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 1.371,
+      "end": 1.452,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinate",
+      "start": 1.512,
+      "end": 2.072,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "children.",
+      "start": 2.132,
+      "end": 2.552,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 3.612,
+      "end": 3.772,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 3.832,
+      "end": 4.073,
+      "score": 0.685,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 4.113,
+      "end": 4.293,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 4.353,
+      "end": 4.373,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "risk",
+      "start": 4.433,
+      "end": 4.653,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 4.713,
+      "end": 4.773,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "disease.",
+      "start": 4.813,
+      "end": 5.313,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Number",
+      "start": 11.655,
+      "end": 11.915,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "two,",
+      "start": 11.995,
+      "end": 12.296,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 13.636,
+      "end": 14.036,
+      "score": 0.906,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 14.076,
+      "end": 14.496,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 14.616,
+      "end": 14.676,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "superior",
+      "start": 14.736,
+      "end": 15.297,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 15.357,
+      "end": 15.437,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccine-induced",
+      "start": 15.497,
+      "end": 16.397,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity",
+      "start": 16.457,
+      "end": 16.877,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "full",
+      "start": 16.997,
+      "end": 17.237,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stop.",
+      "start": 17.317,
+      "end": 17.718,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 18.518,
+      "end": 18.618,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 18.718,
+      "end": 18.938,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "vaccinate",
+      "start": 19.018,
+      "end": 19.678,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "those",
+      "start": 19.738,
+      "end": 19.958,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 20.018,
+      "end": 20.138,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 20.199,
+      "end": 20.439,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "natural",
+      "start": 20.519,
+      "end": 20.879,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "immunity.",
+      "start": 20.899,
+      "end": 21.319,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Number",
+      "start": 21.959,
+      "end": 22.259,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "three,",
+      "start": 22.359,
+      "end": 22.699,
+      "score": 0.782,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 23.16,
+      "end": 23.42,
+      "score": 0.621,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "interfere",
+      "start": 23.52,
+      "end": 24.0,
+      "score": 0.823,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 24.08,
+      "end": 24.22,
+      "score": 0.709,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "physicians",
+      "start": 24.28,
+      "end": 24.84,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 24.88,
+      "end": 24.98,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 25.02,
+      "end": 25.1,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "providing",
+      "start": 25.14,
+      "end": 25.601,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "life-saving",
+      "start": 25.761,
+      "end": 26.601,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "medications",
+      "start": 26.661,
+      "end": 27.461,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 27.541,
+      "end": 27.641,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 27.681,
+      "end": 27.841,
+      "score": 0.861,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients.",
+      "start": 27.881,
+      "end": 28.382,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Stop",
+      "start": 28.882,
+      "end": 29.222,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 29.282,
+      "end": 29.342,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

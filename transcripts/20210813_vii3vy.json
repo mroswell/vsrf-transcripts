@@ -1,379 +1,2479 @@
 {
-  "text": " A lot of the patients that I treat are suffering from stroke and heart attack, hip replacement, knee replacement, things of that nature. So when these people get admitted to the hospital, they have to take a PCR test first. So someone experiencing a heart attack will be picked up by the ambulance taken to the hospital. The hospital will administer a PCR test. If the PCR test comes back positive, they admit this patient as a COVID patient. They don't admit them as a heart attack patient. They don't admit them for myocardial infarction. That's kind of weird. I've had stroke patients that I've treated that were admitted to or taken to the hospital for stroke. But when they get there, PCR test says positive. So they're labeled as a COVID admission. Even though when they were there, they were never treated for COVID, they were asymptomatic, and they were only treated for their stroke. So there's just this huge misrepresentation, just a complete fraud with this system.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 7.04,
-      "text": " A lot of the patients that I treat are suffering from stroke and heart attack, hip replacement,",
-      "tokens": [
-        50364,
-        316,
-        688,
-        295,
-        264,
-        4209,
-        300,
-        286,
-        2387,
-        366,
-        7755,
-        490,
-        12403,
-        293,
-        1917,
-        2690,
-        11,
-        8103,
-        14419,
-        11,
-        50716
+      "start": 0.151,
+      "end": 9.38,
+      "text": " A lot of the patients that I treat are suffering from stroke and heart attack, hip replacement, knee replacement, things of that nature.",
+      "words": [
+        {
+          "word": "A",
+          "start": 0.151,
+          "end": 0.191,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lot",
+          "start": 0.251,
+          "end": 0.411,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 0.431,
+          "end": 0.491,
+          "score": 0.736,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 0.511,
+          "end": 0.592,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 0.632,
+          "end": 1.032,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 1.072,
+          "end": 1.192,
+          "score": 0.951,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I",
+          "start": 1.232,
+          "end": 1.312,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treat",
+          "start": 1.372,
+          "end": 1.652,
+          "score": 0.84,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 2.033,
+          "end": 2.133,
+          "score": 0.71,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "suffering",
+          "start": 2.193,
+          "end": 2.593,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 2.653,
+          "end": 2.914,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stroke",
+          "start": 3.594,
+          "end": 4.035,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 4.355,
+          "end": 4.475,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heart",
+          "start": 4.555,
+          "end": 4.735,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attack,",
+          "start": 4.775,
+          "end": 5.976,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hip",
+          "start": 6.277,
+          "end": 6.477,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "replacement,",
+          "start": 6.537,
+          "end": 7.158,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "knee",
+          "start": 7.178,
+          "end": 7.338,
+          "score": 0.55,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "replacement,",
+          "start": 7.398,
+          "end": 8.018,
+          "score": 0.88,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "things",
+          "start": 8.439,
+          "end": 8.659,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 8.699,
+          "end": 8.739,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 8.799,
+          "end": 8.959,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nature.",
+          "start": 8.999,
+          "end": 9.38,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08765905811673119,
-      "compression_ratio": 1.695852534562212,
-      "no_speech_prob": 0.025008030235767365
+      "avg_logprob": -0.04959031862274903,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 7.04,
-      "end": 12.16,
-      "text": " knee replacement, things of that nature. So when these people get admitted to the hospital,",
-      "tokens": [
-        50716,
-        9434,
-        14419,
-        11,
-        721,
-        295,
-        300,
-        3687,
-        13,
-        407,
-        562,
-        613,
-        561,
-        483,
-        14920,
-        281,
-        264,
-        4530,
-        11,
-        50972
+      "start": 10.2,
+      "end": 14.204,
+      "text": "So when these people get admitted to the hospital, they have to take a PCR test first.",
+      "words": [
+        {
+          "word": "So",
+          "start": 10.2,
+          "end": 10.32,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 10.34,
+          "end": 10.461,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "these",
+          "start": 10.501,
+          "end": 10.641,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "people",
+          "start": 10.681,
+          "end": 10.941,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 10.981,
+          "end": 11.121,
+          "score": 0.662,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admitted",
+          "start": 11.161,
+          "end": 11.481,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 11.522,
+          "end": 11.622,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 11.642,
+          "end": 11.722,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital,",
+          "start": 11.762,
+          "end": 12.242,
+          "score": 0.78,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 12.322,
+          "end": 12.482,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 12.522,
+          "end": 12.643,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 12.683,
+          "end": 12.763,
+          "score": 0.768,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "take",
+          "start": 12.803,
+          "end": 12.983,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 13.043,
+          "end": 13.063,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PCR",
+          "start": 13.103,
+          "end": 13.603,
+          "score": 0.731,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 13.643,
+          "end": 13.884,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "first.",
+          "start": 13.964,
+          "end": 14.204,
+          "score": 0.599,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08765905811673119,
-      "compression_ratio": 1.695852534562212,
-      "no_speech_prob": 0.025008030235767365
+      "avg_logprob": -0.04959031862274903,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 12.16,
-      "end": 18.96,
-      "text": " they have to take a PCR test first. So someone experiencing a heart attack will be picked up",
-      "tokens": [
-        50972,
-        436,
-        362,
-        281,
-        747,
-        257,
-        44022,
-        1500,
-        700,
-        13,
-        407,
-        1580,
-        11139,
-        257,
-        1917,
-        2690,
-        486,
-        312,
-        6183,
-        493,
-        51312
+      "start": 14.805,
+      "end": 20.99,
+      "text": "So someone experiencing a heart attack will be picked up by the ambulance, taken to the hospital.",
+      "words": [
+        {
+          "word": "So",
+          "start": 14.805,
+          "end": 14.985,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "someone",
+          "start": 15.445,
+          "end": 15.865,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "experiencing",
+          "start": 16.326,
+          "end": 17.087,
+          "score": 0.772,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 17.167,
+          "end": 17.227,
+          "score": 0.658,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heart",
+          "start": 17.267,
+          "end": 17.487,
+          "score": 0.616,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attack",
+          "start": 17.507,
+          "end": 17.867,
+          "score": 0.82,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 18.468,
+          "end": 18.628,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 18.668,
+          "end": 18.748,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "picked",
+          "start": 18.788,
+          "end": 18.988,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "up",
+          "start": 19.028,
+          "end": 19.108,
+          "score": 0.542,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 19.128,
+          "end": 19.249,
+          "score": 0.673,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 19.269,
+          "end": 19.349,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ambulance,",
+          "start": 19.429,
+          "end": 19.889,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taken",
+          "start": 19.949,
+          "end": 20.25,
+          "score": 0.715,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 20.29,
+          "end": 20.37,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 20.39,
+          "end": 20.47,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital.",
+          "start": 20.53,
+          "end": 20.99,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08765905811673119,
-      "compression_ratio": 1.695852534562212,
-      "no_speech_prob": 0.025008030235767365
+      "avg_logprob": -0.04959031862274903,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 18.96,
-      "end": 23.6,
-      "text": " by the ambulance taken to the hospital. The hospital will administer a PCR test. If the",
-      "tokens": [
-        51312,
-        538,
-        264,
-        26744,
-        2726,
-        281,
-        264,
-        4530,
-        13,
-        440,
-        4530,
-        486,
-        22096,
-        257,
-        44022,
-        1500,
-        13,
-        759,
-        264,
-        51544
+      "start": 21.351,
+      "end": 23.372,
+      "text": "The hospital will administer a PCR test.",
+      "words": [
+        {
+          "word": "The",
+          "start": 21.351,
+          "end": 21.451,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital",
+          "start": 21.491,
+          "end": 21.891,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "will",
+          "start": 21.911,
+          "end": 21.991,
+          "score": 0.018,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "administer",
+          "start": 22.011,
+          "end": 22.492,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 22.512,
+          "end": 22.532,
+          "score": 0.075,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PCR",
+          "start": 22.572,
+          "end": 23.052,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test.",
+          "start": 23.092,
+          "end": 23.372,
+          "score": 0.711,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08765905811673119,
-      "compression_ratio": 1.695852534562212,
-      "no_speech_prob": 0.025008030235767365
+      "avg_logprob": -0.04959031862274903,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 4,
-      "seek": 2360,
-      "start": 23.68,
-      "end": 31.44,
-      "text": " PCR test comes back positive, they admit this patient as a COVID patient. They don't admit",
-      "tokens": [
-        50368,
-        44022,
-        1500,
-        1487,
-        646,
-        3353,
-        11,
-        436,
-        9796,
-        341,
-        4537,
-        382,
-        257,
-        4566,
-        4537,
-        13,
-        814,
-        500,
-        380,
-        9796,
-        50756
+      "start": 23.533,
+      "end": 25.654,
+      "text": "If the PCR test comes back positive,",
+      "words": [
+        {
+          "word": "If",
+          "start": 23.533,
+          "end": 23.613,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 23.653,
+          "end": 23.733,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PCR",
+          "start": 23.793,
+          "end": 24.313,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 24.353,
+          "end": 24.634,
+          "score": 0.868,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "comes",
+          "start": 24.714,
+          "end": 24.894,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "back",
+          "start": 24.954,
+          "end": 25.134,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "positive,",
+          "start": 25.194,
+          "end": 25.654,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10206441555993032,
-      "compression_ratio": 1.8893280632411067,
-      "no_speech_prob": 0.01686275750398636
+      "avg_logprob": -0.04959031862274903,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 5,
-      "seek": 2360,
-      "start": 31.44,
-      "end": 38.0,
-      "text": " them as a heart attack patient. They don't admit them for myocardial infarction. That's kind of weird.",
-      "tokens": [
-        50756,
-        552,
-        382,
-        257,
-        1917,
-        2690,
-        4537,
-        13,
-        814,
-        500,
-        380,
-        9796,
-        552,
-        337,
-        452,
-        905,
-        515,
-        831,
-        1536,
-        289,
-        882,
-        13,
-        663,
-        311,
-        733,
-        295,
-        3657,
-        13,
-        51084
+      "start": 26.375,
+      "end": 30.539,
+      "text": " They admit this patient as a COVID patient.",
+      "words": [
+        {
+          "word": "They",
+          "start": 26.375,
+          "end": 26.655,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admit",
+          "start": 28.237,
+          "end": 28.497,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 28.537,
+          "end": 28.697,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patient",
+          "start": 28.757,
+          "end": 29.137,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 29.518,
+          "end": 29.618,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 29.678,
+          "end": 29.718,
+          "score": 0.513,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 29.778,
+          "end": 30.138,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patient.",
+          "start": 30.178,
+          "end": 30.539,
+          "score": 0.744,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10206441555993032,
-      "compression_ratio": 1.8893280632411067,
-      "no_speech_prob": 0.01686275750398636
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 6,
-      "seek": 2360,
-      "start": 38.0,
-      "end": 42.16,
-      "text": " I've had stroke patients that I've treated that were admitted to or taken to the hospital for",
-      "tokens": [
-        51084,
-        286,
-        600,
-        632,
-        12403,
-        4209,
-        300,
-        286,
-        600,
-        8668,
-        300,
-        645,
-        14920,
-        281,
-        420,
-        2726,
-        281,
-        264,
-        4530,
-        337,
-        51292
+      "start": 30.919,
+      "end": 33.641,
+      "text": "They don't admit them as a heart attack patient.",
+      "words": [
+        {
+          "word": "They",
+          "start": 30.919,
+          "end": 31.039,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 31.059,
+          "end": 31.199,
+          "score": 0.913,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admit",
+          "start": 31.279,
+          "end": 31.519,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 31.539,
+          "end": 31.639,
+          "score": 0.477,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 31.74,
+          "end": 31.82,
+          "score": 0.67,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 31.86,
+          "end": 31.9,
+          "score": 0.507,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heart",
+          "start": 31.96,
+          "end": 32.14,
+          "score": 0.679,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "attack",
+          "start": 32.16,
+          "end": 32.44,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patient.",
+          "start": 32.48,
+          "end": 33.641,
+          "score": 0.803,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10206441555993032,
-      "compression_ratio": 1.8893280632411067,
-      "no_speech_prob": 0.01686275750398636
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 7,
-      "seek": 2360,
-      "start": 42.16,
-      "end": 48.72,
-      "text": " stroke. But when they get there, PCR test says positive. So they're labeled as a COVID admission.",
-      "tokens": [
-        51292,
-        12403,
-        13,
-        583,
-        562,
-        436,
-        483,
-        456,
-        11,
-        44022,
-        1500,
-        1619,
-        3353,
-        13,
-        407,
-        436,
-        434,
-        21335,
-        382,
-        257,
-        4566,
-        24668,
-        13,
-        51620
+      "start": 33.721,
+      "end": 35.803,
+      "text": "They don't admit them for myocardial infarction.",
+      "words": [
+        {
+          "word": "They",
+          "start": 33.721,
+          "end": 33.841,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "don't",
+          "start": 33.861,
+          "end": 33.981,
+          "score": 0.275,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admit",
+          "start": 34.001,
+          "end": 34.202,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "them",
+          "start": 34.222,
+          "end": 34.342,
+          "score": 0.395,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 34.362,
+          "end": 34.482,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "myocardial",
+          "start": 34.542,
+          "end": 35.062,
+          "score": 0.65,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "infarction.",
+          "start": 35.102,
+          "end": 35.803,
+          "score": 0.521,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10206441555993032,
-      "compression_ratio": 1.8893280632411067,
-      "no_speech_prob": 0.01686275750398636
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 8,
-      "seek": 2360,
-      "start": 48.72,
-      "end": 52.88,
-      "text": " Even though when they were there, they were never treated for COVID, they were asymptomatic,",
-      "tokens": [
-        51620,
-        2754,
-        1673,
-        562,
-        436,
-        645,
-        456,
-        11,
-        436,
-        645,
-        1128,
-        8668,
-        337,
-        4566,
-        11,
-        436,
-        645,
-        35114,
-        13143,
-        11,
-        51828
+      "start": 36.924,
+      "end": 37.765,
+      "text": "That's kind of weird.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 36.924,
+          "end": 37.184,
+          "score": 0.733,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "kind",
+          "start": 37.244,
+          "end": 37.404,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 37.424,
+          "end": 37.484,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "weird.",
+          "start": 37.504,
+          "end": 37.765,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.10206441555993032,
-      "compression_ratio": 1.8893280632411067,
-      "no_speech_prob": 0.01686275750398636
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 9,
-      "seek": 5288,
-      "start": 52.88,
-      "end": 57.52,
-      "text": " and they were only treated for their stroke. So there's just this huge misrepresentation,",
-      "tokens": [
-        50364,
-        293,
-        436,
-        645,
-        787,
-        8668,
-        337,
-        641,
-        12403,
-        13,
-        407,
-        456,
-        311,
-        445,
-        341,
-        2603,
-        3346,
-        19919,
-        11662,
-        399,
-        11,
-        50596
+      "start": 38.165,
+      "end": 45.771,
+      "text": "I've had stroke patients that I've treated that were admitted or taken to the hospital for stroke, but when they get there, PCR test says positive.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 38.165,
+          "end": 38.305,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "had",
+          "start": 38.345,
+          "end": 38.465,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stroke",
+          "start": 38.505,
+          "end": 38.785,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 38.805,
+          "end": 39.166,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 39.206,
+          "end": 39.306,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "I've",
+          "start": 39.326,
+          "end": 39.446,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treated",
+          "start": 39.486,
+          "end": 39.806,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 40.227,
+          "end": 40.407,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 40.447,
+          "end": 40.587,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admitted",
+          "start": 40.627,
+          "end": 40.947,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 40.987,
+          "end": 41.027,
+          "score": 0.232,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "taken",
+          "start": 41.308,
+          "end": 41.508,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 41.548,
+          "end": 41.608,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 41.628,
+          "end": 41.708,
+          "score": 0.779,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hospital",
+          "start": 41.768,
+          "end": 42.088,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 42.128,
+          "end": 42.228,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stroke,",
+          "start": 42.288,
+          "end": 42.549,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 42.589,
+          "end": 42.689,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 42.709,
+          "end": 42.809,
+          "score": 0.912,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 42.849,
+          "end": 42.969,
+          "score": 0.982,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 42.989,
+          "end": 43.129,
+          "score": 0.728,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there,",
+          "start": 43.189,
+          "end": 43.389,
+          "score": 0.825,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "PCR",
+          "start": 43.99,
+          "end": 44.45,
+          "score": 0.729,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "test",
+          "start": 44.49,
+          "end": 44.81,
+          "score": 0.85,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "says",
+          "start": 45.051,
+          "end": 45.251,
+          "score": 0.807,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "positive.",
+          "start": 45.311,
+          "end": 45.771,
+          "score": 0.866,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16648448597301135,
-      "compression_ratio": 1.2524271844660195,
-      "no_speech_prob": 0.03134611248970032
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 10,
-      "seek": 5288,
-      "start": 58.480000000000004,
-      "end": 61.6,
-      "text": " just a complete fraud with this system.",
-      "tokens": [
-        50644,
-        445,
-        257,
-        3566,
-        14560,
-        365,
-        341,
-        1185,
-        13,
-        50800
+      "start": 45.791,
+      "end": 48.554,
+      "text": "So they're labeled as a COVID admission.",
+      "words": [
+        {
+          "word": "So",
+          "start": 45.791,
+          "end": 45.951,
+          "score": 0.721,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they're",
+          "start": 45.971,
+          "end": 46.172,
+          "score": 0.703,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "labeled",
+          "start": 46.892,
+          "end": 47.273,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 47.393,
+          "end": 47.493,
+          "score": 0.628,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 47.553,
+          "end": 47.593,
+          "score": 0.556,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID",
+          "start": 47.673,
+          "end": 48.033,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admission.",
+          "start": 48.073,
+          "end": 48.554,
+          "score": 0.886,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.16648448597301135,
-      "compression_ratio": 1.2524271844660195,
-      "no_speech_prob": 0.03134611248970032
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.954,
+      "end": 51.516,
+      "text": "Even though when they were there, they were never treated for COVID.",
+      "words": [
+        {
+          "word": "Even",
+          "start": 48.954,
+          "end": 49.134,
+          "score": 0.83,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "though",
+          "start": 49.154,
+          "end": 49.394,
+          "score": 0.853,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "when",
+          "start": 49.534,
+          "end": 49.635,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 49.675,
+          "end": 49.795,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 49.835,
+          "end": 49.955,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there,",
+          "start": 49.975,
+          "end": 50.175,
+          "score": 0.844,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 50.215,
+          "end": 50.335,
+          "score": 0.773,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 50.355,
+          "end": 50.455,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "never",
+          "start": 50.495,
+          "end": 50.655,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treated",
+          "start": 50.715,
+          "end": 50.996,
+          "score": 0.531,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 51.036,
+          "end": 51.136,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "COVID.",
+          "start": 51.196,
+          "end": 51.516,
+          "score": 0.767,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 51.536,
+      "end": 52.577,
+      "text": "They were asymptomatic.",
+      "words": [
+        {
+          "word": "They",
+          "start": 51.536,
+          "end": 51.656,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 51.676,
+          "end": 51.796,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "asymptomatic.",
+          "start": 51.856,
+          "end": 52.577,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.07050781041383743,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 53.102,
+      "end": 54.77,
+      "text": " and they were only treated for their stroke.",
+      "words": [
+        {
+          "word": "and",
+          "start": 53.102,
+          "end": 53.203,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 53.243,
+          "end": 53.344,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "were",
+          "start": 53.384,
+          "end": 53.504,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "only",
+          "start": 53.544,
+          "end": 53.705,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treated",
+          "start": 53.765,
+          "end": 54.047,
+          "score": 0.909,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 54.087,
+          "end": 54.187,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 54.227,
+          "end": 54.388,
+          "score": 0.867,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stroke.",
+          "start": 54.428,
+          "end": 54.77,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.12681362086108752,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 55.252,
+      "end": 61.882,
+      "text": "So there's just this huge misrepresentation, just complete fraud with this system.",
+      "words": [
+        {
+          "word": "So",
+          "start": 55.252,
+          "end": 55.352,
+          "score": 0.87,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "there's",
+          "start": 55.373,
+          "end": 55.553,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 55.573,
+          "end": 55.734,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 55.794,
+          "end": 55.975,
+          "score": 0.822,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "huge",
+          "start": 56.096,
+          "end": 56.437,
+          "score": 0.816,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "misrepresentation,",
+          "start": 56.518,
+          "end": 57.683,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "just",
+          "start": 58.627,
+          "end": 59.029,
+          "score": 0.737,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "complete",
+          "start": 59.129,
+          "end": 59.511,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fraud",
+          "start": 59.612,
+          "end": 60.033,
+          "score": 0.972,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 61.138,
+          "end": 61.279,
+          "score": 0.488,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 61.299,
+          "end": 61.44,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "system.",
+          "start": 61.5,
+          "end": 61.882,
+          "score": 0.871,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.12681362086108752,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "A",
+      "start": 0.151,
+      "end": 0.191,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lot",
+      "start": 0.251,
+      "end": 0.411,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 0.431,
+      "end": 0.491,
+      "score": 0.736,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 0.511,
+      "end": 0.592,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 0.632,
+      "end": 1.032,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 1.072,
+      "end": 1.192,
+      "score": 0.951,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I",
+      "start": 1.232,
+      "end": 1.312,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treat",
+      "start": 1.372,
+      "end": 1.652,
+      "score": 0.84,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 2.033,
+      "end": 2.133,
+      "score": 0.71,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "suffering",
+      "start": 2.193,
+      "end": 2.593,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 2.653,
+      "end": 2.914,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stroke",
+      "start": 3.594,
+      "end": 4.035,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 4.355,
+      "end": 4.475,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heart",
+      "start": 4.555,
+      "end": 4.735,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attack,",
+      "start": 4.775,
+      "end": 5.976,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hip",
+      "start": 6.277,
+      "end": 6.477,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "replacement,",
+      "start": 6.537,
+      "end": 7.158,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "knee",
+      "start": 7.178,
+      "end": 7.338,
+      "score": 0.55,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "replacement,",
+      "start": 7.398,
+      "end": 8.018,
+      "score": 0.88,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "things",
+      "start": 8.439,
+      "end": 8.659,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 8.699,
+      "end": 8.739,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 8.799,
+      "end": 8.959,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nature.",
+      "start": 8.999,
+      "end": 9.38,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 10.2,
+      "end": 10.32,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 10.34,
+      "end": 10.461,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "these",
+      "start": 10.501,
+      "end": 10.641,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "people",
+      "start": 10.681,
+      "end": 10.941,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 10.981,
+      "end": 11.121,
+      "score": 0.662,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admitted",
+      "start": 11.161,
+      "end": 11.481,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 11.522,
+      "end": 11.622,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 11.642,
+      "end": 11.722,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital,",
+      "start": 11.762,
+      "end": 12.242,
+      "score": 0.78,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 12.322,
+      "end": 12.482,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 12.522,
+      "end": 12.643,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 12.683,
+      "end": 12.763,
+      "score": 0.768,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "take",
+      "start": 12.803,
+      "end": 12.983,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 13.043,
+      "end": 13.063,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PCR",
+      "start": 13.103,
+      "end": 13.603,
+      "score": 0.731,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 13.643,
+      "end": 13.884,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "first.",
+      "start": 13.964,
+      "end": 14.204,
+      "score": 0.599,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 14.805,
+      "end": 14.985,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "someone",
+      "start": 15.445,
+      "end": 15.865,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "experiencing",
+      "start": 16.326,
+      "end": 17.087,
+      "score": 0.772,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 17.167,
+      "end": 17.227,
+      "score": 0.658,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heart",
+      "start": 17.267,
+      "end": 17.487,
+      "score": 0.616,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attack",
+      "start": 17.507,
+      "end": 17.867,
+      "score": 0.82,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 18.468,
+      "end": 18.628,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 18.668,
+      "end": 18.748,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "picked",
+      "start": 18.788,
+      "end": 18.988,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "up",
+      "start": 19.028,
+      "end": 19.108,
+      "score": 0.542,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 19.128,
+      "end": 19.249,
+      "score": 0.673,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 19.269,
+      "end": 19.349,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ambulance,",
+      "start": 19.429,
+      "end": 19.889,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taken",
+      "start": 19.949,
+      "end": 20.25,
+      "score": 0.715,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 20.29,
+      "end": 20.37,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 20.39,
+      "end": 20.47,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital.",
+      "start": 20.53,
+      "end": 20.99,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 21.351,
+      "end": 21.451,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital",
+      "start": 21.491,
+      "end": 21.891,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "will",
+      "start": 21.911,
+      "end": 21.991,
+      "score": 0.018,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "administer",
+      "start": 22.011,
+      "end": 22.492,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 22.512,
+      "end": 22.532,
+      "score": 0.075,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PCR",
+      "start": 22.572,
+      "end": 23.052,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test.",
+      "start": 23.092,
+      "end": 23.372,
+      "score": 0.711,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "If",
+      "start": 23.533,
+      "end": 23.613,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 23.653,
+      "end": 23.733,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PCR",
+      "start": 23.793,
+      "end": 24.313,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 24.353,
+      "end": 24.634,
+      "score": 0.868,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "comes",
+      "start": 24.714,
+      "end": 24.894,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "back",
+      "start": 24.954,
+      "end": 25.134,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "positive,",
+      "start": 25.194,
+      "end": 25.654,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 26.375,
+      "end": 26.655,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admit",
+      "start": 28.237,
+      "end": 28.497,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 28.537,
+      "end": 28.697,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patient",
+      "start": 28.757,
+      "end": 29.137,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 29.518,
+      "end": 29.618,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 29.678,
+      "end": 29.718,
+      "score": 0.513,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 29.778,
+      "end": 30.138,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patient.",
+      "start": 30.178,
+      "end": 30.539,
+      "score": 0.744,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 30.919,
+      "end": 31.039,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 31.059,
+      "end": 31.199,
+      "score": 0.913,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admit",
+      "start": 31.279,
+      "end": 31.519,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 31.539,
+      "end": 31.639,
+      "score": 0.477,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 31.74,
+      "end": 31.82,
+      "score": 0.67,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 31.86,
+      "end": 31.9,
+      "score": 0.507,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heart",
+      "start": 31.96,
+      "end": 32.14,
+      "score": 0.679,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "attack",
+      "start": 32.16,
+      "end": 32.44,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patient.",
+      "start": 32.48,
+      "end": 33.641,
+      "score": 0.803,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 33.721,
+      "end": 33.841,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "don't",
+      "start": 33.861,
+      "end": 33.981,
+      "score": 0.275,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admit",
+      "start": 34.001,
+      "end": 34.202,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "them",
+      "start": 34.222,
+      "end": 34.342,
+      "score": 0.395,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 34.362,
+      "end": 34.482,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "myocardial",
+      "start": 34.542,
+      "end": 35.062,
+      "score": 0.65,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "infarction.",
+      "start": 35.102,
+      "end": 35.803,
+      "score": 0.521,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 36.924,
+      "end": 37.184,
+      "score": 0.733,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "kind",
+      "start": 37.244,
+      "end": 37.404,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 37.424,
+      "end": 37.484,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "weird.",
+      "start": 37.504,
+      "end": 37.765,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 38.165,
+      "end": 38.305,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "had",
+      "start": 38.345,
+      "end": 38.465,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stroke",
+      "start": 38.505,
+      "end": 38.785,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 38.805,
+      "end": 39.166,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 39.206,
+      "end": 39.306,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "I've",
+      "start": 39.326,
+      "end": 39.446,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treated",
+      "start": 39.486,
+      "end": 39.806,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 40.227,
+      "end": 40.407,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 40.447,
+      "end": 40.587,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admitted",
+      "start": 40.627,
+      "end": 40.947,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 40.987,
+      "end": 41.027,
+      "score": 0.232,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "taken",
+      "start": 41.308,
+      "end": 41.508,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 41.548,
+      "end": 41.608,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 41.628,
+      "end": 41.708,
+      "score": 0.779,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hospital",
+      "start": 41.768,
+      "end": 42.088,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 42.128,
+      "end": 42.228,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stroke,",
+      "start": 42.288,
+      "end": 42.549,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 42.589,
+      "end": 42.689,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 42.709,
+      "end": 42.809,
+      "score": 0.912,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 42.849,
+      "end": 42.969,
+      "score": 0.982,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 42.989,
+      "end": 43.129,
+      "score": 0.728,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there,",
+      "start": 43.189,
+      "end": 43.389,
+      "score": 0.825,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "PCR",
+      "start": 43.99,
+      "end": 44.45,
+      "score": 0.729,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "test",
+      "start": 44.49,
+      "end": 44.81,
+      "score": 0.85,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "says",
+      "start": 45.051,
+      "end": 45.251,
+      "score": 0.807,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "positive.",
+      "start": 45.311,
+      "end": 45.771,
+      "score": 0.866,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 45.791,
+      "end": 45.951,
+      "score": 0.721,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they're",
+      "start": 45.971,
+      "end": 46.172,
+      "score": 0.703,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "labeled",
+      "start": 46.892,
+      "end": 47.273,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 47.393,
+      "end": 47.493,
+      "score": 0.628,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 47.553,
+      "end": 47.593,
+      "score": 0.556,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID",
+      "start": 47.673,
+      "end": 48.033,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admission.",
+      "start": 48.073,
+      "end": 48.554,
+      "score": 0.886,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Even",
+      "start": 48.954,
+      "end": 49.134,
+      "score": 0.83,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "though",
+      "start": 49.154,
+      "end": 49.394,
+      "score": 0.853,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "when",
+      "start": 49.534,
+      "end": 49.635,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 49.675,
+      "end": 49.795,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 49.835,
+      "end": 49.955,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there,",
+      "start": 49.975,
+      "end": 50.175,
+      "score": 0.844,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 50.215,
+      "end": 50.335,
+      "score": 0.773,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 50.355,
+      "end": 50.455,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "never",
+      "start": 50.495,
+      "end": 50.655,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treated",
+      "start": 50.715,
+      "end": 50.996,
+      "score": 0.531,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 51.036,
+      "end": 51.136,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "COVID.",
+      "start": 51.196,
+      "end": 51.516,
+      "score": 0.767,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "They",
+      "start": 51.536,
+      "end": 51.656,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 51.676,
+      "end": 51.796,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "asymptomatic.",
+      "start": 51.856,
+      "end": 52.577,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 53.102,
+      "end": 53.203,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 53.243,
+      "end": 53.344,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "were",
+      "start": 53.384,
+      "end": 53.504,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "only",
+      "start": 53.544,
+      "end": 53.705,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treated",
+      "start": 53.765,
+      "end": 54.047,
+      "score": 0.909,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 54.087,
+      "end": 54.187,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 54.227,
+      "end": 54.388,
+      "score": 0.867,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stroke.",
+      "start": 54.428,
+      "end": 54.77,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 55.252,
+      "end": 55.352,
+      "score": 0.87,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "there's",
+      "start": 55.373,
+      "end": 55.553,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 55.573,
+      "end": 55.734,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 55.794,
+      "end": 55.975,
+      "score": 0.822,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "huge",
+      "start": 56.096,
+      "end": 56.437,
+      "score": 0.816,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "misrepresentation,",
+      "start": 56.518,
+      "end": 57.683,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "just",
+      "start": 58.627,
+      "end": 59.029,
+      "score": 0.737,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "complete",
+      "start": 59.129,
+      "end": 59.511,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fraud",
+      "start": 59.612,
+      "end": 60.033,
+      "score": 0.972,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 61.138,
+      "end": 61.279,
+      "score": 0.488,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 61.299,
+      "end": 61.44,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "system.",
+      "start": 61.5,
+      "end": 61.882,
+      "score": 0.871,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

@@ -1,110 +1,737 @@
 {
-  "text": " what has happened in this country. The patients know what they need but they can't get it. And so they have resorted to treating themselves. That's what led to the situation that we have with patients utilizing other forms of Vibramectin. But this is what the governmental agencies",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 5.7,
-      "text": " what has happened in this country. The patients know what they need but they can't get it.",
-      "tokens": [
-        50364,
-        437,
-        575,
-        2011,
-        294,
-        341,
-        1941,
-        13,
-        440,
-        4209,
-        458,
-        437,
-        436,
-        643,
-        457,
-        436,
-        393,
-        380,
-        483,
-        309,
-        13,
-        50649
+      "start": 0.091,
+      "end": 1.614,
+      "text": " what has happened in this country.",
+      "words": [
+        {
+          "word": "what",
+          "start": 0.091,
+          "end": 0.211,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 0.251,
+          "end": 0.372,
+          "score": 0.821,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "happened",
+          "start": 0.412,
+          "end": 0.752,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 0.772,
+          "end": 0.832,
+          "score": 0.756,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 0.872,
+          "end": 1.033,
+          "score": 0.723,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "country.",
+          "start": 1.113,
+          "end": 1.614,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20620417239061042,
-      "compression_ratio": 1.53551912568306,
-      "no_speech_prob": 0.016118647530674934
+      "avg_logprob": -0.08252727819813623,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 5.7,
-      "end": 12.38,
-      "text": " And so they have resorted to treating themselves. That's what led to the situation that we have",
-      "tokens": [
-        50649,
-        400,
-        370,
-        436,
-        362,
-        725,
-        14813,
-        281,
-        15083,
-        2969,
-        13,
-        663,
-        311,
-        437,
-        4684,
-        281,
-        264,
-        2590,
-        300,
-        321,
-        362,
-        50983
+      "start": 1.934,
+      "end": 4.919,
+      "text": "The patients know what they need, but they can't get it.",
+      "words": [
+        {
+          "word": "The",
+          "start": 1.934,
+          "end": 2.014,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 2.054,
+          "end": 2.475,
+          "score": 0.842,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "know",
+          "start": 2.555,
+          "end": 2.715,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 2.755,
+          "end": 2.896,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 2.936,
+          "end": 3.096,
+          "score": 0.817,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "need,",
+          "start": 3.156,
+          "end": 3.557,
+          "score": 0.881,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "but",
+          "start": 3.617,
+          "end": 3.737,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 3.797,
+          "end": 3.937,
+          "score": 0.848,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "can't",
+          "start": 3.998,
+          "end": 4.318,
+          "score": 0.766,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "get",
+          "start": 4.478,
+          "end": 4.739,
+          "score": 0.826,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it.",
+          "start": 4.819,
+          "end": 4.919,
+          "score": 0.664,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20620417239061042,
-      "compression_ratio": 1.53551912568306,
-      "no_speech_prob": 0.016118647530674934
+      "avg_logprob": -0.08252727819813623,
+      "speaker": "SPEAKER_00"
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 12.38,
-      "end": 20.26,
-      "text": " with patients utilizing other forms of Vibramectin. But this is what the governmental agencies",
-      "tokens": [
-        50983,
-        365,
-        4209,
-        26775,
-        661,
-        6422,
-        295,
-        691,
-        897,
-        2356,
-        557,
-        259,
-        13,
-        583,
-        341,
-        307,
-        437,
-        264,
-        43391,
-        9504,
-        51377
+      "start": 5.6,
+      "end": 9.186,
+      "text": "And so they have resorted to treating themselves.",
+      "words": [
+        {
+          "word": "And",
+          "start": 5.6,
+          "end": 5.72,
+          "score": 0.674,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 5.821,
+          "end": 6.001,
+          "score": 0.802,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "they",
+          "start": 6.041,
+          "end": 6.241,
+          "score": 0.633,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 6.301,
+          "end": 6.522,
+          "score": 0.79,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "resorted",
+          "start": 6.662,
+          "end": 7.523,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 7.543,
+          "end": 7.583,
+          "score": 0.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "treating",
+          "start": 8.064,
+          "end": 8.385,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "themselves.",
+          "start": 8.445,
+          "end": 9.186,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        }
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20620417239061042,
-      "compression_ratio": 1.53551912568306,
-      "no_speech_prob": 0.016118647530674934
+      "avg_logprob": -0.08252727819813623,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9.507,
+      "end": 16.799,
+      "text": "That's what led to the situation that we have with patients utilizing other forms of ivermectin.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 9.507,
+          "end": 9.727,
+          "score": 0.77,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 9.767,
+          "end": 9.967,
+          "score": 0.677,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "led",
+          "start": 10.007,
+          "end": 10.228,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 10.308,
+          "end": 10.588,
+          "score": 0.686,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 10.608,
+          "end": 11.069,
+          "score": 0.899,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "situation",
+          "start": 11.109,
+          "end": 11.67,
+          "score": 0.873,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 11.69,
+          "end": 11.83,
+          "score": 0.771,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "we",
+          "start": 11.851,
+          "end": 11.971,
+          "score": 0.983,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "have",
+          "start": 12.031,
+          "end": 12.411,
+          "score": 0.712,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 12.472,
+          "end": 12.652,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patients",
+          "start": 12.672,
+          "end": 13.093,
+          "score": 0.784,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "utilizing",
+          "start": 14.896,
+          "end": 15.376,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 15.436,
+          "end": 15.597,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forms",
+          "start": 15.637,
+          "end": 15.877,
+          "score": 0.851,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 15.937,
+          "end": 15.997,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ivermectin.",
+          "start": 16.098,
+          "end": 16.799,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.08252727819813623,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.999,
+      "end": 20.905,
+      "text": "But this is what the governmental agencies created.",
+      "words": [
+        {
+          "word": "But",
+          "start": 16.999,
+          "end": 17.139,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 17.199,
+          "end": 17.36,
+          "score": 0.907,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 17.44,
+          "end": 17.52,
+          "score": 0.815,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "what",
+          "start": 17.58,
+          "end": 17.86,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 18.962,
+          "end": 19.283,
+          "score": 0.809,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "governmental",
+          "start": 19.503,
+          "end": 19.904,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "agencies",
+          "start": 19.964,
+          "end": 20.385,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "created.",
+          "start": 20.445,
+          "end": 20.905,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "avg_logprob": -0.08252727819813623,
+      "speaker": "SPEAKER_00"
     }
   ],
-  "language": "en"
+  "word_segments": [
+    {
+      "word": "what",
+      "start": 0.091,
+      "end": 0.211,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 0.251,
+      "end": 0.372,
+      "score": 0.821,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "happened",
+      "start": 0.412,
+      "end": 0.752,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 0.772,
+      "end": 0.832,
+      "score": 0.756,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 0.872,
+      "end": 1.033,
+      "score": 0.723,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "country.",
+      "start": 1.113,
+      "end": 1.614,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 1.934,
+      "end": 2.014,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 2.054,
+      "end": 2.475,
+      "score": 0.842,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "know",
+      "start": 2.555,
+      "end": 2.715,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 2.755,
+      "end": 2.896,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 2.936,
+      "end": 3.096,
+      "score": 0.817,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "need,",
+      "start": 3.156,
+      "end": 3.557,
+      "score": 0.881,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "but",
+      "start": 3.617,
+      "end": 3.737,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 3.797,
+      "end": 3.937,
+      "score": 0.848,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "can't",
+      "start": 3.998,
+      "end": 4.318,
+      "score": 0.766,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "get",
+      "start": 4.478,
+      "end": 4.739,
+      "score": 0.826,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it.",
+      "start": 4.819,
+      "end": 4.919,
+      "score": 0.664,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "And",
+      "start": 5.6,
+      "end": 5.72,
+      "score": 0.674,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 5.821,
+      "end": 6.001,
+      "score": 0.802,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "they",
+      "start": 6.041,
+      "end": 6.241,
+      "score": 0.633,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 6.301,
+      "end": 6.522,
+      "score": 0.79,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "resorted",
+      "start": 6.662,
+      "end": 7.523,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 7.543,
+      "end": 7.583,
+      "score": 0.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "treating",
+      "start": 8.064,
+      "end": 8.385,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "themselves.",
+      "start": 8.445,
+      "end": 9.186,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "That's",
+      "start": 9.507,
+      "end": 9.727,
+      "score": 0.77,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 9.767,
+      "end": 9.967,
+      "score": 0.677,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "led",
+      "start": 10.007,
+      "end": 10.228,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 10.308,
+      "end": 10.588,
+      "score": 0.686,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 10.608,
+      "end": 11.069,
+      "score": 0.899,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "situation",
+      "start": 11.109,
+      "end": 11.67,
+      "score": 0.873,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 11.69,
+      "end": 11.83,
+      "score": 0.771,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "we",
+      "start": 11.851,
+      "end": 11.971,
+      "score": 0.983,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "have",
+      "start": 12.031,
+      "end": 12.411,
+      "score": 0.712,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 12.472,
+      "end": 12.652,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patients",
+      "start": 12.672,
+      "end": 13.093,
+      "score": 0.784,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "utilizing",
+      "start": 14.896,
+      "end": 15.376,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 15.436,
+      "end": 15.597,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forms",
+      "start": 15.637,
+      "end": 15.877,
+      "score": 0.851,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 15.937,
+      "end": 15.997,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ivermectin.",
+      "start": 16.098,
+      "end": 16.799,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "But",
+      "start": 16.999,
+      "end": 17.139,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 17.199,
+      "end": 17.36,
+      "score": 0.907,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 17.44,
+      "end": 17.52,
+      "score": 0.815,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "what",
+      "start": 17.58,
+      "end": 17.86,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 18.962,
+      "end": 19.283,
+      "score": 0.809,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "governmental",
+      "start": 19.503,
+      "end": 19.904,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "agencies",
+      "start": 19.964,
+      "end": 20.385,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "created.",
+      "start": 20.445,
+      "end": 20.905,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }
