@@ -237,7 +237,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.09327168093652141,
+      "avg_logprob": -0.08206992308692176,
       "speaker": "SPEAKER_01"
     },
     {
@@ -379,13 +379,13 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.09327168093652141,
+      "avg_logprob": -0.08206992308692176,
       "speaker": "SPEAKER_00"
     },
     {
       "start": 18.898,
       "end": 29.644,
-      "text": "The peer review system is incredibly centralized and it gets induced into these mob attacks where they get all types of researchers to come and take down papers that are counter narrative",
+      "text": "The peer review system is incredibly centralized and it gets induced into these mob attacks where they get all types of researchers to come and take down papers that are counter-narrative",
       "words": [
         {
           "word": "The",
@@ -598,27 +598,20 @@
           "speaker": "SPEAKER_00"
         },
         {
-          "word": "counter",
+          "word": "counter-narrative",
           "start": 28.903,
-          "end": 29.184,
-          "score": 0.923,
-          "speaker": "SPEAKER_00"
-        },
-        {
-          "word": "narrative",
-          "start": 29.224,
           "end": 29.644,
-          "score": 0.975,
+          "score": 0.936,
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.09327168093652141,
+      "avg_logprob": -0.08206992308692176,
       "speaker": "SPEAKER_00"
     },
     {
       "start": 30.104,
       "end": 33.288,
-      "text": " and accelerate papers that are, in fact, that are for the narrative.",
+      "text": " and accelerate papers that are for the narrative.",
       "words": [
         {
           "word": "and",
@@ -644,43 +637,15 @@
         {
           "word": "that",
           "start": 31.506,
-          "end": 31.626,
-          "score": 0.898,
-          "speaker": "SPEAKER_00"
-        },
-        {
-          "word": "are,",
-          "start": 31.646,
-          "end": 31.746,
-          "score": 0.966,
-          "speaker": "SPEAKER_00"
-        },
-        {
-          "word": "in",
-          "start": 31.766,
           "end": 31.826,
-          "score": 0.755,
-          "speaker": "SPEAKER_00"
-        },
-        {
-          "word": "fact,",
-          "start": 31.886,
-          "end": 32.086,
-          "score": 0.842,
-          "speaker": "SPEAKER_00"
-        },
-        {
-          "word": "that",
-          "start": 32.106,
-          "end": 32.467,
-          "score": 0.708,
+          "score": 0.772,
           "speaker": "SPEAKER_00"
         },
         {
           "word": "are",
-          "start": 32.487,
-          "end": 32.587,
-          "score": 0.627,
+          "start": 31.946,
+          "end": 32.106,
+          "score": 0.112,
           "speaker": "SPEAKER_00"
         },
         {
@@ -705,7 +670,7 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.07128906128928066,
+      "avg_logprob": -0.06292229981438534,
       "speaker": "SPEAKER_00"
     },
     {
@@ -770,7 +735,7 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.07128906128928066,
+      "avg_logprob": -0.06292229981438534,
       "speaker": "SPEAKER_00"
     },
     {
@@ -926,13 +891,13 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.07128906128928066,
+      "avg_logprob": -0.06292229981438534,
       "speaker": "SPEAKER_00"
     },
     {
       "start": 41.337,
       "end": 47.684,
-      "text": "So you can imagine how medicine can end up in disrupting your actual health in your time chain.",
+      "text": "So you can imagine how medicine can end up in disrupting your actual health and your time chain.",
       "words": [
         {
           "word": "So",
@@ -1033,10 +998,10 @@
           "speaker": "SPEAKER_00"
         },
         {
-          "word": "in",
+          "word": "and",
           "start": 46.463,
           "end": 46.543,
-          "score": 0.818,
+          "score": 0.362,
           "speaker": "SPEAKER_00"
         },
         {
@@ -1061,7 +1026,7 @@
           "speaker": "SPEAKER_00"
         }
       ],
-      "avg_logprob": -0.07128906128928066,
+      "avg_logprob": -0.06292229981438534,
       "speaker": "SPEAKER_00"
     },
     {
@@ -1126,7 +1091,7 @@
           "speaker": "SPEAKER_01"
         }
       ],
-      "avg_logprob": -0.07128906128928066,
+      "avg_logprob": -0.06292229981438534,
       "speaker": "SPEAKER_01"
     }
   ],
@@ -1706,17 +1671,10 @@
       "speaker": "SPEAKER_00"
     },
     {
-      "word": "counter",
+      "word": "counter-narrative",
       "start": 28.903,
-      "end": 29.184,
-      "score": 0.923,
-      "speaker": "SPEAKER_00"
-    },
-    {
-      "word": "narrative",
-      "start": 29.224,
       "end": 29.644,
-      "score": 0.975,
+      "score": 0.936,
       "speaker": "SPEAKER_00"
     },
     {
@@ -1743,43 +1701,15 @@
     {
       "word": "that",
       "start": 31.506,
-      "end": 31.626,
-      "score": 0.898,
-      "speaker": "SPEAKER_00"
-    },
-    {
-      "word": "are,",
-      "start": 31.646,
-      "end": 31.746,
-      "score": 0.966,
-      "speaker": "SPEAKER_00"
-    },
-    {
-      "word": "in",
-      "start": 31.766,
       "end": 31.826,
-      "score": 0.755,
-      "speaker": "SPEAKER_00"
-    },
-    {
-      "word": "fact,",
-      "start": 31.886,
-      "end": 32.086,
-      "score": 0.842,
-      "speaker": "SPEAKER_00"
-    },
-    {
-      "word": "that",
-      "start": 32.106,
-      "end": 32.467,
-      "score": 0.708,
+      "score": 0.772,
       "speaker": "SPEAKER_00"
     },
     {
       "word": "are",
-      "start": 32.487,
-      "end": 32.587,
-      "score": 0.627,
+      "start": 31.946,
+      "end": 32.106,
+      "score": 0.112,
       "speaker": "SPEAKER_00"
     },
     {
@@ -2105,10 +2035,10 @@
       "speaker": "SPEAKER_00"
     },
     {
-      "word": "in",
+      "word": "and",
       "start": 46.463,
       "end": 46.543,
-      "score": 0.818,
+      "score": 0.362,
       "speaker": "SPEAKER_00"
     },
     {
