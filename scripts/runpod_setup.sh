@@ -20,9 +20,9 @@ echo ">>> python deps"
 pip install --quiet --upgrade pip
 pip install --quiet \
   whisperx \
-  yt-dlp \
-  curl_cffi \
-  pyannote.audio
+  "yt-dlp[default,curl-cffi]" \
+  pyannote.audio \
+  hf_transfer
 
 echo ">>> NLTK data (whisperx needs punkt_tab)"
 python3 -c "import nltk; nltk.download('punkt_tab', quiet=True)"
